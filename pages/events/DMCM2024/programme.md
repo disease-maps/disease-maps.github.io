@@ -6,7 +6,7 @@ permalink: /DMCM2024/programme/
 
 <img src="/images/places/Belval08.jpg"/>
 
-[[back to the DMCM'24 maoin page]](https://disease-maps.org/DMCM2024/)
+[[back to the DMCM'24 main page]](https://disease-maps.org/DMCM2024/)
 
 ## Programme
 

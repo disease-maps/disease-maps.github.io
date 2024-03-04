@@ -27,7 +27,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | [Diseases in plants - From knowledge graph to dynamic Boolean modelling](/DMCM2024/Abstracts/S28) |
 |       12:00-13:30        | Lunch |
 |  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
-|       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> The title is being confirmed |  
+|       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> [Messy data, dirty work and some predictions from the past and into the future](/DMCM2024/ReinhardSchneider) |  
 |       14:30-14:50        | Presentation: User-driven evolution of the MINERVA Platform |
 |       14:50-15:00        | Coffee break |
 |       15:00-16:00        | [Poster lightning talks](/DMCM2024/posters/) |

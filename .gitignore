@@ -3,3 +3,5 @@ _site
 Gemfile.lock
 *.gem
 .Rproj.user
+.DS_Store
+.ruby-version

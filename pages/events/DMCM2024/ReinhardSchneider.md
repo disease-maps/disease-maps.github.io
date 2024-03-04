@@ -16,6 +16,7 @@ permalink: /DMCM2024/ReinhardSchneider/
   </tr> 
 </table>
 
-### Title
+### Messy data, dirty work and some predictions from the past and into the future
 
-Text
+
+Some of the current challenges regarding raw data and data curation will be shown. We will show some of the possible ways to work and tackle the problem by early intervention and the the appropriate training and teaching. In addition some examples from the past will be shown how scientific predictions can go wrong and how we have to watch out for weird new pseudo-scientific ideas.

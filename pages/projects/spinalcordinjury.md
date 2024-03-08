@@ -28,7 +28,7 @@ Basem I. Awad [basemawad@mans.edu.eg](mailto:basemawad@mans.edu.eg)
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="/images/team/AhmedAlBayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
+<td style="width: 105px;"><img src="/images/team/ahmed_albayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
 <td><strong>Ahmed AlBayar, MD</strong><br />
 <strong>Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA</strong><br />Research Scholar at the Center for Brain Injury and Repair</td>
 </tr>

@@ -51,7 +51,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |       13:30-14:30        | **Keynote 4: Liesbet Geris**, University of Liège <br> [Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin](/DMCM2024/LiesbetGeris) |
 |       14:30-15:20        | **Presentations** |  
 |                          | Marvin Martens: [Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments](/DMCM2024/Abstracts/S23) |
-|                          | Bernard Staumont: [FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology](/DMCM2024/Abstracts/S11) |(/DMCM2024/Abstracts/S11) |
+|                          | Bernard Staumont: [FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology](/DMCM2024/Abstracts/S11) |
 |       15:20-15:30        | Coffee break |
 |       15:30-16:45        | **Presentations** |
 |                          | Anna Niarakis: [Building a Digital Twin for Rheumatoid Arthritis one cell at a time](/DMCM2024/Abstracts/S6) |

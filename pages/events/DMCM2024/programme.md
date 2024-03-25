@@ -22,9 +22,9 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |       09:30-10:30        | **Keynote 1: James Glazier**, Indiana University <br> [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
 |       10:30-10:40        | Coffee break |
 |       10:40-12:00        | **Presentations** |
-|                          | [Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework](/DMCM2024/Abstracts/S27) |
-|                          | [A Multi-Compartment Disease Map Approach to MASLD](/DMCM2024/Abstracts/S16) |
-|                          | [Diseases in plants - From knowledge graph to dynamic Boolean modelling](/DMCM2024/Abstracts/S28) |
+|                          | David Šafránek: [Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework](/DMCM2024/Abstracts/S27) |
+|                          | Matti Hoch: [A Multi-Compartment Disease Map Approach to MASLD](/DMCM2024/Abstracts/S16) |
+|                          | Anze Zupanic: [Diseases in plants - From knowledge graph to dynamic Boolean modelling](/DMCM2024/Abstracts/S28) |
 |       12:00-13:30        | Lunch |
 |  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Martina Kutmon**  |
 |       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> [Messy data, dirty work and some predictions from the past and into the future](/DMCM2024/ReinhardSchneider) |  
@@ -40,23 +40,23 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |---|---|
 |       09:00-10:00        | **Keynote 3: Henning Hermjakob**, EMBL-EBI <br> [Network resources for FAIR modeling](/DMCM2024/HenningHermjakob) |
 |       10:00-10:50        | **Presentations** |  
-|                          | [Mapping Human Immune System Development](/DMCM2024/Abstracts/S4) |
-|                          | [Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology](/DMCM2024/Abstracts/S10) |
+|                          | Christine Spruck: [Mapping Human Immune System Development](/DMCM2024/Abstracts/S4) |
+|                          | Eliska Kuchovska: [Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology]
 |       10:50-11:00        | Coffee break |
 |       11:00-12:00        | **Presentations** |
-|                          | [From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine](/DMCM2024/Abstracts/S15) |
-|                          | [Network footprint analysis: an efficient tool to facilitate precision medicine](/DMCM2024/Abstracts/S25) |
+|                          | Viviam Bermudez: [From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine](/DMCM2024/Abstracts/S15) |
+|                          | Dezso Modos: [Network footprint analysis: an efficient tool to facilitate precision medicine](/DMCM2024/Abstracts/S25) |
 |       12:00-13:30        | Lunch |
 |  **Session&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Marek Ostaszewski**  |
 |       13:30-14:30        | **Keynote 4: Liesbet Geris**, University of Liège <br> [Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin](/DMCM2024/LiesbetGeris) |
 |       14:30-15:20        | **Presentations** |  
-|                          | [Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments](/DMCM2024/Abstracts/S23) |
-|                          | [FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology](/DMCM2024/Abstracts/S11) |
+|                          | Marvin Martens: [Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments](/DMCM2024/Abstracts/S23) |
+|                          | Bernard Staumont: [FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology](/DMCM2024/Abstracts/S11) |(/DMCM2024/Abstracts/S11) |
 |       15:20-15:30        | Coffee break |
 |       15:30-16:45        | **Presentations** |
-|                          | [Building a Digital Twin for Rheumatoid Arthritis one cell at a time](/DMCM2024/Abstracts/S6) |
-|                          | [Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches](/DMCM2024/Abstracts/S13) |
-|                          | [Systems biological insight into insulin resistance-associated metabolic alterations](/DMCM2024/Abstracts/S8) |
+|                          | Anna Niarakis: [Building a Digital Twin for Rheumatoid Arthritis one cell at a time](/DMCM2024/Abstracts/S6) |
+|                          | Martina Kutmon: [Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches](/DMCM2024/Abstracts/S13) |
+|                          | Egils Stalidzans: [Systems biological insight into insulin resistance-associated metabolic alterations](/DMCM2024/Abstracts/S8) |
 |       16:45-17:00        | Coffee break |
 |       17:00-18:30        | Panel discussion with the keynote speakers |
 |       19:00-             | Conference dinner |  

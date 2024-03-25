@@ -18,7 +18,7 @@ permalink: /DMCM2024/HenningHermjakob/
   </tr> 
 </table>
 
-### Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data
+### Network resources for FAIR modeling
 
 The [Reactome Knowledgebase](https://reactome.org) provides access to manually curated and peer reviewed pathways, organized as a hierarchy of networks of molecular transformations in a single consistent data model (Milacic et al, 2024). This network is enriched with detailed annotations for each molecule and pathway. The data is accessible through an intuitive, interactive web-based application, where users can view the data at different levels of detail and get direct access to all annotations. This enables non-bioinformatic experts to quickly visualize biological processes perturbed by a disease. 
 

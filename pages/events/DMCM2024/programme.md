@@ -41,7 +41,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |       09:00-10:00        | **Keynote 3: Henning Hermjakob**, EMBL-EBI <br> [Network resources for FAIR modeling](/DMCM2024/HenningHermjakob) |
 |       10:00-10:50        | **Presentations** |  
 |                          | Christine Spruck: [Mapping Human Immune System Development](/DMCM2024/Abstracts/S4) |
-|                          | Eliska Kuchovska: [Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology]
+|                          | Eliska Kuchovska: [Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology](/DMCM2024/Abstracts/S10)
 |       10:50-11:00        | Coffee break |
 |       11:00-12:00        | **Presentations** |
 |                          | Viviam Bermudez: [From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine](/DMCM2024/Abstracts/S15) |

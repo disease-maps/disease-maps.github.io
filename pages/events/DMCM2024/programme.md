@@ -21,7 +21,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | John Hancock: Beginnings of a Systems Biology Community in ELIXIR |
 |       09:30-10:30        | **Keynote 1: James Glazier**, Indiana University <br> [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
 |       10:30-10:40        | Coffee break |
-|       10:30-10:40        | **Presentations** |
+|       10:40-12:00        | **Presentations** |
 |                          | [Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework](/DMCM2024/Abstracts/S27) |
 |                          | [A Multi-Compartment Disease Map Approach to MASLD](/DMCM2024/Abstracts/S16) |
 |                          | [Diseases in plants - From knowledge graph to dynamic Boolean modelling](/DMCM2024/Abstracts/S28) |

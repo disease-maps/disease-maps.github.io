@@ -14,7 +14,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
-|  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Anna Niarakis**  |
 |---|---|
 |       09:00-09:30        | **Opening** |
 |                          | Welcome words |
@@ -26,7 +26,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | [A Multi-Compartment Disease Map Approach to MASLD](/DMCM2024/Abstracts/S16) |
 |                          | [Diseases in plants - From knowledge graph to dynamic Boolean modelling](/DMCM2024/Abstracts/S28) |
 |       12:00-13:30        | Lunch |
-|  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Martina Kutmon**  |
 |       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> [Messy data, dirty work and some predictions from the past and into the future](/DMCM2024/ReinhardSchneider) |  
 |       14:30-14:50        | Presentation: User-driven evolution of the MINERVA Platform |
 |       14:50-15:00        | Coffee break |
@@ -36,7 +36,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 2 - Tuesday, 26 March 2024
 
-|  **Session&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|  **Session&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: John Hancock**  |
 |---|---|
 |       09:00-10:00        | **Keynote 3: Henning Hermjakob**, EMBL-EBI <br> [Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data](/DMCM2024/HenningHermjakob) |
 |       10:00-10:50        | **Presentations** |  
@@ -47,7 +47,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | [From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine](/DMCM2024/Abstracts/S15) |
 |                          | [Network footprint analysis: an efficient tool to facilitate precision medicine](/DMCM2024/Abstracts/S25) |
 |       12:00-13:30        | Lunch |
-|  **Session&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|  **Session&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Marek Ostaszewski**  |
 |       13:30-14:30        | **Keynote 4: Liesbet Geris**, University of Liège <br> [Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin](/DMCM2024/LiesbetGeris) |
 |       14:30-15:20        | **Presentations** |  
 |                          | [Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments](/DMCM2024/Abstracts/S23) |

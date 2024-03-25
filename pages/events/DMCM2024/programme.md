@@ -38,7 +38,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 |  **Session&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: John Hancock**  |
 |---|---|
-|       09:00-10:00        | **Keynote 3: Henning Hermjakob**, EMBL-EBI <br> [Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data](/DMCM2024/HenningHermjakob) |
+|       09:00-10:00        | **Keynote 3: Henning Hermjakob**, EMBL-EBI <br> [Network resources for FAIR modeling](/DMCM2024/HenningHermjakob) |
 |       10:00-10:50        | **Presentations** |  
 |                          | [Mapping Human Immune System Development](/DMCM2024/Abstracts/S4) |
 |                          | [Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology](/DMCM2024/Abstracts/S10) |

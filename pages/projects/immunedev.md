@@ -9,7 +9,7 @@ permalink: /immunedev/
 ## Human Immune System Development Map (HIDmap)
 
 **Development status:** Active development\
-**Sustainable support:** [Alt. method dev, for environmental tox. testing](https://iuf-duesseldorf.de/forschung/arbeitsgruppen/ag-koch/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
+**Sustainable support:** [Alt. method dev. for environmental tox. testing](https://iuf-duesseldorf.de/forschung/arbeitsgruppen/ag-koch/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)\
 **Funding:** [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/)\

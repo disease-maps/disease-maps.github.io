@@ -286,16 +286,6 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 </td>
 </tr>
 
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../immunedev" target="_blank" id="immunedev"><img src="../images/projects/button-immunedev.png" alt="immunedev"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Human Immune System Development Map (HIDmap)<br />
-Contact: Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany
-</td>
-</tr>
-
 </table>
 
 ### Adverse outcome maps for immunotoxicology

@@ -9,7 +9,7 @@ permalink: /events_draft/
 <br />
 <table>
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2025"><img src="../images/places/Leuven.png" alt="Leuven"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2025"><img src="../images/places/Leuven1.png" alt="Leuven"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2025">9th Disease Maps Community Meeting</a></strong><br />
 15-17 April 2025, Leuven, Belgium<br />

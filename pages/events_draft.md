@@ -13,7 +13,7 @@ permalink: /events_draft/
 <td valign="top">
 <strong><a href="/DMCM2025">9th Disease Maps Community Meeting</a></strong><br />
 15-17 April 2025, Leuven, Belgium<br />
-The 9th community meeting is hosted and organized by Biomechanics Research Unit, KU Leuven, and organized together with the University of Liège.
+The 9th community meeting is hosted and organized by [Biomechanics Research Unit](https://www.biomech.ulg.ac.be/), KU Leuven, and organized together with the University of Liège.
 </td>
 </tr>
 </table> 

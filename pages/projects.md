@@ -85,7 +85,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 <a href="../asthma" target="_blank" id="Asthma"><img src="../images/projects/button-asthma2.png" alt="Asthma"/></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
+Resource: <a href="https://asthma-map.github.io/" target="_blank">AsthmaMap</a><br />
 Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
 </td>

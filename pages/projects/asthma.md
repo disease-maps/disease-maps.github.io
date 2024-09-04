@@ -7,9 +7,9 @@ permalink: /asthma/
 # Asthma
 ## AsthmaMap
 
-**Homepage:** [https://asthma-map.org](https://asthma-map.org)  
+**Homepage:** [https://asthma-map.github.io](https://asthma-map.github.io)
 **Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
-**Video tutorials:** [https://asthma-map.org/tutorials](https://asthma-map.org/tutorials/)  
+**Video tutorials:** [https://asthma-map.github.io/tutorials](https://asthma-map.github.io/tutorials/)  
 **Development status:** First version is complete and published  
 **Disease IDs:** [DOID:2841](https://disease-ontology.org/?id=DOID:2841), [MESH:D001249](https://meshb.nlm.nih.gov/record/ui?ui=D001249), [MONDO:0004979](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0004979), [ICD10CM:J45](https://www.icd10data.com/ICD10CM/Codes/J00-J99/J40-J47/J45-/J45)  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
@@ -19,7 +19,7 @@ permalink: /asthma/
 **Contact:** Alexander Mazein, University of Luxembourg, a.mazein(at)gmail.com  
 
 
-[AsthmaMap (http://asthma-map.org)](http://asthma-map.org/) is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).
+[AsthmaMap (http://asthma-map.github.io)](http://asthma-map.github.io/) is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).
 
 <p>The objectives are:</p>
 <ol>

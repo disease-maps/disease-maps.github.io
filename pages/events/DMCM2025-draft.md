@@ -27,7 +27,7 @@ Registration deadline: 21 March 2025
 
 ## Registration
 
-Registration is free but mandatory for all attendees. [Please register by 25th February 2024 using this form](https://forms.gle/E7MPXCXqi4v8BmKd8). You will recieve an email with confirmation.
+Registration is free but mandatory for all attendees. [Please register by 21st March 2025 using this form](https://forms.gle/E7MPXCXqi4v8BmKd8). You will recieve an email with confirmation.
 
 ## Programme
 

@@ -1,43 +1,50 @@
 ---
 title: DMCM2025
 layout: default
-permalink: /DMCM2025-draft/
+permalink: /DMCM2025/
 ---
 
-
+<!--
 # Disease Maps Community Meeting
 ## 15-17 April 2025, Leuven, Belgium
+-->
 
+<img src="/images/places/leuven_banner.png"/>
 
 The 9th Disease Maps Community Meeting is organised by the [Biomechanics Research Unit](https://www.biomech.ulg.ac.be/), KU Leuven and University of Liège and hosted at the KU Leuven, Leuven - Belgium.
 
-
-
 Subscribe to our [community mailing list](https://disease-maps.org/contact/) to stay tuned with the meeting news.
 
+## Key dates
+
+Abstract submission starts: 28 October 2024
+Abstract submission deadline: 31 January 2025  
+Registration deadline: 21 March 2025  
+
+## Abstract submission
+
+[Please submit your abstract by 31 January 2025 via EasyChair](https://easychair.org/my/conference?conf=dmcm2025).
+
+## Registration
+
+Registration is free but mandatory for all attendees. [Please register by 25th February 2024 using this form](https://forms.gle/E7MPXCXqi4v8BmKd8). You will recieve an email with confirmation.
 
 ## Programme
 
 Coming soon.
 
-## Registration
-
-Coming soon.
-
-## Abstracts
-
-Coming soon.
-
 ## Venue
 
-KU Leuven - Katholieke Universiteit Leuven
-Ghb - Onderwijs en Navorsing 2
-ON2 Herestraat 49
-3000 Leuven - Belgium
-Building number: 402-18
+**KU Leuven** - Katholieke Universiteit Leuven    
+Ghb - Onderwijs en Navorsing 2    
+ON2 Herestraat 49   
+3000 Leuven - Belgium   
+Building number: 402-18   
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7328.8613003821665!2d4.66885008573146!3d50.88098525196122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c160fc387bdcb1%3A0x4a9ac6c9f0a2be73!2sON2!5e0!3m2!1sen!2sbe!4v1724855435189!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7328.8613003821665!2d4.66885008573146!3d50.88098525196122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c160fc387bdcb1%3A0x4a9ac6c9f0a2be73!2sON2!5e0!3m2!1sen!2sbe!4v1724855435189!5m2!1sen!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+  
+  
 ## Travel
 
 Coming soon.
@@ -53,10 +60,11 @@ Coming soon.
 <a href="mailto:b.staumont@uliege.be">Bernard Staumont</a>  
 <a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
 <a href="mailto:ahmed.hemedan@uni.lu">Ahmed Hemedan</a>  
-Marcio Luis Acencio 
-Alexander Mazein  
-Inna Kuperstein  
+Marcio Luis Acencio  
+Alexander Mazein    
 Anna Niarakis  
+Laurence Calzone   
+Emmanuel Barillot      
 Martina Summer-Kutmon  
 
 

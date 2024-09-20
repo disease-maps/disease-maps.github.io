@@ -59,7 +59,7 @@ Martelarenplein 5, 3000 Leuven, Belgium
 In front of the train station, easy access to the bus station.
 Distance to the conference venue: 14 min by bus,  14 min by bike, 45 min walking.
 
-[ibis Leuven Centrum](https://hotelmillecolonnes.be/fr/)  
+[ibis Leuven Centrum](https://ibis.accor.com/en/destination/city/hotels-leuven-v2267.html)  
 Brusselsestraat 52, 3000 Leuven, Belgium
 At the core of the city center, easy access to bus stops.
 Distance to the conference venue: 13 min by bus.  9 min by bike. 28 min walking.

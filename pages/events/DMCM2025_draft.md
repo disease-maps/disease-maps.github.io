@@ -39,22 +39,22 @@ We are excited to announce our keynote speakers:
 <table>
   <tr>
     <td style="width: 140px;">
-      <a><b>Lisa Matthews</b></a>, NYU Grossman School of Medicine: New York, NY, USA.
+      <a><b>Dr. Lisa Matthews</b></a>, NYU Grossman School of Medicine: New York, NY, USA.
     </td>
   </tr> 
     <tr>
     <td style="width: 140px;">
-      <a><b>Livia Perfetto</b></a>, Universita degli Studi di Roma La Sapienza Dipartimento di Biologia e Biotecnologie Charles Darwin: Roma, Lazio, IT.
+      <a><b>Dr. Livia Perfetto</b></a>, Universita degli Studi di Roma La Sapienza Dipartimento di Biologia e Biotecnologie Charles Darwin: Roma, Lazio, IT.
     </td>
   </tr>
    <tr>
     <td style="width: 140px;">
-      <a><b>Joaquin Dopazo</b></a>, Platform of Computational Medicine, Fundación Progreso y Salud, Fundación Progreso y Salud, University of Valencia, Seville, ES. 
+      <a><b>Dr. Joaquin Dopazo</b></a>, Platform of Computational Medicine, Fundación Progreso y Salud, Fundación Progreso y Salud, University of Valencia, Seville, ES. 
     </td>
   </tr>
     <tr>
     <td style="width: 140px;">
-      <a><b>Martin Krallinger</b></a>, Barcelona Supercomputing Center, Barcelona, ES.
+      <a><b>Dr. Martin Krallinger</b></a>, Barcelona Supercomputing Center, Barcelona, ES.
     </td>
   </tr>
 </table>

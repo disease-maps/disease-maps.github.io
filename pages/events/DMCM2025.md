@@ -24,7 +24,7 @@ Registration deadline: 21 March 2025
 
 ## Abstract submission
 
-[Please submit your abstract by 31 January 2025 via EasyChair](https://easychair.org/cfp/DMCM2025).
+[Please submit your abstract by 31 January 2025 via EasyChair](https://easychair.org/cfp/DMCM2025). Do not forget to register also in the link below.
 
 ## Registration
 

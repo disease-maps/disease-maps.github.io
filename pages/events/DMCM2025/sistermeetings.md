@@ -6,7 +6,7 @@ permalink: /DMCM2025/sistermeetings/
 
 <img src="/images/places/DMCM2025.png"/>
 
-[[back to the DMCM2025 Programme]](https://disease-maps.github.io/DMCM2025/programme/)
+[[back to the DMCM2025 main page]](https://disease-maps.github.io/DMCM2025/)
 
 ## Sister Meetings
 

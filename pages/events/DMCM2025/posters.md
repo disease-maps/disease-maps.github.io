@@ -6,7 +6,7 @@ permalink: /DMCM2024/posters/
 
 [[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
 
-# Posters
+# Posters  
 
 - P1: *"Cohort-specific Boolean models highlight different regulatory modules during Parkinson’s disease progression"*  
 by Ahmed Hemedan, Reinhard Schneider and Marek Ostaszewski

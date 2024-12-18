@@ -8,13 +8,15 @@ permalink: /cholestasis/
 
 ## Liver Bile Secretion Physiological Map
 
-**Development status:** Active development \
+**Home Page:** [ONTOX Physiological Maps website](https://sites.google.com/view/ontox-maps/) \
+**Online access and exploration:** [https://ontox.elixir-luxembourg.org/minerva/](https://ontox.elixir-luxembourg.org/minerva/) \
+**Development status:** First version is complete and a preprint is available \
 **Umbrella project:** [ONTOX project](https://ontox-project.eu/) \
 **Disease IDs:** [D002779](https://meshb.nlm.nih.gov/record/ui?ui=D002779), [DOID:13580](https://www.ebi.ac.uk/ols4/ontologies/doid/classes?obo_id=DOID%3A13580), [HP:0001396](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FHP_0001396)\
 **Synonyms:** Bile duct obstruction, biliary stasis\
 **Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
-**Publication:** Manuscript in preparation\
+**Publication:** [Preprint](https://doi.org/10.5281/zenodo.14515238)\
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)\
 **Funding:** EU Horizon 2020 [ONTOX project](https://ontox-project.eu/) (grant agreement No 963845).\
 **Contact:** Luiz Ladeira, University of Liège, lcladeira(at)uliege.be
@@ -24,6 +26,8 @@ permalink: /cholestasis/
 The Liver Bile Secretion Physiological Map is constructed through the curation of literature evidence and pathway resources. A Physiological Map is a type of Disease Map focused on the underlying undisturbed physiological processes. This work is performed in close collaboration with domain experts. This map is being developed to study chemical-induced cholestasis in the [ONTOX](https://ontox-project.eu/) project.
 
 ### References
+
+Ladeira, L., Verhoeven, A., van Ertvelde, J., Jiang, J., Gamba, A., Sanz Serrano, J., Vanhaecke, T., Heusinkveld, H. J., Jover, R., Vinken, M., Geris, L., & Staumont, B. (2024). Unlocking liver physiology: comprehensive pathway maps for mechanistic understanding (1.0). Zenodo. doi: 10.5281/zenodo.14515238
 
 Vinken M, Benfenati E, Busquet F, Castell J, Clevert DA, de Kok TM, Dirven H, Fritsche E, Geris L, Gozalbes R, Hartung T, Jennen D, Jover R, Kandarova H, Kramer N, Krul C, Luechtefeld T, Masereeuw R, Roggen E, Schaller S, Vanhaecke T, Yang C, Piersma AH. Safer chemicals using less animals: kick-off of the European ONTOX project. Toxicology. 2021 Jun 30;458:152846. doi: 10.1016/j.tox.2021.152846. Epub 2021 Jun 30. PMID: 34216698.
 

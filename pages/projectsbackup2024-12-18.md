@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projects/
+permalink: /projectsbakcup2024-12-18/
 ---
 
 # Projects
@@ -137,28 +137,6 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../steatosis" target="_blank" id="Steatosis"><img src="../images/projects/button-steatosis4.png" alt="steatosis"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Liver Lipid Metabolism Physiological Map<br />
-Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
-Publications: <a href="https://doi.org/10.5281/zenodo.14515238" target="_blank">Preprint</a><br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../cholestasis" target="_blank" id="Cholestasis"><img src="../images/projects/button-cholestasis4.png" alt="cholestasis"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Liver Bile Secretion Physiological Map<br />
-Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
-Publications: <a href="https://doi.org/10.5281/zenodo.14515238" target="_blank">Preprint</a><br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
 <a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><img src="../images/projects/button-osteoarthritis3.png" alt="Osteoarthritis"/></a>
 </td>
 <td style="font-size:13px;"> 
@@ -208,6 +186,28 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 <td style="font-size:13px;"> 
 Resource: Psoriasis Map<br />
 Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<a href="../steatosis" target="_blank" id="Steatosis"><img src="../images/projects/button-steatosis3.png" alt="steatosis"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: Liver Lipid Metabolism Physiological Map<br />
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<a href="../cholestasis" target="_blank" id="Cholestasis"><img src="../images/projects/button-cholestasis3.png" alt="cholestasis"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: Liver Bile Secretion Physiological Map<br />
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 <br />
 </td>
 </tr>

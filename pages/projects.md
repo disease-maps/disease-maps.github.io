@@ -140,7 +140,7 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 <a href="../steatosis" target="_blank" id="Steatosis"><img src="../images/projects/button-steatosis4.png" alt="steatosis"/></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: Liver Lipid Metabolism Physiological Map<br />
+Resource:  <a href="https://ontox.elixir-luxembourg.org/minerva/index.html?id=Liver_Lipid_Metabolism_Physiological_Map_August_2024" target="_blank">Liver Lipid Metabolism Physiological Map</a><br />
 Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 Publications: <a href="https://doi.org/10.5281/zenodo.14515238" target="_blank">Preprint</a><br />
 </td>
@@ -151,7 +151,7 @@ Publications: <a href="https://doi.org/10.5281/zenodo.14515238" target="_blank">
 <a href="../cholestasis" target="_blank" id="Cholestasis"><img src="../images/projects/button-cholestasis4.png" alt="cholestasis"/></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: Liver Bile Secretion Physiological Map<br />
+Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.html?id=Liver_Bile_Secretion_Physiological_Map_August_2024" target="_blank">Liver Bile Secretion Physiological Map</a><br />
 Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 Publications: <a href="https://doi.org/10.5281/zenodo.14515238" target="_blank">Preprint</a><br />
 </td>

@@ -25,20 +25,20 @@ permalink: /DMCM2025/LisaMatthews/
 
 ### Leveraging Large Language Models for Enhanced Biocuration and User Interaction in Reactome: A Pathway Towards Community-Driven Knowledge Enrichment
 
-Authors: Lisa Matthews (1), Deidre Beavers (2), Helia Mohammadi (3,9), Adam Wright (3), Marija Milacic (3), Patrick Conley (2), Chuqiao Gong (4), Marc Gillespie (3,6), Johannes Griss (4,5), Robin Haw (3), Bijay Jassal (3,10), Nancy T Li (3), Bruce May (3), Robert Petryszak (2), Eliot Ragueneau (4), Karen Rothfels (3), Cristoffer Sevilla (4), Veronica Shamovsky (1), Ralf Stephan (3,7), Krishna Tiwari (4), Thawfeek Varusai (4,8), Joel Weiser (3), Henning Hermjakob (4), Peter D’Eustachio (1), Guanming Wu (2), Lincoln Stein (3,9)
+**Authors:** Lisa Matthews (1), Deidre Beavers (2), Helia Mohammadi (3,9), Adam Wright (3), Marija Milacic (3), Patrick Conley (2), Chuqiao Gong (4), Marc Gillespie (3,6), Johannes Griss (4,5), Robin Haw (3), Bijay Jassal (3,10), Nancy T Li (3), Bruce May (3), Robert Petryszak (2), Eliot Ragueneau (4), Karen Rothfels (3), Cristoffer Sevilla (4), Veronica Shamovsky (1), Ralf Stephan (3,7), Krishna Tiwari (4), Thawfeek Varusai (4,8), Joel Weiser (3), Henning Hermjakob (4), Peter D’Eustachio (1), Guanming Wu (2), Lincoln Stein (3,9)
 
 
-Affiliations:
-1 NYU Grossman School of Medicine, New York, NY 10016, USA
-2 Oregon Health and Science University, Portland, OR 97239, USA
-3 Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
-4 European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
-5 Department of Dermatology, Medical University of Vienna, 1090 Vienna, Austria
-6 College of Pharmacy and Health Sciences, St. John’s University, Queens, NY 11439, USA
-7 Institute for Globally Distributed Open Research and Education (IGDORE)
-8 Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
-9 Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A1, Canada
-10 AstraZeneca PLC, 1 Francis Crick Ave, Cambridge Biomedical Campus, Cambridge CB2 0AA, UK
+**Affiliations:**
+(1) NYU Grossman School of Medicine, New York, NY 10016, USA;
+(2) Oregon Health and Science University, Portland, OR 97239, USA;
+(3) Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada;
+(4) European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK;
+(5) Department of Dermatology, Medical University of Vienna, 1090 Vienna, Austria;
+(6) College of Pharmacy and Health Sciences, St. John’s University, Queens, NY 11439, USA;
+(7) Institute for Globally Distributed Open Research and Education (IGDORE);
+(8) Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK;
+(9) Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A1, Canada;
+(10) AstraZeneca PLC, 1 Francis Crick Ave, Cambridge Biomedical Campus, Cambridge CB2 0AA, UK.
 
 Reactome is the most comprehensive open-source repository of human biological pathways and has been recognized as both an ELIXIR and Global Core Biodata Resource. While its primary focus is normal human cellular processes, Reactome also encompasses infectious disease pathways and disease processes associated with genetic variations. Additionally, it extends its high-quality, manually curated human pathways to key model organisms through orthology-based projections.
 

@@ -18,7 +18,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 
 **Keynote: Joaquín Dopazo**, Fundacion Progreso y Salud, Spain - Therapeutic target discovery and drug repurposing with causal modeling of disease maps and artificial intelligence - [Abstract](/DMCM2025/JoaquinDopazo/)
 
-**Keynote: Lisa Mathews**, NYU Grossman School of Medicine, USA - The title is being confirmed
+**Keynote: Lisa Mathews**, NYU Grossman School of Medicine, USA - Leveraging Large Language Models for Enhanced Biocuration and User Interaction in Reactome: A Pathway Towards Community-Driven Knowledge Enrichment - [Abstract](/DMCM2025/LisaMatthews/)
 
 **Keynote: Martin Krallinger**, Barcelona Supercomputing Center, Spain - Strategies to unlock disease information using clinical NLP for different languages: diseases, symptoms, medications, procedures, species, and social determinants of health - [Abstract](/DMCM2025/MartinKrallinger/)
 

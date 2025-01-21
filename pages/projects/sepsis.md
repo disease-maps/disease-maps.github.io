@@ -1,5 +1,5 @@
 ---
-title: Human Immune System Development
+title: Pseudomonas aeruginosa Infection Disease Map - PAIDmap
 layout: default
 permalink: /paidmap/
 ---

@@ -17,7 +17,7 @@ permalink: /paidmap/
 
 ### Description
 
-![PAIDmap logo](/images/logos/PAIDmap_logo.png){height=200px fig.align="center"}
+![PAIDmap logo](/images/logos/PAIDmap_logo.png)
 
 The *Pseudomonas aeruginosa* Infection Disease Map (PAIDM) project offers a knowledge repository of molecular mechanisms for severe infection due to bacterial pathogens, like Pseudomonas aeruginosa (PA), which remain a public health concern. It represents the result of a multidisciplinary working group, focused on infectious diseases study. This map assembles molecular interaction diagrams of Reactome pathways, reporting molecular interactions between PA and human host described in the literature. This work is done in close collaboration among INMI “Spallanzani” and the University of Liège.
 

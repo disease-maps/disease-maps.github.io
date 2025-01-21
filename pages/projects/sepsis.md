@@ -4,9 +4,9 @@ layout: default
 permalink: /paidmap/
 ---
 
-# P. aeruginosa infection
+# *P. aeruginosa* infection
 
-## Pseudomonas aeruginosa Infection Disease Map - PAIDmap
+## *Pseudomonas aeruginosa* Infection Disease Map - PAIDmap
 
 **Development status:** Active development\
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/), [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/)\
@@ -19,7 +19,7 @@ permalink: /paidmap/
 
 <tr>
 <td style="width: 3000px"> 
-<img src="/images/projects/PAIDmap_logo.png" alt="PAIDmap logo" height="200px"/></a>
+<img src="/images/logos/PAIDmap_logo.png" alt="PAIDmap logo" height="200px"/></a>
 </td>
 </tr>
 
@@ -31,26 +31,26 @@ Francesco Messina, Claudia Rotondo, Luiz Ladeira, Michele Properzi, Valentina Di
 
 ### **Development Team**
 
-**Francesco Messina, PhD**
-Bioinformatic Scientist, National Institute for Infectious Diseases "L. Spallanzani" - IRCCS
+* **Francesco Messina, PhD**  
+  Bioinformatic Scientist, National Institute for Infectious Diseases "L. Spallanzani" - IRCCS
 
-**Luiz Ladeira, PhD**
-Researcher, University of Liège, Belgium
+* **Luiz Ladeira, PhD**  
+  Researcher, University of Liège, Belgium
 
-**Claudia Rotondo, PhD**
-Early Researcher, National Institute for Infectious Diseases "L. Spallanzani" - IRCCS
+* **Claudia Rotondo, PhD**  
+  Early Researcher, National Institute for Infectious Diseases "L. Spallanzani" - IRCCS
 
-**Sara Cosetti**
-Fellow at National Institute for Infectious Diseases "L. Spallanzani" - IRCCS, Thesis student at University of Rome Tor Vergata
+* **Sara Cosetti**  
+  Fellow at National Institute for Infectious Diseases "L. Spallanzani" - IRCCS, Thesis student at University of Rome Tor Vergata
 
-**Bernard Staumont, PhD**
-Researcher, University of Liège, Belgium
+* **Bernard Staumont, PhD**  
+  Researcher, University of Liège, Belgium
 
-**Liesbet Geris, PhD**
-Professor and Researcher, University of Liege and KU Leuven, Belgium
+* **Liesbet Geris, PhD**  
+  Professor and Researcher, University of Liege and KU Leuven, Belgium
 
-**Carla Fontana, PhD**
-Head of Lab. Microbiology and BioBank, National Institute for Infectious Diseases "L. Spallanzani" - IRCCS
+* **Carla Fontana, PhD**  
+  Head of Lab. Microbiology and BioBank, National Institute for Infectious Diseases "L. Spallanzani" - IRCCS
 
 ### Funding
 

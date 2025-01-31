@@ -14,7 +14,7 @@ permalink: /atopicdermatitis/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 BIOMAP No 821511](https://www.imi.europa.eu/projects-results/project-factsheets/biomap), [BIOMAP](https://biomap-imi.eu/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
-**Contact:** Marcio Luis Acencio, University of Luxembourg, marcio.acencio(at)uni.lu  
+**Contact:** Oxana Lopata, University of Luxembourg, oxana.lopata(at)uni.lu  
 
 ### Description
 

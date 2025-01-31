@@ -272,7 +272,7 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 <td style="font-size:13px;"> 
 Resource: ImmUniverse Map<br />
 Diseases: ulcerative colitis, atopic dermatitis<br />
-Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
+Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg
 </td>
 </tr>
 

@@ -196,7 +196,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 </td>
 <td style="font-size:13px;"> 
 Resource: Atopic Dermatitis Map<br />
-Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
 <br />
 </td>
 </tr>

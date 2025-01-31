@@ -27,4 +27,8 @@ To have access to the HARMONY talks, registrations should be done separately.
 Monday 14th April 2025
 
 ByteMAL is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine and aims to provide a networking platform for knowledge and expertise exchange across borders. Aiming to vitalize communication amongst researchers from The Netherlands, Belgium, and Germany, ByteMAL has been hosted alternately by the
-Universities of Maastricht, Aachen, and Liege and for the first time it comes to Leuven! More information will be announced soon.
+Universities of Maastricht, Aachen, and Liege and for the first time it comes to Leuven! 
+
+More information can be found here: [byteMAL'25](https://bytemal.github.io/bytemal-2025/)
+
+To have access to the byteMAL'25 talks, registrations should be done separately.

@@ -41,11 +41,11 @@ The AHMDM aims to deepen our understanding of the pathogenesis of hypertension. 
 <td><strong>Ahmad Vaez, MD, PhD</strong><br /><strong>Department of Epidemiology, University of Groningen, Groningen, The Netherlands</strong><br />Senior Researcher<br />Supervision and review<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski, PhD" /></td>
+<td><img src="../images/teamhq/MarekOstaszewski1.jpg" alt="Marek Ostaszewski, PhD" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>LCSB, University of Luxembourg, Luxembourg</strong><br />Senior Researcher<br />Review and support<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan, PhD" /></td>
+<td><img src="../images/teamhq/AhmedHemedan.jpg" alt="Ahmed Hemedan, PhD" /></td>
 <td><strong>Ahmed Hemedan, PhD</strong><br /><strong>LCSB, University of Luxembourg, Luxembourg</strong><br />Postdoctoral Researcher<br />Review and support<br /></td>
 </tr>
 </table>

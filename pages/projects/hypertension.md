@@ -48,4 +48,8 @@ The AHMDM aims to deepen our understanding of the pathogenesis of hypertension. 
 <td><img src="../images/teamhq/AhmedHemedan.jpg" alt="Ahmed Hemedan, PhD" /></td>
 <td><strong>Ahmed Hemedan, PhD</strong><br /><strong>LCSB, University of Luxembourg, Luxembourg</strong><br />Postdoctoral Researcher<br />Review and support<br /></td>
 </tr>
+<tr>
+<td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
+<td><strong>Anna Niarakis, PhD</strong><br /><strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor<br />Review and support<br /></td>
+</tr>
 </table>

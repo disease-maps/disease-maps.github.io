@@ -1,7 +1,7 @@
 ---
 title: Atlas of Hypertension Molecular Disease Map
 layout: default
-permalink: /ahmdm/
+permalink: /hypertension/
 ---
 
 # Hypertension

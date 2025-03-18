@@ -1,13 +1,13 @@
 ---
-title: DMCM2024 Abstract
+title: DMCM2025 Abstract
 layout: default
-permalink: /DMCM2024/Abstracts/S4
+permalink: /DMCM2025/Abstracts/test
 ---
 
-[[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
+[[back to the DMCM'25 Programme]](https://disease-maps.io/DMCM2025/programme/)
 
 **Title:** \
-Mapping Human Immune System Development
+Modeling Toxin-Transporter Dynamics in Chronic Kidney Disease: A Computational and Experimental Framework
 
 **Authors:** \
 Christiane Spruck, Lena Teschke, Luiz Ladeira, Eliska Kuchovska, Susann Fayyaz, Fabian Grimm, Katharina Koch, Julia Tigges and Ellen Fritsche

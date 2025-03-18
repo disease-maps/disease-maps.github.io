@@ -1,51 +1,60 @@
 ---
 title: DMCM2024 Posters
 layout: default
-permalink: /DMCM2024/posters/
+permalink: /DMCM2025/posters/
 ---
 
-[[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
+[[back to the DMCM'25 Programme]](https://disease-maps.io/DMCM2025/programme/)
 
 # Posters  
 
-- P1: *"Cohort-specific Boolean models highlight different regulatory modules during Parkinson’s disease progression"*  
-by Ahmed Hemedan, Reinhard Schneider and Marek Ostaszewski
+- P1: *"ClinicalUnitMapping.Com Takes a Small Step Towards Machine Comprehension of Clinical Trial Data"*
+by Jacob Barhak and Joshua Schertz
 
-- P2: *"Computational modelling of High Grade Serous Ovarian Cancer"*  
-by Marco Fariñas
- 
-- P3: *"Computational Systems Biology Approach to Unveil Molecular Interactions in Sjögren's disease Pathogenesis"*  
-by Sacha E Silva-Saffar, Jacques Eric Gottenberg, Michele Bombardieri, Divi Cornec, Jacques Olivier Pers, Marta Alarcon-Riquelme, Philippe Moingeon, Michael Barnes, Sandra Ng, Fai Ng, Xavier Mariette, Gaetane Nocturne and Anna Niarakis
+- P2: *"The Reference Model for COVID-19 attempts to explain USA data"*
+by Jacob Barhak
 
-- P4: *"Integrated network resources to map cell-cell and cell-microbe interactions in inflammation, infection and cancer"*  
-by Tamas Korcsmaros
-  
-- P5: *"Integrated model of host-pathogen interaction in severe infections: the case of severe systemic infection due to P. aeruginosa"*  
-by Francesco Messina, Claudia Rotondo, Valentina Dimartino, Michele Properzi and Carla Fontana
-  
-- P6: *"Integrating genetic variation with protein function and human disease information through protein curation in UniProtKB"*  
-by Yvonne C. Lussi, Elena Speretta, Kate Warner, Michele Magrane, Sandra Orchard and Uniprot Consortium
-  
-- P7: *"Hipathia and Metabolizer: Unveiling Disease Mechanisms and Enabling Personalized Medicine"*  
-by Kinza Rian, Marta R. Hidalgo, Cankut Çubuk, Carlos Loucera, Maria Peña-Chilet and Joaquin Dopazo
-  
-- P8: *"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"*  
-by Reagon Karki, Yojana Gadiya, Andrea Zaliani and Philip Gribbon
+- P3: *"A disease network-based deep learning approach for characterizing melanoma"*
+by Xin Lai
 
-- P9: *"Physiological Map and Disease Ontology in the ONTOX Project: Application to the Neural Tube Closure"*  
-by Alessio Gamba, Job Berkhout, Luiz Ladeira, Harm Heusinkveld, Aldert Piersma, Marc Teunis, Thomas Luechtefeld, Thomas Hartung, Liesbet Geris and Bernard Staumont
+- P4: *"Visualizing the Human Immune System Development: A Basis for New Approach Methodology (NAM)-based Developmental Immunotoxicity Testing"*
+by Christiane Spruck, Luiz Ladeira, Eliska Kuchovska, Liesbet Geris, Bernard Staumont, Marek Ostaszewski, Susann Fayyaz, Qiang Li, Fabian A. Grimm, Ellen Fritsche, Katharina Koch, and Julia Tigges
 
-- P10: *"Protein Structures and their cross-referencing in UniProt"*  
-by Nidhi Tyagi and Uniprot Consortium
-  
-- P11: *"Seven quick tips on curation for building disease maps"*  
-by Marcio Acencio, Alexander Mazein, Oxana Lopata, Reinhard Schneider, Marek Ostaszewski and Venkata Satagopam
-  
-- P12: *"Semi-automated workflow to accelerate AOP network construction using SBGN elements: a pilot study"*  
-by Luiz Ladeira, Alexander Mazein, Marek Ostaszewski, Anouk Verhoeven, Julen Sanz Serrano, Annika Drees, Tamara Vanhaecke, Mathieu Vinken, Liesbet Geris and Bernard Staumont
-  
-- P13: *"Side-by-side comparison of mechanisms of psoriasis and atopic dermatitis: an interactive explorable model"*  
-by Oxana Lopata, Marcio Luis Acencio, Reinhard Schneider, Venkata Satagopam and Marek Ostaszewski
-  
-- P14: *"Allele-specific expression based clustering to investigate distinct gene regulatory patterns in Huntington’s disease patients"*  
-by Aishwarya Iyer
+- P5: *"Integrating Spatial Dynamics into Immune System and Inflammation Modelling"*
+by Lorenzo Veschini, James Glazier, Joel Vanin, Michael Getz, and Rita Maria Cunha De Almeida
+
+- P6: *"BoolDog: Boolean modelling of plant stress responses in Python"*
+by Carissa Bleker, Maja Zagorščak, Kristina Gruden, and Anže Županič
+
+- P7: *"Building a modular and multi-cellular virtual twin of the synovial joint in Rheumatoid Arthritis"*
+by Anna Niarakis, Naouel Zerrouk, and Franck Auge
+
+- P8: *"Moving Beyond Disease-Centric Models: A Systematic Approach to Comorbidity Mapping"*
+by Negin Sadat Babaiha, Stefan Geissler, Vincent Nibart, Heval Atas Güvenilir, Vinay Srinivas Bharadhwaj, Alpha Tom Kodamullil, Juergen Klein, Marc Jacobs, and Martin Hofmann-Apitius
+
+- P9: *"CBM KG: A Causal Comorbidity Knowledge Graph Linking COVID-19 and Neurodegenerative Diseases"*
+by Heval Ataş Güvenilir, Martin Hofmann-Apitius, and Alpha Tom Kodamullil
+
+- P10: *"Metabopathia: A mechanistic integration of metabolic and transcriptomics for enhanced disease mechanism understanding"*
+by Kinza Rian, Daniel López López, Isabel Nepomuceno, and Joaquin Dopazo
+
+- P11: *"Deciphering NOTCH-Reelin Crosstalk: A Boolean Modeling Approach to Cell Fate Regulation during Lymphangiogenesis"*
+by Yanisse Graïne, Luiz Ladeira, Sophie Bekisz, and Liesbet Geris
+
+- P12: *"From Key Events to gene signatures: evaluation and comparison of methods for KE-gene mapping"*
+by  Sidra Adil, Marvin Martens, Tooba Abbassi-Daloii, and Egon Willighagen1
+
+- P13: *"Unraveling Post-COVID Pathophysiology: A Systems Biology Approach to Integrate Neuroinflammation, BBB Disruption, and Immune Dysregulation."*
+by Dries Heylen, Martina Summer-Kutmon, and Michelel Moerel
+
+- P14: *"A Multi-Compartment Disease Map Approach to MASLD"*
+by Matti van Welzen, Ronja Lea Jennifer Müller, Ali Canbay, Andreas Geier, Jörn M Schattenberg, Konstantin Cesnulevicius, Myron Schultz, David Lescheid, Olaf Wolkenhauer, and Shailendra Gupta
+
+- P15: *"Developing a FAIR-Compliant Platform for Modeling Sjögren’s Disease"*
+by Sacha E Silva-Saffar, Xavier Mariette, Gaetane Nocturne, and Anna Niarakis
+
+- P16: *"Enhancing disease mapping through secure data visitation for omics research"*
+by Francis P. Crawley and Patricia Buendia
+
+- P17: *"TOWARDS A KNOWLEDGE GRAPH OF THE EVIDENCE BASE ON COLORECTAL CANCER RISK FACTORS"*
+by Simon Van den bergh, Tomas Kulhanek, Simon Denil, and Gökhan Ertaylan

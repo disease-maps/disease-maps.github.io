@@ -6,7 +6,7 @@ permalink: /DMCM2025/programme_next/
 
 <img src="/images/places/DMCM2025.png"/>
 
-[[back to the DMCM'25 main page]](https://disease-maps.org/DMCM2024/)
+[[back to the DMCM'25 main page]](https://disease-maps.io/DMCM2025/)
 
 ## Programme
 

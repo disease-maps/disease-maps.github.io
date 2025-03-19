@@ -59,7 +59,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |       16:00-16:30        | Coffee break |
 |       16:30-17:30        | **Presentations** |
 |                          | Matti van Welzen: [Data Management and Analysis in Interdisciplinary Research Groups using Disease Maps](/DMCM2025/abstracts/s14) |
-|                          | Luiz Ladeira: [Disease Maps Community Assessment Survey results](/DMCM2025/abstracts/s15) |
+|                          | Luiz Ladeira: [Disease Maps Community Assessment Survey Results](/DMCM2025/abstracts/s15) |
 |       17:30-18:30        | Panel discussion |
 |       18:30-19:00        | Official photo |
 |       19:00-             | Conference dinner |  
@@ -69,7 +69,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |  **Session&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
 |---|---|
 |       08:30-09:00        | Introduction to the community breakout talks interactive session |  
-|       09:00-11:00        | [in parallel] **BIDT session** <br> [Building Immune Digital Twins session](/DMCM2025/abstracts/bidt) |
+|       09:00-11:00        | [in parallel] **BIDT session** <br> [Building Immune Digital Twins session](https://immunedt.github.io/events/) |
 |       09:00-11:00        | [in parallel] **Interactive session in breakout rooms** (topics to be defined) |  
 |       10:30-11:00        | Coffee break |
 |       11:00-12:00        | Continuation of parallel sessions |

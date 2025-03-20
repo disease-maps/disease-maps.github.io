@@ -267,6 +267,18 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
+<a href="../isd" target="_blank" id="isd"><img src="../images/projects/button-immuniverse3.png" alt="isd"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: Inflammatory Skin Diseases Map<br />
+Diseases: psoriasis, atopic dermatitis<br />
+Contact: Marcio Acencio and Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg
+</td>
+</tr>
+
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
 <a href="../immuniverse" target="_blank" id="immuniverse"><img src="../images/projects/button-immuniverse3.png" alt="immuniverse"/></a>
 </td>
 <td style="font-size:13px;"> 

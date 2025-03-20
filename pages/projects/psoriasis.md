@@ -8,7 +8,7 @@ permalink: /isd/
 
 ## Inflammatory Skin Disease (ISD) map
 
-**Development status:** Active development  
+**Development status:** Available for exploration online  
 **Disease IDs:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [ICD10CM:L40](https://www.icd10data.com/ICD10CM/Codes/L00-L99/L40-L45/L40-/L40)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  

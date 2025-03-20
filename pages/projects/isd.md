@@ -9,8 +9,8 @@ permalink: /isd/
 ## Inflammatory Skin Disease (ISD) map
 
 **Development status:** Available for exploration online  
-**Disease IDs | Psoriasis:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [ICD10CM:L40](https://www.icd10data.com/ICD10CM/Codes/L00-L99/L40-L45/L40-/L40)  
-**Disease IDs | Atopic dermatitis:** [DOID:3310](https://disease-ontology.org/?id=DOID:3310), [MESH:D003876](https://www.ncbi.nlm.nih.gov/mesh/D003876), [MONDO:0011292](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0011292)  
+**Disease IDs | Psoriasis:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [MESH:D011565](https://id.nlm.nih.gov/mesh/D011565.html), [MONDO:0005083](https://www.ebi.ac.uk/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0005083)   
+**Disease IDs | Atopic dermatitis:** [DOID:3310](https://disease-ontology.org/?id=DOID:3310), [MESH:D003876](https://www.ncbi.nlm.nih.gov/mesh/D003876), [MONDO:0004980](https://www.ebi.ac.uk/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0004980)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)   
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 BIOMAP No 821511](https://www.imi.europa.eu/projects-results/project-factsheets/biomap), [BIOMAP](https://biomap-imi.eu/)  

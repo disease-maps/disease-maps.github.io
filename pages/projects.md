@@ -192,17 +192,6 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis"><img src="../images/projects/button-atopicdermatitis3.png" alt="atopicdermatitis"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Atopic Dermatitis Map<br />
-Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
-<br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
 <a href="../psoriasis" target="_blank" id="Psoriasis"><img src="../images/projects/button-psoriasis3.png" alt="psoriasis"/></a>
 </td>
 <td style="font-size:13px;"> 

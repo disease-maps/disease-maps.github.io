@@ -1,10 +1,10 @@
 --- 
-title: Immune-mediated diseases 
+title: Immune-mediated inflammatory diseases (IMIDs) 
 layout: default 
 permalink: /immuniverse/
 --- 
 
-# Immune-mediated diseases
+# Immune-mediated inflammatory diseases (IMIDs)
 
 ## ImmUniverse Map
 
@@ -25,3 +25,5 @@ The ImmUniverse Map is developed within the IMI2 [ImmUniverse](https://www.immun
 ### Funding
 
 This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 853995.
+
+

@@ -8,8 +8,8 @@ permalink: /DMCM2025/posters/
 
 # Posters  
 
-- P1: *"The Reference Model for COVID-19 attempts to explain USA data"*  
-by Jacob Barhak
+- P1: *"ClinicalUnitMapping.Com Takes a Small Step Towards Machine Comprehension of Clinical Trial Data"*  
+by Jacob Barhak and Joshua Schertz
 
 - P2: *"A disease network-based deep learning approach for characterizing melanoma"*  
 by Xin Lai

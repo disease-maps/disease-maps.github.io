@@ -1,12 +1,12 @@
 --- 
 title: Psoriasis 
 layout: default 
-permalink: /psoriasis/
+permalink: /isd/
 --- 
 
-# Psoriasis
+# Inflammatory Skin Diseases
 
-## Psoriasis Map
+## Inflammatory Skin Disease (ISD) map
 
 **Development status:** Active development  
 **Disease IDs:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [ICD10CM:L40](https://www.icd10data.com/ICD10CM/Codes/L00-L99/L40-L45/L40-/L40)  
@@ -14,11 +14,11 @@ permalink: /psoriasis/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 BIOMAP No 821511](https://www.imi.europa.eu/projects-results/project-factsheets/biomap), [BIOMAP](https://biomap-imi.eu/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
-**Contact:** Marcio Luis Acencio, University of Luxembourg, marcio.acencio(at)uni.lu  
+**Contact:** Marcio Luis Acencio and Oxana Lopata, University of Luxembourg, marcio.acencio(at)gmail.com  
 
 ### Description
 
-The Psoriasis Map is developed as part of IMI2 [BIOMAP](https://biomap-imi.eu/) project.
+The ISD Map is developed as part of IMI2 [BIOMAP](https://biomap-imi.eu/) project.
 
 ### Funding
 

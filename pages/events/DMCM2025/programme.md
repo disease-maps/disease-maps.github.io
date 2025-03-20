@@ -1,7 +1,7 @@
 ---
 title: DMCM2025 Programme
 layout: default
-permalink: /DMCM2025/programme/
+permalink: /DMCM2025/programme_next/
 ---
 
 <img src="/images/places/DMCM2025.png"/>
@@ -25,7 +25,8 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |                          | Geoffrey Pawlak: [lung.cRegMap: a web platform for unraveling the lung cancer coregulatory network and identifying potential key regulators](/DMCM2025/abstracts/s1) |
 |                          | Leyla Noroozbabaee: [Modeling Toxin-Transporter Dynamics in Chronic Kidney Disease: A Computational and Experimental Framework](/DMCM2025/abstracts/s2) |
 |                          | Philippe Castera: [Boolean modeling of immune responses to vaccines to uncover their mechanisms and optimize their immunogenicity and efficacy](/DMCM2025/abstracts/s3) |
-|       12:30-14:00        | Lunch & poster view |
+|                          | Jacob Barhak: [ClinicalUnitMapping.Com Takes a Small Step Towards Machine Comprehension of Clinical Trial Data](/DMCM2025/abstracts/s16) |
+|       13:00-14:00        | Lunch & poster view |
 |  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: TBA**  |
 |       14:00-15:00        | **Keynote 2: Livia Perfetto**, Universita degli Studi di Roma La Sapienza <br> [Toward PatientProfiler, a network-based approach to support personalized medicine](/DMCM2025/LiviaPerfetto/) |  
 |       15:00-16:30        | **Presentations** |

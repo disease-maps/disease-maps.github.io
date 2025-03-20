@@ -192,17 +192,6 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../psoriasis" target="_blank" id="Psoriasis"><img src="../images/projects/button-psoriasis3.png" alt="psoriasis"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Psoriasis Map<br />
-Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-<br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
 <a href="../paidmap" target="_blank" id="P. aeruginosa infection"><img src="../images/projects/button-paidmap.png" alt="paidmap"/></a>
 </td>
 <td style="font-size:13px;"> 

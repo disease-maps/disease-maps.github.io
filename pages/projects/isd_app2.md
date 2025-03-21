@@ -6,6 +6,9 @@ Here we demonstrate the ISD map can also be a hypothesis-generating resource via
 The direct analysis of the network structure per se may provide biological insights related to a disease of interest. To find compensatory pathways that could explain poor response of dupilumab, a widely used IL4R antagonist to treat moderate-to-severe AD, we analysed the network structure of the AD submap at both intercellular communication and intracellular (KCs and Th2 cells) levels.
 We could identify alternative pathways that explain, at least partially, the relatively low rate of remission following dupilumab treatment. In KCs, for instance, many genes involved in skin barrier homeostasis are downregulated not only by IL4/IL13 pathways, but also by IFNG, IL22, TSLP, IL-17A and IL25 signalling pathways. So, the presence of these cytokines in skin could compensate for the inhibitory action of dupilumab on IL4R. It is noteworthy that an alternative pathway that potentially makes KCs partially insensitive to dupilumab is the one activated by IFNG as the expression of half of the IL4/IL13 pathway target genes are also modulated by the IFNG signalling pathway.
 
+![kc_ad_hypo](https://github.com/user-attachments/assets/4a13b552-60a4-41f6-8d25-3944151aaeae)
+
+
 ## Suggesting mechanistic consequences of gene variants
 We collected genes harbouring variants (SNPs) associated with AD and PsO from the Open Targets Genetics database (16) (see Supplementary Methods in Supplementary Material for details). These AD- and PsO-associated genes were integrated with the ISD map as a publicly available dataset (for more details, refer to the user quick guide on how to explore and use the ISD map in the Supplementary Material). The AD map contains 28 of the 330 AD-associated genes (see these genes in the map here), and the PsO map contains 42 of 794 PsO-associated genes (see these genes in the map here). 
 

@@ -192,28 +192,6 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis"><img src="../images/projects/button-atopicdermatitis3.png" alt="atopicdermatitis"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Atopic Dermatitis Map<br />
-Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
-<br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../psoriasis" target="_blank" id="Psoriasis"><img src="../images/projects/button-psoriasis3.png" alt="psoriasis"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Psoriasis Map<br />
-Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-<br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
 <a href="../paidmap" target="_blank" id="P. aeruginosa infection"><img src="../images/projects/button-paidmap.png" alt="paidmap"/></a>
 </td>
 <td style="font-size:13px;"> 
@@ -264,6 +242,18 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">DOI</a>
 </td>
 </tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<a href="../isd" target="_blank" id="isd"><img src="../images/projects/isd05.png" alt="isd"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: Inflammatory Skin Diseases Map<br />
+Diseases: psoriasis, atopic dermatitis<br />
+Contact: Marcio Acencio, Oxana Lopata and Marek Ostaszewski, University of Luxembourg, Luxembourg
+</td>
+</tr>
+
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 

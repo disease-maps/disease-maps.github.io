@@ -55,3 +55,6 @@ by Francis P. Crawley and Patricia Buendia
 
 - P16: *"Towards a knowledge graph of the evidence base on colorectal cancer risk factors"*  
 by Simon Van den bergh, Tomas Kulhanek, Simon Denil, and Gökhan Ertaylan
+
+- P16: *"Shared and unique mechanisms of IMIDs: atopic dermatitis and ulcerative colitis disease maps"*  
+by Oxana Lopata, Reinhard Schneider, Venkata Satagopam, and Marek Ostaszewski

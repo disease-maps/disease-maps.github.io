@@ -14,7 +14,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 
 ### Day 1 - Tuesday, 15 April 2025
 
-|  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: TBA**  |
+|  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Martina Summer-Kutmon**  |
 |---|---|
 |       09:00-09:30        | **Opening** |
 |                          | Welcome words |
@@ -23,14 +23,13 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |       10:30-11:00        | Coffee break |
 |       11:00-12:30        | **Presentations** |
 |                          | Geoffrey Pawlak: [lung.cRegMap: a web platform for unraveling the lung cancer coregulatory network and identifying potential key regulators](/DMCM2025/abstracts/s1) |
-|                          | Leyla Noroozbabaee: [Modeling Toxin-Transporter Dynamics in Chronic Kidney Disease: A Computational and Experimental Framework](/DMCM2025/abstracts/s2) |
 |                          | Philippe Castera: [Boolean modeling of immune responses to vaccines to uncover their mechanisms and optimize their immunogenicity and efficacy](/DMCM2025/abstracts/s3) |
 |                          | Jacob Barhak: [The Reference Model for COVID-19 attempts to explain USA data](/DMCM2025/abstracts/s16) |
-|       13:00-14:00        | Lunch & poster view |
+|       12:30-14:00        | Lunch & poster view |
 |  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: TBA**  |
 |       14:00-15:00        | **Keynote 2: Livia Perfetto**, Universita degli Studi di Roma La Sapienza <br> [Toward PatientProfiler, a network-based approach to support personalized medicine](/DMCM2025/LiviaPerfetto/) |  
 |       15:00-16:30        | **Presentations** |
-|                          | Oxana Lopata: [Shared and unique mechanisms of IMIDs: atopic dermatitis and ulcerative colitis disease maps](/DMCM2025/abstracts/s4) |
+|                          | Leyla Noroozbabaee: [Modeling Toxin-Transporter Dynamics in Chronic Kidney Disease: A Computational and Experimental Framework](/DMCM2025/abstracts/s2) |
 |                          | Denes Turei: [Knowledge-based methods to extract disease mechanisms from multi-omics data](/DMCM2025/abstracts/s5) |
 |                          | David Nickerson: [How to manage the complexity of multi-faceted anatomical connectivity maps?](/DMCM2025/abstracts/s6) |
 |       16:30-17:00        | Coffee break |

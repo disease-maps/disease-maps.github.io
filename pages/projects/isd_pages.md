@@ -5,4 +5,4 @@ These pages contain detailed information about the (1) methods used to build and
 ## [Methods](isd_met.md)  
 ## [Application 1: graphical review of AD and PsO mechanisms](isd_app2.md)  
 ## [Application 2: hypothesis generation](isd_app2.md)  
-## [User guide]([here](isd_guide.md))
+## [User guide](isd_guide.md)

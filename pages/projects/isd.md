@@ -8,7 +8,7 @@ permalink: /isd/
 
 ## Inflammatory Skin Disease (ISD) map
 
-**The ISD map webpages:** [Access here](pages/projects/isd_pages.md)  
+**The ISD map webpages:** [Access here](isd_pages.md)  
 **Development status:** Available for exploration online  
 **Online access and exploration:** [https://imi-biomap.elixir-luxembourg.org](https://imi-biomap.elixir-luxembourg.org)  
 **Disease IDs | Psoriasis:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [MESH:D011565](https://id.nlm.nih.gov/mesh/D011565.html), [MONDO:0005083](https://www.ebi.ac.uk/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0005083)   

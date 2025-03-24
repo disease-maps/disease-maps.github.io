@@ -26,7 +26,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |                          | Philippe Castera: [Boolean modeling of immune responses to vaccines to uncover their mechanisms and optimize their immunogenicity and efficacy](/DMCM2025/abstracts/s3) |
 |                          | Jacob Barhak: [The Reference Model for COVID-19 attempts to explain USA data](/DMCM2025/abstracts/s16) |
 |       12:30-14:00        | Lunch & poster view |
-|  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: TBA**  |
+|  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Laurence Calzone**  |
 |       14:00-15:00        | **Keynote 2: Livia Perfetto**, Universita degli Studi di Roma La Sapienza <br> [Toward PatientProfiler, a network-based approach to support personalized medicine](/DMCM2025/LiviaPerfetto/) |  
 |       15:00-16:30        | **Presentations** |
 |                          | Leyla Noroozbabaee: [Modeling Toxin-Transporter Dynamics in Chronic Kidney Disease: A Computational and Experimental Framework](/DMCM2025/abstracts/s2) |

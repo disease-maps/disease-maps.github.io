@@ -51,7 +51,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |                          | Ugur Dogrusoz: [SBML support in the Newt pathway editor](/DMCM2025/abstracts/s10) |
 |                          | Marek Ostaszewski: [A roadmap for the MINERVA Platform - recent changes and future plans](/DMCM2025/abstracts/s11) |
 |       12:00-14:00        | Lunch |
-|  **Session&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: TBA**  |
+|  **Session&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Ahmed Hemedan**  |
 |       14:00-15:00        | **Keynote 4: Lisa Matthews**, NYU Grossman School of Medicine <br> [Leveraging Large Language Models for Enhanced Biocuration and User Interaction in Reactome: A Pathway Towards Community-Driven Knowledge Enrichment](/DMCM2025/LisaMatthews/) |
 |       15:00-16:00        | **Presentations** |  
 |                          | Soorya Janakiraman: [Understanding plant-based drug mode of action using network pharmacology approach by mapping a drug interactome to disease maps](/DMCM2025/abstracts/s12) |

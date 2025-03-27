@@ -69,7 +69,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |  **Session&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
 |---|---|
 |       08:30-09:00        | Introduction to the community breakout talks interactive session |  
-|       09:00-11:00        | [in parallel] **BIDT session** <br> [Building Immune Digital Twins session](https://immunedt.github.io/events/) |
+|       09:00-11:00        | [in parallel] **BIDT session** <br> [Building Immune Digital Twins session](https://immunedt.github.io/about/) |
 |       09:00-11:00        | [in parallel] **Interactive session in breakout rooms** (topics to be defined) |  
 |       10:30-11:00        | Coffee break |
 |       11:00-12:00        | Continuation of parallel sessions |

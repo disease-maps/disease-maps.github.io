@@ -39,7 +39,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 
 ### Day 2 - Wednesday, 16 April 2025
 
-|  **Session&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: TBA**  |
+|  **Session&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Anna Niarakis**  |
 |---|---|
 |       08:30-09:30        | **Keynote 3: Joaquin Dopazo**, Fundacion Progreso y Salud <br> [Therapeutic target discovery and drug repurposing with causal modeling of disease maps and artificial intelligence](/DMCM2025/JoaquinDopazo/) |
 |       09:30-10:30        | **Presentations** |  

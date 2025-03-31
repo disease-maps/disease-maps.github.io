@@ -1,7 +1,7 @@
 --- 
 title: Immune-mediated inflammatory diseases (IMIDs) 
 layout: default 
-permalink: /imids/
+permalink: /ucadmap/
 --- 
 
 # Immune-mediated inflammatory diseases (IMIDs)

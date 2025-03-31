@@ -50,6 +50,6 @@ The AHMDM aims to deepen our understanding of the pathogenesis of hypertension. 
 </tr>
 <tr>
 <td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
-<td><strong>Anna Niarakis, PhD</strong><br /><strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor<br />Review and support<br /></td>
+<td><strong>Anna Niarakis, PhD</strong><br /><strong>University of Toulouse, France</strong><br />Professor<br />Review and support<br /></td>
 </tr>
 </table>

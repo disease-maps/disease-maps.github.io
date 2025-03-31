@@ -8,7 +8,7 @@ permalink: /ucadmap/
 
 ## Useful information 
 
-**Development status:** Available for exploration online 
+**Development status:** Available for exploration online  
 **Diseases:** Ulcerative colitis and atopic dermatitis  
 **Disease IDs | Ulcerative colitis:** [DOID:8577](https://disease-ontology.org/?id=DOID:8577), [MESH:D003093](https://www.ncbi.nlm.nih.gov/mesh/D003093), [MONDO:0005101](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005101)  
 **Disease IDs | Atopic dermatitis:** [DOID:3310](https://disease-ontology.org/?id=DOID:3310), [MESH:D003876](https://www.ncbi.nlm.nih.gov/mesh/D003876), [MONDO:0011292](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0011292)  

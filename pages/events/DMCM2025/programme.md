@@ -17,8 +17,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |  **Chair: Martina Summer-Kutmon**  |
 |---|---|
 |       09:00-09:30        | **Opening** |
-|                          | Welcome words |
-|                          | Liesbet Geris: TBA |
+|                          | Bernard Staumont: Welcome words |
 |       09:30-10:30        | **Keynote 1: Martin Kralinger**, Barcelona Supercomputing Center <br> [Strategies to unlock disease information using clinical NLP for different languages: diseases, symptoms, medications, procedures, species, and social determinants of health](/DMCM2025/MartinKrallinger/) |  
 |       10:30-11:00        | Coffee break |
 |       11:00-12:30        | **Presentations** |
@@ -62,7 +61,6 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |                          | Luiz Ladeira: [Disease Maps Community Assessment Survey Results](/DMCM2025/abstracts/s15) |
 |       17:30-18:30        | Panel discussion |
 |       18:30-19:00        | Official photo |
-|       19:00-             | Conference dinner |  
 
 ### Day 3 - Thursday, 17 April 2025
 

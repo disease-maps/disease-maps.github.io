@@ -64,7 +64,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 
 ### Day 3 - Thursday, 17 April 2025
 
-|  **Session&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|  **Session&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   | **Chair: Marek Ostaszewski**  |    |
 |---|---|
 |       08:30-09:00        | Introduction to the community breakout talks interactive session |  
 |       09:00-11:00        | [in parallel] **BIDT session** <br> [Building Immune Digital Twins session](https://immunedt.github.io/about/) |

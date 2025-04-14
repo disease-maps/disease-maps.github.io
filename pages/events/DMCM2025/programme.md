@@ -18,6 +18,7 @@ The time is shown for Leuven: Central European Summer Time (CEST) – UTC/GMT+01
 |---|---|
 |       09:00-09:30        | **Opening** |
 |                          | Bernard Staumont: Welcome words |
+|                          | Reinhard Schneider: ELIXIR infrastructure in Europe and Luxembourg |
 |       09:30-10:30        | **Keynote 1: Martin Kralinger**, Barcelona Supercomputing Center <br> [Strategies to unlock disease information using clinical NLP for different languages: diseases, symptoms, medications, procedures, species, and social determinants of health](/DMCM2025/MartinKrallinger/) |  
 |       10:30-11:00        | Coffee break |
 |       11:00-12:30        | **Presentations** |

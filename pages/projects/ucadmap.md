@@ -93,6 +93,6 @@ To view details, please click on an element and access the panel on the left wit
 
 ### Supplementary tables
 
-[Supplementary Table S5](https://disease-maps.io/downloads/s5.xlsx). Complete list of overlapping groups, their content and direct links to them in corresponding disease maps.
+[Supplementary Table S5: Complete list of overlapping groups, their content and direct links to them in corresponding disease maps.](https://disease-maps.io/downloads/s5.xlsx)  
 
-[Supplementary Table S6](https://disease-maps.io/downloads/s6.xlsx). Visualisation of the overlapping pathology mechanisms of UC and AD. Specific connections can be accessed using the URLs provided.
+[Supplementary Table S6: Visualisation of the overlapping pathology mechanisms of UC and AD. Specific connections can be accessed using the URLs provided.](https://disease-maps.io/downloads/s6.xlsx)

@@ -90,3 +90,9 @@ To view details, please click on an element and access the panel on the left wit
 
 
 ![P100](/images/projects/imids/P10.jpg "uc map submaps overlays 3")
+
+### Supplementary tables
+
+[Supplementary Table S5](https://disease-maps.io/downloads/s5.xlsx). Complete list of overlapping groups, their content and direct links to them in corresponding disease maps.
+
+[Supplementary Table S6](https://disease-maps.io/downloads/s6.xlsx). Visualisation of the overlapping pathology mechanisms of UC and AD. Specific connections can be accessed using the URLs provided.

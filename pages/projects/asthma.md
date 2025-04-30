@@ -7,7 +7,7 @@ permalink: /asthma/
 # Asthma
 ## AsthmaMap
 
-**Homepage:** [https://asthma-map.github.io](https://asthma-map.github.io)
+**Homepage:** [https://asthma-map.github.io](https://asthma-map.github.io)  
 **Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
 **Video tutorials:** [https://asthma-map.github.io/tutorials](https://asthma-map.github.io/tutorials/)  
 **Development status:** First version is complete and published  

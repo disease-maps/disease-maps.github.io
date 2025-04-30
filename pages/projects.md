@@ -262,7 +262,8 @@ Contact: Marcio Acencio, Oxana Lopata and Marek Ostaszewski, University of Luxem
 <td style="font-size:13px;"> 
 Resource: Map of ulcerative colitis and atopic dermatitis<br />
 Diseases: ulcerative colitis, atopic dermatitis<br />
-Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg
+Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
+Publication: <a href="https://doi.org/10.1101/2025.04.23.650149" target="_blank">DOI</a>
 </td>
 </tr>
 

@@ -324,7 +324,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/39655493/" target="_blank
 <td style="font-size:13px;"> 
 Resource: Cytokine Release Syndrome Map<br />
 Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />  
-Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_blank">Preprint</a>
+Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_blank">DOI</a>
 </td>
 </tr>
 

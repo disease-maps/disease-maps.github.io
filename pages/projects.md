@@ -313,7 +313,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 <td style="font-size:13px;"> 
 Resource: CAR T cell AOP Map<br />
 Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
-Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a>
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/39655493/" target="_blank">PubMed</a>
 </td>
 </tr>
 
@@ -323,7 +323,8 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 </td>
 <td style="font-size:13px;"> 
 Resource: Cytokine Release Syndrome Map<br />
-Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg
+Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />  
+Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_blank">Preprint</a>
 </td>
 </tr>
 

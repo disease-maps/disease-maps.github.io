@@ -7,10 +7,9 @@ permalink: /publications/
 # Publications
 
 [Key community papers](#key-community-papers)  
-[COVID-19 Disease Map](#covid-19-disease-map)  
+[Map construction technology](#map-construction-technology)  
 [Selected publications of the community members](#selected-publications-of-the-community-members)  
 &emsp; &emsp; [Disease maps](#disease-maps)  
-&emsp; &emsp; [Map construction technology](#map-construction-technology)  
 &emsp; &emsp; [Applications of disease maps](#applications-of-disease-maps)  
 &emsp; &emsp; [Tools](#tools)  
 [Relevant projects](#relevant-projects)  
@@ -24,11 +23,11 @@ Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, D
 
 Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2019 Mar 25;20(2):659-670. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
 
-## COVID-19 Disease Map
+## Map construction technology
 
-Ostaszewski M, Niarakis A, Mazein A, Kuperstein I, Phair R, Orta-Resendiz A, Singh V, Aghamiri SS, Acencio ML, Glaab E, Ruepp A, Fobo G, Montrone C, Brauner B, Frishman G, Monraz Gómez LC, Somers J, Hoch M, Kumar Gupta S, Scheel J, Borlinghaus H, Czauderna T, Schreiber F, Montagud A, Ponce de Leon M, Funahashi A, Hiki Y, Hiroi N, Yamada TG, Dräger A, Renz A, Naveez M, Bocskei Z, Messina F, Börnigen D, Fergusson L, Conti M, Rameil M, Nakonecnij V, Vanhoefer J, Schmiester L, Wang M, Ackerman EE, Shoemaker JE, Zucker J, Oxford K, Teuton J, Kocakaya E, Summak GY, Hanspers K, Kutmon M, Coort S, Eijssen L, Ehrhart F, Rex DAB, Slenter D, Martens M, Pham N, Haw R, Jassal B, Matthews L, Orlic-Milacic M, Senff Ribeiro A, Rothfels K, Shamovsky V, Stephan R, Sevilla C, Varusai T, Ravel JM, Fraser R, Ortseifen V, Marchesi S, Gawron P, Smula E, Heirendt L, Satagopam V, Wu G, Riutta A, Golebiewski M, Owen S, Goble C, Hu X, Overall RW, Maier D, Bauch A, Gyori BM, Bachman JA, Vega C, Grouès V, Vazquez M, Porras P, Licata L, Iannuccelli M, Sacco F, Nesterova A, Yuryev A, de Waard A, Turei D, Luna A, Babur O, Soliman S, Valdeolivas A, Esteban-Medina M, Peña-Chilet M, Rian K, Helikar T, Puniya BL, Modos D, Treveil A, Olbei M, De Meulder B, Ballereau S, Dugourd A, Naldi A, Noël V, Calzone L, Sander C, Demir E, Korcsmaros T, Freeman TC, Augé F, Beckmann JS, Hasenauer J, Wolkenhauer O, Wilighagen EL, Pico AR, Evelo CT, Gillespie ME, Stein LD, Hermjakob H, D'Eustachio P, Saez-Rodriguez J, Dopazo J, Valencia A, Kitano H, Barillot E, Auffray C, Balling R, Schneider R; COVID-19 Disease Map Community. COVID19 Disease Map, a computational knowledge repository of virus-host interaction mechanisms. Mol Syst Biol. 2021 Oct;17(10):e10387. [doi: 10.15252/msb.202110387](https://doi.org/10.15252/msb.202110387). [PMID: 34664389](https://www.ncbi.nlm.nih.gov/pubmed/34664389). 
+Mazein A, Acencio ML, Balaur I, Rougny A, Welter D, Niarakis A, Ramirez Ardila D, Dogrusoz U, Gawron P, Satagopam V, Gu W, Kremer A, Schneider R, Ostaszewski M. A guide for developing comprehensive systems biology maps of disease mechanisms: planning, construction and maintenance. Front Bioinform. 2023 Jun 22;3:1197310. [doi: 10.3389/fbinf.2023.1197310](https://doi.org/10.3389/fbinf.2023.1197310). [PMID: 37426048](https://www.ncbi.nlm.nih.gov/pubmed/37426048)
 
-Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms. Sci Data. 2020 May 5;7(1):136. [doi: 10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8). [PMID: 32371892](https://www.ncbi.nlm.nih.gov/pubmed/32371892).
+Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. [doi:10.1093/database/bay036](https://doi.org/10.1093/database/bay036). [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
 
 ## Selected publications of the community members
  
@@ -39,6 +38,8 @@ Hoch M, Ehlers L, Bannert K, Stanke C, Brauer D, Caton V, Lamprecht G, Wolkenhau
 Zerrouk N, Aghakhani S, Singh V, Augé F, Niarakis A. A Mechanistic Cellular Atlas of the Rheumatic Joint. Front. Syst. Biol. 2022 2:925791. [doi: 10.3389/fsysb.2022.925791](https://doi.org/10.3389/fsysb.2022.925791). Available at [https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full).
 
 Pereira C, Mazein A, Farinha CM, Gray MA, Kunzelmann K, Ostaszewski M, Balaur I, Amaral MD, Falcao AO. CyFi-MAP: an interactive pathway-based resource for cystic fibrosis. Sci Rep. 2021 Nov 15;11(1):22223. [doi: 10.1038/s41598-021-01618-3](https://doi.org/10.1038/s41598-021-01618-3). [PMID: 34782688](https://www.ncbi.nlm.nih.gov/pubmed/34782688).
+
+Ostaszewski M, Niarakis A, Mazein A, Kuperstein I, Phair R, Orta-Resendiz A, Singh V, Aghamiri SS, Acencio ML, Glaab E, Ruepp A, Fobo G, Montrone C, Brauner B, Frishman G, Monraz Gómez LC, Somers J, Hoch M, Kumar Gupta S, Scheel J, Borlinghaus H, Czauderna T, Schreiber F, Montagud A, Ponce de Leon M, Funahashi A, Hiki Y, Hiroi N, Yamada TG, Dräger A, Renz A, Naveez M, Bocskei Z, Messina F, Börnigen D, Fergusson L, Conti M, Rameil M, Nakonecnij V, Vanhoefer J, Schmiester L, Wang M, Ackerman EE, Shoemaker JE, Zucker J, Oxford K, Teuton J, Kocakaya E, Summak GY, Hanspers K, Kutmon M, Coort S, Eijssen L, Ehrhart F, Rex DAB, Slenter D, Martens M, Pham N, Haw R, Jassal B, Matthews L, Orlic-Milacic M, Senff Ribeiro A, Rothfels K, Shamovsky V, Stephan R, Sevilla C, Varusai T, Ravel JM, Fraser R, Ortseifen V, Marchesi S, Gawron P, Smula E, Heirendt L, Satagopam V, Wu G, Riutta A, Golebiewski M, Owen S, Goble C, Hu X, Overall RW, Maier D, Bauch A, Gyori BM, Bachman JA, Vega C, Grouès V, Vazquez M, Porras P, Licata L, Iannuccelli M, Sacco F, Nesterova A, Yuryev A, de Waard A, Turei D, Luna A, Babur O, Soliman S, Valdeolivas A, Esteban-Medina M, Peña-Chilet M, Rian K, Helikar T, Puniya BL, Modos D, Treveil A, Olbei M, De Meulder B, Ballereau S, Dugourd A, Naldi A, Noël V, Calzone L, Sander C, Demir E, Korcsmaros T, Freeman TC, Augé F, Beckmann JS, Hasenauer J, Wolkenhauer O, Wilighagen EL, Pico AR, Evelo CT, Gillespie ME, Stein LD, Hermjakob H, D'Eustachio P, Saez-Rodriguez J, Dopazo J, Valencia A, Kitano H, Barillot E, Auffray C, Balling R, Schneider R; COVID-19 Disease Map Community. COVID19 Disease Map, a computational knowledge repository of virus-host interaction mechanisms. Mol Syst Biol. 2021 Oct;17(10):e10387. [doi: 10.15252/msb.202110387](https://doi.org/10.15252/msb.202110387). [PMID: 34664389](https://www.ncbi.nlm.nih.gov/pubmed/34664389). 
 
 Mazein A, Ivanova O, Balaur I, Ostaszewski M, Berzhitskaya V, Serebriyskaya T, Ligon T, Hasenauer J, De Meulder B, Overall RW, Roy L, Knowles RG, Wheelock CE, Dahlen SE, Chung KF, Adcock IM, Roberts G, Djukanovic R, Pellet J, Gawron P, Balling R, Maitland-van der Zee AH, Schneider R, Sterk PJ, Auffray C; U-BIOPRED Study Group and the eTRIKS Consortium. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [doi: 10.1016/j.jaci.2020.11.032](https://doi.org/10.1016/j.jaci.2020.11.032). Epub ahead of print. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
 
@@ -57,12 +58,6 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. [doi: 10.1038/oncsis.2015.19](https://doi.org/10.1038/oncsis.2015.19). [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618).  
 
 Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).  
-
-### Map construction technology
-
-Mazein A, Acencio ML, Balaur I, Rougny A, Welter D, Niarakis A, Ramirez Ardila D, Dogrusoz U, Gawron P, Satagopam V, Gu W, Kremer A, Schneider R, Ostaszewski M. A guide for developing comprehensive systems biology maps of disease mechanisms: planning, construction and maintenance. Front Bioinform. 2023 Jun 22;3:1197310. [doi: 10.3389/fbinf.2023.1197310](https://doi.org/10.3389/fbinf.2023.1197310). [PMID: 37426048](https://www.ncbi.nlm.nih.gov/pubmed/37426048)
-
-Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. [doi:10.1093/database/bay036](https://doi.org/10.1093/database/bay036). [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
 
 ### Applications of disease maps
 

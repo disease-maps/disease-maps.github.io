@@ -61,7 +61,13 @@ Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Per
 
 ### Applications of disease maps
 
+Hemedan AA, Satagopam V, Schneider R, Ostaszewski M. Protocol to identify regulatory modules in Parkinson's disease progression using miRNA data and Boolean modeling. STAR Protoc. 2025 Jun 20;6(2):103769. [doi: 10.1016/j.xpro.2025.103769](https://doi.org/10.1016/j.xpro.2025.103769). [PMID: 40347476](https://www.ncbi.nlm.nih.gov/pubmed/40347476).
+
+Hemedan AA, Satagopam V, Schneider R, Ostaszewski M. Cohort-specific boolean models highlight different regulatory modules during Parkinson's disease progression. iScience. 2024 Sep 14;27(10):110956. [doi: 10.1016/j.isci.2024.110956](https://doi.org/10.1016/j.isci.2024.110956). [PMID: 39429779](https://www.ncbi.nlm.nih.gov/pubmed/39429779).
+
 Niarakis A, Ostaszewski M, Mazein A, Kuperstein I, Kutmon M, Gillespie ME, Funahashi A, Acencio ML, Hemedan A, Aichem M, Klein K, Czauderna T, Burtscher F, Yamada TG, Hiki Y, Hiroi NF, Hu F, Pham N, Ehrhart F, Willighagen EL, Valdeolivas A, Dugourd A, Messina F, Esteban-Medina M, Peña-Chilet M, Rian K, Soliman S, Aghamiri SS, Puniya BL, Naldi A, Helikar T, Singh V, Fernández MF, Bermudez V, Tsirvouli E, Montagud A, Noël V, Ponce-de-Leon M, Maier D, Bauch A, Gyori BM, Bachman JA, Luna A, Piñero J, Furlong LI, Balaur I, Rougny A, Jarosz Y, Overall RW, Phair R, Perfetto L, Matthews L, Rex DAB, Orlic-Milacic M, Gomez LCM, De Meulder B, Ravel JM, Jassal B, Satagopam V, Wu G, Golebiewski M, Gawron P, Calzone L, Beckmann JS, Evelo CT, D'Eustachio P, Schreiber F, Saez-Rodriguez J, Dopazo J, Kuiper M, Valencia A, Wolkenhauer O, Kitano H, Barillot E, Auffray C, Balling R, Schneider R; COVID-19 Disease Map Community. Drug-target identification in COVID-19 disease mechanisms using computational systems biology approaches. Front Immunol. 2024 Feb 13;14:1282859. [doi: 10.3389/fimmu.2023.1282859](https://doi.org/10.3389/fimmu.2023.1282859). [PMID: 38414974](https://www.ncbi.nlm.nih.gov/pubmed/38414974).
+
+Hemedan AA, Schneider R, Ostaszewski M. Applications of Boolean modeling to study the dynamics of a complex disease and therapeutics responses. Front Bioinform. 2023 Jun 1;3:1189723. [doi: 10.3389/fbinf.2023.1189723](https://doi.org/10.3389/fbinf.2023.1189723). [PMID: 37325771](https://www.ncbi.nlm.nih.gov/pubmed/37325771).
 
 Hoch M, Smita S, Cesnulevicius K, Lescheid D, Schultz M, Wolkenhauer O, Gupta S. Network- and enrichment-based inference of phenotypes and targets from large-scale disease maps. NPJ Syst Biol Appl. 2022 Apr 26;8(1):13. [doi: 10.1038/s41540-022-00222-z](https://doi.org/10.1038/s41540-022-00222-z). [PMID: 35473910](https://www.ncbi.nlm.nih.gov/pubmed/35473910).
 

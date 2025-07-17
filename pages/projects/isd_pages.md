@@ -51,8 +51,6 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 ### Applications of the ISD map
 
- [Application 2: hypothesis generation](isd_app2.md)  
-
 To demonstrate how the map can be applied to (i) graphically review key biological process in AD and PsO and (ii) generate hypothesis via analysis of the map structure with and without integration of omics data, we offer here some applications:
 
 <table border="1">
@@ -65,7 +63,15 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <td>Step-by-step guide</td>
   </tr>
     <tr>
-    <td><a href="/pages/projects/isd_app1.md" target="_blank">Hypothesis generation via map analysis after integration with genetic data</a></td>
+    <td><a href="/pages/projects/isd_app2.md" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+ <tr>
+    <td><a href="/pages/projects/isd_app2.md" target="_blank">Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+ <tr>
+    <td><a href="/pages/projects/isd_app2.md" target="_blank">Hypothesis: IFNG rescues expression of dupilumab-downregulated proteins in AD.</a></td>
     <td>Step-by-step guide</td>
   </tr>
 </table>

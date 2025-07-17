@@ -57,11 +57,11 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
 
 <table border="1">
   <tr>
-    <th>bal</th>
-    <th>bal</th>
+    <th>Application</th>
+    <th>Step-by-step guide to reproduce the analysis</th>
   </tr>
   <tr>
-    <td>bol</td>
+    <td><a href="/pages/projects/isd_app1.md" target="_blank">Hypothesis generation via network analysis of the map</a></td>
     <td>bol</td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
 
 | Supplementary Information | Description |
 | :---: | :---: |
-| [The biology behind the map](isd_app1.md) | Brief description of AD- and PsO-related molecular mechanisms present in the map |
+| [The biology embedded in the map](isd_app1.md) | Brief description of AD- and PsO-related molecular mechanisms present in the map |
 | [How was the map constructed?](isd_met.md) |  Description of procedures and tools used to build the map |
 
 

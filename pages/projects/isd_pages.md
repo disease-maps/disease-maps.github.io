@@ -25,7 +25,7 @@ permalink: /isd/
 
 The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific causal molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
 
- 
+
 | Access the map | Learn how to navigate and explore the map |
 | :---: | :---: |
 |[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](https://github.com/disease-maps/disease-maps.github.io/blob/master/pages/projects/isd_guide.md)|
@@ -56,10 +56,6 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 You will find below links to other pages containing detailed information about the (1) methods used to build and analyze the map and (2) applications of the map, such as the graphical review of key biological process in atopic dermatitis (AD) and psoriasis (PsO) and hypothesis generation via analysis of the map structure with and without integration of omics data or via Boolean simulations. **It is important to notice that we also provide a user guide on how to explore and use the ISD map**.      
 
-
-| bal | bal |
-| --- | --- |
-| bol | bol |
 
 ### Supplementary information
 

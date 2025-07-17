@@ -27,7 +27,7 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 
  
 | Access the map | Learn how to navigate and explore the map |
-| :--------------------------: | :----------------------------------: |
+| :---: | :---: |
 |[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](https://github.com/disease-maps/disease-maps.github.io/blob/master/pages/projects/isd_guide.md)|
 
 
@@ -38,14 +38,14 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 #### AD map
 
 | Side-by-side layer | Intercellular communication layer | Intracellular pathways layer |
-| :--------------------------: | :-------------------------------:|:------------------------------------:|
-|[![](https://github.com/disease-maps/disease-maps.github.io/blob/master/images/projects/adtop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=3741&y=1170&z=5.334467744964014)| [![](https://github.com/disease-maps/disease-maps.github.io/blob/master/images/projects/adcell500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4)| BLA |
+| :---: | :---: | :---: |
+| [![](/images/projects/adtop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=3741&y=1170&z=5.334467744964014) | [![](/images/projects/adcell500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4) | BLA |
 
 #### PsO map
 
 | Side-by-side layer | Intercellular communication layer | Intracellular pathways layer |
-| :--------------------------: | :-------------------------------:|:------------------------------------:|
-|[![](https://github.com/disease-maps/disease-maps.github.io/blob/master/images/projects/psotop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=1242&y=1135&z=5.334467744964014)| [![](https://github.com/disease-maps/disease-maps.github.io/blob/master/images/projects/pso_cell_500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsomapGlyphs3&perfectMatch=false&modelId=412&backgroundId=660&x=4118&y=7693&z=2.9547257721237843)| BLA |
+| :---: | :---: | :---: |
+|[![](/images/projects/psotop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=1242&y=1135&z=5.334467744964014) | [![](/images/projects/pso_cell_500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsomapGlyphs3&perfectMatch=false&modelId=412&backgroundId=660&x=4118&y=7693&z=2.9547257721237843) | BLA |
 
 
 
@@ -60,7 +60,7 @@ You will find below links to other pages containing detailed information about t
 ### Supplementary information
 
 | Supplementary Information | Description |
-|:---:|:---:|
+| :---: | :---: |
 | [The biology behind the map](isd_app1.md) | Brief description of AD- and PsO-related molecular mechanisms present in the map |
 | [How was the map constructed?](isd_met.md) |  Description of procedures and tools used to build the map |
 

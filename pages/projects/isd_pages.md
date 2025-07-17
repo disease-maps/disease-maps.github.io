@@ -58,11 +58,15 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
 <table border="1">
   <tr>
     <th>Application</th>
-    <th>Step-by-step guide to reproduce the analysis</th>
+    <th>How to reproduce the analysis</th>
   </tr>
   <tr>
-    <td><a href="/pages/projects/isd_app1.md" target="_blank">Hypothesis generation via network analysis of the map</a></td>
-    <td>bol</td>
+    <td><a href="/pages/projects/isd_app2.md" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+    <tr>
+    <td><a href="/pages/projects/isd_app1.md" target="_blank">Hypothesis generation via map analysis after integration with genetic data</a></td>
+    <td>Step-by-step guide</td>
   </tr>
 </table>
 

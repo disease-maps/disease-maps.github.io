@@ -49,21 +49,22 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 ### Applications of the ISD map
 
+ [Application 2: hypothesis generation](isd_app2.md)  
+
 
 You will find below links to other pages containing detailed information about the (1) methods used to build and analyze the map and (2) applications of the map, such as the graphical review of key biological process in atopic dermatitis (AD) and psoriasis (PsO) and hypothesis generation via analysis of the map structure with and without integration of omics data or via Boolean simulations. **It is important to notice that we also provide a user guide on how to explore and use the ISD map**.      
 
 
 ### Supplementary information
 
-|Biology behind|How to access?|
+|Supplementary Information|Description|
 |:---:|:---:|
-| [The biology behind the map](isd_app1.md)| BLA |
-| [How was the map constructed?](isd_met.md)| BLA |
+| [The biology behind the map](isd_app1.md)| Brief description of AD- and PsO-related molecular mechanisms present in the map |
+| [How was the map constructed?](isd_met.md)|  Description of procedures and tools used to build the map |
 
 
 
 
 
 
- [Application 2: hypothesis generation](isd_app2.md)  
 

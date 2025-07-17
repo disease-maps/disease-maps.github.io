@@ -59,15 +59,15 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <th>How to reproduce the analysis</th>
   </tr>
   <tr>
-    <td><a href="/pages/projects/isd_app2.md" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td><a href="/pages/projects/isd_app2.md#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
   </tr>
     <tr>
-    <td><a href="/pages/projects/isd_app2.md#details" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
+    <td><a href="/pages/projects/isd_app2.md#genet1" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
     <td>Step-by-step guide</td>
   </tr>
  <tr>
-    <td><a href="/pages/projects/isd_app2.md" target="_blank">Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.</a></td>
+    <td><a href="/pages/projects/isd_app2.md#genet2" target="_blank">Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.</a></td>
     <td>Step-by-step guide</td>
   </tr>
  <tr>

@@ -9,6 +9,7 @@ We could identify alternative pathways that explain, at least partially, the rel
 ![kc_ad_hypo](https://github.com/user-attachments/assets/e3199474-0c0b-4fbd-986c-4d57d517c3f0)
 
 
+<h2 id="details"></h2>
 
 ## Suggesting mechanistic consequences of gene variants
 We collected genes harbouring variants (SNPs) associated with AD and PsO from the Open Targets Genetics database. These AD- and PsO-associated genes were integrated with the ISD map as a publicly available dataset. The AD map contains 28 of the 330 AD-associated genes ([see these genes (in orange) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2820&y=1623&z=5&overlaysId=1367)), and the PsO map contains 42 of 794 PsO-associated genes ([see these genes (in green) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsO_map&perfectMatch=false&modelId=389&backgroundId=612&x=6509&y=1929&z=5.242334845066072&overlaysId=1369)). 

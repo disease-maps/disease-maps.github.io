@@ -63,7 +63,7 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <td>Step-by-step guide</td>
   </tr>
     <tr>
-    <td><a href="/pages/projects/isd_app2.md" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
+    <td><a href="/pages/projects/isd_app2.md#details" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
     <td>Step-by-step guide</td>
   </tr>
  <tr>

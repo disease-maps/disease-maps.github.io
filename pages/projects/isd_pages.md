@@ -31,17 +31,17 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 |[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/isd-guide/)|
 
 
-### Structure of the ISD map
+## Structure of the ISD map
 
 The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.elixir-luxembourg.org/) that is the entry point for the ISD map and contains the key molecules and cells associated with AD and PsO, the intercellular communication views depicting how [AD](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-2) and [PsO](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsO_map)-relevant cell types interact, and the intracellular pathways layer illustrating signalling networks within some selected cells.  
 
-#### AD map
+### AD map
 
 | Side-by-side layer | Intercellular communication layer | Intracellular pathways layer |
 | :---: | :---: | :---: |
 | [![](/images/projects/adtop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=3741&y=1170&z=5.334467744964014) | [![](/images/projects/adcell500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4) | BLA |
 
-#### PsO map
+### PsO map
 
 | Side-by-side layer | Intercellular communication layer | Intracellular pathways layer |
 | :---: | :---: | :---: |
@@ -49,7 +49,7 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 
 
-### Applications of the ISD map
+## Applications of the ISD map
 
 To demonstrate how the map can be applied to (i) graphically review key biological process in AD and PsO and (ii) generate hypothesis via analysis of the map structure with and without integration of omics data, we offer here some applications:
 
@@ -77,7 +77,7 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
 </table>
 
 
-### Supplementary information
+## Supplementary information
 
 | Supplementary Information | Description |
 | :---: | :---: |

@@ -95,18 +95,22 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
   
 </table>
 
-
-
 ## Supplementary information
 
-| Supplementary Information | Description |
-| :---: | :---: |
-| [The biology embedded in the map](isd_app1.md) | Brief description of AD- and PsO-related molecular mechanisms present in the map |
-| [How was the map constructed?](isd_met.md) |  Description of procedures and tools used to build the map |
-
-
-
-
+<table border="1">
+  <tr>
+    <th>Supplementary Information</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="/isd-app-1/" target="_blank"> The biology embedded in the map </a></td>
+    <td> Brief description of AD- and PsO-related molecular mechanisms present in the map </td>
+    </tr>
+  <tr>
+    <td> <a href="/isd-met/" target="_blank"> How was the map constructed?</a> </td>
+    <td> Description of procedures and tools used to build the map </td>  
+  </tr>
+</table>
 
 
 

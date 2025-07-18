@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ISD Guide
-permalink: /isd-guide/
+permalink: /isd/projects/isd-guide/
 ---
 
 # A quick user guide to navigate and explore the ISD map  

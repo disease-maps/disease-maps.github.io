@@ -6,21 +6,25 @@ permalink: /isd-app-2/
 
 # Applications of the ISD map
 
-Here we demonstrate the ISD map can also be a hypothesis-generating resource via the discovery of potential mechanistic downstream effects of selected AD- or PsO-related genes of interest. For this purpose, we analysed the network structure of the map itself and the outcomes of the integration of the map with omics data.
+Here we demonstrate the ISD map can be a hypothesis-generating resource via the discovery of potential mechanistic downstream effects of selected AD- or PsO-related genes of interest. For this purpose, we either analysed the network structure of the map itself or analysed the outcomes of omics data integration into the map.
+
+## Analyis of the network structure
 
 <h2 id="net"></h2>
 
-## Discovering possible compensatory pathways explaining poor response to dupilumab
+### Possible compensatory pathways explaining poor response to dupilumab
 The direct analysis of the network structure per se may provide biological insights related to a disease of interest. To find compensatory pathways that could explain poor response of dupilumab, a widely used IL4R antagonist to treat moderate-to-severe AD, we analysed the network structure of the AD submap at both intercellular communication and intracellular (KCs and Th2 cells) levels.
 We could identify alternative pathways that explain, at least partially, the relatively low rate of remission following dupilumab treatment. In KCs, for instance, many genes involved in skin barrier homeostasis are downregulated not only by IL4/IL13 pathways, but also by IFNG, IL22, TSLP, IL-17A and IL25 signalling pathways. So, the presence of these cytokines in skin could compensate for the inhibitory action of dupilumab on IL4R.
 
 ![kc_ad_hypo](https://github.com/user-attachments/assets/e3199474-0c0b-4fbd-986c-4d57d517c3f0)
 
+## Integration of genetic variation data into the map 
+
 
 <h2 id="genet1"></h2>
 
-## Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators
-We collected genes harbouring variants (SNPs) associated with AD from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in orange) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2820&y=1623&z=5&overlaysId=1367)). After integration of these AD-associated genes to the map, we sough to investigate their influence at the mechanistic level. To this end, we manually inspected the pathways of the ISD map for proteins encoded by the matched disease-associated genes that directly influence other proteins. As discussed previously, IFNG seems to partially compensate for IL4R inhibition by positively stimulating the expression of several AD-promoting genes also stimulated by IL4R in KCs (3A). As IFNG is mainly produced by Th1 cells, we checked the Th1 cell map for the presence of proteins encoded by AD-associated genes that could somehow influence IFNG expression. Interestingly, there are five proteins encoded by AD-associated genes (IL18RAP, IL18R1, TRAF6, CARD11 and NFKBIA) upstream to the IFNG expression. We hypothesise that SNPs in these genes could favour IFNG expression in Th1 cells and, therefore, counteract the action of dupilumab, i.e., IL4R inhibition. 
+### Resistance to dupilumab possibly due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators
+We collected genes harbouring variants (SNPs) associated with AD from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in orange) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2820&y=1623&z=5&overlaysId=1367)). After integration of these AD-associated genes to the map, we sough to investigate their influence at the mechanistic level. To this end, we manually inspected the pathways of the ISD map for proteins encoded by the matched disease-associated genes that directly influence other proteins. As discussed previously, IFNG seems to partially compensate for IL4R inhibition by positively stimulating the expression of several AD-promoting genes stimulated by IL4R in KCs. As IFNG is mainly produced by Th1 cells, we checked the Th1 cell map for the presence of proteins encoded by AD-associated genes that could somehow influence IFNG expression. Interestingly, there are five proteins encoded by AD-associated genes (IL18RAP, IL18R1, TRAF6, CARD11 and NFKBIA) upstream to the IFNG expression. We hypothesise that SNPs in these genes could favour IFNG expression in Th1 cells and, therefore, counteract the action of dupilumab, i.e., IL4R inhibition. 
 
 
 
@@ -28,7 +32,7 @@ We collected genes harbouring variants (SNPs) associated with AD from the Open T
 
 <h2 id="genet2"></h2>
 
-## Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.
+## Resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.
 We collected genes harbouring variants (SNPs) associated with PsO from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in green) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsO_map&perfectMatch=false&modelId=389&backgroundId=612&x=6509&y=1929&z=5.242334845066072&overlaysId=1369)). After integration of these PsO-associated genes to the map, we sough to investigate their influence at the mechanistic level, specifically in psoriatic KCs. In PsO, KCs are relatively resistant to cytokine-induced apoptosis. This resistance could be assigned, at least partially, to the presence of several proteins encoded by PsO-associated genes in apoptosis-regulating pathways. In fact, by exploring the map, we can see at least six proteins encoded by PsO-associated genes in these pathways: IFNG, INFGR2, TNFRSF1A, ESRRA, IRF1 and SOCS1. The most prominent pathway would be the one triggered by IFNG via IFNGR2 and IRF1 culminating in the expression of SOCS proteins. Remarkably, all proteins in this apoptosis-regulating pathway are encoded by PsO-associated genes and the underlying SNPs could favour the inhibition of apoptosis in KC (see figure below). 
 
 
@@ -43,7 +47,7 @@ The above examples show that, through the integration of Open Target Genetics da
 
 
 
-## Omics data interpretation in AD and PsO maps
+## Integration of transcriptomics and proteomics data into the map
 To show that the ISD map can be useful for supporting the discovery of potential AD- and PsO-related molecular mechanisms affected by genes or proteins that are prioritised via omics studies, we show here four use cases: (i) Integration of AD-associated genes from the Open Targets Genetics database (16) with the AD map, (ii) integration of PsO-associated genes from the Open Targets Genetics database with the PsO map, (iii) integration of differentially expressed proteins (DEPs) from protein expression profiles with the AD map and (iv) integration of differentially expressed genes (DEGs) from gene expression profiles with the PsO map.	
 
 

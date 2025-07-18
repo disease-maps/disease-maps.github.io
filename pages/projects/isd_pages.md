@@ -59,6 +59,9 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <th>How to reproduce the analysis</th>
   </tr>
   <tr>
+    <td> Integration of genetic variation data into the map </td>
+  </tr>
+  <tr>
     <td><a href="/isd-app-2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
   </tr>
@@ -70,10 +73,14 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <td><a href="/isd-app-2/#genet2" target="_blank">Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.</a></td>
     <td>Step-by-step guide</td>
   </tr>
+  <tr>
+    <td>>Integration of transcriptomics and proteomics data into the map </td>  
+  </tr>
  <tr>
     <td><a href="/isd-app-2/" target="_blank">Hypothesis: IFNG rescues expression of dupilumab-downregulated proteins in AD.</a></td>
     <td>Step-by-step guide</td>
   </tr>
+  
 </table>
 
 

@@ -80,11 +80,17 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <td>Integration of transcriptomics and proteomics data into the map </td>  
   </tr>
  <tr>
-    <td><a href="/isd-app-2/" target="_blank"> Could IFNG rescue the expression of dupilumab-downregulated proteins in AD?</a></td>
+    <td><a href="/isd-app-2/#dup" target="_blank"> Could IFNG rescue the expression of dupilumab-downregulated proteins in AD?</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td><a href="/isd-app-2/#il17" target="_blank">Confirmation of IL17A importance to psoriatic keratinocytes
+</a></td>
     <td>Step-by-step guide</td>
   </tr>
   
 </table>
+
 
 
 ## Supplementary information

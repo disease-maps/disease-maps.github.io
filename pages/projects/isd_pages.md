@@ -103,7 +103,7 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <th>Description</th>
   </tr>
   <tr>
-    <td> <a href="/isd-app-1/" target="_blank"> The biology embedded in the map </a></td>
+    <td> <a href="/isd-app1/" target="_blank"> The biology embedded in the map </a></td>
     <td> Brief description of AD- and PsO-related molecular mechanisms present in the map </td>
     </tr>
   <tr>

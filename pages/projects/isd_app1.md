@@ -1,3 +1,9 @@
+--- 
+title: ISD Biology
+layout: default 
+permalink: /isd-app1/
+--- 
+
 # The biology embedded in the ISD map
 We summarise here the main molecular and cellular aspects of AD and PsO as shown in the side-by-side overview map and the mechanisms at the intercellular and intracellular levels. We provide here hyperlinks that allow readers directly access some of the mentioned region of the ISD map.
 

@@ -62,7 +62,7 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <td> Analysis of the network structure </td>
   </tr>
    <tr>
-    <td><a href="/isd-app-2/#bio" target="_blank"> How can certain biomarkers influence PsO molecular mechanisms? </a></td>
+    <td><a href="/isd-app-2/#bio" target="_blank"> Possible molecular mechanisms affected by candidate biomarkers for PsO systemic treatment response </a </td>
     <td>Step-by-step guide</td>
   </tr>
   <tr>

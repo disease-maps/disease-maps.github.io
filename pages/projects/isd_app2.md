@@ -10,7 +10,7 @@ Here we demonstrate the ISD map can be a hypothesis-generating resource via the 
 
 ## Analysis of the network structure
 
->h2 id="bio"></h2>
+<h2 id="bio"></h2>
 
 ### How can certain biomarkers influence PsO molecular mechanisms?
 

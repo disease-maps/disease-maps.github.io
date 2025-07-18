@@ -28,7 +28,7 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 
 | Access the map | Learn how to navigate and explore the map |
 | :---: | :---: |
-|[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/pages/projects/isd_guide.md)|
+|[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](isd_guide.md)|
 
 
 ### Structure of the ISD map
@@ -59,19 +59,19 @@ To demonstrate how the map can be applied to (i) graphically review key biologic
     <th>How to reproduce the analysis</th>
   </tr>
   <tr>
-    <td><a href="/pages/projects/isd_app2.md#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td><a href="isd_app2.md#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
   </tr>
     <tr>
-    <td><a href="/pages/projects/isd_app2.md#genet1" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
+    <td><a href="isd_app2.md#genet1" target="_blank">Hypothesis: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators</a></td>
     <td>Step-by-step guide</td>
   </tr>
  <tr>
-    <td><a href="/pages/projects/isd_app2.md#genet2" target="_blank">Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.</a></td>
+    <td><a href="isd_app2.md#genet2" target="_blank">Hypothesis: resistance to cytokine-induced apoptosis in psoriatic KCs favoured by SNPs in upstream apoptosis regulators.</a></td>
     <td>Step-by-step guide</td>
   </tr>
  <tr>
-    <td><a href="/pages/projects/isd_app2.md" target="_blank">Hypothesis: IFNG rescues expression of dupilumab-downregulated proteins in AD.</a></td>
+    <td><a href="isd_app2.md" target="_blank">Hypothesis: IFNG rescues expression of dupilumab-downregulated proteins in AD.</a></td>
     <td>Step-by-step guide</td>
   </tr>
 </table>

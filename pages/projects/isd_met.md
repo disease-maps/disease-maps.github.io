@@ -1,3 +1,9 @@
+--- 
+title: ISD Methods
+layout: default 
+permalink: /isd-met/
+--- 
+
 # Methods
 
 ## Map construction and availability  

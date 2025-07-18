@@ -12,7 +12,7 @@ Here we demonstrate the ISD map can be a hypothesis-generating resource via the 
 
 <h2 id="bio"></h2>
 
-### How can certain biomarkers influence PsO molecular mechanisms? 
+### How can candidate biomarkers for systemic treatment influence PsO molecular mechanisms? 
 *Step-by-step guide to reproduce the analysis here!*
 
 

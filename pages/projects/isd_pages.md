@@ -30,6 +30,7 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 | :---: | :---: |
 |[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](isd_guide.md)|
 
+[Access and explore the map](isd_guide.md)
 
 ### Structure of the ISD map
 

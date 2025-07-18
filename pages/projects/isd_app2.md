@@ -1,3 +1,9 @@
+---
+layout: page
+title: ISD Application
+permalink: /isd-app-2/
+---
+
 # Applications of the ISD map
 
 Here we demonstrate the ISD map can also be a hypothesis-generating resource via the discovery of potential mechanistic downstream effects of selected AD- or PsO-related genes of interest. For this purpose, we analysed the network structure of the map itself and the outcomes of the integration of the map with omics data.

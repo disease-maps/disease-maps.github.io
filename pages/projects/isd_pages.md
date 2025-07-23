@@ -87,12 +87,6 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <td><a href="/isd-app-2/#dup" target="_blank"> Could IFNG rescue the expression of dupilumab-downregulated proteins in AD?</a></td>
     <td>Step-by-step guide</td>
   </tr>
-  <tr>
-    <td><a href="/isd-app-2/#il17" target="_blank">Confirmation of IL17A importance to psoriatic keratinocytes
-</a></td>
-    <td>Step-by-step guide</td>
-  </tr>
-  
 </table>
 
 ## Supplementary information

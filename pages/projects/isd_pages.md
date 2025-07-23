@@ -51,7 +51,7 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 ## Applications of the ISD map
 
-To demonstrate how the map can be applied to (i) graphically review key biological process in AD and PsO and (ii) generate hypothesis via analysis of the map structure with and without integration of omics data, we offer here some applications along with a step-by-step guide to reproduce the analysis:
+To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis:
 
 <table border="1">
   <tr>

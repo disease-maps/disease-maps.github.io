@@ -71,10 +71,20 @@ permalink: /isd-vig3/
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/ee910213-6ec4-42f9-923c-0068bfe6e4df" />
 
 
-### 4. Create an overlay for integration
-You can explore the map by navigating it similarly as you do in Google Maps. Use the buttons on the lower right corner to zoom in, zoom out and center the map content.
- 
-![step4](https://github.com/user-attachments/assets/cc0e362b-a196-46b6-974b-640eb1ac9e63)
+### 4. Create the overlay for integration
+
+#### 4.1. The integration of data into the map is done via overlay creation. For this purpose, click the button "+ Overlays" above the intercellular communication map 
+
+<img width="1017" height="491" alt="image" src="https://github.com/user-attachments/assets/a799d1a3-e138-4a29-b7c2-370be02b2386" />
+
+
+#### 4.2. When the panel "Overlays" opens in the left part of the screen, go straight to the bottom and click "Add overlay" 
+
+<img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/4bad673d-76fd-4398-a4d9-27e17bedff37" />
+
+#### 4.3. In the panel "Add overlay", click "browse" to upload the file "AD_genetic.tsv".
+
+<img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e" />
 
 
 ### 5. Integrating data into the map

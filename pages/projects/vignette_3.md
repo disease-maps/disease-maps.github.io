@@ -10,12 +10,20 @@ permalink: /isd-vig3/
 
 ### 1. Obtaining the genetic variant data
 
-The main entry point to the ISD map is available at https://imi-biomap.elixir-luxembourg.org/. This is a side-by-side simplified comparison of the contents of atopic dermatitis (AD) and psoriasis (PsO) maps. To access the maps, follow the steps below.
+1.1. Collecte genes harbouring variants (SNPs) associated with AD from the Open Targets database. First, access the [Open Targets Platform’s home page](https://platform.opentargets.org).
 
+<img width="1808" height="874" alt="vig3_1" src="https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597" />
 
+1.2. Then, use the Experimental Factor Ontology (EFO) identifier of AD (EFO_0000274) as query. As soon as you finish typing, "Atopic eczema" appears in the screen. Click over it.
 
+<img width="1808" height="874" alt="vig3_2" src="https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556" />
 
-![step1](https://github.com/user-attachments/assets/f5cab09b-faf6-4d10-a367-d3928dce6c2d)
+1.3. A page containing the retrieved results appears. Click "Export" and then "Download data"
+
+<img width="1808" height="874" alt="vig3_3" src="https://github.com/user-attachments/assets/46623637-c248-414c-b0ba-0979b54872f4" />
+
+1.4. 
+
 
 ### 2. Preparing the data-containing file for integration
 

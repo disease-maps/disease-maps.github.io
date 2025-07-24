@@ -33,29 +33,30 @@ permalink: /isd-vig3/
 
 ### 2. Preparing the data-containing file for integration
 
-#### 2.1. Open the downloaded TSV file in Excel or similar softwares. Copy the contenst of column 1 (symbol) and paste them into a new spreadsheet. 
+#### 2.1. Open the downloaded TSV file in Excel or similar software. Copy the contents of column 1 (symbol) and paste them into a new spreadsheet. 
 
 <img width="1323" height="744" alt="vig3_8" src="https://github.com/user-attachments/assets/bb6c175d-0a28-4208-853c-772df5d83808" />
 
 
-
-
 #### 2.2. Create a header: name the column 1 as "identifier_hgnc_symbol" and for column 2 as "color". The list of genes should start in row 2.
 
+<img width="1844" height="1021" alt="vig3_9" src="https://github.com/user-attachments/assets/bfb0d026-235c-4cbb-870a-fcde56fc7b66" />
 
 
-#### 2.3. Fill out the rows in column "color" with a hexadecimal code for your color of interest (https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540
+#### 2.3. Fill out the rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540. Save this file as "AD_genetic.tsv"
+
+<img width="1844" height="1021" alt="vig3_10" src="https://github.com/user-attachments/assets/44b0d09f-79aa-4776-a46c-6c8007ed7d80" />
 
 
 
 
-To access the individual, i.e., AD or PsO, intercellular communication maps, please click on the button with disease name above each part of the diagram.  
-
- ![step2](https://github.com/user-attachments/assets/3187aaaf-da58-41f7-97dd-c51387d516e6)
 
 
 ### 3. Access the map and login using your ORCID
 
+To access the individual, i.e., AD or PsO, intercellular communication maps, please click on the button with disease name above each part of the diagram.  
+
+ ![step2](https://github.com/user-attachments/assets/3187aaaf-da58-41f7-97dd-c51387d516e6)
 
 Clicking on the “ATOPIC DERMATITIS” button, you will be directed to the AD map. 
 

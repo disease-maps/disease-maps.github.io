@@ -4,7 +4,9 @@ title: ISD Vignette 3
 permalink: /isd-vig3/
 ---
 
-# Step-by-step guide to reproduce the application X:
+# Step-by-step guide to reproduce the applications
+
+<h2 id="genetic1"></h2>
 
 ## SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab. 
 
@@ -43,25 +45,25 @@ permalink: /isd-vig3/
 <img width="1844" height="1021" alt="vig3_9" src="https://github.com/user-attachments/assets/bfb0d026-235c-4cbb-870a-fcde56fc7b66" />
 
 
-#### 2.3. Fill out the rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540 (orange). Save this file as "AD_genetic.tsv"
+#### 2.3. Fill rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540 (orange). Save this file as "AD_genetic.tsv"
 
 
 <img width="1844" height="1021" alt="vig3_10" src="https://github.com/user-attachments/assets/a85e488e-4cdb-4dea-b2e5-062bdaf2b86c" />
 
 
+### 3. Access and log in to the map
+
+#### 3.1. Access the ISD map at the entry level via the link https://imi-biomap.elixir-luxembourg.org/. In the map, click the login icon in the left upper side of the screen. This is required to integrate data into the map.
+ 
+<img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/94b53f4d-7c65-4502-8b46-dbd53c658676" />
 
 
+#### 3.2. Log in to the map preferentially by using your ORCID. 
 
-### 3. Access the map and login using your ORCID
+<img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/acc57fb8-0e6f-485e-9921-8ccb3098994c" />
 
-To access the individual, i.e., AD or PsO, intercellular communication maps, please click on the button with disease name above each part of the diagram.  
 
- ![step2](https://github.com/user-attachments/assets/3187aaaf-da58-41f7-97dd-c51387d516e6)
-
-Clicking on the “ATOPIC DERMATITIS” button, you will be directed to the AD map. 
-
-![step3](https://github.com/user-attachments/assets/9d284197-04e1-47b4-a53a-b3a1498a4b8b)
-
+https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=false&modelId=400&backgroundId=626&x=2470.25&y=1545.75&z=4
 
 ### 4. Create an overlay for integration
 You can explore the map by navigating it similarly as you do in Google Maps. Use the buttons on the lower right corner to zoom in, zoom out and center the map content.

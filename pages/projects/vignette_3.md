@@ -43,10 +43,10 @@ permalink: /isd-vig3/
 <img width="1844" height="1021" alt="vig3_9" src="https://github.com/user-attachments/assets/bfb0d026-235c-4cbb-870a-fcde56fc7b66" />
 
 
-#### 2.3. Fill out the rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540. Save this file as "AD_genetic.tsv"
+#### 2.3. Fill out the rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540 (orange). Save this file as "AD_genetic.tsv"
 
-<img width="1844" height="1021" alt="vig3_10" src="https://github.com/user-attachments/assets/44b0d09f-79aa-4776-a46c-6c8007ed7d80" />
 
+<img width="1844" height="1021" alt="vig3_10" src="https://github.com/user-attachments/assets/a85e488e-4cdb-4dea-b2e5-062bdaf2b86c" />
 
 
 

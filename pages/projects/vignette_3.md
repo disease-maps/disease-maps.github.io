@@ -35,6 +35,7 @@ permalink: /isd-vig3/
 
 #### 2.1. Open the downloaded TSV file in Excel or similar softwares. Copy the contenst of column 1 (symbol) and paste them into a new spreadsheet. 
 
+<img width="1323" height="744" alt="vig3_8" src="https://github.com/user-attachments/assets/bb6c175d-0a28-4208-853c-772df5d83808" />
 
 
 

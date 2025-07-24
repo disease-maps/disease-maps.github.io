@@ -62,8 +62,14 @@ permalink: /isd-vig3/
 
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/acc57fb8-0e6f-485e-9921-8ccb3098994c" />
 
+#### 3.3. Once connected, just ignore the window "Select project" by clicking "X".
 
-https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=false&modelId=400&backgroundId=626&x=2470.25&y=1545.75&z=4
+<img width="1849" height="890" alt="image" src="https://github.com/user-attachments/assets/a6d4d362-b76b-42e1-a7d8-e5c627247c9e" />
+
+#### 3.4. Click the button "ATOPIC DERMATITIS" to go the AD intercellular communication map 
+
+<img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/ee910213-6ec4-42f9-923c-0068bfe6e4df" />
+
 
 ### 4. Create an overlay for integration
 You can explore the map by navigating it similarly as you do in Google Maps. Use the buttons on the lower right corner to zoom in, zoom out and center the map content.

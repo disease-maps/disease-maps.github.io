@@ -4,7 +4,7 @@ title: ISD Vignette 3
 permalink: /isd-vig3/
 ---
 
-# Step-by-step guide to reproduce the analysis leading to the following hypothesis:
+# Step-by-step guide to reproduce the application X:
 
 ## SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab. 
 
@@ -22,7 +22,13 @@ permalink: /isd-vig3/
 
 <img width="1808" height="874" alt="vig3_3" src="https://github.com/user-attachments/assets/46623637-c248-414c-b0ba-0979b54872f4" />
 
-1.4. 
+1.4. A new windows appears. Click "Advance Expert Options" and, in the field "Select association data type", select only "Genetic association"
+
+<img width="1808" height="874" alt="vig3_4" src="https://github.com/user-attachments/assets/256fa0d3-6fa0-4474-9ca1-b2d69b52968e" />
+
+1.5. Finally, click "TSV" to download the file containing the AD-associated genes in a TSV format.
+
+<img width="1816" height="875" alt="vig3_6" src="https://github.com/user-attachments/assets/4d21c01f-09fc-4519-b5b6-639ac0b152ce" />
 
 
 ### 2. Preparing the data-containing file for integration

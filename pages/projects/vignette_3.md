@@ -108,16 +108,16 @@ permalink: /isd-vig3/
 <img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/d968c496-fb8d-4bbb-bdbf-4bb504c71c54" />
 
 
-#### 5.2.  
+#### 5.2. Click "View" and the proteins matching the genes harboring AD-associated SNPs will be painted in orange. 
 
+<img width="997" height="502" alt="image" src="https://github.com/user-attachments/assets/f0d0ca3c-9038-45a4-96b7-43219af749f9" />
 
+#### 5.3. In this particular application, we want to check the intracellular pathways in Th1 cells. Go to "Submaps" and then click ">" associated with the submap "Th1"
 
-![step10](https://github.com/user-attachments/assets/46f2fd28-92d7-45d9-b457-837251327752)
+<img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/01d88863-bec8-4bec-8922-9f789b3a2c6b" />
 
+#### 5.4. 
 
-After clicking “View”, the elements present in selected overlays containing datasets with differential expressed genes or proteins along with their normalized LFC values – in this case, for example, the overlay “Omics: Differentially expressed proteins from dupilumab vs untreated lesional skin He et al (2020)”, are highlighted in a gradient color according to their normalized LFC values as shown in the horizontal bar at the bottom of the panel “Overalys”. If you want to remove the highlights, click “Hide”.
-
- ![step11](https://github.com/user-attachments/assets/c95687ab-408b-4a56-8989-53f512340bf1)
 
 
 If the selected overlay contains a dataset with gene symbols along with a fixed color, e.g., orange, as it happens for the overlay “Omics: Genes harboring AD-associated SNPs from Open Targets Genetics database”, you see, after clicking “View”, the corresponding genes highlighted in orange in this map. The color is shown in the horizontal bar at the bottom of “Overalys”. If you want to remove the highlights, click “Hide”.

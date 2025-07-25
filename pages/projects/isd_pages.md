@@ -73,18 +73,19 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <td> Integration of genetic variation data into the map </td>
   </tr>
     <tr>
-    <td><a href="/isd-app-2/#genet1" target="_blank">Could SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab?</a></td>
+    <td><a href="/isd-app-2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a></td>
     <td><a href="/isd-vig3" target="_blank">Step-by-step guide</a></td>
   </tr>
  <tr>
-    <td><a href="/isd-app-2/#genet2" target="_blank"> Could SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis?.</a></td>
+    <td><a href="/isd-app-2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
     <td>Step-by-step guide</td>
   </tr>
   <tr>
     <td>Integration of transcriptomics and proteomics data into the map </td>  
   </tr>
  <tr>
-    <td><a href="/isd-app-2/#dup" target="_blank"> Could IFNG rescue the expression of dupilumab-downregulated proteins in AD?</a></td>
+    <td><a href="/isd-app-2/#dup" target="_blank"> IFNG rescues the expression of dupilumab-downregulated proteins in AD
+</a></td>
     <td>Step-by-step guide</td>
   </tr>
 </table>

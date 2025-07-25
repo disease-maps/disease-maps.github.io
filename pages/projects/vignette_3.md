@@ -53,7 +53,7 @@ permalink: /isd-vig3/
 
 #### 2.3. Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #f6b26b (orange). Save this file as "AD_genetic.txt"
 
-<img width="1852" height="999" alt="image" src="https://github.com/user-attachments/assets/0458da1c-ce5c-4ab4-a55f-5822e05502e1" />
+<img width="1850" height="970" alt="image" src="https://github.com/user-attachments/assets/960a366e-f290-4801-9482-ab118c898a1e" />
 
 
 

@@ -92,6 +92,10 @@ permalink: /isd-vig3/
 
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e" />
 
+#### 4.4. When you observe "AD_genetic.tsv" instead of "browse", provide a name in the field "Name" (e.g., "AD genetic"). Go to the botton and click "Upload"
+
+<img width="1015" height="493" alt="image" src="https://github.com/user-attachments/assets/cf328c65-c04d-469b-80fc-60e95c2e5c6b" />
+
 
 ### 5. Integrating data into the map
 

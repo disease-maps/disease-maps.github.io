@@ -4,11 +4,8 @@ title: ISD Vignette 3
 permalink: /isd-vig3/
 ---
 
-# Step-by-step guide to reproduce the applications
+# Step-by-step guide to reproduce the application *"SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab"*
 
-<h2 id="genetic1"></h2>
-
-## SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab. 
 
 ### 1. Obtaining the genetic variant data
 

@@ -96,6 +96,10 @@ permalink: /isd-vig3/
 
 <img width="1015" height="493" alt="image" src="https://github.com/user-attachments/assets/cf328c65-c04d-469b-80fc-60e95c2e5c6b" />
 
+#### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to initiate the explorations.
+
+<img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/79ab6732-8440-4a73-b140-466ce27b36ba" />
+
 
 ### 5. Integrating data into the map
 

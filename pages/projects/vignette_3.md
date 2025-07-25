@@ -116,11 +116,13 @@ permalink: /isd-vig3/
 
 <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/01d88863-bec8-4bec-8922-9f789b3a2c6b" />
 
-#### 5.4. 
+#### 5.4. A new tab ("Th1") showing the intracellular pathways of Th1 cell appears. It is possible to see some proteins are painted in orange. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements.
+
+<img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/b1f7f125-f6a7-41f3-9912-55c2dd1309cc" />
+
+#### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are seven proteins coded by AD-associated genes spread over the three pathways branches: IL18RAP, IL18R1, IL1R1, IFNGR1, TRAF6, TBX21 and CARD11. 
 
 
-
-If the selected overlay contains a dataset with gene symbols along with a fixed color, e.g., orange, as it happens for the overlay “Omics: Genes harboring AD-associated SNPs from Open Targets Genetics database”, you see, after clicking “View”, the corresponding genes highlighted in orange in this map. The color is shown in the horizontal bar at the bottom of “Overalys”. If you want to remove the highlights, click “Hide”.
 
 ![step12](https://github.com/user-attachments/assets/02627fea-4146-4378-987c-fdbcac221df1)
 

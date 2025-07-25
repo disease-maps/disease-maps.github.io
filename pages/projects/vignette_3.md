@@ -70,7 +70,7 @@ permalink: /isd-vig3/
 
 #### 3.3. Once connected, just ignore the window "Select project" by clicking "X".
 
-<img width="1849" height="890" alt="image" src="https://github.com/user-attachments/assets/a6d4d362-b76b-42e1-a7d8-e5c627247c9e" />
+<img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/a6d4d362-b76b-42e1-a7d8-e5c627247c9e" />
 
 #### 3.4. Click the button "ATOPIC DERMATITIS" to go the AD intercellular communication map 
 
@@ -101,7 +101,7 @@ permalink: /isd-vig3/
 <img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/79ab6732-8440-4a73-b140-466ce27b36ba" />
 
 
-### 5. Integrating data into the map
+### 5. Integrating and exploring the data into the map
 
 #### 5.1. Access the genetic data, i.e., the overlay "AD genetic", via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD genetic" appears.
 
@@ -116,18 +116,19 @@ permalink: /isd-vig3/
 
 <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/01d88863-bec8-4bec-8922-9f789b3a2c6b" />
 
-#### 5.4. A new tab ("Th1") showing the intracellular pathways of Th1 cell appears. It is possible to see some proteins are painted in orange. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements.
+#### 5.4. A new tab ("Th1") showing the intracellular pathways of Th1 cell appears. It is possible to see some proteins painted in orange. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements.
 
 <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/b1f7f125-f6a7-41f3-9912-55c2dd1309cc" />
 
-#### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are seven proteins coded by AD-associated genes spread over the three pathways branches: IL18RAP, IL18R1, IL1R1, IFNGR1, TRAF6, TBX21 and CARD11. 
+#### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are seven proteins coded by AD-associated genes in the three upstream pathway branches: IL18RAP, IL18R1, IL1R1, IFNGR1, TRAF6, TBX21 and CARD11.
 
+<img width="1862" height="883" alt="image" src="https://github.com/user-attachments/assets/839151b0-b89e-4a0c-ab49-3b109f75f14e" />
 
+#### 5.6. These three branches converge into one where the target is the expression of IFNG (marked in the map with a blue anchor).
 
-![step12](https://github.com/user-attachments/assets/02627fea-4146-4378-987c-fdbcac221df1)
+<img width="1862" height="883" alt="image" src="https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc" />
 
-### Access the Th1 cells submap
+### 6. Hypothesis
 
-
-### Check the positions of the highlighted proteins in relation to IFNG
+As there are seven proteins potentially altered by AD-associated SNPs upstream to the expression of IFNG in Th1 cells, we can hypothesize that SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab. 
 

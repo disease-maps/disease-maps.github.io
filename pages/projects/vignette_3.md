@@ -51,7 +51,7 @@ permalink: /isd-vig3/
 <img width="1852" height="999" alt="image" src="https://github.com/user-attachments/assets/0b2ea923-6801-46f8-b4b4-3a45c798cba2" />
 
 
-#### 2.3. Fill rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540 (orange). Save this file as "AD_genetic.tsv"
+#### 2.3. Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #f6b26b (orange). Save this file as "AD_genetic.txt"
 
 <img width="1852" height="999" alt="image" src="https://github.com/user-attachments/assets/0458da1c-ce5c-4ab4-a55f-5822e05502e1" />
 

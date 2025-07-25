@@ -12,25 +12,30 @@ permalink: /isd-vig3/
 
 ### 1. Obtaining the genetic variant data
 
-#### 1.1. Collecte genes harbouring variants (SNPs) associated with AD from the Open Targets database. First, access the [Open Targets Platform’s home page](https://platform.opentargets.org).
+#### 1.1. Collect genes harbouring variants (SNPs) associated with AD from the Open Targets database. First, access the [Open Targets Platform’s home page](https://platform.opentargets.org).
 
 <img width="1808" height="874" alt="vig3_1" src="https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597" />
 
-#### 1.2. Then, use the Experimental Factor Ontology (EFO) identifier of AD (EFO_0000274) as query. As soon as you finish typing, "Atopic eczema" appears in the screen. Click over it.
+#### 1.2. Then, use the Experimental Factor Ontology (EFO) identifier of AD (EFO_0000274) as query. As soon as you finish typing, "Atopic eczema" appears in the screen. Click it.
 
 <img width="1808" height="874" alt="vig3_2" src="https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556" />
 
-#### 1.3. A page containing the retrieved results appears. Click "Export" and then "Download data"
+#### 1.3. A page containing the retrieved results appears. Go to "Columns options" and selected the following sources of genetic data: GWAS associations, ClinVar and Uniprot Curated Variants
+
+<img width="1851" height="958" alt="image" src="https://github.com/user-attachments/assets/8372cfe6-96a8-40ab-8da6-2ee988badaf2" />
+
+
+#### 1.4. Click "Export" and then "Download data"
 
 <img width="1808" height="874" alt="vig3_3" src="https://github.com/user-attachments/assets/46623637-c248-414c-b0ba-0979b54872f4" />
 
-#### 1.4. A new windows appears. Click "Advance Expert Options" and, in the field "Select association data type", select only "Genetic association"
+#### 1.5. A new windows appears. Click "Advance Expert Options" and, in the field "Select association data type", select only "Genetic association"
 
 <img width="1808" height="874" alt="vig3_4" src="https://github.com/user-attachments/assets/256fa0d3-6fa0-4474-9ca1-b2d69b52968e" />
 
-#### 1.5. Finally, click "TSV" to download the file containing the AD-associated genes in a TSV format.
+#### 1.6. Finally, click "TSV" to download the file containing the AD-associated genes in a TSV format. Make sure that the option "Include custom controls" is selected.
 
-<img width="1816" height="875" alt="vig3_6" src="https://github.com/user-attachments/assets/4d21c01f-09fc-4519-b5b6-639ac0b152ce" />
+<img width="1851" height="958" alt="image" src="https://github.com/user-attachments/assets/914e7e8c-811e-4b9c-94e9-ce26104f4675" />
 
 
 ### 2. Preparing the data-containing file for integration

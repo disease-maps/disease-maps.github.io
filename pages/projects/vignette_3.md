@@ -37,18 +37,19 @@ permalink: /isd-vig3/
 
 #### 2.1. Open the downloaded TSV file in Excel or similar software. Copy the contents of column 1 (symbol) and paste them into a new spreadsheet. 
 
-<img width="1323" height="744" alt="vig3_8" src="https://github.com/user-attachments/assets/bb6c175d-0a28-4208-853c-772df5d83808" />
+<img width="899" height="556" alt="image" src="https://github.com/user-attachments/assets/ab9de500-1588-4ee6-9512-07fae0dbf615" />
+
 
 
 #### 2.2. Create a header: name the column 1 as "identifier_hgnc_symbol" and for column 2 as "color". The list of genes should start in row 2.
 
-<img width="1844" height="1021" alt="vig3_9" src="https://github.com/user-attachments/assets/bfb0d026-235c-4cbb-870a-fcde56fc7b66" />
+<img width="1852" height="999" alt="image" src="https://github.com/user-attachments/assets/0b2ea923-6801-46f8-b4b4-3a45c798cba2" />
 
 
 #### 2.3. Fill rows in column "color" with a [hexadecimal code for your color of interest](https://www.w3schools.com/html/html_colors_hex.asp). Suggestion: #EB540 (orange). Save this file as "AD_genetic.tsv"
 
+<img width="1852" height="999" alt="image" src="https://github.com/user-attachments/assets/0458da1c-ce5c-4ab4-a55f-5822e05502e1" />
 
-<img width="1844" height="1021" alt="vig3_10" src="https://github.com/user-attachments/assets/a85e488e-4cdb-4dea-b2e5-062bdaf2b86c" />
 
 
 ### 3. Access and log in to the map

@@ -96,14 +96,21 @@ permalink: /isd-vig3/
 
 <img width="1015" height="493" alt="image" src="https://github.com/user-attachments/assets/cf328c65-c04d-469b-80fc-60e95c2e5c6b" />
 
-#### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to initiate the explorations.
+#### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to go back to the "Overlay" panel and initiate the explorations as shown in next steps.
 
 <img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/79ab6732-8440-4a73-b140-466ce27b36ba" />
 
 
 ### 5. Integrating data into the map
 
-Click the “Overlays” button to visualise i) genes harboring AD- or PsO-specific SNPs , ii) differentially expressed genes and proteins with their normalized log fold change (LFC) values and iii) AD- and PsO-linked biological processes discussed in the paper. The left panel will display the above-mentioned list. Click “View” to visualise an overlay of interest, e.g., the overlay “Omics: Differentially expressed proteins from dupilumab vs untreated lesional skin He et al (2020)”.
+#### 5.1. Access the genetic data, i.e., the overlay "AD genetic", via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD genetic" appears.
+
+<img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/d968c496-fb8d-4bbb-bdbf-4bb504c71c54" />
+
+
+#### 5.2.  
+
+
 
 ![step10](https://github.com/user-attachments/assets/46f2fd28-92d7-45d9-b457-837251327752)
 

@@ -9,23 +9,20 @@ permalink: /isd-vig5/
 
 ### 1. Obtaining the protein expression data
 
-#### 1.1. Collect genes harbouring variants (SNPs) associated with AD from the Open Targets database. First, access the [Open Targets Platform’s home page](https://platform.opentargets.org).
+#### 1.1. Download the protein expression data from the [Supplementary Table E2] accompanying the study by [He et al 2020](); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from patients before and after treatment with dupilumab.  
 
 
-#### 1.2. Then, use the Experimental Factor Ontology (EFO) identifier of AD (EFO_0000274) as query. As soon as you finish typing, "Atopic eczema" appears in the screen. Click it.
+
+#### 1.2. Collect only differentially expressed proteins (DEPs) calculated by comparing expression profiles extracted from lesional skin samples of patients before and after dupilumab exposure. For this purpose, copy the columns A (HGNC symbol of the proteins), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
 
 
-#### 1.3. A page containing the retrieved results appears. Go to "Columns options" and selected the following sources of genetic data: GWAS associations, ClinVar and Uniprot Curated Variants
+
+#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Save the file as "pre_AD_proteome.xlsx"
 
 
 
 #### 1.4. Click "Export" and then "Download data"
 
-
-#### 1.5. A new windows appears. Click "Advance Expert Options" and, in the field "Select association data type", select only "Genetic association"
-
-
-#### 1.6. Finally, click "TSV" to download the file containing the AD-associated genes in a TSV format. Make sure that the option "Include custom controls" is selected.
 
 
 

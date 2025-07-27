@@ -85,7 +85,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
   </tr>
   <tr>
     <td><a href="/isd-app-2/#dup" target="_blank"> IFNG rescues the expression of dupilumab-downregulated proteins in AD </a></td>
-    <td>Step-by-step guide</td>
+    <td><a href="/isd-vig5" target="_blank">Step-by-step guide</a></td>
   </tr>
 </table>
 

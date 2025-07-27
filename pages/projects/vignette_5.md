@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: ISD Vignette 5

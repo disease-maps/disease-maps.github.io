@@ -119,11 +119,11 @@ permalink: /isd-vig3/
 
 #### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are seven proteins coded by AD-associated genes in the three upstream pathway branches: IL18RAP, IL18R1, IL1R1, IFNGR1, TRAF6, TBX21 and CARD11.
 
-<img width="1862" height="883" alt="image" src="https://github.com/user-attachments/assets/839151b0-b89e-4a0c-ab49-3b109f75f14e" />
+<img width="1034" height="483" src="https://github.com/user-attachments/assets/839151b0-b89e-4a0c-ab49-3b109f75f14e" />
 
 #### 5.6. These three branches converge into one where the target is the expression of IFNG (marked in the map with a blue anchor).
 
-<img width="1862" height="883" alt="image" src="https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc" />
+<img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc" />
 
 ### 6. Hypothesis
 

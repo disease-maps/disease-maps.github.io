@@ -82,14 +82,18 @@ permalink: /isd-vig5/
 
 #### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to go back to the "Overlay" panel and initiate the explorations as shown in next steps.
 
+<img width="1017" height="491" alt="image" src="https://github.com/user-attachments/assets/d0a1a048-2306-4430-91f4-cdb12056b349" />
 
 
 ### 5. Integrating and exploring the data into the map
 
-#### 5.1. Access the dupilumab-induced differentially expressed AD skin inflammatory proteome data, i.e., the overlay "AD proteome", via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD proteome" and other already existent overlays appear.
+#### 5.1. Access the dupilumab-induced differentially expressed AD skin inflammatory proteome data, i.e., the overlay "AD proteome", via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD proteome" and other already existent overlays appear. Click "View".
+
+<img width="1023" height="489" alt="image" src="https://github.com/user-attachments/assets/175666cb-6d6b-472b-ae8c-7fc676635cf7" />
 
 
-#### 5.2. Click "View" and the dupilumab-induced differentially expressed AD skin inflammatory proteins mapped to the map will be painted in COLOR. 
+#### 5.2. The dupilumab-induced differentially expressed AD skin inflammatory proteins mapped to the map will be painted in COLOR. 
+
 
 
 #### 5.3. In this particular application, we want to check the KCs intracellular activity for finding which and how these dupilumab-induced differentially expressed inflammatory proteins are distributed in KCs intracellular pathways. Go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.

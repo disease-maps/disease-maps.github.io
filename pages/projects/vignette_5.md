@@ -99,13 +99,15 @@ permalink: /isd-vig5/
 
 #### 5.3. In this particular application, we want to check the KCs intracellular activity for finding which and how these dupilumab-induced differentially expressed inflammatory proteins are distributed in KCs intracellular pathways. Go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.
 
+<img width="1023" height="489" alt="image" src="https://github.com/user-attachments/assets/f367ebe3-249b-4e34-8545-549a8929ea4a" />
 
 
-#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. It is possible to see some proteins painted in COLOR. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements.
+#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements.
 
 
 
-  #### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are XXX.
+
+#### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are XXX.
 
 
 #### 5.6. XXX

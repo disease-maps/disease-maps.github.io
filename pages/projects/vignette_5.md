@@ -24,7 +24,7 @@ permalink: /isd-vig5/
 
 ### 2. Preparing the data-containing file for integration
 
-#### 2.1. Normalize FCH values to the [-1,1] range and truncate maximum FCH to 3. Use your prefered method to do that, but we recommend our Python-based normalizer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlacencio/disease-maps.github.io/blob/main/normalize_expression.ipynb))
+#### 2.1. Normalize FCH values to the [-1,1] range and truncate maximum FCH to 3. Use your prefered method to do that, but we recommend our Python-based normalizer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/disease-maps/disease-maps.github.io/blob/main/normalize_expression.ipynb))
 
 
 

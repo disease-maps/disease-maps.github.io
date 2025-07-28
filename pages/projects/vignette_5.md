@@ -26,10 +26,10 @@ permalink: /isd-vig5/
 
 ### 2. Preparing the data-containing file for integration
 
-#### 2.1. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer that will create the normalized version of data ([Download here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.
+#### 2.1. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer script that will create the normalized version of data ([Download it here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.
 
 ##### 2.1.1. Install Python 3 in your operational system (Latest stable version for the latest versions of operation systems: [Windows](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe) or [MacOS](https://www.python.org/ftp/python/3.13.5/python-3.13.5-macos11.pkg)). 
-##### 2.1.2. After downloading the above zip file, unzip it in your local computer in your fold of preference. You see a python file named "minerva_normalize.py"
+##### 2.1.2. After downloading the above zip file, unzip it in your local computer in your folder of preference. You see a python file named "minerva_normalize.py"
 ##### 2.1.3. In Windows, just double-click the file; in Linux, right-click it and select "Run as a program". In MacOS, open the Terminal, go to the folder where the python file is located and type "python3 minerva_normalize.py".
 ##### 2.1.4. Regardless of the system, a small window equal or similar to the pictureb below will appear. Click "Select file to Normalize" and select the file "AD_proteome.tsv"
 
@@ -71,14 +71,17 @@ permalink: /isd-vig5/
 
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/4bad673d-76fd-4398-a4d9-27e17bedff37" />
 
-#### 4.3. In the panel "Add overlay", click "browse" to upload the file "AD_proteome.txt".
+#### 4.3. In the panel "Add overlay", click "browse" to upload the file "AD_proteome_normalized.txt".
 
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e" />
 
-#### 4.4. When you observe "AD_proteome.txt" instead of "browse", provide a name in the field "Name" (e.g., "AD proteome"). Go to the botton and click "Upload"
+#### 4.4. When you observe "AD_proteome_normalized.txt" instead of "browse", provide a name in the field "Name" (e.g., "AD proteome"). Go to the botton and click "Upload"
+
+<img width="1018" height="491" alt="image" src="https://github.com/user-attachments/assets/9ac28fed-fbe3-467c-9826-864689f933b9" />
 
 
 #### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to go back to the "Overlay" panel and initiate the explorations as shown in next steps.
+
 
 
 ### 5. Integrating and exploring the data into the map

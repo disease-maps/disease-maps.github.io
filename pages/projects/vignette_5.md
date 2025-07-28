@@ -92,8 +92,9 @@ permalink: /isd-vig5/
 <img width="1023" height="489" alt="image" src="https://github.com/user-attachments/assets/175666cb-6d6b-472b-ae8c-7fc676635cf7" />
 
 
-#### 5.2. The dupilumab-induced differentially expressed AD skin inflammatory proteins mapped to the map will be painted in COLOR. 
+#### 5.2. The dupilumab-induced differentially expressed AD skin inflammatory proteins mapped to the map will be painted in a red-blue gradient. The reder, the lower is the FCH value; the bluer, the higher is the FCH. 
 
+<img width="978" height="511" alt="image" src="https://github.com/user-attachments/assets/c27f2629-89bd-4d73-92dd-27e8b789e3d7" />
 
 
 #### 5.3. In this particular application, we want to check the KCs intracellular activity for finding which and how these dupilumab-induced differentially expressed inflammatory proteins are distributed in KCs intracellular pathways. Go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.

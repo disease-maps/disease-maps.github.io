@@ -24,22 +24,9 @@ permalink: /isd-vig5/
 
 ### 2. Preparing the data-containing file for integration
 
-#### 2.1. Normalize FCH values to the [-1,1] range and truncate the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer that will create the normalized version of data ([Download here](/pages/projects/minerva_normalize.zip))
-
-## 🐍 Download
-
-Click below to download the normalization script:
-
-[Download normalize_gui_pure.py](https://github.com/disease-maps/pages/projects/minerva_normalize.zip)
+#### 2.1. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer that will create the normalized version of data ([Download here](/pages/projects/minerva_normalize.zip)). This Python script outputs a file ready to be uploaded in the map.
 
 
-
-
-#### 2.2. Create a header: name the column 1 as "identifier_hgnc_symbol" and for column 2 as "color". The list of genes should start in row 2.
-
-
-
-#### 2.3. Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #f6b26b (orange). Save this file as "AD_genetic.txt"
 
 
 

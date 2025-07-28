@@ -20,6 +20,7 @@ permalink: /isd-vig5/
 
 #### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx". Save the file as "AD_proteome.tsv". 
 
+<img width="890" height="562" alt="image" src="https://github.com/user-attachments/assets/f6f9262c-ba8b-44c3-976b-2360c3bd0cf7" />
 
 
 

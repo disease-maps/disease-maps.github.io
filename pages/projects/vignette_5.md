@@ -102,13 +102,13 @@ permalink: /isd-vig5/
 <img width="1023" height="489" alt="image" src="https://github.com/user-attachments/assets/f367ebe3-249b-4e34-8545-549a8929ea4a" />
 
 
-#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to read the gene symbols in the elements. By navigating the map at the zoom level of your convenience, go to the lower part of KC and observe the secreted proteins.
+#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to read the gene symbols in the elements. By navigating the map at the zoom level of your convenience, go to the lower part of KC and observe the secreted proteins. Only a few proteins are downregulated after dupilumab treatment.
 
 <img width="1852" height="885" alt="image" src="https://github.com/user-attachments/assets/0698ec5a-83ef-419d-bfd0-d616b1ddb3a6" />
 
 
+#### 5.5. To try to check possible reasons leading to lack of influence of dupilumab treatment, check which of these unaltered secrete proteins are regulated by IL4/IL13. 
 
-#### 5.5. By navigating the map at the zoom level of your convenience, you can see that there are XXX.
 
 
 #### 5.6. XXX

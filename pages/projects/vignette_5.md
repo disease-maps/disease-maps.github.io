@@ -17,7 +17,7 @@ permalink: /isd-vig5/
 
 
 
-#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx". Save the file as "pre_AD_proteome.tsv". 
+#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx". Save the file as "AD_proteome.tsv". 
 
 
 
@@ -29,10 +29,13 @@ permalink: /isd-vig5/
 ##### 2.1.1. Install Python 3 in your operational system (Latest stable version for the latest versions of operation systems: [Windows](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe) or [MacOS](https://www.python.org/ftp/python/3.13.5/python-3.13.5-macos11.pkg)). 
 ##### 2.1.2. After downloading the above zip file, unzip it in your local computer in your fold of preference. You see a python file named "minerva_normalize.py"
 ##### 2.1.3. In Windows, just double-click the file; in Linux, right-click it and select "Run as a program". In MacOS, open the Terminal, go to the folder where the python file is located and type "python3 minerva_normalize.py".
+##### 2.1.4. Regardless of the system, a small window equal or similar to the pictureb below will appear. Click "Select file to Normalize" and selecte the file "AD_proteome.tsv"
 
+<img width="552" height="279" alt="image" src="https://github.com/user-attachments/assets/ea276913-a4bf-4528-b01f-dfbd938adc20" />
 
+##### 2.1.5. If successfull, the file "AD_proteome.txt", which is ready to be uploaded to the map, is generated.
 
-
+<img width="415" height="211" alt="image" src="https://github.com/user-attachments/assets/5aa31bd2-865f-45d7-81c8-8f33f1315eb5" />
 
 
 
@@ -67,11 +70,11 @@ permalink: /isd-vig5/
 
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/4bad673d-76fd-4398-a4d9-27e17bedff37" />
 
-#### 4.3. In the panel "Add overlay", click "browse" to upload the file "AD_proteome.tsv".
+#### 4.3. In the panel "Add overlay", click "browse" to upload the file "AD_proteome.txt".
 
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e" />
 
-#### 4.4. When you observe "AD_proteome.tsv" instead of "browse", provide a name in the field "Name" (e.g., "AD proteome"). Go to the botton and click "Upload"
+#### 4.4. When you observe "AD_proteome.txt" instead of "browse", provide a name in the field "Name" (e.g., "AD proteome"). Go to the botton and click "Upload"
 
 
 #### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to go back to the "Overlay" panel and initiate the explorations as shown in next steps.

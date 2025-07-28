@@ -24,7 +24,7 @@ permalink: /isd-vig5/
 
 ### 2. Preparing the data-containing file for integration
 
-#### 2.1. Normalize FCH values to the [-1,1] range and truncate the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer that will create the normalized version of data ([Download here](/pages/projects/minerva_normalize.py))
+#### 2.1. Normalize FCH values to the [-1,1] range and truncate the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer that will create the normalized version of data ([Download here](/pages/projects/minerva_normalize.zip))
 
 ## 🐍 Download
 

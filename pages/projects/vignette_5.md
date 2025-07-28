@@ -18,9 +18,9 @@ permalink: /isd-vig5/
 <img width="892" height="561" alt="image" src="https://github.com/user-attachments/assets/7c2a3907-7ffe-4796-bd10-9123c37bd651" />
 
 
-#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx". Save the file as "AD_proteome.tsv". 
+#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx" and rename column "FCH LS Post-Rx versus Pre-Rx" to "value". Save the file as "AD_proteome.tsv". 
 
-<img width="890" height="562" alt="image" src="https://github.com/user-attachments/assets/f6f9262c-ba8b-44c3-976b-2360c3bd0cf7" />
+<img width="883" height="566" alt="image" src="https://github.com/user-attachments/assets/bdef2529-98a2-4333-98a3-ec59865dc7bc" />
 
 
 

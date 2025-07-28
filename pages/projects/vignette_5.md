@@ -15,6 +15,7 @@ permalink: /isd-vig5/
 
 #### 1.2. Collect only differentially expressed proteins (DEPs) calculated by comparing expression profiles extracted from lesional skin samples of patients before and after dupilumab exposure. For this purpose, copy the columns A (HGNC symbol of the proteins), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
 
+<img width="892" height="561" alt="image" src="https://github.com/user-attachments/assets/7c2a3907-7ffe-4796-bd10-9123c37bd651" />
 
 
 #### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx". Save the file as "AD_proteome.tsv". 

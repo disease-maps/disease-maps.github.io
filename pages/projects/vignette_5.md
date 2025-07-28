@@ -30,7 +30,7 @@ permalink: /isd-vig5/
 
 Click below to download the normalization script:
 
-[Download normalize_gui_pure.py](https://raw.github.com/disease-maps/pages/projects/minerva_normalize.zip)
+[Download normalize_gui_pure.py](https://github.com/disease-maps/pages/projects/minerva_normalize.zip)
 
 
 

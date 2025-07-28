@@ -17,18 +17,15 @@ permalink: /isd-vig5/
 
 
 
-#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Save the file as "pre_AD_proteome.xlsx"
-
-
-
-#### 1.4. Click "Export" and then "Download data"
+#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx". Save the file as "pre_AD_proteome.tsv". 
 
 
 
 
 ### 2. Preparing the data-containing file for integration
 
-#### 2.1. Open the downloaded TSV file in Excel or similar software. Copy the contents of column 1 (symbol) and paste them into a new spreadsheet. 
+#### 2.1. Normalize FCH values to the [-1,1] range and truncate maximum FCH to 3. Use your prefered method to do that, but we recommend our Python-based normalizer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlacencio/disease-maps.github.io/blob/main/normalize_expression.ipynb))
+
 
 
 

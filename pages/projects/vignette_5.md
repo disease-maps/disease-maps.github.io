@@ -17,6 +17,7 @@ permalink: /isd-vig5/
 
 <img width="892" height="561" alt="image" src="https://github.com/user-attachments/assets/7c2a3907-7ffe-4796-bd10-9123c37bd651" />
 
+--> MAYBE INSERT HERE THE CREATION OF A SET OF INFLAMMATORY PROTEINS FROM THE PAPER <--
 
 #### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx" and rename column "FCH LS Post-Rx versus Pre-Rx" to "value". Save the file as "AD_proteome.tsv". 
 

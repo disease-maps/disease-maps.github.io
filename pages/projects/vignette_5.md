@@ -12,20 +12,19 @@ permalink: /isd-vig5/
 #### 1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from non-chronic patients before and after treatment with dupilumab.  
 
 
-
-#### 1.2. Collect only differentially expressed proteins (DEPs) calculated by comparing expression profiles extracted from lesional skin samples of patients before and after dupilumab exposure. For this purpose, copy the columns A (HGNC symbol of the proteins), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
+extracted from
+#### 1.2. Collect only columns containing expression profiles data from lesional skin samples of patients after versus before dupilumab exposure. For this purpose, copy the columns A (Protein), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
 
 <img width="892" height="561" alt="image" src="https://github.com/user-attachments/assets/7c2a3907-7ffe-4796-bd10-9123c37bd651" />
 
-#### 1.3. Create two sheets, one containing all DEPs (control) and another containing DEPs only with the FDR < 0.05 and fold-change > 1.5. 
+#### 1.3. Create two sheets, one containing all tested proteins (control) and another containing only differentially-expressed proteins (DEPs), i.e. with FDR < 0.05 and fold-change (FCH) > 1.5. 
 
-##### 1.3.1. For the sheet containing all DEPs, keep only the first column  Save this file as "AD_proteome_control.txt"
+##### 1.3.1. For the sheet containing all proteins, keep only the first column. Save this file as "AD_proteome_control.txt"
 
 <img width="945" height="529" alt="image" src="https://github.com/user-attachments/assets/523620e7-1d69-4756-894d-bd308c1b158a" />
 
 
-
-##### 1.3.2. In the other sheet, keep only DEPs with FDR < 0.05 and FCH > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx" and rename column "FCH LS Post-Rx versus Pre-Rx" to "value". Save the file as "AD_proteome.tsv". 
+##### 1.3.2. In the other sheet, keep only the DEPs (FDR < 0.05 and FCH > 1.5, following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx" and rename column "FCH LS Post-Rx versus Pre-Rx" to "value". Save the file as "AD_proteome.tsv". 
 
 <img width="883" height="566" alt="image" src="https://github.com/user-attachments/assets/bdef2529-98a2-4333-98a3-ec59865dc7bc" />
 
@@ -92,16 +91,23 @@ permalink: /isd-vig5/
 <img width="1018" height="491" alt="image" src="https://github.com/user-attachments/assets/9ac28fed-fbe3-467c-9826-864689f933b9" />
 
 
-#### 4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to go back to the "Overlay" panel and initiate the explorations as shown in next steps.
+#### 4.5. If you are successful, then you see the warning "User overlay added successfully". 
 
 <img width="1017" height="491" alt="image" src="https://github.com/user-attachments/assets/d0a1a048-2306-4430-91f4-cdb12056b349" />
 
 
+#### 4.6. Create now an overlay for the AD proteome control following steps 4.1 to 4.4. Upload the file "AD_proteome_control.txt" and as overlay name "AD_proteome_control". If you are successful, then you see the warning "User overlay added successfully". 
+
+<img width="1018" height="491" alt="image" src="https://github.com/user-attachments/assets/0222939d-b941-4ae7-842e-2054ddfa2ab0" />
+
+
+
 ### 5. Integrating and exploring the data into the map
 
-#### 5.1. Access the dupilumab-induced differentially expressed AD skin inflammatory proteome data, i.e., the overlay "AD proteome", via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD proteome" and other already existent overlays appear. Click "View".
+#### 5.1. Access the dupilumab-induced differentially expressed AD skin inflammatory proteome data, i.e., the overlay "AD proteome", and the , via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD proteome" and "AD_proteome_control", as well as other already existent overlays, appear. Click "View" in both overlays.
 
-<img width="1023" height="489" alt="image" src="https://github.com/user-attachments/assets/175666cb-6d6b-472b-ae8c-7fc676635cf7" />
+<img width="1021" height="490" alt="image" src="https://github.com/user-attachments/assets/cf7960ce-a60e-4ec8-a495-8c18b6dc2115" />
+
 
 
 #### 5.2. The dupilumab-induced differentially expressed AD skin inflammatory proteins mapped to the map will be painted in a red-blue gradient. The reder, the lower is the FCH value; the bluer, the higher is the FCH. 

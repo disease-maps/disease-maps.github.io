@@ -33,8 +33,9 @@ permalink: /isd-vig5/
 
 ### 2. Preparing the data-containing files for integration
 
-#### 2.1. Open the file "AD_proteome_control.tsv" and then add a new column named "color". Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #2986cc (blue). Save it as "AD_proteome_control.txt"
+#### 2.1. Open the file "AD_proteome_control.tsv". Replace "Protein" with "identifier_hgnc_symbol" in column 1 and then add a new column named "color". Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #2986cc (blue). Save it as "AD_proteome_control.txt"
 
+<img width="938" height="533" alt="image" src="https://github.com/user-attachments/assets/0c13c6bf-2739-42ba-9b86-59d36fcc2fdb" />
 
 
 #### 2.2. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer script that will create the normalized version of data ([Download it here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.

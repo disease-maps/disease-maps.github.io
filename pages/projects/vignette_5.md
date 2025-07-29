@@ -33,12 +33,12 @@ permalink: /isd-vig5/
 
 ### 2. Preparing the data-containing files for integration
 
-#### 2.1. Open the file "AD_proteome_control.tsv". Replace "Protein" with "identifier_hgnc_symbol" in column 1 and then add a new column named "color". Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #2986cc (blue). Save it as "AD_proteome_control.txt"
+#### 2.1. Open the file "AD_proteome_control.tsv". Replace "Protein" with "identifier_hgnc_symbol" in column 1 and then add a new column named "color". Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #2986cc (blue). Save it as "AD_proteome_control.txt". This file is ready to be uploaded to the map.
 
 <img width="938" height="533" alt="image" src="https://github.com/user-attachments/assets/0c13c6bf-2739-42ba-9b86-59d36fcc2fdb" />
 
 
-#### 2.2. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer script that will create the normalized version of data ([Download it here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.
+#### 2.2. Open the file ""AD_proteome.tsv". Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer script that will create the normalized version of data ([Download it here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.
 
 ##### 2.2.1. Install Python 3 in your operational system (Latest stable version for the latest versions of operation systems: [Windows](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe) or [MacOS](https://www.python.org/ftp/python/3.13.5/python-3.13.5-macos11.pkg)). 
 ##### 2.2.2. After downloading the above zip file, unzip it in your local computer in your folder of preference. You see a python file named "minerva_normalize.py"
@@ -72,7 +72,7 @@ permalink: /isd-vig5/
 <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/ee910213-6ec4-42f9-923c-0068bfe6e4df" />
 
 
-### 4. Create the overlay for integration
+### 4. Create the overlays for integration
 
 #### 4.1. The integration of data into the map is done via overlay creation. For this purpose, click the button "+ Overlays" above the intercellular communication map 
 

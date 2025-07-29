@@ -61,10 +61,6 @@ To demonstrate how the map can be used, we offer here some applications along wi
   <tr>
     <td> Analysis of the network structure </td>
   </tr>
-   <tr>
-    <td><a href="/isd-app-2/#bio" target="_blank"> Possible molecular mechanisms affected by candidate biomarkers for PsO systemic treatment response </a </td>
-    <td>Step-by-step guide</td>
-  </tr>
   <tr>
     <td><a href="/isd-app-2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
@@ -84,7 +80,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <td> Integration of transcriptomics and proteomics data into the map </td>  
   </tr>
   <tr>
-    <td><a href="/isd-app-2/#dup" target="_blank"> IFNG rescues the expression of dupilumab-downregulated proteins in AD </a></td>
+    <td><a href="/isd-app-2/#dup" target="_blank"> IFNG rescues the expression of TSLP and IL33 in AD keratinocytes under dupilumab treatment </a></td>
     <td><a href="/isd-vig5" target="_blank">Step-by-step guide</a></td>
   </tr>
 </table>

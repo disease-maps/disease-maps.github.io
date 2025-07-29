@@ -10,12 +10,6 @@ Here we demonstrate the ISD map can be a hypothesis-generating resource via the 
 
 ## Analysis of the network structure
 
-<h2 id="bio"></h2>
-
-### Possible molecular mechanisms affected by candidate biomarkers for PsO systemic treatment response 
-*Step-by-step guide to reproduce the analysis here!*
-
-
 <h2 id="net"></h2>
 
 ### Discovering possible compensatory pathways explaining poor response to dupilumab
@@ -65,13 +59,12 @@ We integrated AD- and PsO-related omics data (obtained from biomedical literatur
 <h2 id="dup"></h2>
 
 
-### IFNG rescues the expression of dupilumab-downregulated proteins in AD
-*Step-by-step guide to reproduce the analysis here!*
+### IFNG rescues the expression of TSLP and IL33 in AD keratinocytes under dupilumab treatment
+[Step-by-step guide to reproduce the analysis here!](/isd-vig5/)
 
-We collected differentially expressed proteins (DEPs) from the study by He et al. (2020) (18) in which proteome expression profiles were measured in AD lesional and non-lesional stratum corneum samples taken from patients before and after treatment with dupilumab. From this study, we considered only DEPs calculated by comparing expression profiles of 353 inflammatory proteins extracted from lesional stratum corneum samples of patients before and after dupilumab exposure. Of the 132 dupilumab-induced differentially expressed inflammatory proteins (Dup-DEIPs), 20 could be found in the AD map (see these proteins in the map here). First, we performed an enrichment analysis to check if any intra- or intercellular activity was enriched in Dup-DEIPs in lesional stratum corneum. Only the intercellular activity of KCs (adjusted p-value = 0.0003) is significantly enriched in Dup-DEIPs. This is rather expected as stratum corneum is comprised virtually only by KCs. But, intriguingly, the intracellular activity of KCs is not significantly enriched; this can be explained by the fact that He and colleagues considered only a panel of inflammatory proteins for measuring expression; the intracellular pathways of KCs in the AD map contain 145 proteins and only 34 of them are classified as inflammatory. 
+We collected differentially expressed proteins (DEPs) from the study by [He et al. (2020)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full) in which proteome expression profiles were measured in AD lesional and non-lesional stratum corneum samples taken from patients before and after treatment with dupilumab. From this study, we considered only DEPs calculated by comparing expression profiles of 353 inflammatory proteins extracted from lesional stratum corneum samples of patients before and after dupilumab exposure. Of the 132 dupilumab-induced differentially expressed inflammatory proteins (Dup-DEIPs), 20 could be found in the AD map (see these proteins in the map here).
 
-Despite this limitation, we sought to check the KCs intracellular activity for finding which and how these Dup-DEIPs are distributed in KCs intracellular pathways. Of the 34 inflammatory proteins in KCs, nine (IL1RL1, IL17RA, IKBKB, CASP3, CASP8, CXCL8, CCL17, TNF and MMP9) are Dup-DEIPs, all being downregulated by dupilumab. We first checked which of these Dup-DEIPs are regulated by IL4/IL13 signalling. Of these nine proteins, only CXCL8 is a IL4/IL13 target and, as expected, it is downregulated. While CXCL8 is downregulated by dupilumab, the expression of TSLP, another IL4/IL13-induced inflammatory protein, seems not to be affected; TSLP is also regulated by IFNG signalling according to the map, so the TSLP expression could be rescued by IFNG in the absence of an active IL4R. IL17RA is downregulated by dupilumab and, therefore, we would also expect a downregulation of IL17RA signalling inflammatory target proteins. However, the DEP data provide no evidence that either of its inflammatory targets in KCs, namely CCL20, CSF3 and IL33, are affected by dupilumab. This suggests alternative pathways — such as IFNG for IL33, IL26 for CCL20 and an unknown pathway for CSF3 — that rescue the expression of these proteins. Finally, it is possible to realize that, via this integration with proteomic data, molecular connections between IL4R and the above-mentioned Dup-DEIPs — except for CXCL8 — are still missing in the AD map. This can be due to either AD knowledge not yet captured by biocurators or a real knowledge gap concerning such connections.
-
+We sought to check the KCs intracellular activity for finding which and how these Dup-DEIPs are distributed in KCs intracellular pathways. Of the 34 inflammatory proteins in KCs, nine (IL1RL1, IL17RA, IKBKB, CASP3, CASP8, CXCL8, CCL17, TNF and MMP9) are Dup-DEIPs, all being downregulated by dupilumab. We first checked which of these Dup-DEIPs are regulated by IL4/IL13 signalling. Of these nine proteins, only CXCL8 is a IL4/IL13 target and, as expected, it is downregulated. While CXCL8 is downregulated by dupilumab, the expression of TSLP, another IL4/IL13-induced inflammatory protein, seems not to be affected; TSLP is also regulated by IFNG signalling according to the map, so the TSLP expression could be rescued by IFNG in the absence of an active IL4R. IL17RA is downregulated by dupilumab and, therefore, we would also expect a downregulation of IL17RA signalling inflammatory target proteins. However, the DEP data provide no evidence that either of its inflammatory targets in KCs, namely CCL20, CSF3 and IL33, are affected by dupilumab. Among these proteins, it is possible to see that IL33, as TSLP, is also regulated by IFNG. So, IL33 expression could also be rescued by IFNG. 
 
 
 

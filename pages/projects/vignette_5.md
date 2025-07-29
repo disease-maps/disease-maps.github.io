@@ -109,7 +109,7 @@ permalink: /isd-vig5/
 
 
 
-#### 5.2. Tested proteins unaffected by dupilumab are painted only in blue (right half) and DEPs are painted in blue (right half) and in red-blue gradient (left half). In this gradient, the reder, the lower the FCH value and the bluer,the higher the FCH value. Proteins in the map not considered in the original study keep the original color. 
+#### 5.2. Tested proteins unaffected by dupilumab are painted only in blue (right half) and DEPs are painted in blue (right half) and in red-blue gradient (left half). In this gradient, the reder, the lower the FCH value and, the bluer, the higher the FCH value. Proteins in the map not considered in the original study keep the original color. 
 
 <img width="1018" height="491" alt="image" src="https://github.com/user-attachments/assets/eaea7206-0f77-468c-87e1-e71386c25a3d" />
 
@@ -119,7 +119,7 @@ permalink: /isd-vig5/
 <img width="1021" height="490" alt="image" src="https://github.com/user-attachments/assets/4f50970b-3cd3-466c-8e60-e5d536af3336" />
 
 
-#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to see at least which proteins are painted. By navigating the map, it is possible to see some unaffected (no color-blue) and affected (reddish-blue) proteins, such as the four secreted ones shown in the figure below. 
+#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to see at least which proteins are painted. By navigating the map, it is possible to see some unaffected (right half in blue) and affected (right half in blue and left half in red-blue gradient) proteins, such as the nine secreted ones shown in the figure below. 
 
 <img width="1849" height="888" alt="image" src="https://github.com/user-attachments/assets/a9b1fe12-2857-46c8-8aea-133eadae7106" />
 

@@ -103,25 +103,25 @@ permalink: /isd-vig5/
 
 ### 5. Integrating and exploring the data into the map
 
-#### 5.1. Access DEPs, i.e., the overlay "AD proteome", and the tested proteins, i.e.m , matching the map via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD proteome" and "AD_proteome_control", as well as other already existent overlays, appear. Click "View" in both overlays.
+#### 5.1. Access DEPs, i.e., the overlay "AD proteome", and the tested proteins, i.e. the overlay "AD_proteome_control", matching the map via the panel "Overlays". Go to the botton and click "Without group". The overlay "AD proteome" and "AD_proteome_control", as well as other already existent overlays, appear. Click "View" in both overlays.
 
 <img width="1021" height="490" alt="image" src="https://github.com/user-attachments/assets/cf7960ce-a60e-4ec8-a495-8c18b6dc2115" />
 
 
 
-#### 5.2. The dupilumab-induced differentially expressed AD skin inflammatory proteins mapped to the map will be painted in a red-blue gradient. The reder, the lower is the FCH value; the bluer, the higher is the FCH. 
+#### 5.2. Tested proteins unaffected by dupilumab are painted only in blue (right half) and DEPs are painted in blue (right half) and in red-blue gradient (left half). In this gradient, the reder, the lower the FCH value and the bluer,the higher the FCH value. Proteins in the map not considered in the original study keep the original color. 
 
-<img width="978" height="511" alt="image" src="https://github.com/user-attachments/assets/c27f2629-89bd-4d73-92dd-27e8b789e3d7" />
-
-
-#### 5.3. In this particular application, we want to check whther one or more proteins could influence the downregulating effect of dupilumab on KC inflammatory secretome. So, go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.
-
-<img width="1023" height="489" alt="image" src="https://github.com/user-attachments/assets/f367ebe3-249b-4e34-8545-549a8929ea4a" />
+<img width="1018" height="491" alt="image" src="https://github.com/user-attachments/assets/eaea7206-0f77-468c-87e1-e71386c25a3d" />
 
 
-#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to at least see which proteins are painted. By navigating the map at the zoom level of your convenience, it is possible to see some dupilumab-induced downregulated proteins, such as the four secreted ones shown in the figure below. 
+#### 5.3. In this particular application, we want to check which inflammatory proteins in KC are affected or unaffected by dupilumab. So, go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.
 
-<img width="1852" height="885" alt="image" src="https://github.com/user-attachments/assets/37f2fa8d-93bf-4c2a-b298-660e8a3d4381" />
+<img width="1021" height="490" alt="image" src="https://github.com/user-attachments/assets/4f50970b-3cd3-466c-8e60-e5d536af3336" />
+
+
+#### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to see at least which proteins are painted. By navigating the map, it is possible to see some unaffected (no color-blue) and affected (reddish-blue) proteins, such as the four secreted ones shown in the figure below. 
+
+<img width="1849" height="888" alt="image" src="https://github.com/user-attachments/assets/a9b1fe12-2857-46c8-8aea-133eadae7106" />
 
 
 #### 5.5. To try to check possible reasons leading to lack of influence of dupilumab treatment, check which of these unaltered secrete proteins are regulated by IL4/IL13. 

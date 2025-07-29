@@ -4,12 +4,12 @@ title: ISD Vignette 5
 permalink: /isd-vig5/
 ---
 
-# Step-by-step guide to reproduce the application *"IFNG rescues the expression of dupilumab-downregulated proteins in AD	"*
+# Step-by-step guide to reproduce the application *"IFNG rescues the expression of TSLP and IL33 in AD keratinocytes under dupilumab treatment"*
 
 
 ### 1. Obtaining the protein expression data
 
-#### 1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from patients before and after treatment with dupilumab.  
+#### 1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from non-chronic patients before and after treatment with dupilumab.  
 
 
 
@@ -17,9 +17,13 @@ permalink: /isd-vig5/
 
 <img width="892" height="561" alt="image" src="https://github.com/user-attachments/assets/7c2a3907-7ffe-4796-bd10-9123c37bd651" />
 
---> MAYBE INSERT HERE THE CREATION OF A SET OF INFLAMMATORY PROTEINS FROM THE PAPER <--
+#### 1.3. Create two sheets, one containing all DEPs (control) and another containing DEPs only with the FDR < 0.05 and fold-change > 1.5. 
 
-#### 1.3. In the new sheet, keep only DEPs with FDR < 0.05 and fold-change (FCH) > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx" and rename column "FCH LS Post-Rx versus Pre-Rx" to "value". Save the file as "AD_proteome.tsv". 
+##### 1.3.1. For the sheet containing all DEPs, keep only the first column and then add a new column named "color". 
+
+
+
+##### 1.3.2. In the other sheet, keep only DEPs with FDR < 0.05 and FCH > 1.5 (following authors' own criteria). Then remove the column "FDR LS Post-Rx versus Pre-Rx" and rename column "FCH LS Post-Rx versus Pre-Rx" to "value". Save the file as "AD_proteome.tsv". 
 
 <img width="883" height="566" alt="image" src="https://github.com/user-attachments/assets/bdef2529-98a2-4333-98a3-ec59865dc7bc" />
 

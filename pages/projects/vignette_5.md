@@ -19,7 +19,9 @@ permalink: /isd-vig5/
 
 #### 1.3. Create two sheets, one containing all DEPs (control) and another containing DEPs only with the FDR < 0.05 and fold-change > 1.5. 
 
-##### 1.3.1. For the sheet containing all DEPs, keep only the first column and then add a new column named "color". 
+##### 1.3.1. For the sheet containing all DEPs, keep only the first column  Save this file as "AD_proteome_control.txt"
+
+<img width="945" height="529" alt="image" src="https://github.com/user-attachments/assets/523620e7-1d69-4756-894d-bd308c1b158a" />
 
 
 
@@ -29,18 +31,22 @@ permalink: /isd-vig5/
 
 
 
-### 2. Preparing the data-containing file for integration
+### 2. Preparing the data-containing files for integration
 
-#### 2.1. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer script that will create the normalized version of data ([Download it here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.
+#### 2.1. Open the file "AD_proteome_control.tsv" and then add a new column named "color". Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #2986cc (blue). Save it as "AD_proteome_control.txt"
 
-##### 2.1.1. Install Python 3 in your operational system (Latest stable version for the latest versions of operation systems: [Windows](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe) or [MacOS](https://www.python.org/ftp/python/3.13.5/python-3.13.5-macos11.pkg)). 
-##### 2.1.2. After downloading the above zip file, unzip it in your local computer in your folder of preference. You see a python file named "minerva_normalize.py"
-##### 2.1.3. In Windows, just double-click the file; in Linux, right-click it and select "Run as a program". In MacOS, open the Terminal, go to the folder where the python file is located and type "python3 minerva_normalize.py".
-##### 2.1.4. Regardless of the system, a small window equal or similar to the pictureb below will appear. Click "Select file to Normalize" and select the file "AD_proteome.tsv"
+
+
+#### 2.2. Normalize FCH values to the [-1,1] range by truncating the FCH value to a maximum and minimum of, respectively, 3 and -3. Use your prefered method to do that, but, if you prefer, we offer you here a Python-based normalizer script that will create the normalized version of data ([Download it here](/pages/projects/minerva_normalize.zip)) as well as the file ready to be uploaded in the map.
+
+##### 2.2.1. Install Python 3 in your operational system (Latest stable version for the latest versions of operation systems: [Windows](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe) or [MacOS](https://www.python.org/ftp/python/3.13.5/python-3.13.5-macos11.pkg)). 
+##### 2.2.2. After downloading the above zip file, unzip it in your local computer in your folder of preference. You see a python file named "minerva_normalize.py"
+##### 2.2.3. In Windows, just double-click the file; in Linux, right-click it and select "Run as a program". In MacOS, open the Terminal, go to the folder where the python file is located and type "python3 minerva_normalize.py".
+##### 2.2.4. Regardless of the system, a small window equal or similar to the pictureb below will appear. Click "Select file to Normalize" and select the file "AD_proteome.tsv"
 
 <img width="552" height="279" alt="image" src="https://github.com/user-attachments/assets/ea276913-a4bf-4528-b01f-dfbd938adc20" />
 
-##### 2.1.5. If successfull, the file "AD_proteome_normalized.txt", which is ready to be uploaded to the map, is generated.
+##### 2.2.5. If successfull, the file "AD_proteome_normalized.txt", which is ready to be uploaded to the map, is generated.
 
 <img width="415" height="211" alt="image" src="https://github.com/user-attachments/assets/5aa31bd2-865f-45d7-81c8-8f33f1315eb5" />
 

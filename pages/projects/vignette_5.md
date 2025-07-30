@@ -4,7 +4,7 @@ title: ISD Vignette 5
 permalink: /isd-vig5/
 ---
 
-# Step-by-step guide to reproduce the application *"IFNG rescues the expression of TSLP and IL33 in AD keratinocytes under dupilumab treatment"*
+# Step-by-step guide to reproduce the application *"IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment"*
 
 
 ### 1. Obtaining the protein expression data
@@ -128,7 +128,7 @@ permalink: /isd-vig5/
 
 <img width="963" height="519" alt="image" src="https://github.com/user-attachments/assets/4a4226bb-7956-4983-8642-b62ea60d4274" />
 
-#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is also regulated, but only by IL26.
+#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is additionally regulated only by IL26.
 
 
 

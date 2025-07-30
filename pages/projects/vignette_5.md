@@ -124,14 +124,18 @@ permalink: /isd-vig5/
 <img width="1849" height="500" alt="image" src="https://github.com/user-attachments/assets/a9b1fe12-2857-46c8-8aea-133eadae7106" />
 
 
-#### 5.5. To check which unaffected proteins and DEPs are directly regulated by the dupilumab target, i.e., IL4/IL13 signaling pathway, click the connections pointing to the proteins. In the left side of the map, a panel showing information about the target gene/protein, including the source of the selected connection (in this case, "IL4/IL13 induced regulation of gene expression"), appears. CXCL8 and TSLP are both directly regulated by IL4/IL13 pathway, but only CXCL8 is underexpressed. TSLP is unaffected.
+#### 5.5. To check which unaffected proteins and DEPs are directly regulated by the dupilumab target, i.e., IL4/IL13 signaling pathway, click the connections pointing to the proteins. In the left side of the map, a panel showing information about the target gene/protein, including the source of the selected connection (in this case, "IL4/IL13 induced regulation of gene expression"), appears. Among our proteins of interest, only CXCL8 and TSLP are directly regulated by IL4/IL13 pathway; however, only CXCL8 is underexpressed while TSLP is unaffected.
 
 <img width="963" height="519" alt="image" src="https://github.com/user-attachments/assets/4a4226bb-7956-4983-8642-b62ea60d4274" />
 
+#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is also regulated, but only by IL26.
 
-#### 5.6. XXX
+
+
+#### 5.7. IL17RA is also downregulated by dupilumab, but their targets in KC (CCL20, IL33) are not. Interestinglx, both proteins are also regulated by IL26.
+
 
 ### 6. Hypothesis
 
-XXX. 
+
 

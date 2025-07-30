@@ -121,13 +121,12 @@ permalink: /isd-vig5/
 
 #### 5.4. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to see at least which proteins are painted. By navigating the map, it is possible to see some unaffected (right half in blue) and affected (right half in blue and left half in red-blue gradient) proteins, such as the nine secreted ones shown in the figure below. 
 
-<img width="1849" height="888" alt="image" src="https://github.com/user-attachments/assets/a9b1fe12-2857-46c8-8aea-133eadae7106" />
+<img width="1849" height="500" alt="image" src="https://github.com/user-attachments/assets/a9b1fe12-2857-46c8-8aea-133eadae7106" />
 
 
-#### 5.5. To check which unaffected proteins and DEPs are directly regulated by the dupilumab target, i.e., IL4/IL13 signaling pathway, click the connections pointing to the proteins. In the left side of the map, a panel showing informatio about the target gene/protein, including the source of the selected connection (), appears
+#### 5.5. To check which unaffected proteins and DEPs are directly regulated by the dupilumab target, i.e., IL4/IL13 signaling pathway, click the connections pointing to the proteins. In the left side of the map, a panel showing information about the target gene/protein, including the source of the selected connection (in this case, "IL4/IL13 induced regulation of gene expression"), appears. CXCL8 and TSLP are both directly regulated by IL4/IL13 pathway, but only CXCL8 is underexpressed. TSLP is unaffected.
 
 <img width="963" height="519" alt="image" src="https://github.com/user-attachments/assets/4a4226bb-7956-4983-8642-b62ea60d4274" />
-
 
 
 #### 5.6. XXX

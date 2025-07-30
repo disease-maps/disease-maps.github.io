@@ -59,7 +59,7 @@ We integrated AD- and PsO-related omics data (obtained from biomedical literatur
 <h2 id="dup"></h2>
 
 
-### IFNG rescues the expression of TSLP and IL33 in AD keratinocytes under dupilumab treatment
+### IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment
 [Step-by-step guide to reproduce the analysis here!](/isd-vig5/)
 
 We collected differentially expressed proteins (DEPs) from the study by [He et al. (2020)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full) in which proteome expression profiles were measured in AD lesional and non-lesional stratum corneum samples taken from patients before and after treatment with dupilumab. From this study, we considered only DEPs calculated by comparing expression profiles of 353 inflammatory proteins extracted from lesional stratum corneum samples of patients before and after dupilumab exposure. Of the 132 dupilumab-induced differentially expressed inflammatory proteins (Dup-DEIPs), 20 could be found in the AD map (see these proteins in the map here).

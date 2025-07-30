@@ -124,7 +124,9 @@ permalink: /isd-vig5/
 <img width="1849" height="888" alt="image" src="https://github.com/user-attachments/assets/a9b1fe12-2857-46c8-8aea-133eadae7106" />
 
 
-#### 5.5. To try to check possible reasons leading to lack of influence of dupilumab treatment, check which of these unaltered secrete proteins are regulated by IL4/IL13. 
+#### 5.5. To check which unaffected proteins and DEPs are directly regulated by the dupilumab target, i.e., IL4/IL13 signaling pathway, click the connections pointing to the proteins. In the left side of the map, a panel showing informatio about the target gene/protein, including the source of the selected connection (), appears
+
+<img width="963" height="519" alt="image" src="https://github.com/user-attachments/assets/4a4226bb-7956-4983-8642-b62ea60d4274" />
 
 
 

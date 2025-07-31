@@ -4,7 +4,7 @@ title: ISD Vignette 5
 permalink: /isd-vig5/
 ---
 
-# Step-by-step guide to reproduce the application *"IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment"*
+# Step-by-step guide to reproduce the application *"IL26 rescues the expression of TSLP and CCL20 in AD keratinocytes under dupilumab treatment"*
 
 
 ### 1. Obtaining the protein expression data
@@ -128,15 +128,16 @@ permalink: /isd-vig5/
 
 <img width="963" height="519" alt="image" src="https://github.com/user-attachments/assets/4a4226bb-7956-4983-8642-b62ea60d4274" />
 
-#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is additionally regulated by IL26, but not IFNG. This suggests that IL26 signaling could compensate for the IL4/IL13 signaling.
+#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is additionally regulated by IL26, but not IFNG. This suggests that, for TSLP, IL26 signaling could compensate for the lack of IL4/IL13 signaling.
 
 
 
-#### 5.7. IL17RA is also downregulated by dupilumab (A). By following the downstream connections, you reach the phenotype "IL17 induced regulation of gene expression" (B). From there, continue downstream until find some unaffected or DEP (B). . . These targets (CCL20, IL33) are not. Interestingly, both proteins are also regulated by IL26. Again, IL26 signaling could compensate for the IL4/IL13 signaling.
+#### 5.7. IL17RA is also downregulated by dupilumab (A). By following the downstream connections, you reach the phenotype "IL17 induced regulation of gene expression" (B). From there, continue downstream until find some unaffected proteins or DEPs (B). You find six unaffected proteins: CCL20, IL33, CXCL9, CXCL10, CXCL11 and CSF3.
 
 <img width="913" height="579" alt="image" src="https://github.com/user-attachments/assets/8a2f4a07-d806-412e-ad8d-62d488aba8ed" /> 
 <img width="900" height="607" alt="image" src="https://github.com/user-attachments/assets/31e0347e-2a34-408c-a342-3a6117cc4cf4" />
 
+#### 5.8. Among the six unnafected proteins, only two - CCL20 and IL33 - are additionally regulated by other signaling pathways: IL26 for CCL20 and IL26 and IFNG for IL33. This suggests that IL26 signaling could compensate for the dupilumab-downregulated IL17 signaling pathway.
 
 
 

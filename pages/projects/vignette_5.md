@@ -9,7 +9,7 @@ permalink: /isd-vig5/
 
 ### 1. Obtaining the protein expression data
 
-#### 1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from non-chronic patients before and after treatment with dupilumab.  
+#### 1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.0176jaiza rodrigues gonçalves botucatu8/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from non-chronic patients before and after treatment with dupilumab.  
 
 
 #### 1.2. Collect only columns containing expression profiles data from lesional skin samples of patients after versus before dupilumab exposure. For this purpose, copy the columns A (Protein), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
@@ -128,11 +128,17 @@ permalink: /isd-vig5/
 
 <img width="963" height="519" alt="image" src="https://github.com/user-attachments/assets/4a4226bb-7956-4983-8642-b62ea60d4274" />
 
-#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is additionally regulated only by IL26.
+#### 5.6. To check possible mechanisms involved in the unaltered TSLP expression, check the other connections pointing to CXCL8 and TSLP and discover their sources. While CXCL8 is also regulated by IFNG and IL26 signaling pathways, TSLP is additionally regulated by IL26, but not IFNG. This suggests that IL26 signaling could compensate for the IL4/IL13 signaling.
 
 
 
-#### 5.7. IL17RA is also downregulated by dupilumab, but their targets in KC (CCL20, IL33) are not. Interestinglx, both proteins are also regulated by IL26.
+#### 5.7. IL17RA is also downregulated by dupilumab (A). By following the downstream connections, you reach the phenotype "IL17 induced regulation of gene expression" (B). From there, continue downstream until find some unaffected or DEP (B). . . These targets (CCL20, IL33) are not. Interestingly, both proteins are also regulated by IL26. Again, IL26 signaling could compensate for the IL4/IL13 signaling.
+
+<img width="913" height="579" alt="image" src="https://github.com/user-attachments/assets/8a2f4a07-d806-412e-ad8d-62d488aba8ed" /> 
+<img width="900" height="607" alt="image" src="https://github.com/user-attachments/assets/31e0347e-2a34-408c-a342-3a6117cc4cf4" />
+
+
+
 
 
 ### 6. Hypothesis

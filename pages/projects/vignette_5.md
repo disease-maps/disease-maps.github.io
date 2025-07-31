@@ -135,7 +135,7 @@ permalink: /isd-vig5/
 #### 5.7. IL17RA is also downregulated by dupilumab (A). By following the downstream connections, you reach the phenotype "IL17 induced regulation of gene expression" (B). From there, continue downstream until find some unaffected proteins or DEPs (B). You find six unaffected proteins: CCL20, IL33, CXCL9, CXCL10, CXCL11 and CSF3.
 
 <img width="913" height="579" alt="image" src="https://github.com/user-attachments/assets/8a2f4a07-d806-412e-ad8d-62d488aba8ed" /> 
-<img width="900" height="607" alt="image" src="https://github.com/user-attachments/assets/31e0347e-2a34-408c-a342-3a6117cc4cf4" />
+<img width="1000" height="370" alt="image" src="https://github.com/user-attachments/assets/31e0347e-2a34-408c-a342-3a6117cc4cf4" />
 
 #### 5.8. Among the six unnafected proteins, only two - CCL20 and IL33 - are additionally regulated by other signaling pathways: IL26 for CCL20 and IL26 and IFNG for IL33. This suggests that IL26 signaling could compensate for the dupilumab-downregulated IL17 signaling pathway.
 

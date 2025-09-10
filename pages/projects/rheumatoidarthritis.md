@@ -8,7 +8,7 @@ permalink: /rheumatoidarthritis/
 # Rheumatoid arthritis
 ## Rheumatoid Arthritis Map (RA-MAP)
 
-**Online access and exploration:** [https://ramap.uni.lu](https://ramap.uni.lu/)  
+**Online access and exploration:** [https://ramap.elixir-luxembourg.org](https://ramap.elixir-luxembourg.org/)  
 **Development status:** Second version is complete and published, applications demonstrated  
 **Disease IDs:** [DOID:7148](https://disease-ontology.org/?id=DOID:7148), [MESH:D001172](http://id.nlm.nih.gov/mesh/D001172), [MONDO:0008383](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0008383)  
 **Sustainable support:** [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), [MINERVA Platform](https://minerva.pages.uni.lu/)  

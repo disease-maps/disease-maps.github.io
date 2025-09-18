@@ -23,10 +23,10 @@ The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle expo
 
 This resource integrates toxicology and systems biomedicine approaches to give researchers a clear mechanistic view of pollution-related health risks. The online platform offers interactive browsing, data visualisation, computational modelling and space for community input, supporting both scientific discovery and the design of targeted interventions.
 
-### Funding
-
-This research is supported by the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project, funded under the European Union’s Horizon Europe programme [Grant Agreement No. 101156161](https://cordis.europa.eu/project/id/101156161).
-
 ### Acknowledgements
 
 The project is developing in collaboration with the [Luxembour Centre for Systems Biomedicine](https://www.uni.lu/lcsb-en/) and is supported by the [MINERVA Platform](https://minerva.pages.uni.lu/doc/) (Molecular Interaction NEtwoRk VisuAlization) and the [ELIXIR Luxembourg](https://elixir-luxembourg.org/) tools and services. 
+
+### Funding
+
+This research is supported by the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project, funded under the European Union’s Horizon Europe programme [Grant Agreement No. 101156161](https://cordis.europa.eu/project/id/101156161).

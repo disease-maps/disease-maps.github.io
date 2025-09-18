@@ -30,7 +30,3 @@ This research is supported by the [MARKOPOLO](https://markersofpollution-markopo
 ### Acknowledgements
 
 The project is developing in collaboration with the [Luxembour Centre for Systems Biomedicine](https://www.uni.lu/lcsb-en/) and is supported by the [MINERVA Platform](https://minerva.pages.uni.lu/doc/) (Molecular Interaction NEtwoRk VisuAlization) and the [ELIXIR Luxembourg](https://elixir-luxembourg.org/) tools and services. 
-
-### Data availability statement
-
-The maps are freely accessible online via the MINERVA platform.

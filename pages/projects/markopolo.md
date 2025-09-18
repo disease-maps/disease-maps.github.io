@@ -17,8 +17,11 @@ permalink: /markopolo/
 
 ### Description
 
+The ExposomeMap-UFP effort is initiated within the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project that aims to "identify disease-relevant biomarkers and causality mechanisms to understand the biological pathways of cerebral, pulmonary and cardiovascular health outcomes" to improve risk assessment and allow evaluation of the effectiveness of mitigation strategies.
 
+The ExposomeMap-UFP is an open, FAIR-compliant model (Findability, Accessibility, Interoperability, and Reusability) that connects particle exposure with biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, mitochondrial damage, inflammation and barrier disruption, which together contribute to conditions like asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
 
+Our resource integrates toxicology and systems biomedicine to give researchers a clear mechanistic view of pollution-related health risks. The online platform offers interactive browsing, data visualisation, computational modelling and space for community input, supporting both scientific discovery and the design of targeted interventions.
 
 ### Funding
 

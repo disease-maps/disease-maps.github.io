@@ -34,7 +34,7 @@ Alzheimer's disease ([DOID:10652](https://disease-ontology.org/?id=DOID:10652)),
 Parkinson's disease ([DOID:14330](https://disease-ontology.org/?id=DOID:14330)), 
 dementia ([DOID:1307](https://disease-ontology.org/?id=DOID:1307)); 
 **skin diseases:** 
-atopic dermatitis ([DOID:2723](https://disease-ontology.org/?id=DOID:2723));  
+atopic dermatitis ([DOID:2723](https://disease-ontology.org/?id=DOID:2723)); 
 **degenerative joint diseases:** 
 osteoarthritis ([DOID:8398](https://disease-ontology.org/?id=DOID:8398)); 
 **autoimmune diseases:** 

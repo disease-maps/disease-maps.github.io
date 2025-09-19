@@ -21,6 +21,17 @@ The ExposomeMap-UFP effort is initiated within the [MARKOPOLO](https://markersof
 
 The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle exposure with biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
 
+Related conditions include 
+[asthma](https://disease-ontology.org/?id=DOID:2841), 
+[COPD](https://disease-ontology.org/?id=DOID:3083), 
+[Alzheimer's disease](https://disease-ontology.org/?id=DOID:10652), 
+[Parkinson's disease](https://disease-ontology.org/?id=DOID:14330), 
+[dementia](https://disease-ontology.org/?id=DOID:1307), 
+[stroke](https://disease-ontology.org/?id=DOID:6713), 
+[heart attack](https://disease-ontology.org/?id=DOID:5844), 
+[hypertension](https://disease-ontology.org/?id=DOID:10763), 
+and others.
+
 ### Acknowledgements
 
 The project is developing in collaboration with the [Luxembourg Centre for Systems Biomedicine](https://www.uni.lu/lcsb-en/) and is supported by the [MINERVA Platform](https://minerva.pages.uni.lu/doc/) (Molecular Interaction NEtwoRk VisuAlization) and the [ELIXIR Luxembourg](https://elixir-luxembourg.org/) tools and services. 

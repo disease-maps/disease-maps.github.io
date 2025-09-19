@@ -22,22 +22,22 @@ The ExposomeMap-UFP effort is initiated within the [MARKOPOLO](https://markersof
 The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle exposure with biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
 
 Related conditions include 
-**respiratory diseases:** 
+**respiratory diseases** - 
 asthma ([DOID:2841](https://disease-ontology.org/?id=DOID:2841)), 
 COPD ([DOID:3083](https://disease-ontology.org/?id=DOID:3083)); 
-**cardiovascular diseases:** 
+**cardiovascular diseases** - 
 stroke ([DOID:6713](https://disease-ontology.org/?id=DOID:6713)), 
 heart attack ([DOID:5844](https://disease-ontology.org/?id=DOID:5844)), 
 hypertension ([DOID:10763](https://disease-ontology.org/?id=DOID:10763)); 
-**neurodegenerative diseases:** 
+**neurodegenerative diseases** - 
 Alzheimer's disease ([DOID:10652](https://disease-ontology.org/?id=DOID:10652)), 
 Parkinson's disease ([DOID:14330](https://disease-ontology.org/?id=DOID:14330)), 
 dementia ([DOID:1307](https://disease-ontology.org/?id=DOID:1307)); 
-**skin diseases:** 
+**skin diseases** - 
 atopic dermatitis ([DOID:2723](https://disease-ontology.org/?id=DOID:2723)); 
-**degenerative joint diseases:** 
+**degenerative joint diseases** - 
 osteoarthritis ([DOID:8398](https://disease-ontology.org/?id=DOID:8398)); 
-**autoimmune diseases:** 
+**autoimmune diseases** - 
 rheumatoid arthritis ([DOID:7148](https://disease-ontology.org/?id=DOID:7148)), 
 multiple sclerosis ([DOID:2377](https://disease-ontology.org/?id=DOID:2377)), 
 inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID:0050589)); 

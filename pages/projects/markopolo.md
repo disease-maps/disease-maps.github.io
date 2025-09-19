@@ -27,4 +27,10 @@ The project is developing in collaboration with the [Luxembourg Centre for Syste
 
 ### Funding
 
-This research is supported by the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project, funded under the European Union’s Horizon Europe programme [Grant Agreement No. 101156161](https://cordis.europa.eu/project/id/101156161).
+This work is supported by the environmental research consortium [MARKOPOLO](https://markersofpollution-markopolo.eu/) under the HORIZON call HLTH-2024-ENVHLTH-02-06 [Grant Agreement Number 101156161](https://cordis.europa.eu/project/id/101156161) funded by the European Union and the Swiss State Secretariat for Education, Research and Innovation (SERI).
+
+<!-- The work was also supported by the environmental research consortium MARKOPOLO, which is funded by the European Union (grant agreement number 101156161) and the Swiss State Secretariat for Education, Research and Innovation (SERI). Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union, the European Health and Digital Executive Agency (HADEA) or the SERI. Neither the European Union nor the granting authorities can be held responsible for them.-->
+
+<!--The work was supported by the environmental research consortium MARKOPOLO, which is funded by the European Union (Grant Agreement Number 101156161) and the Swiss State Secretariat for Education, Research and Innovation (SERI). Views and opinions expressed are, however, those of the authors only and do not necessarily reflect those of the European Union, the European Health and Digital Executive Agency (HADEA) or the SERI. Neither the European Union nor the granting authorities can be held responsible for them.-->
+
+<!--The work is supported by the environmental research consortium MARKOPOLO under the HORIZON call HLTH-2024-ENVHLTH-02-06 (Grant Agreement Number 101156161) funded by the European Union and the Swiss State Secretariat for Education, Research and Innovation (SERI).-->

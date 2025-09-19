@@ -8,7 +8,7 @@ permalink: /markopolo/
 ## ExposomeMap-UFP
 
 **Development status:** Active development  
-**Diseases treated:** Multiple related diseases  
+**Diseases:** Multiple related diseases  
 **Sustainable support:** [LIH](https://www.lih.lu/), [MINERVA](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [Grant Agreement No. 101156161](https://cordis.europa.eu/project/id/101156161), [https://markersofpollution-markopolo.eu/](https://markersofpollution-markopolo.eu/)  

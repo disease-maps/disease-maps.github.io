@@ -30,7 +30,10 @@ dementia ([DOID:1307](https://disease-ontology.org/?id=DOID:1307)),
 stroke ([DOID:6713](https://disease-ontology.org/?id=DOID:6713)), 
 heart attack ([DOID:5844](https://disease-ontology.org/?id=DOID:5844)), 
 hypertension ([DOID:10763](https://disease-ontology.org/?id=DOID:10763)), 
-and others.
+osteoarthritis ((DOID:8398)[https://disease-ontology.org/?id=DOID:8398]), 
+rheumatoid arthritis ((DOID:7148)[https://disease-ontology.org/?id=DOID:7148])
+inflammatory bowel disease ((DOID:0050589)[https://disease-ontology.org/?id=DOID:0050589]), 
+and many others.
 
 ### Acknowledgements
 

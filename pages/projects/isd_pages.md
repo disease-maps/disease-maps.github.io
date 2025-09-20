@@ -1,6 +1,6 @@
 --- 
 title: ISD 
-layout: default 
+layout: page 
 permalink: /isd/
 --- 
 

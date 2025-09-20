@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ISD Guide
-permalink: /isd-guide/
+permalink: /isdguide/
 ---
 
 

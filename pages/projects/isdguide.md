@@ -1,11 +1,8 @@
-
 --- 
 title: ISD guide 
 layout: default 
 permalink: /isdguide/ 
 --- 
-
-
 
 # A quick user guide to navigate and explore the ISD map  
 

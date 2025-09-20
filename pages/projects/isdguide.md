@@ -4,7 +4,7 @@ layout: default
 permalink: /isdguide/ 
 --- 
 
-# A quick user guide to navigate and explore the ISD map  
+# User guide to navigate and explore the ISD map  
 
 ## Accessing the maps
 

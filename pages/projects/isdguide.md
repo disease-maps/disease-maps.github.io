@@ -1,8 +1,8 @@
 
 --- 
-title: ISD guide
+title: ISD guide 
 layout: default 
-permalink: /isdguide/
+permalink: /isdguide/ 
 --- 
 
 

@@ -53,6 +53,11 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis:
 
+1. list1
+2. lisst
+3. sfds
+4. sfsf
+
 <table border="1">
   <tr>
     <th>Application</th>

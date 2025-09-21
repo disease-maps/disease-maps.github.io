@@ -64,7 +64,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <th>How to reproduce the analysis</th>
   </tr>
   <tr>
-    <td> Analysis of the network structure </td>
+    <td colspan="2"> Analysis of the network structure </td>
   </tr>
   <tr>
     <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>

@@ -9,10 +9,10 @@ permalink: /isdvig5/
 
 ### 1. Obtaining the protein expression data
 
-#### 1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.0176jaiza rodrigues gonçalves botucatu8/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from non-chronic patients before and after treatment with dupilumab.  
+1.1. Download the protein expression data from the [Supplementary Table E2](https://www.frontiersin.org/api/v4/articles/565656/file/Data_Sheet_1.XLSX/565656_supplementary-materials_datasheets_1_xlsx/1) accompanying the study by [He et al 2020](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.0176jaiza rodrigues gonçalves botucatu8/full); in this study, inflammatory proteome expression profiles (based on a panel of pre-selected 353 inflammatory proteins) were measured via Olink proteomic assay in AD lesional and non-lesional skin samples taken from non-chronic patients before and after treatment with dupilumab.  
 
 
-#### 1.2. Collect only columns containing expression profiles data from lesional skin samples of patients after versus before dupilumab exposure. For this purpose, copy the columns A (Protein), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
+1.2. Collect only columns containing expression profiles data from lesional skin samples of patients after versus before dupilumab exposure. For this purpose, copy the columns A (Protein), H (“FCH LS Post-Rx versus Pre-Rx”) and J (“FDR LS Post-Rx versus Pre-Rx”) to a new sheet.
 
 <!-- <img width="892" height="561" alt="image" src="https://github.com/user-attachments/assets/7c2a3907-7ffe-4796-bd10-9123c37bd651" /> -->
 

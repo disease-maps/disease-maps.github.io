@@ -170,7 +170,7 @@ permalink: /isdvig3/
 
 #### 5.6. These three branches converge into one where the target is the expression of IFNG (marked in the map with a blue anchor).
 
-<!-- <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc" /> 
+<!-- <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc" /> -->
 
 ![vig3_1](https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc)
 

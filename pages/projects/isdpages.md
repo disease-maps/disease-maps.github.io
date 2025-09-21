@@ -28,7 +28,7 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 
 | Access the map | Learn how to navigate and explore the map |
 | :---: | :---: |
-|[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/isd-guide/)|
+|[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/isdguide/)|
 
 
 ## Structure of the ISD map
@@ -67,26 +67,26 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <td> Analysis of the network structure </td>
   </tr>
   <tr>
-    <td><a href="/isd-app-2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
   </tr>
   <tr>
     <td> Integration of genetic variation data into the map </td>
   </tr>
     <tr>
-    <td><a href="/isd-app-2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a></td>
-    <td><a href="/isd-vig3" target="_blank">Step-by-step guide</a></td>
+    <td><a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a></td>
+    <td><a href="/isdvig3" target="_blank">Step-by-step guide</a></td>
   </tr>
  <tr>
-    <td><a href="/isd-app-2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
+    <td><a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
     <td>Step-by-step guide</td>
   </tr>
   <tr>
     <td> Integration of transcriptomics and proteomics data into the map </td>  
   </tr>
   <tr>
-    <td><a href="/isd-app-2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
-    <td><a href="/isd-vig5" target="_blank">Step-by-step guide</a></td>
+    <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
+    <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
   </tr>
 </table>
 
@@ -98,11 +98,11 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <th>Description</th>
   </tr>
   <tr>
-    <td> <a href="/isd-app1/" target="_blank"> The biology embedded in the map </a></td>
+    <td> <a href="/isdapp1/" target="_blank"> The biology embedded in the map </a></td>
     <td> Brief description of AD- and PsO-related molecular mechanisms present in the map </td>
     </tr>
   <tr>
-    <td> <a href="/isd-met/" target="_blank"> How was the map constructed?</a> </td>
+    <td> <a href="/isdmet/" target="_blank"> How was the map constructed?</a> </td>
     <td> Description of procedures and tools used to build the map </td>  
   </tr>
 </table>

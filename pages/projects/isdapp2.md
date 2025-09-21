@@ -20,6 +20,8 @@ We could identify alternative pathways that explain, at least partially, the rel
 
 ![kc_ad_hypo](https://github.com/user-attachments/assets/e3199474-0c0b-4fbd-986c-4d57d517c3f0)
 
+![](../images/projects/isdimages/keratinocyte_dipulimab.png)
+
 ## Integration of genetic variation data into the map 
 We integrated AD- and PsO-related genetic variation data (obtained from the Open Targets database) and, after analyzing the positions of the affected genes in the map, more specifically their encoded proteins, we could formulate the hypotheses shown below.
 

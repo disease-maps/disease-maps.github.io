@@ -1,7 +1,7 @@
 --- 
 title: ISD Methods
 layout: default 
-permalink: /isd-met/
+permalink: /isdmet/
 --- 
 
 # Methods

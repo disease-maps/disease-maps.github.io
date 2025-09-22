@@ -65,6 +65,17 @@ multiple sclerosis ([DOID:2377](https://disease-ontology.org/?id=DOID:2377)),
 inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID:0050589)), <br>
 and many others.-->
 
+### Development Team
+
+<table>
+<tr>
+<td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
+<td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
+Researcher</td>
+</tr>
+
+</table>
+
 ### Acknowledgements
 
 The project is developing in collaboration with the [Luxembourg Centre for Systems Biomedicine](https://www.uni.lu/lcsb-en/) and is supported by the [MINERVA Platform](https://minerva.pages.uni.lu/doc/) (Molecular Interaction NEtwoRk VisuAlization) and the [ELIXIR Luxembourg](https://elixir-luxembourg.org/) tools and services. 

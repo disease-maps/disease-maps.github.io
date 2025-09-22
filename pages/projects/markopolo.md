@@ -65,6 +65,8 @@ multiple sclerosis ([DOID:2377](https://disease-ontology.org/?id=DOID:2377)),
 inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID:0050589)), <br>
 and many others.-->
 
+### Editorial Panel
+
 ### Development Team
 
 <table>
@@ -85,12 +87,10 @@ Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>
-<td><strong>PetrNazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
+<td><strong>Petr Nazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
 Head of the Bioinformatics ad AI Unit</td>
 </tr>
 </table>
-
-### Editorial Panel
 
 ### Acknowledgements
 

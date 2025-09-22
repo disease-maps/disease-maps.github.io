@@ -70,17 +70,17 @@ and many others.-->
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein</strong><br /><strong>, Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 Researcher at the Multi-omics Data Science Research Group</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
-<td><strong>Marek Ostaszewski</strong><br /><strong>, University of Luxembourg, Luxembourg</strong><br />
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
 Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
-<td><strong>Ahmed Hemedan</strong><br /><strong>, Luxembourg Institute of Health, Luxembour</strong><br />
+<td><strong>Ahmed Hemedan, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
 Researcher at the Department of Transversal Translational Medicine</td>
 </tr>
 </table>

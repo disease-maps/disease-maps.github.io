@@ -85,6 +85,8 @@ Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 </tr>
 </table>
 
+### Editorial Panel
+
 ### Acknowledgements
 
 The project is developing in collaboration with the [Luxembourg Centre for Systems Biomedicine](https://www.uni.lu/lcsb-en/) and is supported by the [MINERVA Platform](https://minerva.pages.uni.lu/doc/) (Molecular Interaction NEtwoRk VisuAlization) and the [ELIXIR Luxembourg](https://elixir-luxembourg.org/) tools and services. 

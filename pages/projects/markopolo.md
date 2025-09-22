@@ -73,7 +73,16 @@ and many others.-->
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
 Researcher</td>
 </tr>
-
+<tr>
+<td style="width: 105px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
+Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
+<td><strong>Ahmed Hemedan, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
+Researcher at the Luxembourg Centre for Systems Biomedicine</td>
+</tr>
 </table>
 
 ### Acknowledgements

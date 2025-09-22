@@ -81,7 +81,7 @@ Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
 <td><strong>Ahmed Hemedan, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
-Researcher at the Department of Transversal Translational Medicine</td>
+Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 </tr>
 </table>
 

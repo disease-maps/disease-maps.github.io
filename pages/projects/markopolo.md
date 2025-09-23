@@ -90,7 +90,7 @@ Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>
 <td><strong>Petr Nazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
-Head of the Bioinformatics ad AI Unit</td>
+Head of the Bioinformatics and AI Unit</td>
 </tr>
 </table>
 

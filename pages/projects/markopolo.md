@@ -69,7 +69,7 @@ and many others.-->
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AndreasDaiber.jpg" alt="Andreas Daiber" /></td>
-<td><strong>Andreas Daiber, PhD</strong><br /><strong>University Medical Center of the Johannes Gutenberg University Mainz, Germany</strong><br /> Univ.-Prof., Head of Laboratory of Molecular Cardiology Scientific Coordinator of MARKOPOLO</td>
+<td><strong>Andreas Daiber, PhD</strong><br /><strong>University Medical Center of the Johannes Gutenberg University Mainz, Germany</strong><br /> Univ.-Prof., Head of Laboratory of Molecular Cardiology, Scientific Coordinator of MARKOPOLO</td>
 </tr>
 </table>
 

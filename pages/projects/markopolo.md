@@ -142,6 +142,12 @@ Postdoctoral Fellow at the Bioinformatics & AI group</td>
 <td><strong>Lu Zhang, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 Research Engineer at the Bioinformatics & AI group</td>
 </tr>
+
+<tr>
+<td style="width: 105px;"><img src="../images/team/VladimirDespotovic.jpg" alt="Vladimir Despotovic" /></td>
+<td><strong>Vladimir Despotovic, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+Scientist in Health Data, Bioinformatics & AI</td>
+</tr>
   
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>

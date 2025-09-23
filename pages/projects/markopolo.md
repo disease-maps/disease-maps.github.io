@@ -112,7 +112,7 @@ Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 University of Lille, France</strong><br />
 MSc Student in Bioinformatics</td>
 </tr>
-</table>
+  
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>
 <td><strong>Petr Nazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />

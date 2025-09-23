@@ -130,6 +130,12 @@ PhD Student at Socio-Economic & Environmental Health & Health Services</td>
 <td><strong>Maryna Chepeleva, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 PhD Student at the Multiomics Data Science group</td>
 </tr>
+
+<tr>
+<td style="width: 105px;"><img src="../images/team/BenoitKunath.jpg" alt="Benoit Kunath" /></td>
+<td><strong>Benoit Kunath, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+Postdoctoral Fellow</td>
+</tr>
   
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>

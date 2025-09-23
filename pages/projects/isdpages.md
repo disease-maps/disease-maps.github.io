@@ -39,14 +39,13 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 | Intercellular communication layer | Intracellular pathways layer |
 | :---: | :---: |
-| ![](/images/projects/isdimages/ADmap2.png) | ![](/images/projects/isdimages/Ker2.png) |
+| ![](/images/projects/isdimages/ADmap5.png) | ![](/images/projects/isdimages/Ker5.png) |
 
 ### PsO map
 
 | Intercellular communication layer | Intracellular pathways layer |
 | :---: | :---: |
-|![](/images/projects/isdimages/PSOmap2.png) | [![](/images/projects/pso_cell_500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsomapGlyphs3&perfectMatch=false&modelId=412&backgroundId=660&x=4118&y=7693&z=2.9547257721237843) |
-
+|![](/images/projects/isdimages/PSOmap5.png) | [![](/images/projects/isdimages/KerPso5.png) |
 
 
 ## Applications of the ISD map

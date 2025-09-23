@@ -92,7 +92,7 @@ and many others.-->
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
-Researcher at the Multi-omics Data Science Research Group</td>
+Researcher at the Multi-omics Data Science group</td>
 </tr>
   <!--
 <tr>
@@ -134,6 +134,12 @@ PhD Student at the Multiomics Data Science group</td>
 <tr>
 <td style="width: 105px;"><img src="../images/team/BenoitKunath.jpg" alt="Benoit Kunath" /></td>
 <td><strong>Benoit Kunath, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+Postdoctoral Fellow at the Bioinformatics & AI group</td>
+</tr>
+
+<tr>
+<td style="width: 105px;"><img src="../images/team/LuZhang.jpg" alt="Lu Zhang" /></td>
+<td><strong>Lu Zhang, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 Postdoctoral Fellow at the Bioinformatics & AI group</td>
 </tr>
   

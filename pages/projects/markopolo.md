@@ -124,6 +124,12 @@ MSc Student in Bioinformatics</td>
 <td><strong>Claudia Gutierrez Ortiz, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 PhD Student</td>
 </tr>
+
+<tr>
+<td style="width: 105px;"><img src="../images/team/MarynaChepeleva.jpg" alt="Maryna Chepeleva" /></td>
+<td><strong>Maryna Chepeleva, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+PhD Student</td>
+</tr>
   
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>

@@ -89,12 +89,12 @@ and many others.-->
 ### Development Team
 
 <table>
-  <!--
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 Researcher at the Multi-omics Data Science Research Group</td>
 </tr>
+  <!--
 <tr>
 <td style="width: 105px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />

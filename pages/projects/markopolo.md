@@ -4,7 +4,7 @@ layout: default
 permalink: /markopolo/
 ---
 
-![](../images/projects/markopolo-banner.jpg)
+![](../images/projects/markopolo-logo.jpg)
 
 # Fine and ultrafine particle toxicity
 ## ExposomeMap-UFP

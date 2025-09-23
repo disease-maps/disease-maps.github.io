@@ -27,7 +27,7 @@ The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle expo
 
 Major mechanisms of molecular initiating events are:  
 - direct interaction with receptors, for example Toll-like receptors (Figure 1);  
-- generation of reactive oxygen species, leading to oxidative stress and indirect activation of receptors;  
+- generation of reactive oxygen species leading to oxidative stresss;  
 - modification of the activity of Ca2+ channels.
 
 ![](../images/projects/markopolo-fig1.jpg)

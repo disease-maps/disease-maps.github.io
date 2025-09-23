@@ -21,6 +21,8 @@ The ExposomeMap-UFP effort is initiated within the [MARKOPOLO](https://markersof
 
 The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle exposure to biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
 
+![](../images/projects/markopolo-fig1.jpg)
+
 Related conditions include 
 **respiratory diseases:** 
 asthma ([DOID:2841](https://disease-ontology.org/?id=DOID:2841)), 

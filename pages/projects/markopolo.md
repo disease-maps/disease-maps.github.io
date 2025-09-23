@@ -120,7 +120,7 @@ MSc Student in Bioinformatics</td>
 </tr>
 
 <tr>
-<td style="width: 105px;"><img src="../images/team/ClaudiaGutierrezOrtiz.jpg" alt="Claudia Gutierrez Ortiz" /></td>
+<td style="width: 105px;"><img src="../images/team/profile.jpg" alt="Claudia Gutierrez Ortiz" /></td>
 <td><strong>Claudia Gutierrez Ortiz, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 PhD Student</td>
 </tr>

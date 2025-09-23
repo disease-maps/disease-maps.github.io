@@ -134,7 +134,7 @@ PhD Student at the Multiomics Data Science group</td>
 <tr>
 <td style="width: 105px;"><img src="../images/team/BenoitKunath.jpg" alt="Benoit Kunath" /></td>
 <td><strong>Benoit Kunath, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
-Postdoctoral Fellow</td>
+Postdoctoral Fellow at the Bioinformatics & AI group</td>
 </tr>
   
 <tr>

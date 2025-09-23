@@ -45,7 +45,7 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 | Intercellular communication layer | Intracellular pathways layer |
 | :---: | :---: |
-|![](/images/projects/isdimages/PSOmap5.png) | [![](/images/projects/isdimages/KerPso7.png) |
+|![](/images/projects/isdimages/PSOmap5.png) | ![](/images/projects/isdimages/KerPso7.png) |
 
 
 ## Applications of the ISD map

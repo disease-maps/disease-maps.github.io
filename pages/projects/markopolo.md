@@ -139,8 +139,8 @@ Postdoctoral Fellow at the Bioinformatics & AI group</td>
 
 <tr>
 <td style="width: 105px;"><img src="../images/team/LuZhang.jpg" alt="Lu Zhang" /></td>
-<td><strong>Lu Zhang, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
-Postdoctoral Fellow at the Bioinformatics & AI group</td>
+<td><strong>Lu Zhang, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+Research Engineer at the Bioinformatics & AI group</td>
 </tr>
   
 <tr>

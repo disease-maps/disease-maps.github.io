@@ -83,13 +83,13 @@ Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
-<td><strong>Ahmed Hemedan, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
+<td><strong>Ahmed Hemedan, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 </tr>
   -->
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>
-<td><strong>Petr Nazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembour</strong><br />
+<td><strong>Petr Nazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
 Head of the Bioinformatics and AI Unit</td>
 </tr>
 </table>

@@ -92,7 +92,7 @@ and many others.-->
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
-Researcher at the Multi-omics Data Science group</td>
+Postdoctoral Fellow at the Multi-omics Data Science group</td>
 </tr>
   <!--
 <tr>

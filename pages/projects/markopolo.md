@@ -107,8 +107,14 @@ Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 </tr>
   -->
 <tr>
+<td style="width: 105px;"><img src="../images/team/CorradoAmeli.jpg" alt="Corrado Ameli" /></td>
+<td><strong>Corrado Ameli, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+Postdoctoral Fellow</td>
+</tr>
+
+<tr>
 <td style="width: 105px;"><img src="../images/team/SallaAkerblom.jpg" alt="Salla Akerblom" /></td>
-<td><strong>SallaAkerblom, BSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg; 
+<td><strong>Salla Akerblom, BSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg; 
 University of Lille, France</strong><br />
 MSc Student in Bioinformatics</td>
 </tr>

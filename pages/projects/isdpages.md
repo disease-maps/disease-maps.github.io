@@ -37,9 +37,9 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 ### AD map
 
-| Side-by-side layer | Intercellular communication layer | Intracellular pathways layer |
-| :---: | :---: | :---: |
-| [![](/images/projects/adtop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=3741&y=1170&z=5.334467744964014) | [![](/images/projects/adcell500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4) | BLA |
+| Intercellular communication layer | Intracellular pathways layer |
+| :---: | :---: |
+| [![](/images/projects/adtop500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ISD_entry_level&perfectMatch=true&modelId=400&backgroundId=626&x=3741&y=1170&z=5.334467744964014) | [![](/images/projects/adcell500.png)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4) |
 
 ### PsO map
 

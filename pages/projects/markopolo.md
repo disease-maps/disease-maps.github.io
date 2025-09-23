@@ -82,7 +82,7 @@ and many others.-->
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AndreasDaiber.jpg" alt="Andreas Daiber" /></td>
-<td><strong>Andreas Daiber, PhD</strong><br /><strong>University Medical Center of the Johannes Gutenberg University Mainz, Germany</strong><br /> Univ.-Prof., Head of Laboratory of Molecular Cardiology, Scientific Coordinator of MARKOPOLO</td>
+<td><strong>Andreas Daiber, PhD</strong><br />University Medical Center of the Johannes Gutenberg University Mainz, Germany<br /> Univ.-Prof., Head of Laboratory of Molecular Cardiology, Scientific Coordinator of MARKOPOLO</td>
 </tr>
 </table>
 
@@ -91,63 +91,63 @@ and many others.-->
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Alexander Mazein, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Postdoctoral Fellow at the Multi-omics Data Science group</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/CorradoAmeli.jpg" alt="Corrado Ameli" /></td>
-<td><strong>Corrado Ameli, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Corrado Ameli, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Postdoctoral Fellow at the Multiomics Data Science group</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/SallaAkerblom.jpg" alt="Salla Akerblom" /></td>
-<td><strong>Salla Akerblom, BSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg; 
-University of Lille, France</strong><br />
+<td><strong>Salla Akerblom, BSc</strong><br />Luxembourg Institute of Health, Luxembourg; 
+University of Lille, France<br />
 MSc Student in Bioinformatics</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/noprofile.jpg" alt="Claudia Gutierrez Ortiz" /></td>
-<td><strong>Claudia Gutierrez Ortiz, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Claudia Gutierrez Ortiz, MSc</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 PhD Student at Socio-Economic & Environmental Health & Health Services</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/MarynaChepeleva.jpg" alt="Maryna Chepeleva" /></td>
-<td><strong>Maryna Chepeleva, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Maryna Chepeleva, MSc</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 PhD Student at the Multiomics Data Science group</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/BenoitKunath.jpg" alt="Benoit Kunath" /></td>
-<td><strong>Benoit Kunath, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Benoit Kunath, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Postdoctoral Fellow at the Bioinformatics & AI group</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/LuZhang.jpg" alt="Lu Zhang" /></td>
-<td><strong>Lu Zhang, MSc</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Lu Zhang, MSc</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Research Engineer at the Bioinformatics & AI group</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
-<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
+<td><strong>Marek Ostaszewski, PhD</strong><br />University of Luxembourg, Luxembourg<br />
 Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
-<td><strong>Ahmed Hemedan, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Ahmed Hemedan, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/VladimirDespotovic.jpg" alt="Vladimir Despotovic" /></td>
-<td><strong>Vladimir Despotovic, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Vladimir Despotovic, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Scientist in Health Data, Bioinformatics & AI</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/RekaToth.jpg" alt="Reka Toth" /></td>
-<td><strong>Reka Toth, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Reka Toth, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Group Leader, Multiomics Data Science; Scientist, Bioinformatics & AI</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/PetrNazarov.jpg" alt="Petr Nazarov" /></td>
-<td><strong>Petr Nazarov, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
+<td><strong>Petr Nazarov, PhD</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 Head of the Bioinformatics and AI Unit</td>
 </tr>
 </table>

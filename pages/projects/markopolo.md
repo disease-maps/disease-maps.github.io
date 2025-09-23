@@ -6,7 +6,7 @@ permalink: /markopolo/
 
 <!--![](../images/projects/markopolo-logo.jpg)-->
 
-<img src="../images/projects/markopolo-logo.jpg" alt="logo" width="250"/>
+<img src="../images/projects/markopolo-logo.jpg" alt="logo" width="240"/>
 
 # Fine and ultrafine particle toxicity
 ## ExposomeMap-UFP

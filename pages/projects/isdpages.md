@@ -39,7 +39,7 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 | Intercellular communication layer | Intracellular pathways layer |
 | :---: | :---: |
-| ![](/images/projects/isdimages/ADmap2.png) | ![](/images/projects/isdimages/Ker4.png) |
+| ![](/images/projects/isdimages/ADmap2.png) | ![](/images/projects/isdimages/Ker2.png) |
 
 ### PsO map
 

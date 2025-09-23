@@ -26,7 +26,7 @@ The ExposomeMap-UFP effort is initiated within the [MARKOPOLO](https://markersof
 The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle exposure to biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
 
 Major mechanisms of molecular initiating events are:  
-- direct interaction with receptors, for example TLR2/4 (Figure 1);  
+- direct interaction with receptors, for example Toll-like receptors (Figure 1);  
 - generation of reactive oxygen species, leading to oxidative stress and indirect activation of receptors;  
 - modification of the activity of Ca2+ channels.
 

@@ -109,7 +109,7 @@ Postdoctoral Fellow at the Department of Transversal Translational Medicine</td>
 <tr>
 <td style="width: 105px;"><img src="../images/team/CorradoAmeli.jpg" alt="Corrado Ameli" /></td>
 <td><strong>Corrado Ameli, PhD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />
-Postdoctoral Fellow</td>
+Postdoctoral Fellow at the Multiomics Data Science group</td>
 </tr>
 
 <tr>

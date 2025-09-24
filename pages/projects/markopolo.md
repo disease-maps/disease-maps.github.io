@@ -4,7 +4,7 @@ layout: default
 permalink: /markopolo/
 ---
 
-<!--![](../images/projects/markopolo-logo.jpg)-->
+![](../images/projects/markopolo-banner.jpg)
 
 <img src="../images/projects/markopolo-logo.jpg" alt="logo" width="240"/>
 

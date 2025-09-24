@@ -6,10 +6,9 @@ permalink: /markopolo/
 
 ![](../images/projects/markopolo-banner.jpg)
 
-<!--<img src="../images/projects/markopolo-logo.jpg" alt="logo" width="240"/>-->
-
+<!--<img src="../images/projects/markopolo-logo.jpg" alt="logo" width="240"/>
 # Fine and ultrafine particle toxicity
-## ExposomeMap-UFP
+## ExposomeMap-UFP-->
 
 **Development status:** Active development  
 **Diseases:** Multiple related diseases  

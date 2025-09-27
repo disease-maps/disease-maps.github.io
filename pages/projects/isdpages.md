@@ -57,6 +57,42 @@ To demonstrate how the map can be used, we offer here some applications along wi
 3. sfds
 4. sfsf -->
 
+Application
+
+How to reproduce the analysis  
+**Analysis of the network structure**  
+
+How to reproduce the analysis<br>  
+Analysis of the network structure 
+
+- How to reproduce the analysis  
+- Analysis of the network structure 
+
+
+  <!-- </tr>
+  <tr>
+    <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Integration of genetic variation data into the map </td>
+  </tr>
+    <tr>
+    <td><a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a></td>
+    <td><a href="/isdvig3" target="_blank">Step-by-step guide</a></td>
+  </tr>
+ <tr>
+    <td><a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Integration of transcriptomics and proteomics data into the map </td>  
+  </tr>
+  <tr>
+    <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
+    <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
+  </tr> -->
+
 <table border="1">
   <tr>
     <th>Application</th>

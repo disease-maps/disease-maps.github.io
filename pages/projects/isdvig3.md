@@ -144,7 +144,7 @@ permalink: /isdvig3/
 ![vig3_1](https://github.com/user-attachments/assets/d968c496-fb8d-4bbb-bdbf-4bb504c71c54)
 
 
-5.2. Click "View" and the proteins matching the genes harboring AD-associated SNPs will be painted in orange. 
+5.2. Click "View" and the proteins matching the genes harboring AD-associated SNPs will be painted in orange ([link to the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2373&y=2225&z=4.123391479177037&overlaysId=1367)). 
 
 <!-- <img width="997" height="502" alt="image" src="https://github.com/user-attachments/assets/f0d0ca3c-9038-45a4-96b7-43219af749f9" /> -->
 

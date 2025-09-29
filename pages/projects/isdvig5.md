@@ -64,7 +64,7 @@ permalink: /isdvig5/
 
 ### 3. Access and log in to the map
 
-3.1. Access the ISD map at the entry level via the link https://imi-biomap.elixir-luxembourg.org/. In the map, click the login icon in the left upper side of the screen. This is required to integrate data into the map.
+3.1. Access the ISD map at the entry level via the link (https://imi-biomap.elixir-luxembourg.org/). In the ([map](https://imi-biomap.elixir-luxembourg.org/)), click the login icon in the left upper side of the screen. This is required to integrate data into the map.
  
 <!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/94b53f4d-7c65-4502-8b46-dbd53c658676" /> -->
 

@@ -156,7 +156,7 @@ permalink: /isdvig3/
 
 ![vig3_1](https://github.com/user-attachments/assets/01d88863-bec8-4bec-8922-9f789b3a2c6b)
 
-5.4. A new tab ("Th1") showing the intracellular pathways of Th1 cell appears. It is possible to see some proteins painted in orange. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements.
+5.4. A new tab ("Th1") showing the intracellular pathways of Th1 cell appears. It is possible to see some proteins painted in orange. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements ([link to the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=385&backgroundId=610&x=1820.5&y=1785&z=4&overlaysId=1367)).
 
 <!-- <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/b1f7f125-f6a7-41f3-9912-55c2dd1309cc" /> -->
 

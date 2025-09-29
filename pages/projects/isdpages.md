@@ -93,7 +93,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
   <tr>
     <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
     <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
-  </tr> -->
+  </tr> 
 
 <table border="1">
   <tr>

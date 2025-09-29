@@ -22,7 +22,6 @@ We could identify alternative pathways that explain, at least partially, the rel
 
 ![](../images/projects/isdimages/keratinocyte_dipulimab.png)
 
-[Link to the maps](
 
 ## Integration of genetic variation data into the map 
 We integrated AD- and PsO-related genetic variation data (obtained from the Open Targets database) and, after analyzing the positions of the affected genes in the map, more specifically their encoded proteins, we could formulate the hypotheses shown below.

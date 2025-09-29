@@ -71,8 +71,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
 
 
 
-  <!--
-  </tr>
+  <!-- </tr>
   <tr>
     <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
@@ -126,12 +125,13 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
     <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
   </tr>
-</table> 
--->
+</table> -->
 
 ## Supplementary information
+- <a href="/isdapp1/" target="_blank"> The biology embedded in the map </a> (Brief description of AD- and PsO-related molecular mechanisms present in the map)
+- <a href="/isdmet/" target="_blank"> How was the map constructed?</a> (Description of procedures and tools used to build the map)
 
-<table border="1">
+<!-- <table border="1">
   <tr>
     <th>Supplementary Information</th>
     <th>Description</th>
@@ -144,7 +144,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
     <td> <a href="/isdmet/" target="_blank"> How was the map constructed?</a> </td>
     <td> Description of procedures and tools used to build the map </td>  
   </tr>
-</table>
+</table> -->
 
 
 

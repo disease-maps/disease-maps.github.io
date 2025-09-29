@@ -59,7 +59,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
 
  
 **Analysis of the network structure**  
-- a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a
+- <a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a>
 - mmm
 
 How to reproduce the analysis<br>  

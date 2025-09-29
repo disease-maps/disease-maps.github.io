@@ -50,17 +50,17 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 ## Applications of the ISD map
 
-To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis:
+To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis.
 
 <!-- 1. list1
 2. lisst
 3. sfds
 4. sfsf -->
 
-Application
-
-How to reproduce the analysis  
+ 
 **Analysis of the network structure**  
+- a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a
+- mmm
 
 How to reproduce the analysis<br>  
 Analysis of the network structure 

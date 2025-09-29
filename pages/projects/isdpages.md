@@ -51,25 +51,17 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 ## Applications of the ISD map
 
 To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis.
-
 <!-- 1. list1
 2. lisst
 3. sfds
 4. sfsf -->
-
- 
 **Analysis of the network structure**  
 - <a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a> (Step-by-step guide)
-
 **Integration of genetic variation data into the map**
 - <a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a> (<a href="/isdvig3" target="_blank">Step-by-step guide</a>)
 - <a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a> (Step-by-step guide)
-
 **Integration of transcriptomics and proteomics data into the map**
 - <a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a> (<a href="/isdvig5" target="_blank">Step-by-step guide</a>)
-  
-
-
 
   <!-- </tr>
   <tr>

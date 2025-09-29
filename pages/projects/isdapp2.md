@@ -15,12 +15,14 @@ Here we demonstrate the ISD map can be a hypothesis-generating resource via the 
 ### Discovering possible compensatory pathways explaining poor response to dupilumab
 *Step-by-step guide to reproduce the analysis here!*
 
-The direct analysis of the network structure per se may provide biological insights related to a disease of interest. To find compensatory pathways that could explain poor response of dupilumab, a widely used IL4R antagonist to treat moderate-to-severe AD, we analysed the network structure of the AD submap at both intercellular communication and intracellular (KCs and Th2 cells) levels.
+The direct analysis of the network structure per se may provide biological insights related to a disease of interest. To find compensatory pathways that could explain poor response of dupilumab, a widely used IL4R antagonist to treat moderate-to-severe AD, we analysed the network structure of the AD submap at both intercellular communication ([AD main map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25)) and intracellular ([KCs] (https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=386&backgroundId=610&x=5164&y=2665.785714285714&z=4)) and ([Th2 cells](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=387&backgroundId=610&x=2305.5&y=1687.8888888888887&z=4)) levels.
 We could identify alternative pathways that explain, at least partially, the relatively low rate of remission following dupilumab treatment. In KCs, for instance, many genes involved in skin barrier homeostasis are downregulated not only by IL4/IL13 pathways, but also by IFNG, IL22, TSLP, IL-17A and IL25 signalling pathways. So, the presence of these cytokines in skin could compensate for the inhibitory action of dupilumab on IL4R.
 
 <!-- ![kc_ad_hypo](https://github.com/user-attachments/assets/e3199474-0c0b-4fbd-986c-4d57d517c3f0) -->
 
 ![](../images/projects/isdimages/keratinocyte_dipulimab.png)
+
+[Link to the maps](
 
 ## Integration of genetic variation data into the map 
 We integrated AD- and PsO-related genetic variation data (obtained from the Open Targets database) and, after analyzing the positions of the affected genes in the map, more specifically their encoded proteins, we could formulate the hypotheses shown below.

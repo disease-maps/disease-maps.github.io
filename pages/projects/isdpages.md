@@ -51,10 +51,12 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 ## Applications of the ISD map
 
 To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis.
+
 <!-- 1. list1
 2. lisst
 3. sfds
 4. sfsf -->
+
 **Analysis of the network structure**  
 - <a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a> (Step-by-step guide)
 
@@ -65,7 +67,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
 **Integration of transcriptomics and proteomics data into the map**
 - <a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a> (<a href="/isdvig5" target="_blank">Step-by-step guide</a>)
 
-  <!-- </tr>
+<!-- </tr>
   <tr>
     <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
     <td>Step-by-step guide</td>
@@ -87,9 +89,9 @@ To demonstrate how the map can be used, we offer here some applications along wi
   <tr>
     <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
     <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
-  </tr> 
+  </tr> -->
 
-<table border="1">
+<!-- <table border="1">
   <tr>
     <th>Application</th>
     <th>How to reproduce the analysis</th>

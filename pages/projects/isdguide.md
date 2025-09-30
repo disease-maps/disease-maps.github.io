@@ -8,7 +8,7 @@ permalink: /isdguide/
 
 ## Accessing the maps
 
-The main entry point to the ISD map is available at (https://imi-biomap.elixir-luxembourg.org/). This is a side-by-side simplified comparison of the contents of atopic dermatitis [(AD)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25) and psoriasis [(PsO)(https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsO) maps. To access the maps, follow the steps below.
+The main entry point to the ISD map is available at (https://imi-biomap.elixir-luxembourg.org/). This is a side-by-side simplified comparison of the contents of atopic dermatitis [(AD)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25) and psoriasis [(PsO)](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsO) maps. To access the maps, follow the steps below.
 
 
 

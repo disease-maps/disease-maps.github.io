@@ -33,7 +33,7 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 
 ## Structure of the ISD map
 
-The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.elixir-luxembourg.org/) that is the entry point for the ISD map and contains the key molecules and cells associated with AD and PsO, the intercellular communication views depicting how [AD](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-2) and [PsO](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsO_map)-relevant cell types interact, and the intracellular pathways layer illustrating signalling networks within some selected cells.  
+The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.elixir-luxembourg.org/) that is the entry point for the ISD map and contains the key molecules and cells associated with AD and PsO, the intercellular communication views depicting how [AD](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25) and [PsO](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap)-relevant cell types interact, and the intracellular pathways layer illustrating signalling networks within some selected cells.  
 
 ### AD map
 

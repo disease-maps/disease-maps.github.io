@@ -33,7 +33,7 @@ This quick user guide explains how to navigate and use the UC and AD disease map
 
 The main entry point to the maps is  [https://imi-immuniverse.elixir-luxembourg.org](https://imi-immuniverse.elixir-luxembourg.org). This is a comparison diagram of Ulcerative Colitis (UC) and  Atopic Dermatitis (AD) disease mechanisms.
 
-![P1](/images/projects/imids/P1.jpg "comparison diagram")
+![P1](/pages/projects/ucadmap/images/P1.jpg "comparison diagram")
 
 To access detailed maps for both diseases, please click on the blue button with disease name (red arrow) above each part of the diagram.  
 
@@ -41,7 +41,7 @@ For example, clicking on the ULCERATIVE COLITIS button you will be directed to t
 
 ### Pan and zoom
 
-![P2](/images/projects/imids/P2.jpg "uc map pan zoom")
+![P2](/pages/projects/ucadmap/images/P2.jpg "uc map pan zoom")
 
 There, you can browse, search in the content or explore data overlays.
 Zooming and navigating for browsing the map content are similar to working with Google Maps. You can use buttons on the right (red arrows) to zoom in, zoom out and center the map content.
@@ -50,47 +50,47 @@ Zooming and navigating for browsing the map content are similar to working with 
 
 To access information about map elements - cell types, phenotypes, proteins, genes, interactions - please click on the element and check the appearing panel with the description on the left. 
 
-![P3](/images/projects/imids/P3.jpg "uc map click interaction")
+![P3](/pages/projects/ucadmap/images/P3.jpg "uc map click interaction")
 
 By clicking on a map interaction (black or red lines that connect map elements) you can access references to publications supporting this reaction.
 
 ### Search
 
-![P4](/images/projects/imids/P4.jpg "uc map search")
+![P4](/pages/projects/ucadmap/images/P4.jpg "uc map search")
 
 You can search for elements using the search panel and see them in the map highlighted with blue anchors. To clear the search, please use the Clear button
 
-![P5](/images/projects/imids/P5.jpg "uc map clear")
+![P5](/pages/projects/ucadmap/images/P5.jpg "uc map clear")
 
 ### Submaps
 
 To go to the next layer - submaps of UC or AD key cell types - click the SUBMAPS button above. You will see the list of the submaps on the left panel.
 
-![P6](/images/projects/imids/P6.jpg "uc map submaps")
+![P6](/pages/projects/ucadmap/images/P6.jpg "uc map submaps")
 
 By clicking on the submap name you will be accessing the corresponding submap.
 
 
-![P7](/images/projects/imids/P7.jpg "uc map submaps explore")
+![P7](/pages/projects/ucadmap/images/P7.jpg "uc map submaps explore")
 Here you can also search for elements, check description and references etc.
 
 ### Overlays
 
 To visualise experimental dataset on the map, please use the OVERLAYS button above. 
 
-![P8](/images/projects/imids/P8.jpg "uc map submaps overlays")
+![P8](/pages/projects/ucadmap/images/P8.jpg "uc map submaps overlays")
 
 For example, here are genes associated with UC and AD from the Open Targets Genetics database and ExpressionAtlas formatted and highlighted with blue and red to visualize overlaps with disease mechanisms represented in the maps. 
 
 
 Use buttons View and Hide to display the dataset. Many datasets can be shown at the same time.
 
-![P9](/images/projects/imids/P9.jpg "uc map submaps overlays 2")
+![P9](/pages/projects/ucadmap/images/P9.jpg "uc map submaps overlays 2")
 
 To view details, please click on an element and access the panel on the left with the description.
 
 
-![P100](/images/projects/imids/P10.jpg "uc map submaps overlays 3")
+![P100](/pages/projects/ucadmap/images/P10.jpg "uc map submaps overlays 3")
 
 ### Supplementary tables
 

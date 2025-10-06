@@ -1,14 +1,14 @@
 --- 
-title: Psoriasis 
+title: ISD 
 layout: default 
 permalink: /isd/
 --- 
 
-# Inflammatory Skin Diseases
+# The Inflammatory Skin Disease Map (ISD) pages  
 
-## Inflammatory Skin Disease (ISD) map
 
-**The ISD map webpages:** [Access here](isd_pages.md)  
+## Technical information
+
 **Development status:** Available for exploration online  
 **Online access and exploration:** [https://imi-biomap.elixir-luxembourg.org](https://imi-biomap.elixir-luxembourg.org)  
 **Disease IDs | Psoriasis:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [MESH:D011565](https://id.nlm.nih.gov/mesh/D011565.html), [MONDO:0005083](https://www.ebi.ac.uk/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0005083)   
@@ -17,13 +17,131 @@ permalink: /isd/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 BIOMAP No 821511](https://www.imi.europa.eu/projects-results/project-factsheets/biomap), [BIOMAP](https://biomap-imi.eu/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
-**Publication:** [Preprimt](https://www.biorxiv.org/content/10.1101/2025.02.28.640747v1])  
-**Contact:** Marcio Luis Acencio (marcio.acencio(at)gmail.com), Oxana Lopata (oxana.lopata(at)uni.lu) and Marek Ostaszewski(marek.ostaszewski(at).uni.lu), University of Luxembourg     
+**Publication:** [Preprint](https://www.biorxiv.org/content/10.1101/2025.02.28.640747v1])  
+**Contact:** Marcio Luis Acencio (marcio.acencio(at)gmail.com), Oxana Lopata (oxana.lopata(at)uni.lu) and Marek Ostaszewski (marek.ostaszewski(at).uni.lu), University of Luxembourg     
 
-### Description
 
-The ISD Map is a disease map of atopic dermatitis- and psoriasis-associated mechanisms. It has been developed as part of IMI2 [BIOMAP](https://biomap-imi.eu/) project. Details about the methods used to build the map and its applications can be found [here]().
+## Brief introduction  
 
-### Funding
+The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific causal molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
 
-This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 821511.
+
+| Access the map | Learn how to navigate and explore the map |
+| :---: | :---: |
+|[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/isdguide/)|
+
+
+## Structure of the ISD map
+
+The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.elixir-luxembourg.org/) that is the entry point for the ISD map and contains the key molecules and cells associated with AD and PsO, the intercellular communication views depicting how [AD](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4) and [PsO](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=676&x=5517.5&y=5830&z=4)-relevant cell types interact, and the intracellular pathways layer illustrating signalling networks within some selected cells.  
+
+### AD map
+
+| Intercellular communication layer | Intracellular pathways layer |
+| :---: | :---: |
+| ![](/images/projects/isdimages/ADmap5.png) | ![](/images/projects/isdimages/Ker5.png) |
+
+### PsO map
+
+| Intercellular communication layer | Intracellular pathways layer |
+| :---: | :---: |
+|![](/images/projects/isdimages/PSOmap5.png) | ![](/images/projects/isdimages/KerPso7.png) |
+
+
+## Applications of the ISD map
+
+To demonstrate how the map can be used, we offer here some applications along with a step-by-step guide to reproduce the analysis.
+
+<!-- 1. list1
+2. lisst
+3. sfds
+4. sfsf -->
+
+**Analysis of the network structure**  
+- <a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a> (Step-by-step guide)
+
+**Integration of genetic variation data into the map**
+- <a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a> (<a href="/isdvig3" target="_blank">Step-by-step guide</a>)
+- <a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a> (Step-by-step guide)
+
+**Integration of transcriptomics and proteomics data into the map**
+- <a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a> (<a href="/isdvig5" target="_blank">Step-by-step guide</a>)
+
+<!-- </tr>
+  <tr>
+    <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Integration of genetic variation data into the map </td>
+  </tr>
+    <tr>
+    <td><a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a></td>
+    <td><a href="/isdvig3" target="_blank">Step-by-step guide</a></td>
+  </tr>
+ <tr>
+    <td><a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Integration of transcriptomics and proteomics data into the map </td>  
+  </tr>
+  <tr>
+    <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
+    <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
+  </tr> -->
+
+<!-- <table border="1">
+  <tr>
+    <th>Application</th>
+    <th>How to reproduce the analysis</th>
+  </tr>
+  <tr>
+    <td colspan="2"> Analysis of the network structure </td>
+  </tr>
+  <tr>
+    <td><a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Integration of genetic variation data into the map </td>
+  </tr>
+    <tr>
+    <td><a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a></td>
+    <td><a href="/isdvig3" target="_blank">Step-by-step guide</a></td>
+  </tr>
+ <tr>
+    <td><a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
+    <td>Step-by-step guide</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Integration of transcriptomics and proteomics data into the map </td>  
+  </tr>
+  <tr>
+    <td><a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a></td>
+    <td><a href="/isdvig5" target="_blank">Step-by-step guide</a></td>
+  </tr>
+</table> -->
+
+## Supplementary information
+- <a href="/isdapp1/" target="_blank"> The biology embedded in the map </a> (Brief description of AD- and PsO-related molecular mechanisms present in the map)
+- <a href="/isdmet/" target="_blank"> How was the map constructed?</a> (Description of procedures and tools used to build the map)
+
+<!-- <table border="1">
+  <tr>
+    <th>Supplementary Information</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="/isdapp1/" target="_blank"> The biology embedded in the map </a></td>
+    <td> Brief description of AD- and PsO-related molecular mechanisms present in the map </td>
+    </tr>
+  <tr>
+    <td> <a href="/isdmet/" target="_blank"> How was the map constructed?</a> </td>
+    <td> Description of procedures and tools used to build the map </td>  
+  </tr>
+</table> -->
+
+
+
+

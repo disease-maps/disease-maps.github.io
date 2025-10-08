@@ -33,6 +33,8 @@ Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps
  
 ### Disease maps
 
+Lopata O, Acencio ML, Wang X, Hemedan AA, Chao MJ, Jelinsky SA, Tran F, Rosenstiel P, Li Yim AYF, Schneider R, Satagopam V, Ostaszewski M. Identification of shared and unique mechanisms of atopic dermatitis and ulcerative colitis by construction and computational analysis of disease maps. Comput Struct Biotechnol J. 2025 Sep 7;27:4007-4018. [doi: 10.1016/j.csbj.2025.09.008](https://doi.org/10.1016/j.csbj.2025.09.008). [PMID: 41017825](https://www.ncbi.nlm.nih.gov/pubmed/41017825).
+
 Hoch M, Ehlers L, Bannert K, Stanke C, Brauer D, Caton V, Lamprecht G, Wolkenhauer O, Jaster R, Wolfien M. In silico investigation of molecular networks linking gastrointestinal diseases, malnutrition, and sarcopenia. Front Nutr. 2022 Nov 4;9:989453. [doi: 10.3389/fnut.2022.989453](https://doi.org/10.3389/fnut.2022.989453). [PMID: 36407505](https://www.ncbi.nlm.nih.gov/pubmed/36407505).
 
 Zerrouk N, Aghakhani S, Singh V, Augé F, Niarakis A. A Mechanistic Cellular Atlas of the Rheumatic Joint. Front. Syst. Biol. 2022 2:925791. [doi: 10.3389/fsysb.2022.925791](https://doi.org/10.3389/fsysb.2022.925791). Available at [https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full).

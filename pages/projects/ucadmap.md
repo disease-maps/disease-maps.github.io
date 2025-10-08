@@ -6,8 +6,6 @@ permalink: /ucadmap/
 
 # Map of ulcerative colitis and atopic dermatitis
 
-## Useful information 
-
 **Online access and exploration:** [https://imi-immuniverse.elixir-luxembourg.org](https://imi-immuniverse.elixir-luxembourg.org)  
 **Development status:** Available for exploration online  
 **Diseases:** Ulcerative colitis and atopic dermatitis  
@@ -22,6 +20,10 @@ permalink: /ucadmap/
 ## Description
 
 The IMIDs Map [is accessible here](https://imi-immuniverse.elixir-luxembourg.org). It was developed within the IMI2 [ImmUniverse](https://www.immuniverse.eu/) project. The ImmUniverse project focuses on ulcerative colitis and atopic dermatitis towards new insights into disease severity and progression with the ultimate aim of improved diagnostic and therapeutic options for patients.
+
+## How to cite
+
+Lopata O, Acencio ML, Wang X, Hemedan AA, Chao MJ, Jelinsky SA, Tran F, Rosenstiel P, Li Yim AYF, Schneider R, Satagopam V, Ostaszewski M. Identification of shared and unique mechanisms of atopic dermatitis and ulcerative colitis by construction and computational analysis of disease maps. Comput Struct Biotechnol J. 2025 Sep 7;27:4007-4018. doi: 10.1016/j.csbj.2025.09.008. PMID: 41017825.
 
 ## Funding
 

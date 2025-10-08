@@ -239,7 +239,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 Resource: <a href="https://syscid.elixir-luxembourg.org/minerva/" target="_blank">SYSCID Map</a><br />
 Diseases: IBD, rheumatoid arthritis and systemic lupus erythematosus<br />
 Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">DOI</a>
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/38022524/" target="_blank">PubMed</a>
 </td>
 </tr>
 
@@ -263,7 +263,7 @@ Contact: Marcio Acencio, Oxana Lopata and Marek Ostaszewski, University of Luxem
 Resource: <a href="https://imi-immuniverse.elixir-luxembourg.org" target="_blank">Map of ulcerative colitis and atopic dermatitis</a><br />
 Diseases: ulcerative colitis, atopic dermatitis<br />
 Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
-Publications: <a href="https://doi.org/10.1101/2025.04.23.650149" target="_blank">DOI</a>
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank">PubMed</a>
 </td>
 </tr>
 

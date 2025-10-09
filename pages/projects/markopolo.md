@@ -20,9 +20,9 @@ permalink: /markopolo/
 
 ### Description
 
-The ExposomeMap-UFP effort is initiated within the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project that aims to "identify disease-relevant biomarkers and causality mechanisms to understand the biological pathways of cerebral, pulmonary and cardiovascular health outcomes" towards improving risk assessment and allowing evaluation of the effectiveness of mitigation strategies.
+The ExposomeMap-PM effort is initiated within the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project that aims to "identify disease-relevant biomarkers and causality mechanisms to understand the biological pathways of cerebral, pulmonary and cardiovascular health outcomes" towards improving risk assessment and allowing evaluation of the effectiveness of mitigation strategies.
 
-The ExposomeMap-UFP is an open, FAIR-compliant model that connects particle exposure to biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
+The ExposomeMap-PM is an open, FAIR-compliant model that connects particle exposure to biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
 
 Major mechanisms of molecular initiating events are:  
 - direct interaction with receptors, for example Toll-like receptors (Figure 1);  

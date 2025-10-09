@@ -83,6 +83,18 @@ and many others.-->
 <td style="width: 105px;"><img src="../images/team/AndreasDaiber.jpg" alt="Andreas Daiber" /></td>
 <td><strong>Andreas Daiber, PhD</strong><br />University Medical Center of the Johannes Gutenberg University Mainz, Germany<br /> Univ.-Prof., Head of Laboratory of Molecular Cardiology, Scientific Coordinator of MARKOPOLO</td>
 </tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/MarinKuntic.jpg" alt="Marin Kuntic" /></td>
+<td><strong>Marin Kuntic, PhD</strong><br />University Medical Center of the Johannes Gutenberg University Mainz, Germany<br />Postdoctoral Researcher</td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/ThomasMunzel.jpg" alt="Thomas Münzel" /></td>
+<td><strong>Thomas Münzel, MD</strong><br />University Medical Center of the Johannes Gutenberg University Mainz, Germany<br />Head of the Cardiology Department</td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/JosLelieveld.jpg" alt="Jos Lelieveld" /></td>
+<td><strong>Jos Lelieveld, PhD</strong><br />Max Planck Institute for Chemistry, Mainz, Germany<br />Director of the Atmospheric Chemistry Department</td>
+</tr>
 </table>
 
 ### Development Team

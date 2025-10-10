@@ -117,7 +117,7 @@ University of Lille, France<br />
 MSc Student in Bioinformatics</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/noprofile.jpg" alt="Claudia Gutierrez Ortiz" /></td>
+<td style="width: 105px;"><img src="../images/team/ClaudiaGutierrezOrtiz.jpg" alt="Claudia Gutierrez Ortiz" /></td>
 <td><strong>Claudia Gutierrez Ortiz, MSc</strong><br />Luxembourg Institute of Health, Luxembourg<br />
 PhD Student at Socio-Economic & Environmental Health & Health Services</td>
 </tr>

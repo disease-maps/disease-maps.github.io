@@ -15,13 +15,15 @@ permalink: /isdvig3/
 
 ![vig3_1](https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597)
 
-<!-- ![vig3_1](../images/projects/filename.jpg)-->
+![vig3_1](../images/projects/vig3_1.png)
 
 1.2. Then, use the Experimental Factor Ontology (EFO) identifier of AD (EFO_0000274) as query. As soon as you finish typing, "Atopic eczema" appears in the screen. Click it.
 
 <!-- <img width="1022" height="489" alt="vig3_2" src="https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556" /> -->
 
 ![vig3_12](https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556)
+
+![vig3_12](../images/projects/vig3_12.png)
 
 1.3. A page containing the retrieved results appears. Go to "Columns options" and selected the following sources of genetic data: GWAS associations, ClinVar and Uniprot Curated Variants
 

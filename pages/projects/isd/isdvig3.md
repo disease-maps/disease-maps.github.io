@@ -15,7 +15,7 @@ permalink: /isdvig3/
 
 ![vig3_1](https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597)
 
-![vig3_1](../images/projects/vig3_1.png)
+![vig3_1](../pages/projects/isd/images/vig3_1.png)
 
 1.2. Then, use the Experimental Factor Ontology (EFO) identifier of AD (EFO_0000274) as query. As soon as you finish typing, "Atopic eczema" appears in the screen. Click it.
 

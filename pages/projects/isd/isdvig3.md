@@ -13,7 +13,7 @@ permalink: /isdvig3/
 
 <!-- <img width="1022" height="489" alt="vig3_1" src="https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597" /> -->
 
-![vig3_1](https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597)
+<!-- ![vig3_1](https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597) -->
 
 ![vig3_1](../pages/projects/isd/images/vig3_1.png)
 

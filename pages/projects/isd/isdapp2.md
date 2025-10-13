@@ -37,7 +37,9 @@ We collected genes harbouring variants (SNPs) associated with AD from the Open T
 
 
 
-![ad_hypo_2](https://github.com/user-attachments/assets/0a2b962c-ea8a-42b7-85d2-286386ffa8de)
+<!-- ![ad_hypo_2](https://github.com/user-attachments/assets/0a2b962c-ea8a-42b7-85d2-286386ffa8de)
+
+![app2_1](../pages/projects/isd/images/app2_1.png) -->
 
 <h2 id="genet2"></h2>
 

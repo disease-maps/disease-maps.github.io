@@ -23,7 +23,7 @@ permalink: /isdvig3/
 
 ![vig3_12](https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556)
 
-![vig3_12](../pages/projects/isd/images/vig3_1.png)
+![vig3_12](../pages/projects/isd/images/vig3_12.png)
 
 1.3. A page containing the retrieved results appears. Go to "Columns options" and selected the following sources of genetic data: GWAS associations, ClinVar and Uniprot Curated Variants
 

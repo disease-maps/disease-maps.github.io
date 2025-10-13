@@ -124,7 +124,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
 </table> -->
 
 ## Supplementary information
-- <a href="/isdapp1/" target="_blank"> The biology embedded in the map </a> (Brief description of AD- and PsO-related molecular mechanisms present in the map)
+- <a href="/isdapp1/" target="_blank"> The biology embedded in the map  (Brief description of AD- and PsO-related molecular mechanisms present in the map)</a> 
 - <a href="/isdmet/" target="_blank"> How was the map constructed?</a> (Description of procedures and tools used to build the map)
 
 <!-- <table border="1">

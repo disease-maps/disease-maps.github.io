@@ -20,7 +20,9 @@ We could identify alternative pathways that explain, at least partially, the rel
 
 <!-- ![kc_ad_hypo](https://github.com/user-attachments/assets/e3199474-0c0b-4fbd-986c-4d57d517c3f0) -->
 
-![](../images/projects/isdimages/keratinocyte_dipulimab.png)
+<!-- ![](../images/projects/isdimages/keratinocyte_dipulimab.png) -->
+
+![app2](../pages/projects/isd/images/app2.png)
 
 
 ## Integration of genetic variation data into the map 

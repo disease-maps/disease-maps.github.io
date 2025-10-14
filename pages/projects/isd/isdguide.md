@@ -13,51 +13,69 @@ The main entry point to the ISD map is available at [https://imi-biomap.elixir-l
 
 
 
-![step1](https://github.com/user-attachments/assets/f5cab09b-faf6-4d10-a367-d3928dce6c2d)
+<1-- ![step1](https://github.com/user-attachments/assets/f5cab09b-faf6-4d10-a367-d3928dce6c2d) -->
+
+![guide_1](../pages/projects/isd/images/guide_1.png)
 
 
 
 To access the individual, i.e., AD or PsO, intercellular communication maps, please click on the button with disease name above each part of the diagram.  
 
- ![step2](https://github.com/user-attachments/assets/3187aaaf-da58-41f7-97dd-c51387d516e6)
+ <!-- ![step2](https://github.com/user-attachments/assets/3187aaaf-da58-41f7-97dd-c51387d516e6) -->
+
+ ![guide_2](../pages/projects/isd/images/guide_2.png)
 
 
 Clicking on the “ATOPIC DERMATITIS” button, you will be directed to the AD map. 
 
-![step3](https://github.com/user-attachments/assets/9d284197-04e1-47b4-a53a-b3a1498a4b8b)
+<!-- ![step3](https://github.com/user-attachments/assets/9d284197-04e1-47b4-a53a-b3a1498a4b8b) -->
+
+![guide_3](../pages/projects/isd/images/guide_3.png)
 
 
 ## Exploring the maps
 You can explore the map by navigating it similarly as you do in Google Maps. Use the buttons on the lower right corner to zoom in, zoom out and center the map content.
  
-![step4](https://github.com/user-attachments/assets/cc0e362b-a196-46b6-974b-640eb1ac9e63)
+<!-- ![step4](https://github.com/user-attachments/assets/cc0e362b-a196-46b6-974b-640eb1ac9e63) -->
+
+![guide_4](../pages/projects/isd/images/guide_4.png)
 
 
 To access information about map elements - cell types, phenotypes, proteins, genes, interactions - click on the element, e.g. CCL2, which becomes marked with a blue anchor, and check the left panel, which contains annotations referring to the element.
 
- ![step5](https://github.com/user-attachments/assets/053df113-5608-47ac-b586-32695495e260)
+ <!-- ![step5](https://github.com/user-attachments/assets/053df113-5608-47ac-b586-32695495e260) -->
+
+ ![guide_5](../pages/projects/isd/images/guide_5.png)
 
 
 An arrow connecting elements on the map (a reaction) represents an interaction between them. By clicking on it, it becomes blue and the left panel displays references to publications supporting this reaction, and elements linked by the interaction.
 
- ![step6](https://github.com/user-attachments/assets/baf2be09-f6c7-4b5a-9076-63032f0b2c05)
+ <!-- ![step6](https://github.com/user-attachments/assets/baf2be09-f6c7-4b5a-9076-63032f0b2c05) -->
+
+ ![guide_6](../pages/projects/isd/images/guide_6.png)
 
 
 ## Search
 You can search for elements using the search panel (as shown below). After clicking on  the magnifier or hitting “Enter”, the searched element, e.g. IGHE, will be marked with blue anchors in the map. Select “Perfect match” to focus search results.  
 
-![step7](https://github.com/user-attachments/assets/f838d8cd-bb85-4192-8d24-28755460ffc9)
+<!-- ![step7](https://github.com/user-attachments/assets/f838d8cd-bb85-4192-8d24-28755460ffc9) -->
+
+![guide_7](../pages/projects/isd/images/guide_7.png)
 
  
 
 You can access submaps containing intracellular pathways in key cell types in the intercellular communication map. This can be done by clicking the “Submaps” button, then selecting the submap of interest among the listed ones in the panel appearing in the left side, and finally clicking “ >” in the same row of the selected submap, e.g., Th1.	
 
- ![step8](https://github.com/user-attachments/assets/1ad57923-a2b3-45ae-8b97-011f89d256d2)
+ <!-- ![step8](https://github.com/user-attachments/assets/1ad57923-a2b3-45ae-8b97-011f89d256d2) -->
+
+ ![guide_8](../pages/projects/isd/images/guide_8.png)
 
 
 After clicking “>” in the same row of the submap “Th1”, as shown above, you are directed to the submap containing AD-related intracellular pathways in Th1 cells. If you would like to have a broader view of the submap, close the “Submaps” panel by clicking on “X”. To check if you are in the desired submap, look for the tab colored in light blue.
 
-![step9](https://github.com/user-attachments/assets/27168a2c-a8ca-46db-a438-485210d22e12)
+<!-- ![step9](https://github.com/user-attachments/assets/27168a2c-a8ca-46db-a438-485210d22e12) -->
+
+![guide_9](../pages/projects/isd/images/guide_9.png)
 
  
 **IMPORTANT**: you can perform exploration and search activities in submaps.
@@ -66,15 +84,21 @@ After clicking “>” in the same row of the submap “Th1”, as shown above, 
 
 Click the “Overlays” button to visualise i) genes harboring AD- or PsO-specific SNPs , ii) differentially expressed genes and proteins with their normalized log fold change (LFC) values and iii) AD- and PsO-linked biological processes discussed in the paper. The left panel will display the above-mentioned list. Click “View” to visualise an overlay of interest, e.g., the overlay “Omics: Differentially expressed proteins from dupilumab vs untreated lesional skin He et al (2020)”.
 
-![step10](https://github.com/user-attachments/assets/46f2fd28-92d7-45d9-b457-837251327752)
+<!-- ![step10](https://github.com/user-attachments/assets/46f2fd28-92d7-45d9-b457-837251327752) -->
+
+![guide_10](../pages/projects/isd/images/guide_10.png)
 
 
 After clicking “View”, the elements present in selected overlays containing datasets with differential expressed genes or proteins along with their normalized LFC values – in this case, for example, the overlay “Omics: Differentially expressed proteins from dupilumab vs untreated lesional skin He et al (2020)”, are highlighted in a gradient color according to their normalized LFC values as shown in the horizontal bar at the bottom of the panel “Overalys”. If you want to remove the highlights, click “Hide”.
 
- ![step11](https://github.com/user-attachments/assets/c95687ab-408b-4a56-8989-53f512340bf1)
+ <!-- ![step11](https://github.com/user-attachments/assets/c95687ab-408b-4a56-8989-53f512340bf1) -->
+
+ ![guide_11](../pages/projects/isd/images/guide_11.png)
 
 
 If the selected overlay contains a dataset with gene symbols along with a fixed color, e.g., orange, as it happens for the overlay “Omics: Genes harboring AD-associated SNPs from Open Targets Genetics database”, you see, after clicking “View”, the corresponding genes highlighted in orange in this map. The color is shown in the horizontal bar at the bottom of “Overalys”. If you want to remove the highlights, click “Hide”.
 
-![step12](https://github.com/user-attachments/assets/02627fea-4146-4378-987c-fdbcac221df1)
+<!-- ![step12](https://github.com/user-attachments/assets/02627fea-4146-4378-987c-fdbcac221df1) -->
+
+![guide_12](../pages/projects/isd/images/guide_12.png)
 

@@ -115,7 +115,7 @@ permalink: /isdvig4/
 
 ![vig4_33](../pages/projects/isd/images/vig4_33.png)
 
-3.4. Click the button “PSORIASIS” to go the PsO intercellular communication map 
+3.4. Click the button “PSORIASIS” to go to PsO intercellular communication map 
 
 <!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/ee910213-6ec4-42f9-923c-0068bfe6e4df" /> -->
 
@@ -143,7 +143,7 @@ permalink: /isdvig4/
 
 ![vig4_42](../pages/projects/isd/images/vig4_42.png)
 
-4.3. In the panel “Add overlay”, click “browse” to upload the file “PsO_genetic.tsv”.
+4.3. In the panel “Add overlay”, click “browse” to upload the file “PsO_genetic1.tsv”.
 
 <!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e" /> -->
 
@@ -179,7 +179,7 @@ permalink: /isdvig4/
 ![vig4_51](../pages/projects/isd/images/vig4_51.png)
 
 
-5.2. Click “View” and the proteins matching the genes harboring PsO-associated SNPs will be painted in green ([link to the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=true&modelId=432&backgroundId=675&x=3021&y=4019&z=4.479414298308022&overlaysId=1483)). 
+5.2. Click “View” and the proteins matching the genes harboring PsO-associated SNPs will be painted in green ([link to the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=675&x=4381&y=3437&z=4.620936237107267&overlaysId=1462)). 
 
 <!-- <img width="997" height="502" alt="image" src="https://github.com/user-attachments/assets/f0d0ca3c-9038-45a4-96b7-43219af749f9" /> -->
 

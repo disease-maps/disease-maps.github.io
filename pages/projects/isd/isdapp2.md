@@ -13,7 +13,7 @@ Here we demonstrate the ISD map can be a hypothesis-generating resource via the 
 <h2 id="net"></h2>
 
 ### Discovering possible compensatory pathways explaining poor response to dupilumab
-[Step-by-step guide to reproduce the analysis here!](/isdvig4/)
+[Step-by-step guide to reproduce the analysis here!](/isdvig5/)
 
 The direct analysis of the network structure per se may provide biological insights related to a disease of interest. To find compensatory pathways that could explain poor response of dupilumab, a widely used IL4R antagonist to treat moderate-to-severe AD, we analysed the network structure of the AD submap at both intercellular communication ([AD main map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25)) and intracellular ([KCs](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=386&backgroundId=610&x=5164&y=2665.785714285714&z=4)) and ([Th2 cells](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=387&backgroundId=610&x=2305.5&y=1687.8888888888887&z=4)) levels.
 We could identify alternative pathways that explain, at least partially, the relatively low rate of remission following dupilumab treatment. In KCs, for instance, many genes involved in skin barrier homeostasis are downregulated not only by IL4/IL13 pathways, but also by IFNG, IL22, TSLP, IL-17A and IL25 signalling pathways. So, the presence of these cytokines in skin could compensate for the inhibitory action of dupilumab on IL4R.
@@ -44,7 +44,7 @@ We collected genes harbouring variants (SNPs) associated with AD from the Open T
 <h2 id="genet2"></h2>
 
 ### SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.
-*Step-by-step guide to reproduce the analysis here!*
+[Step-by-step guide to reproduce the analysis here!](/isdvig4/)
 
 We collected genes harbouring variants (SNPs) associated with PsO from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in green) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=674&x=4131&y=5323&z=4.639352169813215&overlaysId=1462)). After integration of these PsO-associated genes to the map, we sough to investigate their influence at the mechanistic level, specifically in psoriatic KCs. In PsO, KCs are relatively resistant to cytokine-induced apoptosis. This resistance could be assigned, at least partially, to the presence of several proteins encoded by PsO-associated genes in apoptosis-regulating pathways. In fact, by exploring the map, we can see at least six proteins encoded by PsO-associated genes in these pathways: IFNG, INFGR2, TNFRSF1A, ESRRA, IRF1 and SOCS1. The most prominent pathway would be the one triggered by IFNG via IFNGR2 and IRF1 culminating in the expression of SOCS proteins. Remarkably, all proteins in this apoptosis-regulating pathway are encoded by PsO-associated genes and the underlying SNPs could favour the inhibition of apoptosis in KC (see figure below). 
 

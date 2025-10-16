@@ -4,11 +4,221 @@ layout: default
 permalink: /isdvig4/
 ---
 
-# Step-by-step guide to reproduce the application *"SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab"*
+# Step-by-step guide to reproduce the application *"SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis"*
 
 
 ### 1. Obtaining the genetic variant data
 
-1.1. Collect genes harbouring variants (SNPs) associated with AD from the Open Targets database. First, access the [Open Targets Platform’s home page](https://platform.opentargets.org).
+1.1. Collect genes harbouring variants (SNPs) associated with PsO from the Open Targets database. First, access the [Open Targets Platform’s home page](https://platform.opentargets.org).
 
 <!-- <img width="1022" height="489" alt="vig3_1" src="https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597" /> -->
+
+<!-- ![vig3_1](https://github.com/user-attachments/assets/ce132ffe-9ce6-484a-b8f6-d1566ab63597) -->
+
+![vig4_11](../pages/projects/isd/images/vig4_11.png)
+
+1.2. Then, use the Experimental Factor Ontology (EFO) identifier of PsO (EFO_0000676) as a query. As soon as you finish typing, “Psoriasis” appears on the screen. Click it.
+
+<!-- <img width="1022" height="489" alt="vig3_2" src="https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556" /> -->
+
+<!-- ![vig3_12](https://github.com/user-attachments/assets/542881c3-f9fd-4de0-947c-4418af9e8556) -->
+
+![vig4_12](../pages/projects/isd/images/vig4_12.png)
+
+1.3. A page containing the retrieved results appears. Go to "Columns options" and selected the following sources of genetic data: GWAS associations, ClinVar and Uniprot Curated Variants
+
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/8372cfe6-96a8-40ab-8da6-2ee988badaf2" /> -->
+
+<!-- ![vig3_13](https://github.com/user-attachments/assets/8372cfe6-96a8-40ab-8da6-2ee988badaf2) -->
+
+![vig4_13](../pages/projects/isd/images/vig4_13.png)
+
+
+1.4. Click "Export" and then "Download data"
+
+<!-- <img width="1022" height="489" alt="vig3_3" src="https://github.com/user-attachments/assets/46623637-c248-414c-b0ba-0979b54872f4" /> -->
+
+<!-- ![vig3_14](https://github.com/user-attachments/assets/46623637-c248-414c-b0ba-0979b54872f4) -->
+
+![vig4_14](../pages/projects/isd/images/vig4_14.png)
+
+1.5. A new window appears. Click "Advance Expert Options" and, in the field "Select association data type", select only "Genetic association"
+
+<!-- <img width="1022" height="489" alt="vig3_4" src="https://github.com/user-attachments/assets/256fa0d3-6fa0-4474-9ca1-b2d69b52968e" /> -->
+
+<!-- ![vig3_15](https://github.com/user-attachments/assets/256fa0d3-6fa0-4474-9ca1-b2d69b52968e) -->
+
+![vig4_15](../pages/projects/isd/images/vig4_15.png)
+
+1.6. Finally, click “TSV” to download the file containing the PsO-associated genes in a TSV format. Make sure that the option “Include custom controls” is selected.
+
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/914e7e8c-811e-4b9c-94e9-ce26104f4675" /> -->
+
+<!-- ![vig3_16](https://github.com/user-attachments/assets/914e7e8c-811e-4b9c-94e9-ce26104f4675) -->
+
+![vig4_16](../pages/projects/isd/images/vig4_16.png)
+
+
+### 2. Preparing the data-containing file for integration
+
+2.1. Open the downloaded TSV file in Excel or similar software. Copy the contents of column 1 (symbol) and paste them into a new spreadsheet. 
+
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/ab9de500-1588-4ee6-9512-07fae0dbf615" /> -->
+
+<!-- ![vig3_21](https://github.com/user-attachments/assets/ab9de500-1588-4ee6-9512-07fae0dbf615) -->
+
+![vig4_21](../pages/projects/isd/images/vig4_21.png)
+
+
+2.2. Create a header: name the column 1 as "identifier_hgnc_symbol" and for column 2 as "color". The list of genes should start in row 2.
+
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/0b2ea923-6801-46f8-b4b4-3a45c798cba2" /> -->
+
+<!-- ![vig3_22](https://github.com/user-attachments/assets/0b2ea923-6801-46f8-b4b4-3a45c798cba2) -->
+
+![vig4_22](../pages/projects/isd/images/vig4_22.png)
+
+2.3. Fill rows in column "color" with a [hex color code for your color of interest](https://www.color-hex.com/color/). Suggestion: #40652e (green). Save this file as “PsO_genetic1.txt”
+
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/960a366e-f290-4801-9482-ab118c898a1e" /> -->
+
+<!-- ![vig3_23](https://github.com/user-attachments/assets/960a366e-f290-4801-9482-ab118c898a1e) -->
+
+![vig4_23](../pages/projects/isd/images/vig4_23.png)
+
+
+
+### 3. Access and log in to the map
+
+3.1. Access the ISD map at the entry level via the link (https://imi-biomap.elixir-luxembourg.org/). In the ([map](https://imi-biomap.elixir-luxembourg.org/)), click the login icon in the left upper side of the screen. This is required to integrate data into the map.
+ 
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/94b53f4d-7c65-4502-8b46-dbd53c658676" /> -->
+
+<!-- ![vig3_31](https://github.com/user-attachments/assets/94b53f4d-7c65-4502-8b46-dbd53c658676) -->
+
+![vig4_31](../pages/projects/isd/images/vig4_31.png)
+
+
+3.2. Log in to the map preferentially by using your ORCID. 
+
+<!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/acc57fb8-0e6f-485e-9921-8ccb3098994c" /> -->
+
+<!-- ![vig3_32](https://github.com/user-attachments/assets/acc57fb8-0e6f-485e-9921-8ccb3098994c) -->
+
+![vig4_32](../pages/projects/isd/images/vig4_32.png)
+
+3.3. Once connected, just ignore the window "Select project" by clicking "X".
+
+<!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/a6d4d362-b76b-42e1-a7d8-e5c627247c9e" /> -->
+
+<!-- ![vig3_33](https://github.com/user-attachments/assets/a6d4d362-b76b-42e1-a7d8-e5c627247c9e) -->
+
+![vig4_33](../pages/projects/isd/images/vig4_33.png)
+
+3.4. Click the button “PSORIASIS” to go the PsO intercellular communication map 
+
+<!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/ee910213-6ec4-42f9-923c-0068bfe6e4df" /> -->
+
+<!-- ![vig3_34](https://github.com/user-attachments/assets/ee910213-6ec4-42f9-923c-0068bfe6e4df) -->
+
+![vig4_34](../pages/projects/isd/images/vig4_34.png)
+
+
+### 4. Create the overlay for integration
+
+4.1. The integration of data into the map is done via overlay creation. For this purpose, click the button "+ Overlays" above the intercellular communication map 
+
+<!-- <img width="1017" height="491" alt="image" src="https://github.com/user-attachments/assets/a799d1a3-e138-4a29-b7c2-370be02b2386" /> -->
+
+<!-- ![vig3_41](https://github.com/user-attachments/assets/a799d1a3-e138-4a29-b7c2-370be02b2386) -->
+
+![vig4_41](../pages/projects/isd/images/vig4_41.png)
+
+
+4.2. When the panel "Overlays" opens in the left part of the screen, go straight to the bottom and click "Add overlay" 
+
+<!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/4bad673d-76fd-4398-a4d9-27e17bedff37" /> -->
+
+<!-- ![vig3_42](https://github.com/user-attachments/assets/4bad673d-76fd-4398-a4d9-27e17bedff37) -->
+
+![vig4_42](../pages/projects/isd/images/vig4_42.png)
+
+4.3. In the panel “Add overlay”, click “browse” to upload the file “PsO_genetic.tsv”.
+
+<!-- <img width="1019" height="491" alt="image" src="https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e" /> -->
+
+<!-- ![vig3_43](https://github.com/user-attachments/assets/9c48cccf-b9ce-4404-b18d-27e6c6f4826e) -->
+
+![vig4_43](../pages/projects/isd/images/vig4_43.png)
+
+4.4. When you observe “PsO_genetic1.tsv” instead of “browse”, provide a name in the field “Name” (e.g., “PsO genetic”). Go to the bottom and click “Upload”
+
+<!-- <img width="1015" height="493" alt="image" src="https://github.com/user-attachments/assets/cf328c65-c04d-469b-80fc-60e95c2e5c6b" /> -->
+
+<!-- ![vig3_44](https://github.com/user-attachments/assets/cf328c65-c04d-469b-80fc-60e95c2e5c6b) -->
+
+![vig4_44](../pages/projects/isd/images/vig4_44.png)
+
+4.5. When you observe the warning "User overlay added successfully", click "<" close to "Add overlays" to go back to the "Overlay" panel and initiate the explorations as shown in next steps.
+
+<!-- <img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/79ab6732-8440-4a73-b140-466ce27b36ba" /> -->
+
+<!-- ![vig3_45](https://github.com/user-attachments/assets/79ab6732-8440-4a73-b140-466ce27b36ba) -->
+
+![vig4_45](../pages/projects/isd/images/vig4_45.png)
+
+
+### 5. Integrating and exploring the data into the map
+
+5.1. Access the genetic data, i.e., the overlay “Pso genetic”, via the panel “Overlays”. Go to the bottom and click “Without group”. The overlay “PsO genetic” appears.
+
+<!-- <img width="1034" height="484" alt="image" src="https://github.com/user-attachments/assets/d968c496-fb8d-4bbb-bdbf-4bb504c71c54" /> -->
+
+<!-- ![vig3_51](https://github.com/user-attachments/assets/d968c496-fb8d-4bbb-bdbf-4bb504c71c54) -->
+
+![vig4_51](../pages/projects/isd/images/vig4_51.png)
+
+
+5.2. Click “View” and the proteins matching the genes harboring PsO-associated SNPs will be painted in green ([link to the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=true&modelId=432&backgroundId=675&x=3021&y=4019&z=4.479414298308022&overlaysId=1483)). 
+
+<!-- <img width="997" height="502" alt="image" src="https://github.com/user-attachments/assets/f0d0ca3c-9038-45a4-96b7-43219af749f9" /> -->
+
+<!-- ![vig3_52](https://github.com/user-attachments/assets/f0d0ca3c-9038-45a4-96b7-43219af749f9) -->
+
+![vig4_52](../pages/projects/isd/images/vig4_52.png)
+
+5.3. In this particular application, we want to check the intracellular pathways in keratinocytes. Go to “Submaps” and then click “>” associated with the submap “Keratinocyte”
+
+<!-- <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/01d88863-bec8-4bec-8922-9f789b3a2c6b" /> -->
+
+<!-- ![vig3_53](https://github.com/user-attachments/assets/01d88863-bec8-4bec-8922-9f789b3a2c6b) -->
+
+![vig4_53](../pages/projects/isd/images/vig4_53.png)
+
+5.4. A new tab (“Keratinocyte”) showing the intracellular pathways of Keratinocyte appears. It is possible to see some proteins painted in green. To take a further look at them, click the magnifier icon until the point you are able to read the gene symbols in the elements ([link to the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=436&backgroundId=675&x=1858&y=1593&z=4.8409716012913595&overlaysId=1462)).
+
+<!-- <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/b1f7f125-f6a7-41f3-9912-55c2dd1309cc" /> -->
+
+<!-- ![vig3_54](https://github.com/user-attachments/assets/b1f7f125-f6a7-41f3-9912-55c2dd1309cc) -->
+
+![vig4_54](../pages/projects/isd/images/vig4_54.png)
+
+5.5. By navigating the map at the zoom level of your convenience, you can see that there are proteins coded by PsO-associated genes: IFNG, INFGR2, TNFRSF1A, ESRRA, IRF1 and SOCS1.
+
+<!-- <img width="1034" height="483" src="https://github.com/user-attachments/assets/839151b0-b89e-4a0c-ab49-3b109f75f14e" /> -->
+
+<!-- ![vig3_55](https://github.com/user-attachments/assets/839151b0-b89e-4a0c-ab49-3b109f75f14e) -->
+
+![vig4_55](../pages/projects/isd/images/vig4_55.png)
+
+5.6. There is a direct pathway where all proteins are encoded by PsO-associated genes and the underlying SNPs could favour the inhibition of apoptosis in KC.
+
+<!-- <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc" /> -->
+
+<!-- ![vig3_56](https://github.com/user-attachments/assets/111e4e6c-fae7-41db-b1cf-5b5ab02f2ffc) -->
+
+![vig4_56](../pages/projects/isd/images/vig4_56.png)
+
+### 6. Hypothesis
+
+There are at least six proteins encoded by PsO-associated genes in this pathway: IFNG, INFGR2, TNFRSF1A, ESRRA, IRF1 and SOCS1. It is the most prominent pathway triggered by IFNG via IFNGR2 and IRF1 culminating in the expression of SOCS proteins.

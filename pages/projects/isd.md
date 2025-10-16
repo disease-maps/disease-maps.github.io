@@ -112,7 +112,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
   </tr>
  <tr>
     <td><a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a></td>
-    <td>Step-by-step guide</td>
+    <td><a href="/isdvig4" target="_blank">Step-by-step guide</a></td>
   </tr>
   <tr>
     <td colspan="2"> Integration of transcriptomics and proteomics data into the map </td>  

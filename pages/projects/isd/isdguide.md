@@ -12,8 +12,7 @@ The main entry point to the ISD map is available at [https://imi-biomap.elixir-l
 
 
 
-
-<1-- ![step1](https://github.com/user-attachments/assets/f5cab09b-faf6-4d10-a367-d3928dce6c2d) -->
+<!-- ![step1](https://github.com/user-attachments/assets/f5cab09b-faf6-4d10-a367-d3928dce6c2d) -->
 
 ![guide_1](../pages/projects/isd/images/guide_1.png)
 

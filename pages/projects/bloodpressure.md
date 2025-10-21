@@ -1,7 +1,7 @@
 ---
 title: Atlas of Blood Pressure Physiology Map (BPMap)
 layout: default
-permalink: /BPMap/
+permalink: /bpmap/
 ---
 
 # Hypertension

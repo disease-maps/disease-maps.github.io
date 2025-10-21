@@ -23,3 +23,19 @@ The Atopic Dermatitis Map is developed as part of IMI2 [BIOMAP](https://biomap-i
 ### Funding
 
 This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 821511.
+
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px; font-size:15px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td style="font-size:13px;"> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> tools and services. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>

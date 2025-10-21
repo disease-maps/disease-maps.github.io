@@ -1,12 +1,12 @@
 ---
-title: Atlas of Hypertension Molecular Disease Map
+title: Atlas of Blood Pressure Physiology Map (BPMap)
 layout: default
-permalink: /hypertension/
+permalink: /BPMap/
 ---
 
 # Hypertension
 
-## Atlas of Hypertension Molecular Disease Map (AHMDM)
+## Atlas of Blood Pressure Physiology Map (BPMap)
 
 **Development status:** Active development\
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)\
@@ -16,10 +16,10 @@ permalink: /hypertension/
 
 ### Description
 
-Atlas of Hypertension Molecular Disease Map (AHMDM) is a bioinformatics resource for advancing translational medicine and enhancing our understanding of the pathophysiology of hypertension. By focusing on signaling, gene regulatory, and metabolic pathways, the AHMDM provides critical insights into the mechanisms underlying hypertension.
+Atlas of Blood Pressure Physiology Map (BPMap) is a bioinformatics resource for advancing translational medicine and enhancing our understanding of the pathophysiology of hypertension. By focusing on signaling, gene regulatory, and metabolic pathways, the BPMap provides critical insights into the mechanisms underlying hypertension.
 Hypertension is a major risk factor for cardiovascular and cerebrovascular diseases, and it remains the leading cause of premature death worldwide. An estimated 1.28 billion adults aged 30–79 years across the globe suffer from hypertension. To reduce premature mortality from cardiovascular diseases, preventing and controlling hypertension is a vital public health strategy.
 Despite its high prevalence and significant health impact, many aspects of the underlying pathological mechanisms of high blood pressure remain unclear. This knowledge gap results in insufficient preventive and therapeutic strategies.
-The AHMDM aims to deepen our understanding of the pathogenesis of hypertension. By providing visual representations of biological processes, it allows clinical and life sciences researchers to closely inspect disease mechanisms. Additionally, the computer-tractable representation of these processes enables bioinformaticians to build mathematical models of disease mechanisms. By unraveling the complex interplay of key factors, the AHMDM paves the way for more precisely targeted therapeutic options, leading to better global health outcomes and fewer side effects.
+The BPMap aims to deepen our understanding of the pathogenesis of hypertension. By providing visual representations of biological processes, it allows clinical and life sciences researchers to closely inspect disease mechanisms. Additionally, the computer-tractable representation of these processes enables bioinformaticians to build mathematical models of disease mechanisms. By unraveling the complex interplay of key factors, the AHMDM paves the way for more precisely targeted therapeutic options, leading to better global health outcomes and fewer side effects.
 
 ### **The Team**
 

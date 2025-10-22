@@ -4,7 +4,7 @@ layout: default
 permalink: /isdvig1/
 ---
 
-# Step-by-step guide to reproduce the application *"Discovering possible compensatory pathways explaining poor response to dupilumab"*
+# Step-by-step guide to reproduce the application *"Discovering possible pathways that counteract the anti-inflammatory effect of dupilumab"*
 
 ### 1. Access and log in to the map
 
@@ -42,7 +42,7 @@ permalink: /isdvig1/
 ![vig5_34](../pages/projects/isd/images/vig5_34.png)
 
 
-1.5. In this particular application, we want to check possible compensatory pathways explaining poor response to dupilumab in KC. So, go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.
+1.5. In this particular application, we want to check possible pathways in KC that could attenuate the effect of dupilumab. So, go to “Submaps” and then click “>” associated with the submap “Keratinocyte”.
 
 <!-- <img width="1021" height="490" alt="image" src="https://github.com/user-attachments/assets/4f50970b-3cd3-466c-8e60-e5d536af3336" /> -->
 
@@ -56,17 +56,19 @@ permalink: /isdvig1/
 
 ### 2. Exploring the structure of the map
 
-2.1 To identify compensatory pathways explaining poor response to dupilumab, first we have to find all secreted proteins that are positively regulated by the IL4/IL13 signaling (in this case, the phenotype "IL4/IL13 induced regulation of gene expression"). To this end, pay attention only to the black connections to the proteins and click them. After clicking, you can see in the left side of the map a panel showing information about the target gene/protein, including the source of the selected connection (at the botton). After checking all proteins, we can see that TNFAIP6, CXCL8, TSLP, TNC and POSTN are positively regulated by the IL4/IL13 signaling pathway.     
+2.1 To identify pathways couteracting dupilumab's effects, first we have to find all secreted proteins that are positively regulated by the IL4/IL13 signaling (in this case, either the phenotype "IL4/IL13 induced regulation of gene expression" or "IL4 induced regulation of gene expression"). To this end, pay attention only to the black connections to the proteins and click them. After clicking, you can see in the left side of the map a panel showing information about the target gene/protein, including the source of the selected connection (at the botton). After checking all proteins, we can see that TNFAIP6, IL25, CCL26, CXCL8, TSLP, TNC, VCAM1 and POSTN are positively regulated by the IL4/IL13 signaling pathway.     
 
 
-2.2. Among these proteins, check those regulated by at least one additional protein or signaling pathway. Only by simple visual inspection, we can observe that CXCL8, TSLP and TNC are also regulated by other protein and/or signaling pathways.
-
-
-
+2.2. Among these proteins, check the ones that are regulated by at least one additional protein or signaling pathway, i.e. one additional black connection pointing to them. Only by simple visual inspection, we can observe that CXCL8, TSLP and TNC are also regulated by other protein and/or signaling pathways.
 
 
 
+2.3. To find out which signlaling pathways also regulate CXCL8, TSLP and TNC, click the additional connections and, after clicking, look at the panel in the lefs side of the map showing information about the target gene/protein, including the source of the selected connection (at the botton). We see that, in addition to IL13/IL4 signaling pathway, CXCL8 is also regulated by IL26 and IFNG signaling pathways, TSLP is also regulated by IL33 and IL26 signaling pathways and TNC is also regulated by INFG signaling pathway.
 
+
+### 3. Hypothesis
+
+IL33, IL26 and IFNG signaling pathways in KC partially mitigates the anti-inflammatory effect of dupilumab.
 
 
 

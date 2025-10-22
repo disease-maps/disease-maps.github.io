@@ -58,7 +58,7 @@ To demonstrate how the map can be used, we offer here some applications along wi
 4. sfsf -->
 
 **Analysis of the network structure**  
-- <a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a> (Step-by-step guide)
+- <a href="/isdapp2/#net" target="_blank">Discovering possible pathways in KC that counteract the anti-inflammatory effect of dupilumab</a> (<a href="/isdvig1" target="_blank">Step-by-step guide</a>)
 
 **Integration of genetic variation data into the map**
 - <a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a> (<a href="/isdvig3" target="_blank">Step-by-step guide</a>)

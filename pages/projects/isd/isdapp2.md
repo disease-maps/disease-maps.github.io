@@ -51,7 +51,7 @@ We collected genes harbouring variants (SNPs) associated with PsO from the Open 
 
 <!-- ![pso_hypo](https://github.com/user-attachments/assets/2af14268-39b2-4595-8d5c-5cb3496fcf5e) -->
 
-![app2_2](../pages/projects/isd/images/app2_2.png) 
+![app2_2a](../pages/projects/isd/images/app2_2a.png) 
 
 
 The above examples show that, through the integration of Open Target Genetics data with ISD map, we could determine the contextual relevance for AD- and PsO-associated genes and check if they fit into the existing molecular and cellular understanding of AD and PsO. Moreover, we were also able to formulate two hypotheses: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators and resistance to cytokine-induced apoptosis in psoriatic KCs due to altered upstream apoptosis regulators. The figure below depicts these hypotheses.

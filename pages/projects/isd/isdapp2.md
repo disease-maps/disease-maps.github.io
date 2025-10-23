@@ -22,7 +22,7 @@ We could identify pathways in KCs that could mitigate, at least partially, the a
 
 <!-- ![](../images/projects/isdimages/keratinocyte_dipulimab.png) -->
 
-![app2](../pages/projects/isd/images/app2.png)
+![app2a](../pages/projects/isd/images/app2a.png)
 
 
 ## Integration of genetic variation data into the map 
@@ -59,7 +59,7 @@ The above examples show that, through the integration of Open Target Genetics da
 
 <!-- ![pso_ad_ot](https://github.com/user-attachments/assets/1dc9ebf3-dc5b-4d50-a371-c43096fbd8da) -->
 
-![app2_3](../pages/projects/isd/images/app2_3.png) 
+![app2_3a](../pages/projects/isd/images/app2_3a.png) 
 
 
 

@@ -53,7 +53,7 @@ permalink: /isdvig1/
 
 1.6. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to identify the proteins. 
 
-![vig5_16](../pages/projects/isd/images/vig5_16.png)
+![vig1_16](../pages/projects/isd/images/vig1_16.png)
 
 
 ### 2. Exploring the structure of the map

@@ -53,20 +53,22 @@ permalink: /isdvig1/
 
 1.6. A new tab ("Keratinocyte") showing the intracellular pathways of KC appears. Click the magnifier icon until the point you are able to identify the proteins. 
 
+![vig5_16](../pages/projects/isd/images/vig5_16.png)
+
 
 ### 2. Exploring the structure of the map
 
 2.1 To identify pathways couteracting dupilumab's effects, first we have to find all secreted proteins that are positively regulated by the IL4/IL13 signaling (in this case, either the phenotype "IL4/IL13 induced regulation of gene expression" or "IL4 induced regulation of gene expression"). To this end, pay attention only to the black connections to the proteins and click them. After clicking, you can see in the left side of the map a panel showing information about the target gene/protein, including the source of the selected connection (at the botton). After checking all proteins, we can see that TNFAIP6, IL25, CCL26, CXCL8, TSLP, TNC, VCAM1 and POSTN are positively regulated by the IL4/IL13 signaling pathway.     
 
-![vig1_21](../pages/projects/isd/images/vig1_21.png)
+![vig1_21a](../pages/projects/isd/images/vig1_21a.png)
 
 2.2. Among these proteins, check the ones that are regulated by at least one additional protein or signaling pathway, i.e. one additional black connection pointing to them. Only by simple visual inspection, we can observe that CXCL8, TSLP and TNC are also regulated by other protein and/or signaling pathways.
 
-![vig1_22](../pages/projects/isd/images/vig1_22.png)
+![vig1_22a](../pages/projects/isd/images/vig1_22a.png)
 
 2.3. To find out which signlaling pathways also regulate CXCL8, TSLP and TNC, click the additional connections and, after clicking, look at the panel in the lefs side of the map showing information about the target gene/protein, including the source of the selected connection (at the botton). We see that, in addition to IL13/IL4 signaling pathway, CXCL8 is also regulated by IL26 and IFNG signaling pathways, TSLP is also regulated by IL33 and IL26 signaling pathways and TNC is also regulated by INFG signaling pathway.
 
-![vig1_23](../pages/projects/isd/images/vig1_23.png)
+![vig1_23a](../pages/projects/isd/images/vig1_23a.png)
 
 
 ### 3. Hypothesis

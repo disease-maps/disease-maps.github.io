@@ -30,7 +30,7 @@ We integrated AD- and PsO-related genetic variation data (obtained from the Open
 
 <h2 id="genet1"></h2>
 
-### SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab.
+### Data-driven hypothesis: SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab.
 [Step-by-step guide to reproduce the analysis here!](/isdvig3/)
 
 We collected genes harbouring variants (SNPs) associated with AD from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in orange) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2820&y=1623&z=5&overlaysId=1367)). After integration of these AD-associated genes to the map, we sough to investigate their influence at the mechanistic level. To this end, we manually inspected the pathways of the ISD map for proteins encoded by the matched disease-associated genes that directly influence other proteins. As discussed previously, IFNG seems to partially compensate for IL4R inhibition by positively stimulating the expression of several AD-promoting genes stimulated by IL4R in KCs. As IFNG is mainly produced by Th1 cells, we checked the Th1 cell map for the presence of proteins encoded by AD-associated genes that could somehow influence IFNG expression. Interestingly, there are five proteins encoded by AD-associated genes (IL18RAP, IL18R1, TRAF6, CARD11 and NFKBIA) upstream to the IFNG expression. We hypothesise that SNPs in these genes could favour IFNG expression in Th1 cells and, therefore, counteract the action of dupilumab, i.e., IL4R inhibition. 
@@ -43,7 +43,7 @@ We collected genes harbouring variants (SNPs) associated with AD from the Open T
 
 <h2 id="genet2"></h2>
 
-### SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.
+### Data-driven hypothesis: SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.
 [Step-by-step guide to reproduce the analysis here!](/isdvig4/)
 
 We collected genes harbouring variants (SNPs) associated with PsO from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in green) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=674&x=4131&y=5323&z=4.639352169813215&overlaysId=1462)). After integration of these PsO-associated genes to the map, we sough to investigate their influence at the mechanistic level, specifically in psoriatic KCs. In PsO, KCs are relatively resistant to cytokine-induced apoptosis. This resistance could be assigned, at least partially, to the presence of several proteins encoded by PsO-associated genes in apoptosis-regulating pathways. In fact, starting from keratinocyte apoptotic process, we can see a upstream pathway until the plasma membrane containing only proteins encoded by PsO-associated genes, namely, SOCS1, IRF1, IFGNR2 and IFNG. In this pathway, IFNG activates IFNGR2 that, in turn, stimulates the expression of IRF1. IRF1 then triggers the expression of SOCS1 that is known to inhibit apoptosis. Therefore, we can hypothesize that the underlying SNPs could favour the inhibition of apoptosis in KC (see figure below). 
@@ -70,7 +70,7 @@ We integrated AD- and PsO-related omics data (obtained from biomedical literatur
 <h2 id="dup"></h2>
 
 
-### IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment
+### Data-driven hypothesis: IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment
 [Step-by-step guide to reproduce the analysis here!](/isdvig5/)
 
 We collected differentially expressed proteins (DEPs) from the study by [He et al. (2020)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full) in which proteome expression profiles were measured in AD lesional and non-lesional stratum corneum samples taken from patients before and after treatment with dupilumab. From this study, we considered only DEPs calculated by comparing expression profiles of 353 inflammatory proteins extracted from lesional stratum corneum samples of patients before and after dupilumab exposure. Of the 132 dupilumab-induced differentially expressed inflammatory proteins (Dup-DEIPs), 20 could be found in the AD map ([see these proteins in the map here](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2373&y=2225&z=4.123391479177037&overlaysId=1365)).

@@ -23,7 +23,7 @@ permalink: /isd/
 
 ## Brief introduction  
 
-The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific causal molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
+The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
 
 
 | Access the map | Learn how to navigate and explore the map |

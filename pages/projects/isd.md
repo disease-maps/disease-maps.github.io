@@ -59,8 +59,8 @@ To demonstrate how the map can be used, we offer here some applications along wi
 
 - **Analysis of the network structure**  (<a href="/isdapp2/#net" target="_blank">AD map example</a>)
 - **Integration of genetic variation data into the map** (<a href="/isdapp2/#genet1" target="_blank">AD map example</a>) 
-- **Integration of genetic variation data into the map** (<a href="/isdapp2/#genet2" target="_blank"> PsO map example)
-- **Integration of transcriptomics and proteomics data into the map** (<a href="/isdapp2/#dup" target="_blank"> AD map example </a>) 
+- **Integration of genetic variation data into the map** (<a href="/isdapp2/#genet2" target="_blank">PsO map example)
+- **Integration of transcriptomics and proteomics data into the map** (<a href="/isdapp2/#dup" target="_blank">AD map example </a>) 
 
 <!-- </tr>
   <tr>

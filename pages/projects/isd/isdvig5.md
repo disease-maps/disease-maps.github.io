@@ -229,12 +229,11 @@ permalink: /isdvig5/
 
 ![vig5_571](../pages/projects/isd/images/vig5_571.png)
 
-5.8. Among the six unnafected proteins, only two - CCL20 and IL33 - are additionally regulated by other signaling pathways: IL26 for CCL20 and IL26 and IFNG for IL33. This suggests that IL26 signaling could compensate for the dupilumab-downregulated IL17 signaling pathway.
-
+5.8. Among the six unnafected proteins, only two - CCL20 and IL33 - are additionally regulated by other signaling pathways: IL26 for CCL20 and IL26 and IFNG for IL33. 
 
 
 
 ### 6. Hypothesis
 
-
+IL26 signaling could compensate for the dupilumab-downregulated IL17 signaling pathway.
 

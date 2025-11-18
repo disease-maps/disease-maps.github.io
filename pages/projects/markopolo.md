@@ -98,7 +98,7 @@ and many others.-->
 
 <tr>
 <td style="width: 105px;"><img src="../images/team/KatrinFrauenknecht.jpg" alt="Katrin Frauenknecht" /></td>
-<td><strong>Katrin Frauenknecht, MD</strong><br />Institute of Neuropathology, University Medical Center of the Johannes Gutenberg University Mainz, Germany<br/>Consultant Neuropathologist/Deputy Director</td>
+<td><strong>Katrin Frauenknecht, MD</strong><br />University Medical Center of the Johannes Gutenberg University Mainz, Germany<br/>Consultant Neuropathologist/Deputy Director</td>
 </tr>
 
 <tr>

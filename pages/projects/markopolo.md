@@ -106,6 +106,11 @@ and many others.-->
 <td><strong>Katja Kanninen, PhD</strong><br />A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Finland<br />Professor of Cellular Neurobiology</td>
 </tr>
 
+<tr>
+<td style="width: 105px;"><img src="../images/team/AdelinaRogowskaWrzesinska.jpg" alt="Adelina Rogowska-Wrzesinska" /></td>
+<td><strong>Adelina Rogowska-Wrzesinska, PhD</strong><br />University of Southern Denmark, Denmark<br />Associate Professor at the Department of Biochemistry and Molecular Biology</td>
+</tr>
+
 </table>
 
 ### Development Team

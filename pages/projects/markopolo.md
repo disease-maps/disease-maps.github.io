@@ -95,6 +95,17 @@ and many others.-->
 <td style="width: 105px;"><img src="../images/team/JosLelieveld.jpg" alt="Jos Lelieveld" /></td>
 <td><strong>Jos Lelieveld, PhD</strong><br />Max Planck Institute for Chemistry, Mainz, Germany<br />Director of the Atmospheric Chemistry Department</td>
 </tr>
+
+<tr>
+<td style="width: 105px;"><img src="../images/team/KatrinFrauenknecht.jpg" alt="Katrin Frauenknecht" /></td>
+<td><strong>Katrin Frauenknecht, MD</strong><br />Institute of Neuropathology, University Medical Center of the Johannes Gutenberg University Mainz, Germany<br/>University Medical Center Mainz logo Consultant Neuropathologist/Deputy Director</td>
+</tr>
+
+<tr>
+<td style="width: 105px;"><img src="../images/team/KatjaKanninen.jpg" alt="Katja Kanninen" /></td>
+<td><strong>Katja Kanninen, PhD</strong><br />A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland<br />Professor of Cellular Neurobiology</td>
+</tr>
+
 </table>
 
 ### Development Team

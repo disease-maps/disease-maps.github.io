@@ -38,7 +38,7 @@ This quick guide explains how to navigate and explore the HIDmap.
 The main entry point is: [https://immunedev.elixir-luxembourg.org/minerva/](https://immunedev.elixir-luxembourg.org/minerva).
 Upon opening, you will see an overview diagram displaying all organs included in the map, along with three buttons on the left-hand side.
 
-![P1]("/immunedev/figure1.png)
+![P1]("/pages/projects/immunedev/figure1.png)
 
 ### **Navigating Organ Maps**
 
@@ -46,7 +46,7 @@ To view a detailed maps for a specific organ, click on its name in the overview 
 
 For example, selecting ‘Fetal liver’ opens the corresponding submap.
 
-![P2]("/immunedev/figure2.png)
+![P2]("/pages/projects/immunedev/figure2.png)
 
 On the left-hand side, three clickable images provide shortcuts to:
 
@@ -54,7 +54,7 @@ On the left-hand side, three clickable images provide shortcuts to:
 •	The **prenatal development of the human immune system overview** (middle button; orange arrow)
 •	The **cells migration map**, showing inter-organ connections (bottom button; green arrow).
 
-![P3]("/immunedev/figure3.png)
+![P3]("/pages/projects/immunedev/figure3.png)
 
 ### **Pan and zoom**
 
@@ -63,7 +63,7 @@ Navigation within the HIDmap works similar to Google Maps:
 •	Use the buttons on the **bottom right** (see the three arrows) to zoom in, zoom out, and re-center the view.
 •	Click and drag to move around the map.
 
-![P4]("/immunedev/figure4.png)
+![P4]("/pages/projects/immunedev/figure4.png)
 
 ### **Search Function**
 
@@ -71,9 +71,9 @@ You can search for specific elements using the **search field** (red arrow at th
 
 Search functionality is available both in the overview figure and within each submap.
 
-![P5]("/immunedev/figure5.png)
+![P5]("/pages/projects/immunedev/figure5.png)
 
-![P6]("/immunedev/figure6.png)
+![P6]("/pages/projects/immunedev/figure6.png)
 
 ### **Submaps**
 
@@ -82,7 +82,7 @@ To explore submaps, click on the **‘Submaps’** button at the top (red arrow)
 •	The main submaps (e.g. Cell Migration and the Prenatal Immune Development)
 •	Organ-specific submaps (e.g., Fetal liver, Thymus, Bone Marrow, etc.)
 
-![P7]("/immunedev/figure7.png)
+![P7]("/pages/projects/immunedev/figure7.png)
 
 ### **Interactive exploration**
 
@@ -93,11 +93,11 @@ Every map element – such as **cells, markers,** or **interactions** - is click
 •	Supporting PubMed references.
 All molecular markers are systematically annotated with official **HGNC symbols** (A). Non-standard markers (e.g., major histocompatibility complex (MHC) class II) appearing **yellow boxes** (B), ensuring clear differentiation and traceability.
 
-![P8]("/immunedev/figure8.png)
+![P8]("/pages/projects/immunedev/figure8.png)
 
 Clicking on an **interaction** (black connecting lines) displays the relevant publications supporting that biological relationship.
 
-![P9]("/immunedev/figure9.png)
+![P9]("/pages/projects/immunedev/figure9.png)
 
 ### **Tip**
 
@@ -124,7 +124,7 @@ Use the combination of search, submaps, and interaction details to explore the d
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />Luxembourg Centre for Systems Biomedicine Researcher<br />MINERVA Platform support<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/EmanuelaCorsini.png" alt="Emanuela Corsini" /></td>
+<td><img src="../images/teamhq/EmanuelaCorsini.jpg" alt="Emanuela Corsini" /></td>
 <td><strong>Emanuela Corsini, PhD</strong><br /><strong>DISFeB – Università degli Studi di Milano</strong><br />Professor of Toxicology<br />Scientific Advisor<br /></td>
 </tr>
 <tr>
@@ -165,4 +165,5 @@ Toxicology (SCAHT), Basel, Switzerland</strong><br />Director<br /><strong>IUF �
 ### Funding
 
 This PhD project is funded by the company [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and the [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/).
+
 

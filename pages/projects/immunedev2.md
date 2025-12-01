@@ -124,7 +124,7 @@ Use the combination of search, submaps, and interaction details to explore the d
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />Luxembourg Centre for Systems Biomedicine Researcher<br />MINERVA Platform support<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/EmanuelaCorsini.jpg" alt="Emanuela Corsini" /></td>
+<td><img src="../images/team/EmanuelaCorsini.jpg" alt="Emanuela Corsini" /></td>
 <td><strong>Emanuela Corsini, PhD</strong><br /><strong>DISFeB – Università degli Studi di Milano</strong><br />Professor of Toxicology<br />Scientific Advisor<br /></td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ Use the combination of search, submaps, and interaction details to explore the d
 <td><strong>Susann Fayyaz, PhD</strong><br /><strong>Clariant Produkte (Deutschland) GmbH</strong><br />Expert Toxicology<br />Project administration and funding body<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/QiangLi.jpg" alt="Qiang Li" /></td>
+<td><img src="../images/team/QiangLi.jpg" alt="Qiang Li" /></td>
 <td><strong>Qiang Li, PhD</strong><br /><strong>Clariant Produkte (Deutschland) GmbH</strong><br />Senior Expert Toxicology<br />Project administration and funding body<br /></td>
 </tr>
 <tr>
@@ -165,6 +165,7 @@ Toxicology (SCAHT), Basel, Switzerland</strong><br />Director<br /><strong>IUF �
 ### Funding
 
 This PhD project is funded by the company [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and the [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/).
+
 
 
 

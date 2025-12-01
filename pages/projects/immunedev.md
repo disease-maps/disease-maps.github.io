@@ -1,7 +1,7 @@
 ---
 title: Human Immune System Development
 layout: default
-permalink: /immunedev2/ 
+permalink: /immunedev/ 
 ---
 
 # Immune System Development
@@ -165,6 +165,7 @@ Toxicology (SCAHT), Basel, Switzerland</strong><br />Director<br /><strong>IUF â
 ### Funding
 
 This PhD project is funded by the company [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and the [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/).
+
 
 
 

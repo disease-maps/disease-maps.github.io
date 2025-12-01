@@ -8,8 +8,9 @@ permalink: /immunedev2/
 
 ## Human Immune System Development Map (HIDmap)
 
-**Development status:** Active development\
-**Sustainable support:** [Alt. method dev. for environmental tox. testing](https://iuf-duesseldorf.de/forschung/arbeitsgruppen/ag-koch/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
+**Online access and exploration:** [https://immunedev.elixir-luxembourg.org/minerva/](https://immunedev.elixir-luxembourg.org/minerva/)
+**Development status:** Fist version is complete and published\
+**Sustainable support:** [Environmental Toxicants and the Brain](https://iuf-duesseldorf.de/forschung/arbeitsgruppen/ag-koch/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)\
 **Funding:** [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/)\
@@ -37,7 +38,7 @@ This quick guide explains how to navigate and explore the HIDmap.
 The main entry point is: [https://immunedev.elixir-luxembourg.org/minerva/](https://immunedev.elixir-luxembourg.org/minerva).
 Upon opening, you will see an overview diagram displaying all organs included in the map, along with three buttons on the left-hand side.
 
-![P1]("../images/immunedev/figure1.png)
+![P1]("/immunedev/figure1.png)
 
 ### **Navigating Organ Maps**
 
@@ -45,7 +46,7 @@ To view a detailed maps for a specific organ, click on its name in the overview 
 
 For example, selecting ‘Fetal liver’ opens the corresponding submap.
 
-![P2]("../images/immunedev/figure2.png)
+![P2]("/immunedev/figure2.png)
 
 On the left-hand side, three clickable images provide shortcuts to:
 
@@ -53,7 +54,7 @@ On the left-hand side, three clickable images provide shortcuts to:
 •	The **prenatal development of the human immune system overview** (middle button; orange arrow)
 •	The **cells migration map**, showing inter-organ connections (bottom button; green arrow).
 
-![P3]("../images/immunedev/figure3.png)
+![P3]("/immunedev/figure3.png)
 
 ### **Pan and zoom**
 
@@ -62,7 +63,7 @@ Navigation within the HIDmap works similar to Google Maps:
 •	Use the buttons on the **bottom right** (see the three arrows) to zoom in, zoom out, and re-center the view.
 •	Click and drag to move around the map.
 
-![P4]("../images/immunedev/figure4.png)
+![P4]("/immunedev/figure4.png)
 
 ### **Search Function**
 
@@ -70,9 +71,9 @@ You can search for specific elements using the **search field** (red arrow at th
 
 Search functionality is available both in the overview figure and within each submap.
 
-![P5]("../images/immunedev/figure5.png)
+![P5]("/immunedev/figure5.png)
 
-![P6]("../images/immunedev/figure6.png)
+![P6]("/immunedev/figure6.png)
 
 ### **Submaps**
 
@@ -81,7 +82,7 @@ To explore submaps, click on the **‘Submaps’** button at the top (red arrow)
 •	The main submaps (e.g. Cell Migration and the Prenatal Immune Development)
 •	Organ-specific submaps (e.g., Fetal liver, Thymus, Bone Marrow, etc.)
 
-![P7]("../images/immunedev/figure7.png)
+![P7]("/immunedev/figure7.png)
 
 ### **Interactive exploration**
 
@@ -92,11 +93,11 @@ Every map element – such as **cells, markers,** or **interactions** - is click
 •	Supporting PubMed references.
 All molecular markers are systematically annotated with official **HGNC symbols** (A). Non-standard markers (e.g., major histocompatibility complex (MHC) class II) appearing **yellow boxes** (B), ensuring clear differentiation and traceability.
 
-![P8]("../images/immunedev/figure8.png)
+![P8]("/immunedev/figure8.png)
 
 Clicking on an **interaction** (black connecting lines) displays the relevant publications supporting that biological relationship.
 
-![P9]("../images/immunedev/figure9.png)
+![P9]("/immunedev/figure9.png)
 
 ### **Tip**
 
@@ -164,3 +165,4 @@ Toxicology (SCAHT), Basel, Switzerland</strong><br />Director<br /><strong>IUF �
 ### Funding
 
 This PhD project is funded by the company [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and the [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/).
+

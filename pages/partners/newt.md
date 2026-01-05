@@ -31,7 +31,7 @@ permalink: /newt/
 <br />
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/UgurDogrusoz.jpg" alt="Ugur Dogrusoz" /></td>
+<td style="width: 100px;"><img src="../images/people/UgurDogrusoz.jpg" alt="Ugur Dogrusoz" /></td>
 <td><strong>Ugur Dogrusoz, PhD</strong><br />
 <strong>Bilkent University, Ankara, Turkey</strong><br />
 Professor in Computer Engineering, Head of i-Vis Research Lab, Member of the SBGN Editors Board</td>

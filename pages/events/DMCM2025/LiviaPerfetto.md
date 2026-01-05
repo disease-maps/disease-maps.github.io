@@ -11,7 +11,7 @@ permalink: /DMCM2025/LiviaPerfetto/
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="/images/teamhq/LiviaPerfetto.png" width="135"/></td>
+      <img src="/images/people/LiviaPerfetto.png" width="135"/></td>
     <td> 
       <a href="https://sites.google.com/view/perfettolab/home?authuser=0" target="_blank"><b>Livia Perfetto</b></a>, Professor at Universita degli Studi di Roma La Sapienza, Dipartimento di Biologia e Biotecnologie Charles Darwin: Roma, Lazio, Italy.
     </td>

@@ -11,7 +11,7 @@ permalink: /DMCM2025/LisaMatthews/
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="/images/teamhq/LisaMatthews.png" width="135"/></td>
+      <img src="/images/people/LisaMatthews.png" width="135"/></td>
     <td> 
       <a href="https://reactome.org/about/team" target="_blank"><b>Lisa Matthews</b></a>, Managing Editor of Reactome, NYU Grossman School of Medicine, New York, United States of America.
     </td>

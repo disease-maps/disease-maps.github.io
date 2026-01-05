@@ -25,7 +25,7 @@ The starting point of the MDmap is the autoimmune module which is based on the g
 
 <p align="center"><strong>Molecular mechanisms of Meniere’s disease</strong></p>
 
-The MDmap development is led by the [Centre for Genomics and Oncology Genyo](http://www.genyo.es/en/content/centre) in close collaboration with the [LCSB Parkinson's Disease Map team](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map). The [MINERVA](http://r3lab.uni.lu/web/minerva-website/) platform is employed for online visualisation and exploration.  
+The MDmap development is led by the [Centre for Genomics and Oncology Genyo](http://www.genyo.es/en/content/centre) in close collaboration with the [LCSB Parkinson's Disease Map team](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map). The [MINERVA Platform](https://minerva.uni.lu) is employed for online visualisation and exploration.  
 
 ### Contact 
 
@@ -35,43 +35,43 @@ Jose Antonio Lopez-Escamez [antonio.lopezescamez@genyo.es](mailto:antonio.lopeze
 
 <table>
 <tr>
-<td><img src="../images/team/JoseAntonioLopezEscamez.jpg" alt="Jose Antonio Lopez-Escamez" /></td>
+<td><img src="../images/people/JoseAntonioLopezEscamez.jpg" alt="Jose Antonio Lopez-Escamez" /></td>
 <td><strong>Jose Antonio Lopez-Escamez, MD, PhD</strong><br /><strong>Instituto Biosanitario Granada, Spain
 </strong><br />Head of the Otology and Neurotology Group, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><img src="../images/people/StephanGebel.jpg" alt="Stephan Gebel" /></td>
 <td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br />
 Project Manager, the Parkinson's disease map project<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><img src="../images/people/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/LidiaFrejo.jpg" alt="Lidia Frejo" /></td>
+<td><img src="../images/people/LidiaFrejo.jpg" alt="Lidia Frejo" /></td>
 <td><strong>Lidia Frejo, PhD</strong><br /><strong>Instituto Biosanitario Granada, Spain
 </strong><br />Postdoctoral Researcher, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/PabloRomanNaranjo.jpg" alt="Pablo Roman-Naranjo" /></td>
+<td><img src="../images/people/PabloRomanNaranjo.jpg" alt="Pablo Roman-Naranjo" /></td>
 <td><strong>Pablo Roman-Naranjo, MSc</strong><br /><strong>Instituto Biosanitario Granada, Spain
 </strong><br />PhD Student, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/AlvaroGallegoMartinez.jpg" alt="Alvaro Gallego-Martinez" /></td>
+<td><img src="../images/people/AlvaroGallegoMartinez.jpg" alt="Alvaro Gallego-Martinez" /></td>
 <td><strong>Alvaro Gallego-Martinez, MSc</strong><br /><strong>Instituto Biosanitario Granada, Spain
 </strong><br />PhD Student, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/MarisaFlook.jpg" alt="Marisa Flook" /></td>
+<td><img src="../images/people/MarisaFlook.jpg" alt="Marisa Flook" /></td>
 <td><strong>Marisa Flook, MSc</strong><br /><strong>Instituto Biosanitario Granada, Spain
 </strong><br />PhD Student, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td><img src="../images/people/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>

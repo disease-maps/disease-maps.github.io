@@ -47,30 +47,35 @@ Satagopam V, Gu W, Eifes S, Gawron P, Ostaszewski M, Gebel S, Barbosa-Silva A, B
 
 <table>
 <tr>
-<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
-<td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br />
-Project Manager, the Parkinson's disease map project<br /></td>
-</tr>
-<tr>
-<td><img src="../images/team/PiotrGawron.jpg" alt="Piotr Gawron" /></td>
-<td><strong>Piotr Gawron, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
-</tr>
-<tr>
-<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td style="width: 105px;"><img src="../images/people/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/RudiBalling.jpg" alt="Rudi Balling" /></td>
-<td><strong>Rudi Balling, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Director, Luxembourg Centre for Systems Biomedicine<br /></td>
+<td style="width: 105px;"><img src="../images/people/PiotrGawron.jpg" alt="Piotr Gawron" /></td>
+<td><strong>Piotr Gawron, PhD</strong><br /><strong>AtComputers, Poznan, Poland
+</strong><br />Software developer<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td style="width: 105px;"><img src="../images/people/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+</table>
+
+### Former project members
+
+<table>
+<tr>
+<td style="width: 105px;"><img src="../images/people/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br />
+</td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/people/RudiBalling.jpg" alt="Rudi Balling" /></td>
+<td><strong>Rudi Balling, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Director, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 </table>
 

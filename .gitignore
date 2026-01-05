@@ -5,3 +5,4 @@ Gemfile.lock
 .Rproj.user
 .DS_Store
 .ruby-version
+.vscode

@@ -27,27 +27,27 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/SachaESilvaSaffar.jpg" alt="Sacha E Silva-Saffar" /></td>
+<td style="width: 100px;"><img src="../images/people/SachaESilvaSaffar.jpg" alt="Sacha E Silva-Saffar" /></td>
 <td><strong>Sacha E Silva-Saffar, MSc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Pharmacist, PhD Student
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
-<td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
+<td><img src="../images/people/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
 <td><strong>Anna Niarakis, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
-<td><img src="../images/team/GaetaneNocturne.jpg" alt="Gaetane Nocturne" /></td>
+<td><img src="../images/people/GaetaneNocturne.jpg" alt="Gaetane Nocturne" /></td>
 <td><strong>Gaetane Nocturne, MD, PhD</strong><br />
 <strong> Bicêtre Hospital, Le Kremlin-Bicêtre, France</strong>
 <br />Rheumatologist, Researcher</td>
 </tr>
 <tr>
-<td><img src="../images/team/noprofile.jpg" alt="Marie Croquet" /></td>
+<td><img src="../images/people/noprofile.jpg" alt="Marie Croquet" /></td>
 <td><strong>Marie Croquet, BSc</strong><br /><strong>University of Evry, University of Paris-Saclay, France</strong><br />Intern</td>
 </tr>
 </table>
@@ -56,6 +56,22 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 ### Funding
 
 PhD project ["Computational systems biology approaches for deciphering the immune-epithelial cellular interplay in Sjögren syndrome"](https://theses.fr/s348622) is funded by the [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580).
+
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>
 
 <!--
 <table>

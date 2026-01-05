@@ -36,28 +36,28 @@ permalink: /multiplesclerosis/
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez-Rodriguez" /></td>
+<td style="width: 100px;"><img src="../images/people/JulioSaezRodriguez.jpg" alt="Julio Saez-Rodriguez" /></td>
 <td><strong>Julio Saez-Rodriguez, PhD</strong><br />
 <strong>Heidelberg University Hospital, Heidelberg, Germany</strong><br />
 Professor of Medical Bioinformatics and Data Analysis</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/EkatrinaKotelnikova.jpg" alt="Ekaterina Kotelnikova" /></td>
+<td style="width: 100px;"><img src="../images/people/EkatrinaKotelnikova.jpg" alt="Ekaterina Kotelnikova" /></td>
 <td><strong>Ekaterina Kotelnikova, PhD</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />Head of Immune Systems Biology Group; Founder and Scientific Advisor at Personal Biomedicine, Inc.</td>
 </tr>
 <tr>
-<td><img src="../images/team/MelanieRinas.jpg" alt="Melanie Rinas" /></td>
+<td><img src="../images/people/MelanieRinas.jpg" alt="Melanie Rinas" /></td>
 <td><strong>Melanie Rinas, PhD</strong><br />
 <strong>RWTH-Aachen University Hospital, Aachen, Germany</strong><br />
 Postdoctoral Researcher in Computational Biomedicine</td>
 </tr>  
 <tr>
-<td><img src="../images/team/GemmaVila.jpg" alt="Gemma Vila" /></td>
+<td><img src="../images/people/GemmaVila.jpg" alt="Gemma Vila" /></td>
 <td><strong>Gemma Vila, BSc</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />
 Scientist</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/PabloVilloslada.jpg" alt="Pablo Villoslada" /></td>
+<td style="width: 100px;"><img src="../images/people/PabloVilloslada.jpg" alt="Pablo Villoslada" /></td>
 <td><strong>Pablo Villoslada, MD</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />
 Director of the MS pathogenesis and therapeutics Group at IDIBAPS; Adjunct Professor at the Department of Neurology, University of California, San Francisco (UCSF); National Coordinator of the Spanish Network of Excellence in Multiple Sclerosis (REEM), Instituto de Salud Carlos III; Member of the Scientific Advisory Board of the International Society of Neuroimmunology</td>
 </tr>
@@ -67,12 +67,12 @@ Director of the MS pathogenesis and therapeutics Group at IDIBAPS; Adjunct Profe
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/PabloVilloslada.jpg" alt="Pablo Villoslada" /></td>
+<td style="width: 100px;"><img src="../images/people/PabloVilloslada.jpg" alt="Pablo Villoslada" /></td>
 <td><strong>Pablo Villoslada, MD</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />
 Director of the MS pathogenesis and therapeutics Group at IDIBAPS; Adjunct Professor at the Department of Neurology, University of California, San Francisco (UCSF); National Coordinator of the Spanish Network of Excellence in Multiple Sclerosis (REEM), Instituto de Salud Carlos III; Member of the Scientific Advisory Board of the International Society of Neuroimmunology</td>
 </tr>
 <tr>
-<td><img src="../images/team/IratiZubizarreta.jpg" alt="Irati Zubizarreta" /></td>
+<td><img src="../images/people/IratiZubizarreta.jpg" alt="Irati Zubizarreta" /></td>
 <td><strong>Irati Zubizarreta, MD</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />
 Neurologist</td>
 </tr>

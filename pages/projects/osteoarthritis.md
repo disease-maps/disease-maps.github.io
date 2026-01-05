@@ -23,21 +23,21 @@ The map will capture OA mechanisms related to various pain phenotypes and thereb
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="../images/team/FrancisBerenbaum.jpg" alt="Francis Berenbaum"/></td>
+<td style="width: 105px;"><img src="../images/people/FrancisBerenbaum.jpg" alt="Francis Berenbaum"/></td>
 <td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne University, Paris, France</strong><br />Professor of Medicine at Sorbonne University; Researcher at INSERM;<br />Rheumatologist at the AP-HP Saint-Antoine Hospital;<br />Expert in the field of osteoarthritis</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
+<td style="width: 105px;"><img src="../images/people/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
 <td><strong>Joyce B. J. van Meurs, PhD</strong><br /><strong>University Medical Center Rotterdam, Rotterdam, The Netherlands</strong><br />
 Associate Professor of functional population genomics;<br />Expert in molecular epidemiology of osteoarthritis and chronic pain</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
+<td style="width: 105px;"><img src="../images/people/SergePerrot.jpg" alt="Serge Perrot"/></td>
 <td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hospital Cochin, Paris University, INSERM U987, Paris, France</strong><br />
 Professor of Clinical Pharmacology, Rheumatologist and Pain Specialist; <br />Head of the Pain Center; Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/AnaValdes.jpg" alt="Ana Valdes"/></td>
+<td style="width: 105px;"><img src="../images/people/AnaValdes.jpg" alt="Ana Valdes"/></td>
 <td><strong>Ana M. Valdes, PhD</strong><br /><strong>Nottingham City Hospital, Nottingham, UK</strong><br />
 Professor in Molecular and Genetic Epidemiology, Medicine and Health Sciences;<br />Expert in Bioinformatics, genetics and the molecular basis of osteoarthritis</td>
 </tr>
@@ -47,57 +47,57 @@ Professor in Molecular and Genetic Epidemiology, Medicine and Health Sciences;<b
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
+<td style="width: 105px;"><img src="../images/people/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
 Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/OxanaLopata.jpg" alt="Oxana Lopata" /></td>
+<td style="width: 105px;"><img src="../images/people/OxanaLopata.jpg" alt="Oxana Lopata" /></td>
 <td><strong>Oxana Lopata, MSc</strong><br /><strong>Information Technology for Translational Medicine (ITTM) S.A., Luxembourg</strong><br />
 Researcher<br /></td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td style="width: 105px;"><img src="../images/people/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
 Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
+<td style="width: 105px;"><img src="../images/people/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
 <td><strong>Ahmed Hemedan, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
 Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
-<td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
+<td><img src="../images/people/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
 <td><strong>Andreas Kremer, PhD</strong><br /><strong>Information Technology for Translational Medicine (ITTM) S.A., Luxembourg
 </strong><br />Managing Director<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td><img src="../images/people/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Head of the Bioinformatics Core at the Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/KathrinHemmer.jpg" alt="Kathrin Hemmer" /></td>
+<td><img src="../images/people/KathrinHemmer.jpg" alt="Kathrin Hemmer" /></td>
 <td><strong>Kathrin Weyer, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Preclinical Project Manager, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/AndreaMueller.jpg" alt="Andrea Mueller" /></td>
+<td><img src="../images/people/AndreaMueller.jpg" alt="Andrea Mueller" /></td>
 <td><strong>Andrea Mueller, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Systems Research Manager, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/MyronSchultz.jpg" alt="Myron Schultz" /></td>
+<td><img src="../images/people/MyronSchultz.jpg" alt="Myron Schultz" /></td>
 <td><strong>Myron Schultz, MDipH</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Head of Medicine, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/KonstantinCesnulevicius.jpg" alt="Konstantin Cesnulevicius" /></td>
+<td><img src="../images/people/KonstantinCesnulevicius.jpg" alt="Konstantin Cesnulevicius" /></td>
 <td><strong>Konstantin Cesnulevicius, MD, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Senior Medical Advisor Systems Biology/Systems Medicine, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/BerndSeilheimer.jpg" alt="Bernd Seilheimer" /></td>
+<td><img src="../images/people/BerndSeilheimer.jpg" alt="Bernd Seilheimer" /></td>
 <td><strong>Bernd Seilheimer, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Head of Systems Research and Development, Department of Medical Affairs & Research<br /></td>
 </tr>

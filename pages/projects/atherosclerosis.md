@@ -30,18 +30,18 @@ Parton A, McGilligan V, Chemaly M, O'Kane M, Watterson S. New models of atherosc
 
 <table>
 <tr>
-<td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
+<td><img src="../images/people/AndrewParton.jpg" alt="Andrew Parton" /></td>
 <td><strong>Andrew Parton BSc, PhD</strong><br />
   <strong>European Bioinformatics Institute, UK</strong><br />Senior Scientific Programmer</td>
 </tr>
 <tr>
-<td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
+<td><img src="../images/people/StevenWatterson.jpg" alt="Steven Watterson" /></td>
 <td><strong>Steven Watterson, MPhys, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), 
 Northern Ireland Centre <br />for Stratified Medicine, School of Biomedical Sciences</td>
 </tr>
 <tr>
-<td><img src="../images/team/VictoriaMcGilligan.jpg" alt="Victoria McGilligan" /></td>
+<td><img src="../images/people/VictoriaMcGilligan.jpg" alt="Victoria McGilligan" /></td>
 <td><strong>Victoria McGilligan, BSc, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, Northern Ireland Centre for Stratified Medicine, 
 <br />School of Biomedical Sciences</td>

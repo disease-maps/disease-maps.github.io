@@ -28,28 +28,28 @@ Basem I. Awad [basemawad@mans.edu.eg](mailto:basemawad@mans.edu.eg)
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="/images/team/ahmed_albayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
+<td style="width: 105px;"><img src="/images/people/ahmed_albayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
 <td><strong>Ahmed AlBayar, MD</strong><br />
 <strong>Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA</strong><br />Research Scholar at the Center for Brain Injury and Repair</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="/images/team/BasemAwad.jpg" alt="Basem Awad" width="100"/></td>
+<td style="width: 105px;"><img src="/images/people/BasemAwad.jpg" alt="Basem Awad" width="100"/></td>
 <td><strong>Basem I. Awad, MD, MSc, PhD</strong><br />
 <strong>Schoole of Medicine, Mansoura University, Mansoura, Egypt</strong><br />Assistant Professor at the Department of Neurological Surgery, Member of the Office for International Scientific Relations</td>
 </tr>
 <tr> 
-<td style="width: 105px;"><img src="/images/team/VenkataSatagopam.jpg" alt="Venkata Satagopam" width="100"/></td>
+<td style="width: 105px;"><img src="/images/people/VenkataSatagopam.jpg" alt="Venkata Satagopam" width="100"/></td>
 <td><strong>Venkata Satagopam, PhD</strong><br />
 <strong>University of Luxembourg, Luxembourg</strong><br />Research Scientist at the Luxembourg Centre For Systems Biomedicine, Technical Coordinator of the ELIXIR-Luxembourg Node, Co-founder and CTO at ITTM</td>
 </tr>
 <tr>
-<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><img src="../images/people/StephanGebel.jpg" alt="Stephan Gebel" /></td>
 <td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br />
 Project Manager, the Parkinson's disease map project<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><img src="../images/people/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>

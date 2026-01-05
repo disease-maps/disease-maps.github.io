@@ -25,7 +25,7 @@ permalink: /garuda/
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/SamikGhosh.jpg" alt="Samik Ghosh" /></td>
+<td style="width: 100px;"><img src="../images/people/SamikGhosh.jpg" alt="Samik Ghosh" /></td>
 <td><strong>Samik Ghosh, PhD</strong><br />
 <strong>The Systems Biology Institute, Tokyo, Japan</strong><br />
 Senior Scientist, the Leader of the GARUDA project</td>

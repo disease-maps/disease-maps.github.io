@@ -40,25 +40,25 @@ The objectives are:
 
 <table>
 <tr>
-<!-- <td><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira" /></td> -->
-<td style="width: 110px;"><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira" /></td>
+<!-- <td><img src="../images/people/CatarinaPereira.jpg" alt="Catarina Pereira" /></td> -->
+<td style="width: 110px;"><img src="../images/people/CatarinaPereira.jpg" alt="Catarina Pereira" /></td>
 <td><strong>Catarina Pereira, MSc</strong><br />
 <strong>University of Lisbon, Portugal</strong><br />PhD Student, Leader of the CyFi-MAP project</td>
 </tr>
 <tr>
-<td><img src="../images/team/AndreFalcao.jpg" alt="André Falcão" /></td>
+<td><img src="../images/people/AndreFalcao.jpg" alt="André Falcão" /></td>
 <td><strong>André Falcão, PhD</strong><br />
 <strong>University of Lisbon, Portugal</strong><br />Assistant Professor, Department of Informatics, Faculty of Sciences<br />
 Supervisor of the CyFi-MAP PhD project</td>
 </tr>
 <tr>
-<td><img src="../images/team/MargaridaDAmaral.jpg" alt="Margarida D. Amaral" /></td>
+<td><img src="../images/people/MargaridaDAmaral.jpg" alt="Margarida D. Amaral" /></td>
 <td><strong>Margarida D. Amaral, PhD</strong><br />
 <strong>University of Lisbon, Portugal</strong><br />Professor, Chemistry and Biochemistry Department, Faculty of Sciences
 <br />Co-supervisor of the CyFi-MAP PhD project</td>
 </tr>
 <tr>
-<td><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
+<td><img src="../images/people/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</strong><br />Researcher<br />
 Co-supervisor of the CyFi-MAP PhD project</td>
 </tr>
@@ -71,3 +71,19 @@ Pereira C, Mazein A, Farinha CM, Gray MA, Kunzelmann K, Ostaszewski M, Balaur I,
 ### Funding
 
 This work is supported by the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt/) through the PhD Grant ref. PD/BD/131405/2017.  
+
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>

@@ -108,56 +108,56 @@ Use the combination of search, submaps, and interaction details to explore the d
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="../images/teamhq/ChristianeSpruck.jpg" alt="Christiane Spruck" /></td>
+<td style="width: 105px;"><img src="/images/people/ChristianeSpruck.jpg" alt="Christiane Spruck" /></td>
 <td><strong>Christiane Spruck, M.Sc</strong><br /><strong>IUF – Leibniz Research Institute for Environmental Medicine</strong><br />Biologist, PhD Student<br />Development of the HIDmap<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/LuizLadeira.jpg" alt="Luiz Ladeira" /></td>
+<td><img src="/images/people/LuizLadeira.jpg" alt="Luiz Ladeira" /></td>
 <td><strong>Luiz Ladeira, PhD</strong><br /><strong>GIGA Institute, University of Liège, Belgium</strong><br />Postdoctoral researcher<br />Curation of the HIDmap<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/EliskaKuchovska.jpg" alt="Eliska Kuchovska" /></td>
+<td><img src="/images/people/EliskaKuchovska.jpg" alt="Eliska Kuchovska" /></td>
 <td><strong>Eliška Kuchovská, PhD</strong><br /><strong>IUF – Leibniz Research Institute for Environmental Medicine</strong><br />Postdoctoral researcher<br />Review and editing<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
+<td><img src="/images/people/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />Luxembourg Centre for Systems Biomedicine Researcher<br />MINERVA Platform support<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/EmanuelaCorsini.jpg" alt="Emanuela Corsini" /></td>
+<td><img src="/images/people/EmanuelaCorsini.jpg" alt="Emanuela Corsini" /></td>
 <td><strong>Emanuela Corsini, PhD</strong><br /><strong>DISFeB – Università degli Studi di Milano</strong><br />Professor of Toxicology<br />Scientific Advisor<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/LiesbetGeris.jpg" alt="Liesbet Geris" /></td>
+<td><img src="/images/people/LiesbetGeris.jpg" alt="Liesbet Geris" /></td>
 <td><strong>Liesbet Geris, PhD</strong><br /><strong>GIGA Institute, University of Liège, Belgium</strong><br />Professor in Biomechanics and Computational Tissue Engineering<br />Supervision<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/BernardStaumont.jpg" alt="Bernard Staumont" /></td>
+<td><img src="/images/people/BernardStaumont.jpg" alt="Bernard Staumont" /></td>
 <td><strong>Bernard Staumont, PhD</strong><br /><strong>GIGA Institute, University of Liège, Belgium</strong><br />Postdoc Researcher & Project Manager<br />Supervision, review and editing<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/SusannFayyaz.jpg" alt="Susann Fayyaz" /></td>
+<td><img src="/images/people/SusannFayyaz.jpg" alt="Susann Fayyaz" /></td>
 <td><strong>Susann Fayyaz, PhD</strong><br /><strong>Clariant Produkte (Deutschland) GmbH</strong><br />Expert Toxicology<br />Project administration and funding body<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/QiangLi.jpg" alt="Qiang Li" /></td>
+<td><img src="/images/people/QiangLi.jpg" alt="Qiang Li" /></td>
 <td><strong>Qiang Li, PhD</strong><br /><strong>Clariant Produkte (Deutschland) GmbH</strong><br />Senior Expert Toxicology<br />Project administration and funding body<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/FabianGrimm.jpg" alt="Fabian Grimm" /></td>
+<td><img src="/images/people/FabianGrimm.jpg" alt="Fabian Grimm" /></td>
 <td><strong>Fabian Grimm, PhD</strong><br /><strong>Clariant Produkte (Deutschland) GmbH</strong><br />Head of Toxicology and Ecotoxicology<br />Project administration and funding body<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/EllenFritsche.jpg" alt="Ellen Fritsche" /></td>
+<td><img src="/images/people/EllenFritsche.jpg" alt="Ellen Fritsche" /></td>
 <td><strong>Ellen Fritsche, MD</strong><br /><strong>Swiss Centre for Applied Human 
 Toxicology (SCAHT), Basel, Switzerland</strong><br />Director<br /><strong>IUF – Leibniz Research Institute for Environmental Medicine</strong><br />Former working group leader<br /><strong>Medical Faculty, Heinrich Heine University Düsseldorf, Duesseldorf, Germany</strong><br /><strong>DNTOX GmbH, Duesseldorf, Germany</strong><br />Professor for Environmental Toxicology<br />Project generation, funding acquisition, administration and supervision<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/KatharinaKoch.jpg" alt="Katharina Koch" /></td>
+<td><img src="/images/people/KatharinaKoch.jpg" alt="Katharina Koch" /></td>
 <td><strong>Katharina Koch, PhD</strong><br /><strong>IUF – Leibniz Research Institute for Environmental Medicine</strong><br /><strong>DNTOX GmbH, Duesseldorf, Germany</strong><br />Scientist and interim working group leader<br />Supervision, project administration and funding acquisition<br /></td>
 </tr>
 <tr>
-<td><img src="../images/teamhq/JuliaTigges.jpg" alt="Julia Tigges" /></td>
+<td><img src="/images/people/JuliaTigges.jpg" alt="Julia Tigges" /></td>
 <td><strong>Julia Tigges, PhD </strong><br /><strong>IUF – Leibniz Research Institute for Environmental Medicine</strong><br />Scientist<br />Supervision, project administration and funding acquisition<br /></td>
 </tr>
 </table>
@@ -166,6 +166,22 @@ Toxicology (SCAHT), Basel, Switzerland</strong><br />Director<br /><strong>IUF �
 
 This PhD project is funded by the company [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and the [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/).
 
+
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>
 
 
 

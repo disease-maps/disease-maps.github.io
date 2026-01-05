@@ -36,3 +36,19 @@ This project was supported under the framework of ERA PerMed, FNR INTER, Referen
 
 Berndt N, Eckstein J, Wallach I, Nordmeyer S, Kelm M, Kirchner M, Goubergrits L, Schafstedde M, Hennemuth A, Kraus M, Grune T, Mertins P, Kuehne T, Holzhütter HG. CARDIOKIN1: Computational Assessment of Myocardial Metabolic Capability in Healthy Controls and Patients With Valve Diseases. Circulation. 2021 Dec 14;144(24):1926-1939. [doi: 10.1161/CIRCULATIONAHA.121.055646](https://doi.org/10.1161/CIRCULATIONAHA.121.055646). Epub 2021 Nov 11. [PMID: 34762513](https://pubmed.ncbi.nlm.nih.gov/34762513/).
 
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>
+

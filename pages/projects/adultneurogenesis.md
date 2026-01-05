@@ -14,7 +14,7 @@ Adult neurogenesis in the hippocampus provides a source of cellular plasticity t
 
 <table>
 <tr>
-<td style="width: 110px;"><img src="../images/team/RupertOverall.jpg" alt="Rupert Overall" /></td>
+<td style="width: 110px;"><img src="../images/people/RupertOverall.jpg" alt="Rupert Overall" /></td>
 <td><strong>Rupert Overall, PhD</strong><br />
 <strong>German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</strong>
 <br />Platform Leader, Cognitive Resilience Map</td>

@@ -29,6 +29,22 @@ Lopata O, Acencio ML, Wang X, Hemedan AA, Chao MJ, Jelinsky SA, Tran F, Rosensti
 
 This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 853995.
 
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>
+
 ## User guide
 
 This quick user guide explains how to navigate and use the UC and AD disease maps. 

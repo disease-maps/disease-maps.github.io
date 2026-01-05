@@ -11,7 +11,7 @@ permalink: /DMCM2024/JamesGlazier/
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="/images/teamhq/JamesGlazier.jpg" width="135"/></td>
+      <img src="/images/people/JamesGlazier.jpg" width="135"/></td>
     <td> 
       <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA
     </td>

@@ -17,13 +17,13 @@ permalink: /pathwaycommons/
 <br />
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/GaryBader.jpg" alt="Gary Bader" /></td>
+<td style="width: 100px;"><img src="../images/people/GaryBader.jpg" alt="Gary Bader" /></td>
 <td><strong>Gary Bader, PhD</strong><br />
 <strong>University of Toronto, Toronto, Canada</strong><br />
 Professor at the Donnelly Centre</td>
 </tr>
 <tr>
-<td><img src="../images/team/ChrisSander.jpg" alt="Chris Sander" /></td>
+<td><img src="../images/people/ChrisSander.jpg" alt="Chris Sander" /></td>
 <td><strong>Chris Sander, PhD</strong><br />
 <strong>Dana-Farber Cancer Institute, Boston, US<br />
 Harvard Medical School, Boston, US</strong><br />
@@ -31,7 +31,7 @@ Director of the cBio Center at the Dana-Farber Cancer Institute, <br />
 Professor of Cell Biology at Harvard Medical School</td>
 </tr>
 <tr>
-<td><img src="../images/team/EmekDemir.jpg" alt="Emek Demir" /></td>
+<td><img src="../images/people/EmekDemir.jpg" alt="Emek Demir" /></td>
 <td><strong>Emek Demir, PhD</strong><br />
 <strong>Oregon Health & Science University, Portland, US</strong><br />
 Assistant Professor, Molecular and Medical Genetics</td>

@@ -1,6 +1,6 @@
 ---
 title: Diabetic Kidney Disease
-lyout: default
+layout: default
 permalink: /diabetickidneydisease
 ---
 
@@ -24,27 +24,27 @@ Altogether, this international collaboration aims to construct a holistic map of
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/YousofGheisari.jpg" alt="Yousof Gheisari" /></td>
+<td style="width: 100px;"><img src="../images/people/YousofGheisari.jpg" alt="Yousof Gheisari" /></td>
 <td><strong>Yousof Gheisari, Md, Ph.D., Associated Professor</strong>
 <br />Chair, Regenerative Medicine Research Center, Department of Medicine
 <br />Isfahan University of Medical Sciences, Isfahan, Iran</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/RamaNatarajan.jpg" alt="Rama Natarajan" /></td>
+<td style="width: 100px;"><img src="../images/people/RamaNatarajan.jpg" alt="Rama Natarajan" /></td>
 <td><strong>Rama Natarajan, PhD, FAHA, FASN, Full Professor</strong>
 <br />Chair, Department of Diabetes Complications and Metabolism
 <br />Deputy Director, Arthur Riggs Diabetes & Metabolism Research Institute
 <br />Beckman Research Institute of City of Hope, Duarte, California</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/MaryamAbdollahi.jpg" alt="Maryam Abdollahi" /></td>
+<td style="width: 100px;"><img src="../images/people/MaryamAbdollahi.jpg" alt="Maryam Abdollahi" /></td>
 <td><strong>Maryam Abdollahi, Ph.D., Staff Scientist</strong>
 <br />Department of Diabetes Complications and Metabolism
 <br />Arthur Riggs Diabetes & Metabolism Research Institute
 <br />Beckman Research Institute of City of Hope, Duarte, California</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/NancyChen.jpg" alt="Nancy Chen" /></td>
+<td style="width: 100px;"><img src="../images/people/NancyChen.jpg" alt="Nancy Chen" /></td>
 <td><strong>Zhuo (Nancy) Chen, Assistant Research Professor</strong>
 <br />Department of Diabetes Complications and Metabolism
 <br />Arthur Riggs Diabetes & Metabolism Research Institute
@@ -56,14 +56,14 @@ Altogether, this international collaboration aims to construct a holistic map of
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/FarnoushKiyanpour.jpg" alt="Farnoush Kiyanpour" /></td>
+<td style="width: 100px;"><img src="../images/people/FarnoushKiyanpour.jpg" alt="Farnoush Kiyanpour" /></td>
 <td><strong>Farnoush Kiyanpour, PhD Candidate</strong>
 <br />Department of Advanced Medical Technology
 <br />Regenerative Medicine Research Center, Department of Medicine
 <br />Isfahan University of Medical Sciences, Isfahan, Iran</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td style="width: 100px;"><img src="../images/people/MarekOstaszewski1.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong>
 <br />Luxembourg Centre for Systems Biomedicine
 <br />University of Luxembourg, Luxembourg</td>
@@ -74,15 +74,31 @@ Altogether, this international collaboration aims to construct a holistic map of
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/NiloofarBorhani.jpg" alt="Niloufar Borhani" /></td>
+<td style="width: 100px;"><img src="../images/people/NiloofarBorhani.jpg" alt="Niloufar Borhani" /></td>
 <td><strong>Niloufar Borhani, PhD Candidate</strong>
 <br />Regenerative Medicine Research Center, Department of Medicine
 <br />Isfahan University of Medical Sciences, Isfahan, Iran</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/PouyaBorzou.jpg" alt="Pouya Borzou" /></td>
+<td style="width: 100px;"><img src="../images/people/PouyaBorzou.jpg" alt="Pouya Borzou" /></td>
 <td><strong>Pouya Borzou, MSc</strong>
 <br />Regenerative Medicine Research Center, Department of Medicine
 <br />Isfahan University of Medical Sciences, Isfahan, Iran</td>
 </tr>
+</table>
+
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
 </table>

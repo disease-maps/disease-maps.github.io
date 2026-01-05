@@ -142,6 +142,22 @@ To demonstrate how the map can be used, we offer here some applications along wi
   </tr>
 </table> -->
 
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>
+
 
 
 

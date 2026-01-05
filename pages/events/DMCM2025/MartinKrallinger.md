@@ -11,7 +11,7 @@ permalink: /DMCM2025/MartinKrallinger/
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="/images/teamhq/MartinKrallinger.png" width="135"/></td>
+      <img src="/images/people/MartinKrallinger.png" width="135"/></td>
     <td> 
       <a href="https://www.bsc.es/krallinger-martin" target="_blank"><b>Martin Krallinger</b></a>, Leading Researcher,
 Life Sciences - NLP for Biomedical Information Analysis, Barcelona Supercomputing Center, Barcelona, Spain.

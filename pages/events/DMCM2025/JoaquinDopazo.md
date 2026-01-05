@@ -11,7 +11,7 @@ permalink: /DMCM2025/JoaquinDopazo/
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="/images/teamhq/JoaquinDopazo2.png" width="135"/></td>
+      <img src="/images/people/JoaquinDopazo2.png" width="135"/></td>
     <td> 
       <a href="https://peoplewiki.clinbioinfosspa.es/jdopazo/start" target="_blank"><b>Joaquín Dopazo</b></a>, Head of the Computational Medicine Platform of Andalucia, Fundacion Progreso y Salud, Sevilla, Spain.
     </td>

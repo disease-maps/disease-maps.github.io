@@ -20,16 +20,16 @@ Launched from joint efforts between the <a href="https://iab.univ-grenoble-alpes
 
 <table>
 <tr>
-<td style="width: 110px;"><img src="../images/team/NathanaelLemonnier.jpg" alt="Nathanael Lemonnier" /></td>
+<td style="width: 110px;"><img src="../images/people/NathanaelLemonnier.jpg" alt="Nathanael Lemonnier" /></td>
 <td><strong>Nathanaël Lemonnier, PhD</strong><br />
 <strong>Institute for Advanced Biosciences, France</strong><br />Systems Biology Research Associate</td>
 </tr>
 <tr>
-<td><img src="../images/team/WeiYan.jpg" alt="Wei Yan" /></td>
+<td><img src="../images/people/WeiYan.jpg" alt="Wei Yan" /></td>
 <td><strong>Wei Yan, PhD</strong><br /><strong>Shanghai Center for Systems Biomedicine, China</strong><br />Professor of Proteomics, Shanghai Jiao Tong University</td>
 </tr>
 <tr>
-<td><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
+<td><img src="../images/people/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Senior Researcher</td>
 </tr>
 </table>
@@ -38,12 +38,12 @@ Launched from joint efforts between the <a href="https://iab.univ-grenoble-alpes
 
 <table>
 <tr>
-<td style="width: 110px;"><img src="../images/team/PierreHainaut.jpg" alt="Pierre Hainaut" /></td>
+<td style="width: 110px;"><img src="../images/people/PierreHainaut.jpg" alt="Pierre Hainaut" /></td>
 <td><strong>Pierre Hainaut, PhD</strong><br />
 <strong>University of Grenoble Alpes, France</strong><br />Director, Institute for Advanced Biosciences (UGA, INSERM U1209, <br />CNRS UMR5309): Professor, University Grenoble Alpes</td>
 </tr>
 <tr>
-<td><img src="../images/team/ChristophePison.jpg" alt="Christophe Pison" /></td>
+<td><img src="../images/people/ChristophePison.jpg" alt="Christophe Pison" /></td>
 <td><strong>Christophe Pison, MD, PhD</strong><br />
 <strong>University of Grenoble, France</strong>
 <br />Head of Chest Division, Professor in Pneumology of the University <br />Grenoble Alpes</td>

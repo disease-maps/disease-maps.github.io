@@ -19,13 +19,13 @@ permalink: /physiome/
 <br />
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/PeterHunter.jpg" alt="Peter Hunter" /></td>
+<td style="width: 100px;"><img src="../images/people/PeterHunter.jpg" alt="Peter Hunter" /></td>
 <td><strong>Peter Hunter, MNZM, DPhil Oxf, ME, FRSNZ FRS</strong><br />
 <strong>University of Auckland, Auckland, New Zealand</strong><br />
 Director of the Auckland Bioengineering Institute, Professor of Engineering Science at the University of Auckland, Director of the Medical Technologies Centre of Research Excellence</td>
 </tr>
 <tr>
-<td><img src="../images/team/DavidNickerson.jpg" alt="David Nickerson" /></td>
+<td><img src="../images/people/DavidNickerson.jpg" alt="David Nickerson" /></td>
 <td><strong>David Nickerson, PhD, ME, BE</strong><br />
 <strong>University of Auckland, Auckland, New Zealand</strong><br />
 Aotearoa Physiome Fellow, Leader of the Auckland Renal Physiome project, an elected member of the CellML and SED-ML editorial boards, a COMBINE coordinator</td>

@@ -39,7 +39,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/VidishaSingh.jpg" alt="Vidisha Singh" /></td>
+<td style="width: 100px;"><img src="../images/people/VidishaSingh.jpg" alt="Vidisha Singh" /></td>
 <td><strong>Vidisha Singh, MSc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />PhD Student
 <br />GenHotel EA3886
@@ -47,7 +47,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <br />RA-Map and CaSQ development</td>
 </tr>
 <tr>
-<td><img src="../images/team/SaraSadatAghamiri.jpg" alt="Sara Sadat Aghamiri" /></td>
+<td><img src="../images/people/SaraSadatAghamiri.jpg" alt="Sara Sadat Aghamiri" /></td>
 <td><strong>Sara Sadat Aghamiri, Msc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Master student, Department of Biology
 <br />GenHotel EA3886
@@ -55,7 +55,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <br />CaSQ benchmarking</td>
 </tr>
 <tr>
-<td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
+<td><img src="../images/people/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
 <td><strong>Anna Niarakis, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
 <br />GenHotel EA3886
@@ -63,13 +63,13 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <br />RA-Map and CaSQ development</td>
 </tr>
 <tr>
-<td><img src="../images/team/SylvainSoliman.jpg" alt="Sylvain Soliman" /></td>
+<td><img src="../images/people/SylvainSoliman.jpg" alt="Sylvain Soliman" /></td>
 <td><strong>Sylvain Soliman, PhD</strong><br />
 <strong>Inria Saclay-Île de France, Palaiseau, France</strong><br />Researcher
 <br />CaSQ development</td>
 </tr>
 <tr>
-<td><img src="../images/team/TomasHelikar.jpg" alt="Tomas Helikar" /></td>
+<td><img src="../images/people/TomasHelikar.jpg" alt="Tomas Helikar" /></td>
 <td><strong>Tomas Helikar, PhD</strong><br />
 <strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Associate Professor, Department of Biochemistry
 <br />Cell Collective modelling platform</td>
@@ -80,13 +80,13 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/GeorgeKalliolias.jpg" alt="George D. Kalliolias" /></td>
+<td style="width: 100px;"><img src="../images/people/GeorgeKalliolias.jpg" alt="George D. Kalliolias" /></td>
 <td><strong>George D. Kalliolias, MD, PhD</strong><br />
 <strong>Hospital for Special Surgery, Weill Cornell Medical College, New York City, US</strong><br />
 Director of Precision Medicine Laboratory at the Hospital for Special Surgery, Assistant Professor of Medicine at the Weill Cornell Medical College</td>
 </tr>
 <tr>
-<td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
+<td><img src="../images/people/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
 <td><strong>Elisabeth Petit-Teixeira, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
 <br />GenHotel EA3886
@@ -98,7 +98,7 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 
 <table>
 <tr>
-<td><img src="../images/team/GillesChiocchia.jpg" alt="Gilles Chiocchia" /></td>
+<td><img src="../images/people/GillesChiocchia.jpg" alt="Gilles Chiocchia" /></td>
 <td><strong>Gilles Chiocchia, PhD</strong><br />
 <strong>University of Versailles-Saint-Quentin-en-Yvelines, France</strong><br />
 Professor - Hospital Practitioner <br />
@@ -106,7 +106,7 @@ Director INSERM UMR 1173 - Infection and Inflammation <br />
 Head of Laboratory of Chronic Infection and Inflammation</td>
 </tr>
 <tr>
-<td><img src="../images/team/SaranPankaew.jpg" alt="Saran Pankaew" /></td>
+<td><img src="../images/people/SaranPankaew.jpg" alt="Saran Pankaew" /></td>
 <td><strong>Saran Pankaew, Msc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Master student, Department of Biology
 <br />GenHotel EA3886
@@ -117,3 +117,19 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 ### Funding
 
 PhD project "Integrative Modelling and Analysis of Molecular Pathways dysregulated in Rheumatoid Arthritis" is funded by the <a href="https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale" target="_blank">Doctoral School "Structure and Dynamics of Living Systems"</a>, the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">University of Paris-Saclay</a>.
+
+### Acknowledgements
+
+<table>
+
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
+
+</table>

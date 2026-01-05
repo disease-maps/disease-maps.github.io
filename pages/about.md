@@ -16,9 +16,9 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/CharlesAuffray.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/ReinhardSchneider.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/EmmanuelBarillot.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/CharlesAuffray.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/ReinhardSchneider.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/EmmanuelBarillot.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</p></td>
@@ -33,9 +33,9 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MarekOstaszewski1.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AlexanderMazein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MarekOstaszewski1.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/InnaKuperstein.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
@@ -43,7 +43,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AnnaNiarakis.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AnnaNiarakis.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
 <td style="width: 200px;"> </td>
 </tr>

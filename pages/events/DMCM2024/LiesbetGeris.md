@@ -11,7 +11,7 @@ permalink: /DMCM2024/LiesbetGeris/
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="/images/teamhq/LiesbetGeris.jpg" width="135"/></td>
+      <img src="/images/people/LiesbetGeris.jpg" width="135"/></td>
     <td> 
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>LiesbetGeris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium
     </td>

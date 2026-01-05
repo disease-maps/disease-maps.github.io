@@ -21,14 +21,14 @@ permalink: /coronaryarterydisease
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/DanielaBornigen.jpg" alt="Daniela Börnigen" /></td>
+<td style="width: 100px;"><img src="../images/people/DanielaBornigen.jpg" alt="Daniela Börnigen" /></td>
 <td><strong>Daniela Börnigen, PhD</strong><br />
 <strong>University Medical Center Hamburg-Eppendorf, Germany</strong>
 <br />Senior Researcher
 <br />Department of General and Interventional Cardology, University Heart Center Hamburg GmbH (UHZ)</td>
 </tr>
 <tr>
-<td><img src="../images/team/TanjaZeller.jpg" alt="Tanja Zeller" /></td>
+<td><img src="../images/people/TanjaZeller.jpg" alt="Tanja Zeller" /></td>
 <td><strong>Tanja Zeller, PhD</strong><br />
 <strong>University Medical Center Hamburg-Eppendorf, Germany</strong>
 <br />Professor for Genomics and Systems Biology, DZHK Professor

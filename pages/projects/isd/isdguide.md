@@ -101,3 +101,17 @@ If the selected overlay contains a dataset with gene symbols along with a fixed 
 
 ![guide_12](../pages/projects/isd/images/guide_12.png)
 
+## Adding comments
+
+To make a suggestion, a comment can be added. This comment will be visible both to other users and to the developers. To create a comment, right click on the map where the comment should appear and select Add comment from the pop-up menu.
+
+![guide_13](../pages/projects/isd/images/guide_13.png)
+
+There is a field allowing you to enter your email address. This can be very helpful for the developers to get in contact with you to improve the map. You can write your comment in the text box provided. It will be pinned to the map in the chosen location. Click Submit and your comment is now added to the map.
+
+![guide_14](../pages/projects/isd/images/guide_14.png)
+
+To view comments in the map, click Show comments button. Your new comment will now be visible to anyone, and the map curators will be notified of the new comment.
+
+![guide_15](../pages/projects/isd/images/guide_15.png)
+

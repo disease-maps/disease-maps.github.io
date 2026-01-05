@@ -23,7 +23,7 @@ permalink: /isd/
 
 ## Brief introduction  
 
-The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific causal molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
+The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
 
 
 | Access the map | Learn how to navigate and explore the map |
@@ -37,13 +37,13 @@ The map is comprised by three layers: a [side-by-side layer](https://imi-biomap.
 
 ### AD map
 
-| Intercellular communication layer | Intracellular pathways layer |
+| [Intercellular communication layer](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2973&y=2480.4999999989786&z=4) | Intracellular pathways layer |
 | :---: | :---: |
 | ![](/images/projects/isdimages/ADmap5.png) | ![](/images/projects/isdimages/Ker5.png) |
 
 ### PsO map
 
-| Intercellular communication layer | Intracellular pathways layer |
+| [Intercellular communication layer](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=676&x=5517.5&y=5830&z=4) | Intracellular pathways layer |
 | :---: | :---: |
 |![](/images/projects/isdimages/PSOmap5.png) | ![](/images/projects/isdimages/KerPso7.png) |
 
@@ -57,15 +57,11 @@ To demonstrate how the map can be used, we offer here some applications along wi
 3. sfds
 4. sfsf -->
 
-**Analysis of the network structure**  
-- <a href="/isdapp2/#net" target="_blank">Discovering possible compensatory pathways explaining poor response to dupilumab</a> (Step-by-step guide)
-
-**Integration of genetic variation data into the map**
-- <a href="/isdapp2/#genet1" target="_blank">SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab</a> (<a href="/isdvig3" target="_blank">Step-by-step guide</a>)
-- <a href="/isdapp2/#genet2" target="_blank"> SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.</a> (<a href="/isdvig4" target="_blank">Step-by-step guide</a>)
-
-**Integration of transcriptomics and proteomics data into the map**
-- <a href="/isdapp2/#dup" target="_blank"> IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment </a> (<a href="/isdvig5" target="_blank">Step-by-step guide</a>)
+- **Analysis of the network structure**  (<a href="/isdapp2/#net" target="_blank">AD map example</a>)
+- **Integration of genetic variation data into the map** (<a href="/isdapp2/#genet1" target="_blank">AD map example</a>) 
+- **Integration of genetic variation data into the map** (<a href="/isdapp2/#genet2" target="_blank">PsO map example)
+- **Integration of transcriptomics and proteomics data into the map** (<a href="/isdapp2/#dup" target="_blank">AD map example </a>)
+- **Boolean simulations of part of the AD map (the IL4/IL13 pathway)** (Coming soon!)
 
 <!-- </tr>
   <tr>

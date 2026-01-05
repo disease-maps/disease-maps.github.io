@@ -12,17 +12,17 @@ Here we demonstrate the ISD map can be a hypothesis-generating resource via the 
 
 <h2 id="net"></h2>
 
-### Discovering possible compensatory pathways explaining poor response to dupilumab
-[Step-by-step guide to reproduce the analysis here!](/isdvig5/)
+### Discovering possible pathways in KC that counteract the anti-inflammatory effect of dupilumab
+[Step-by-step guide to reproduce the analysis here](/isdvig1/)
 
-The direct analysis of the network structure per se may provide biological insights related to a disease of interest. To find compensatory pathways that could explain poor response of dupilumab, a widely used IL4R antagonist to treat moderate-to-severe AD, we analysed the network structure of the AD submap at both intercellular communication ([AD main map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25)) and intracellular ([KCs](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=386&backgroundId=610&x=5164&y=2665.785714285714&z=4)) and ([Th2 cells](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=387&backgroundId=610&x=2305.5&y=1687.8888888888887&z=4)) levels.
-We could identify alternative pathways that explain, at least partially, the relatively low rate of remission following dupilumab treatment. In KCs, for instance, many genes involved in skin barrier homeostasis are downregulated not only by IL4/IL13 pathways, but also by IFNG, IL22, TSLP, IL-17A and IL25 signalling pathways. So, the presence of these cytokines in skin could compensate for the inhibitory action of dupilumab on IL4R.
+The direct analysis of the network structure per se may provide biological insights related to a disease of interest. For instance, to find pathways in KC that could attenuate dupilumab's anti-inflammatory effect, we analysed the network structure of the KC submap in AD ([KCs](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=386&backgroundId=610&x=5164&y=2665.785714285714&z=4)).
+We could identify pathways in KCs that could mitigate, at least partially, the anti-inflammatory effects of dupilumab: IL26, IL33 and IFNG signaling pathways. These pathways regulate CXCL8, TSLP and TNC, all of which are also regulated by the IL4/IL13 signaling pathway. So,the presence of IL26, IL33 and IFNG in skin could disrupt the effects of dupilumab.
 
 <!-- ![kc_ad_hypo](https://github.com/user-attachments/assets/e3199474-0c0b-4fbd-986c-4d57d517c3f0) -->
 
 <!-- ![](../images/projects/isdimages/keratinocyte_dipulimab.png) -->
 
-![app2](../pages/projects/isd/images/app2.png)
+![app2a](../pages/projects/isd/images/app2a.png)
 
 
 ## Integration of genetic variation data into the map 
@@ -30,8 +30,8 @@ We integrated AD- and PsO-related genetic variation data (obtained from the Open
 
 <h2 id="genet1"></h2>
 
-### SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab.
-[Step-by-step guide to reproduce the analysis here!](/isdvig3/)
+### Data-driven hypothesis: SNPs in upstream IFNG regulators in Th1 cells favor upregulation of IFNG and drive resistance to dupilumab.
+[Step-by-step guide to reproduce the analysis here](/isdvig3/)
 
 We collected genes harbouring variants (SNPs) associated with AD from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in orange) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2820&y=1623&z=5&overlaysId=1367)). After integration of these AD-associated genes to the map, we sough to investigate their influence at the mechanistic level. To this end, we manually inspected the pathways of the ISD map for proteins encoded by the matched disease-associated genes that directly influence other proteins. As discussed previously, IFNG seems to partially compensate for IL4R inhibition by positively stimulating the expression of several AD-promoting genes stimulated by IL4R in KCs. As IFNG is mainly produced by Th1 cells, we checked the Th1 cell map for the presence of proteins encoded by AD-associated genes that could somehow influence IFNG expression. Interestingly, there are five proteins encoded by AD-associated genes (IL18RAP, IL18R1, TRAF6, CARD11 and NFKBIA) upstream to the IFNG expression. We hypothesise that SNPs in these genes could favour IFNG expression in Th1 cells and, therefore, counteract the action of dupilumab, i.e., IL4R inhibition. 
 
@@ -43,15 +43,15 @@ We collected genes harbouring variants (SNPs) associated with AD from the Open T
 
 <h2 id="genet2"></h2>
 
-### SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.
-[Step-by-step guide to reproduce the analysis here!](/isdvig4/)
+### Data-driven hypothesis: SNPs in upstream apoptosis regulators in psoriatic KCs drive their resistance to cytokine-induced apoptosis.
+[Step-by-step guide to reproduce the analysis here](/isdvig4/)
 
-We collected genes harbouring variants (SNPs) associated with PsO from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in green) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=674&x=4131&y=5323&z=4.639352169813215&overlaysId=1462)). After integration of these PsO-associated genes to the map, we sough to investigate their influence at the mechanistic level, specifically in psoriatic KCs. In PsO, KCs are relatively resistant to cytokine-induced apoptosis. This resistance could be assigned, at least partially, to the presence of several proteins encoded by PsO-associated genes in apoptosis-regulating pathways. In fact, by exploring the map, we can see at least six proteins encoded by PsO-associated genes in these pathways: IFNG, INFGR2, TNFRSF1A, ESRRA, IRF1 and SOCS1. The most prominent pathway would be the one triggered by IFNG via IFNGR2 and IRF1 culminating in the expression of SOCS proteins. Remarkably, all proteins in this apoptosis-regulating pathway are encoded by PsO-associated genes and the underlying SNPs could favour the inhibition of apoptosis in KC (see figure below). 
+We collected genes harbouring variants (SNPs) associated with PsO from the Open Targets Genetics database and then mapped them to the ISD map ([see these genes (in green) in the map](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=PsOmap&perfectMatch=false&modelId=432&backgroundId=674&x=4131&y=5323&z=4.639352169813215&overlaysId=1462)). After integration of these PsO-associated genes to the map, we sough to investigate their influence at the mechanistic level, specifically in psoriatic KCs. In PsO, KCs are relatively resistant to cytokine-induced apoptosis. This resistance could be assigned, at least partially, to the presence of several proteins encoded by PsO-associated genes in apoptosis-regulating pathways. In fact, starting from keratinocyte apoptotic process, we can see a upstream pathway until the plasma membrane containing only proteins encoded by PsO-associated genes, namely, SOCS1, IRF1, IFGNR2 and IFNG. In this pathway, IFNG activates IFNGR2 that, in turn, stimulates the expression of IRF1. IRF1 then triggers the expression of SOCS1 that is known to inhibit apoptosis. Therefore, we can hypothesize that the underlying SNPs could favour the inhibition of apoptosis in KC (see figure below). 
 
 
 <!-- ![pso_hypo](https://github.com/user-attachments/assets/2af14268-39b2-4595-8d5c-5cb3496fcf5e) -->
 
-![app2_2](../pages/projects/isd/images/app2_2.png) 
+![app2_2b](../pages/projects/isd/images/app2_2b.png) 
 
 
 The above examples show that, through the integration of Open Target Genetics data with ISD map, we could determine the contextual relevance for AD- and PsO-associated genes and check if they fit into the existing molecular and cellular understanding of AD and PsO. Moreover, we were also able to formulate two hypotheses: resistance to dupilumab due to enhanced expression of IFNG in Th1 cells favoured by SNPs in upstream IFNG regulators and resistance to cytokine-induced apoptosis in psoriatic KCs due to altered upstream apoptosis regulators. The figure below depicts these hypotheses.
@@ -59,7 +59,7 @@ The above examples show that, through the integration of Open Target Genetics da
 
 <!-- ![pso_ad_ot](https://github.com/user-attachments/assets/1dc9ebf3-dc5b-4d50-a371-c43096fbd8da) -->
 
-![app2_3](../pages/projects/isd/images/app2_3.png) 
+![app2_3a](../pages/projects/isd/images/app2_3a.png) 
 
 
 
@@ -70,8 +70,8 @@ We integrated AD- and PsO-related omics data (obtained from biomedical literatur
 <h2 id="dup"></h2>
 
 
-### IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment
-[Step-by-step guide to reproduce the analysis here!](/isdvig5/)
+### Data-driven hypothesis: IL26 rescues the expression of TSLP, CCL20 and IL33 in AD keratinocytes under dupilumab treatment
+[Step-by-step guide to reproduce the analysis here](/isdvig5/)
 
 We collected differentially expressed proteins (DEPs) from the study by [He et al. (2020)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.01768/full) in which proteome expression profiles were measured in AD lesional and non-lesional stratum corneum samples taken from patients before and after treatment with dupilumab. From this study, we considered only DEPs calculated by comparing expression profiles of 353 inflammatory proteins extracted from lesional stratum corneum samples of patients before and after dupilumab exposure. Of the 132 dupilumab-induced differentially expressed inflammatory proteins (Dup-DEIPs), 20 could be found in the AD map ([see these proteins in the map here](https://imi-biomap.elixir-luxembourg.org/minerva/index.html?id=ADmaps_10-02-25&perfectMatch=false&modelId=384&backgroundId=610&x=2373&y=2225&z=4.123391479177037&overlaysId=1365)).
 

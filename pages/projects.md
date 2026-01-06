@@ -170,6 +170,17 @@ Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
+<a href="../bpmap" target="_blank" id="Blood pressure"><img src="../images/projects/button-bloodpressure.png" alt="bpmap"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: Atlas of blood pressure<br />
+Contact: Ahmad Vaez, University of Groningen, Groningen, The Netherlands<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
 <a href="../sjogrens" target="_blank" id="Sjogrens"><img src="../images/projects/button-sjogrens3.png" alt="sjogrens"/></a>
 </td>
 <td style="font-size:13px;"> 
@@ -197,17 +208,6 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 <td style="font-size:13px;"> 
 Resource: PAID map<br />
 Contact: Francesco Messina, Nat. Inst. Infectious Diseases "L. Spallanzani", Rome, Italy<br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../bpmap" target="_blank" id="Blood pressure"><img src="../images/projects/button-bloodpressure.png" alt="bpmap"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Atlas of blood pressure<br />
-Contact: Ahmad Vaez Barzani, University of Groningen, Groningen, The Netherlands<br />
-<br />
 </td>
 </tr>
 

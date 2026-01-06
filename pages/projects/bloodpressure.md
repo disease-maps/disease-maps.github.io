@@ -4,11 +4,11 @@ layout: default
 permalink: /bpmap/
 ---
 
-# Hypertension
+# Blood Pressure
 
 ## Atlas of Blood Pressure Physiology Map (BPMap)
 
-**Development status:** Published\
+**Development status:** Available for exploration online\
 **Disease IDs:** [MeSH:D001794](https://meshb.nlm.nih.gov/record/ui?ui=D001794), [HP:0000822](https://www.ebi.ac.uk/spot/oxo/terms/HP:0000822), [DOID:10763](https://disease-ontology.org/?id=DOID:8577), [OBA_VT0000183](http://purl.obolibrary.org/obo/OBA_VT0000183)\
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
@@ -140,7 +140,7 @@ Supervision and Review<br />
 </tr>
 
 <tr>
-<td style="width: 105px;"><img src="/images/people/AhmadVaez.png" alt="Ahmad Vaez, MD, PhD" /></td>
+<td style="width: 105px;"><img src="/images/people/AhmadVaez.jpg" alt="Ahmad Vaez, MD, PhD" /></td>
 <td><strong>Ahmad Vaez, MD, PhD</strong><br /><strong>University of Groningen, The Netherlands</strong><br />
 Department of Epidemiology, Unit of Genetic Epidemiology & Bioinformatics<br />
 Senior Researcher<br />

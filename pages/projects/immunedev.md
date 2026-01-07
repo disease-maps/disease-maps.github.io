@@ -50,8 +50,8 @@ For example, selecting ‘Fetal liver’ opens the corresponding submap.
 
 On the left-hand side, three clickable images provide shortcuts to:
 
-•	The **Disease Maps homepage** (HIDmap logo; top button; red arrow)
-•	The **prenatal development of the human immune system overview** (middle button; orange arrow)
+•	The **Disease Maps homepage** (HIDmap logo; top button; red arrow)\
+•	The **prenatal development of the human immune system overview** (middle button; orange arrow)\
 •	The **cells migration map**, showing inter-organ connections (bottom button; green arrow).
 
 ![figure3](/pages/projects/immunedev/figure3.png "navigating 2")
@@ -60,7 +60,7 @@ On the left-hand side, three clickable images provide shortcuts to:
 
 Navigation within the HIDmap works similar to Google Maps:
 
-•	Use the buttons on the **bottom right** (see the three arrows) to zoom in, zoom out, and re-center the view.
+•	Use the buttons on the **bottom right** (see the three arrows) to zoom in, zoom out, and re-center the view.\
 •	Click and drag to move around the map.
 
 ![figure4](/pages/projects/immunedev/figure4.png "pan and zoom")
@@ -79,7 +79,7 @@ Search functionality is available both in the overview figure and within each su
 
 To explore submaps, click on the **‘Submaps’** button at the top (red arrow). A will appear in the left-hand panel, allowing access to:
 
-•	The main submaps (e.g. Cell Migration and the Prenatal Immune Development)
+•	The main submaps (e.g. Cell Migration and the Prenatal Immune Development)\
 •	Organ-specific submaps (e.g., Fetal liver, Thymus, Bone Marrow, etc.)
 
 ![figure7](/pages/projects/immunedev/figure7.png "submaps")
@@ -88,9 +88,9 @@ To explore submaps, click on the **‘Submaps’** button at the top (red arrow)
 
 Every map element – such as **cells, markers,** or **interactions** - is clickable. Selecting an element opens a detailed annotation on the left-hand side, which provides:
 
-•	Curated biological information
-•	Official HGNC gene symbols
-•	Supporting PubMed references.
+•	Curated biological information\
+•	Official HGNC gene symbols\
+•	Supporting PubMed references.\
 All molecular markers are systematically annotated with official **HGNC symbols** (A). Non-standard markers (e.g., major histocompatibility complex (MHC) class II) appearing **yellow boxes** (B), ensuring clear differentiation and traceability.
 
 ![figure8](/pages/projects/immunedev/figure8.png "exploration 1")

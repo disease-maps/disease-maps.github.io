@@ -331,8 +331,8 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/39655493/" target="_blank
 <td style="width: 160px; font-size:15px;"> 
 <a href="../crs" target="_blank" id="crs"><img src="../images/projects/button-crs.png" alt="CRS"/></a>
 </td>
-<td style="font-size:13px;"> 
-Resource: Cytokine Release Syndrome Map<br />
+<td style="font-size:13px;">
+Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=CRSmap123" target="_blank">Cytokine Release Syndrome Map</a><br />
 Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />  
 Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_blank">DOI</a>
 </td>

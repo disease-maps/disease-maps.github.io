@@ -7,7 +7,7 @@ permalink: /crs/
 # Cytokine release syndrome
 ## Cytokine Release Syndrome Map
 
-**Online access and exploration:** [CRS map at imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=CRSmap123)
+**Online access and exploration:** [CRS map at imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=CRSmap123)  
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  

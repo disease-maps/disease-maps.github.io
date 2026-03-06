@@ -7,6 +7,18 @@ permalink: /events/
 # Events
 
 <br />
+
+<table>
+<tr>
+<td style="width: 105px;" valign="top"><a href="/DMCM2026"><img src="../images/places/rostock_icon.png" alt="Rostock"/></a></td>
+<td valign="top">
+<strong><a href="/DMCM2026">10th Disease Maps Community Meeting</a></strong><br />
+05-07 October 2026, Rostock, Germany<br />
+The 10th Disease Maps Community Meeting is organised by the Department of Systems Biology and Bioinformatics at the University of Rostock, Germany.
+</td>
+</tr>
+</table> 
+
 <table>
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2025"><img src="../images/places/Leuven1.png" alt="Leuven"/></a></td>

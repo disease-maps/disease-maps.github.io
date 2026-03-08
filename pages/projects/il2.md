@@ -22,9 +22,7 @@ permalink: /il2/
 
 ### Description
 
-Recombinant interleukin-2 (IL-2) is a therapeutic used to treat cancer and autoimmunity. Higher dosages can lead to systemic toxicities that are manifested by skin rash, hepatotoxicity and vascular leakage. These three adverse outcomes (AOs) are described by three adverse outcome pathways (AOPs).
-
-The IL2 hepatotoxicity map is accessible here. It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
+The IL2-induced Hepatotoxicity Map is accessible here. It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
 
 Image1
 

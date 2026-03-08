@@ -5,7 +5,7 @@ permalink: /il2/
 ---
 
 # Recombinant IL-2 treatment
-## IL-2 AOP Map
+## IL2-induced Hepatotoxicity Map
 
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases  

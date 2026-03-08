@@ -24,9 +24,25 @@ permalink: /il2/
 
 Recombinant interleukin-2 (IL-2) is a therapeutic used to treat cancer and autoimmunity. Higher dosages can lead to systemic toxicities that are manifested by skin rash, hepatotoxicity and vascular leakage. These three adverse outcomes (AOs) are described by three adverse outcome pathways (AOPs).
 
-An adverse outcome pathway (AOP), or an immune-related adverse outcome pathway (irAOP), is a concept that is used to visualise and study adverse effects of treatments. An irAOP includes a molecular initiating event (MIE), key events (KEs), key event relationships (KERs) and an adverse outcome (AO). KEs are defined by connecting physiological events to test systems and measurable clinical parameters.
+The IL2 hepatotoxicity map is accessible here. It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
 
-In this project, we use irAOPs developed by the [imSAVAR](https://imsavar.eu/) experts for skin rash, hepatotoxicity and vascular leakage induced by recombinant IL-2. On the basis of these irAOPs we build detailed descriptions of adverse outcome mechanisms. For that we combine the AOP approach with the disease map approach and focusing on relevant cytokines, receptors and cell types, as well as on connections between them.
+Image1
+
+The map is structured into two layers. First is the main map which depicts tissue compartments, cell types, and molecular entities, including cytokines, chemokines, small molecules, and their corresponding receptors, with the interactions between them. This layer focuses on intercellular communication and the connectivity of molecular activities across the liver microenvironment. The second layer includes submaps for key cell types, such as hepatocytes and CD8+ T cells. They show intracellular mechanisms and provide detailed views of cell specific mechanisms relevant to IL2 induced hepatotoxicity.
+
+Image2
+
+#### Omics visualisation
+
+Data overlays derived from differentially expressed genes (DEGs) in the ImSAVAR dataset were generated and integrated into the IL2 hepatotoxicity map. They visualise affected molecules and interactions in the map to inform about most relevant pathways and cell types concerning lL2 induced hepatotoxicity mechanisms. Their comparative analysis indicates that Aldesleukin activates multiple cytotoxic mediators and their corresponding hepatocyte receptors, leading to apoptosis-related pathways activation. However MHS554 did not trigger comparable activation of these key cytotoxic mechanisms. This analysis supports a reduced hepatotoxic liability for MHS554 and highlights mechanistic differences between the two IL2 based therapies.
+
+Image3
+
+#### Modelling
+
+Text
+
+Image4
 
 ### Funding
 

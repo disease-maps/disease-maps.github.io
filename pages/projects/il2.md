@@ -1,11 +1,8 @@
 ---
-title: Recombinant IL-2 treatment
+title: IL2-induced Hepatotoxicity Map
 layout: default
 permalink: /il2/
 ---
-
-# Recombinant IL-2 treatment
-## IL2-induced Hepatotoxicity Map
 
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases  

@@ -68,7 +68,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../parkinsons" target="_blank" id="Parkinsons"><span class="map-button">Parkinson's disease</span></a> 
+<a href="../parkinsons" target="_blank" id="Parkinsons"><span class="map-button">Parkinson's disease<br>★★★★★</span></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
@@ -79,7 +79,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cancer" target="_blank" id="Cancer"><span class="map-button">Cancer</span></a>
+<a href="../cancer" target="_blank" id="Cancer"><span class="map-button">Cancer<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
@@ -90,7 +90,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis"><span class="map-button">Rheumatoid arthritis</span></a>
+<a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis"><span class="map-button">Rheumatoid arthritis<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ramap.elixir-luxembourg.org/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
@@ -101,7 +101,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../asthma" target="_blank" id="Asthma"><span class="map-button">Asthma</span></a>
+<a href="../asthma" target="_blank" id="Asthma"><span class="map-button">Asthma<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://asthma-map.github.io/" target="_blank">AsthmaMap</a><br />
@@ -112,7 +112,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;">  
-<a href="../sarcopenia" target="_blank" id="Sarcopenia"><span class="map-button">Sarcopenia</span></a>
+<a href="../sarcopenia" target="_blank" id="Sarcopenia"><span class="map-button">Sarcopenia<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
@@ -123,7 +123,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cysticfibrosis" target="_blank" id="Cysticfibrosis"><span class="map-button">Cystic fibrosis</span></a>
+<a href="../cysticfibrosis" target="_blank" id="Cysticfibrosis"><span class="map-button">Cystic fibrosis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
@@ -134,7 +134,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../heartfailure" target="_blank" id="Heartfailure"><span class="map-button">Heart failure</span></a>
+<a href="../heartfailure" target="_blank" id="Heartfailure"><span class="map-button">Heart failure<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
@@ -144,7 +144,7 @@ Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../atherosclerosis" target="_blank" id="Atherosclerosis"><span class="map-button">Atherosclerosis</span></a>
+<a href="../atherosclerosis" target="_blank" id="Atherosclerosis"><span class="map-button">Atherosclerosis<br>★☆★☆★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atherosclerosis Map<br />
@@ -156,7 +156,7 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../steatosis" target="_blank" id="Steatosis"><span class="map-button">Liver steatosis</span></a>
+<a href="../steatosis" target="_blank" id="Steatosis"><span class="map-button">Liver steatosis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource:  <a href="https://ontox.elixir-luxembourg.org/minerva/index.html?id=Liver_Lipid_Metabolism_Physiological_Map_August_2024" target="_blank">Liver Lipid Metabolism Physiological Map</a><br />
@@ -167,7 +167,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/40692843/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cholestasis" target="_blank" id="Cholestasis"><span class="map-button">Cholestasis</span></a>
+<a href="../cholestasis" target="_blank" id="Cholestasis"><span class="map-button">Cholestasis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.html?id=Liver_Bile_Secretion_Physiological_Map_August_2024" target="_blank">Liver Bile Secretion Physiological Map</a><br />
@@ -178,7 +178,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/40692843/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><span class="map-button">Osteoarthritis</span></a>
+<a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><span class="map-button">Osteoarthritis<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: KneePainMap<br />
@@ -189,7 +189,7 @@ Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../bpmap" target="_blank" id="Blood pressure"><span class="map-button">Blood pressure</span></a>
+<a href="../bpmap" target="_blank" id="Blood pressure"><span class="map-button">Blood pressure<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atlas of blood pressure<br />
@@ -200,7 +200,7 @@ Contact: Ahmad Vaez, University of Groningen, Groningen, The Netherlands<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../sjogrens" target="_blank" id="Sjogrens"><span class="map-button">Sjogren's syndrome</span></a>
+<a href="../sjogrens" target="_blank" id="Sjogrens"><span class="map-button">Sjogren's syndrome<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Sjogren Map<br />
@@ -211,7 +211,7 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><span class="map-button">Diabetic kidney disease</span></a>
+<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><span class="map-button">Diabetic kidney disease<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
@@ -222,7 +222,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button">P. aeruginosa infection</span></a>
+<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button">P. aeruginosa infection<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: PAID map<br />

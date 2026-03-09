@@ -210,7 +210,7 @@ Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../bpmap" target="_blank" id="Blood pressure"><span class="map-button">Blood pressure<br>★★☆☆☆</span></a>
+<a href="../bpmap" target="_blank" id="Blood pressure"><span class="map-button-white">Blood pressure<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atlas of blood pressure<br />
@@ -221,7 +221,7 @@ Contact: Ahmad Vaez, University of Groningen, Groningen, The Netherlands<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../sjogrens" target="_blank" id="Sjogrens"><span class="map-button">Sjogren's syndrome<br>★☆☆☆☆</span></a>
+<a href="../sjogrens" target="_blank" id="Sjogrens"><span class="map-button-white">Sjogren's syndrome<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Sjogren Map<br />
@@ -232,7 +232,7 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><span class="map-button">Diabetic kidney disease<br>★☆☆☆☆</span></a>
+<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><span class="map-button-white">Diabetic kidney disease<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
@@ -243,7 +243,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button">P. aeruginosa infection<br>★☆☆☆☆</span></a>
+<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button-white">P. aeruginosa infection<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: PAID map<br />
@@ -318,7 +318,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../nephron" target="_blank" id="nephron"><span class="map-button">Nephron</span></a>
+<a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Nephron</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -329,7 +329,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../braindevelopment" target="_blank" id="braindevelopment"><span class="map-button">Brain development</span></a>
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><span class="map-button-white">Brain development</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -339,7 +339,7 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button">Immune system development</span></a>
+<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button-white">Immune system development</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Human Immune System Development Map (HIDmap)<br />

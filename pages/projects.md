@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projects2/
+permalink: /projects/
 ---
 
 <!-- Button images are no longer needed. Buttons are now styled via CSS classes: 

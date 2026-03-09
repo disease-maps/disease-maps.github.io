@@ -4,7 +4,7 @@ layout: default
 permalink: /il2/
 --- 
 
-# IL2-induced Hepatotoxicity Map
+# IL2-induced hepatotoxicity map
 
 **Online access and exploration:** [https://imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20)  
 **Development status:** Available for exploration online  
@@ -22,19 +22,19 @@ permalink: /il2/
 
 ### Description
 
-The IL2-induced Hepatotoxicity Map [is accessible here](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20). It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
+The IL2-induced hepatotoxicity map [is accessible here](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20). It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
 
-Image1
+![](/pages/projects/il2/images//IL2hepatotoxicity1a.png)
 
 The map is structured into two layers. First is the main map which depicts tissue compartments, cell types, and molecular entities, including cytokines, chemokines, small molecules, and their corresponding receptors, with the interactions between them. This layer focuses on intercellular communication and the connectivity of molecular activities across the liver microenvironment. The second layer includes submaps for key cell types, such as hepatocytes and CD8+ T cells. They show intracellular mechanisms and provide detailed views of cell specific mechanisms relevant to IL2 induced hepatotoxicity.
 
-Image2
+![](/pages/projects/il2/images//IL2hepatotoxicity2a.png)
 
 ### Omics visualisation
 
 Data overlays derived from differentially expressed genes (DEGs) in the ImSAVAR dataset were generated and integrated into the IL2 hepatotoxicity map. They visualise affected molecules and interactions in the map to inform about most relevant pathways and cell types concerning lL2 induced hepatotoxicity mechanisms. Their comparative analysis indicates that Aldesleukin activates multiple cytotoxic mediators and their corresponding hepatocyte receptors, leading to apoptosis-related pathways activation. However MHS554 did not trigger comparable activation of these key cytotoxic mechanisms. This analysis supports a reduced hepatotoxic liability for MHS554 and highlights mechanistic differences between the two IL2 based therapies.
 
-Image3
+![](/pages/projects/il2/images//IL2hepatotoxicity3a.png)
 
 ### Modelling
 

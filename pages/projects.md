@@ -92,17 +92,6 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../covid-19" target="_blank" id="COVID-19"><span class="map-button">COVID-19<br>★★★★★</span></a> 
-</td>
-<td style="font-size:13px;"> 
-Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
 <a href="../parkinsons" target="_blank" id="Parkinsons"><span class="map-button">Parkinson's disease<br>★★★★★</span></a> 
 </td>
 <td style="font-size:13px;"> 

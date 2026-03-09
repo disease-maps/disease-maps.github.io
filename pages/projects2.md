@@ -12,7 +12,7 @@ permalink: /projects2/
   width: 160px;
   height: 53px;
   background-color: #2e5287;
-  border-radius: 5px;
+  border-radius: 8px;
   text-align: left;
   font-size: 13px;
   color: #ffffff;

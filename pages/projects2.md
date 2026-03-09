@@ -318,7 +318,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Nephron<br>★☆☆☆☆</span></a>
+<a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Kidney crystallography and tubular necrosis<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />

@@ -343,7 +343,7 @@ Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_b
 <a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il2.png" alt="il2"/></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: <a href="https://imsavar.elixir-luxembourg.org" target="_blank">IL2-induced Hepatotoxicity Map</a><br />
+Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20" target="_blank">IL2-induced Hepatotoxicity Map</a><br />
 Diseases: cancer, autoimmune diseases<br />
 Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
 </td>

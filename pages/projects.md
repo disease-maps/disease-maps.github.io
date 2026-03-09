@@ -246,7 +246,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../paidmap" target="_blank" id="<i>Pseudomonas aeruginosa</i> infection"><span class="map-button-white">P. aeruginosa infection<br>★☆☆☆☆</span></a>
+<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button-white"><i>Pseudomonas aeruginosa</i> infection<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: PAID map<br />

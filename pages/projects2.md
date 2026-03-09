@@ -261,7 +261,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><span class="map-button">Acute inflammation</span></a>
+<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><span class="map-button">Acute inflammation<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
@@ -272,7 +272,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><span class="map-button">Neural tube closure</span></a>
+<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><span class="map-button">Neural tube closure<br>★★★★☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1" target="_blank">Neural Tube Closure Physiological Map</a><br />
@@ -283,7 +283,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../syscid" target="_blank" id="syscid"><span class="map-button">SYSCID</span></a>
+<a href="../syscid" target="_blank" id="syscid"><span class="map-button">Chronic inflammation<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://syscid.elixir-luxembourg.org/minerva/" target="_blank">SYSCID Map</a><br />
@@ -295,7 +295,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/38022524/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../isd" target="_blank" id="isd"><span class="map-button">Inflammatory skin diseases</span></a>
+<a href="../isd" target="_blank" id="isd"><span class="map-button">Inflammatory skin diseases<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="../isd" target="_blank" id="isd">Inflammatory Skin Diseases Map</a><br />
@@ -306,7 +306,7 @@ Contact: Marcio Acencio, Oxana Lopata and Marek Ostaszewski, University of Luxem
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../ucadmap" target="_blank" id="immuniverse"><span class="map-button">UC and atopic dermatitis</span></a>
+<a href="../ucadmap" target="_blank" id="immuniverse"><span class="map-button">Ulcerative colitis and atopic dermatitis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://imi-immuniverse.elixir-luxembourg.org" target="_blank">Map of ulcerative colitis and atopic dermatitis</a><br />
@@ -318,7 +318,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Nephron</span></a>
+<a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Nephron<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -329,7 +329,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../braindevelopment" target="_blank" id="braindevelopment"><span class="map-button-white">Brain development</span></a>
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><span class="map-button-white">Cognitive function defects<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -339,7 +339,7 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button-white">Immune system development</span></a>
+<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button-white">Immune system development<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Human Immune System Development Map (HIDmap)<br />

@@ -357,7 +357,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cart" target="_blank" id="cart"><span class="map-button">CAR T cell therapy</span></a>
+<a href="../cart" target="_blank" id="cart"><span class="map-button">CAR T cell therapy<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: CAR T cell AOP Map<br />
@@ -368,7 +368,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/39655493/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../crs" target="_blank" id="crs"><span class="map-button">Cytokine release syndrome</span></a>
+<a href="../crs" target="_blank" id="crs"><span class="map-button">Cytokine release syndrome<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;">
 Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=CRSmap123" target="_blank">Cytokine Release Syndrome Map</a><br />
@@ -379,7 +379,7 @@ Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_b
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="il2"><span class="map-button">IL2 hepatotoxicity</span></a>
+<a href="../il2" target="_blank" id="il2"><span class="map-button-white">IL2-induced hepatotoxicity<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20" target="_blank">IL2-induced Hepatotoxicity Map</a><br />

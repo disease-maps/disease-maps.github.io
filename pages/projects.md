@@ -286,7 +286,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../syscid" target="_blank" id="syscid"><span class="map-button">Chronic inflammation<br>★★★☆☆</span></a>
+<a href="../syscid" target="_blank" id="syscid"><span class="map-button">Chronic inflammation<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://syscid.elixir-luxembourg.org/minerva/" target="_blank">SYSCID Map</a><br />

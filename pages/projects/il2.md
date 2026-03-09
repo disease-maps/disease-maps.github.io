@@ -1,8 +1,10 @@
----
-title: IL2-induced Hepatotoxicity Map
-layout: default
-permalink: /il2/
----
+--- 
+title: IL2 treatment AOP 
+layout: default 
+permalink: /ucadmap/
+--- 
+
+# IL2-induced Hepatotoxicity Map
 
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases  

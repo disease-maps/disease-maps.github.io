@@ -32,7 +32,7 @@ permalink: /projects2/
   width: 170px;
   height: 53px;
   background-color: #ffffff;
-  border: 2px solid #2e5287;
+  border: 1px solid #2e5287;
   border-radius: 8px;
   text-align: left;
   font-size: 13px;

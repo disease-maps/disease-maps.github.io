@@ -249,8 +249,8 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 <a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button-white"><i>Pseudomonas aeruginosa</i> infection<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: PAID map<br />
-Contact: Francesco Messina, Nat. Inst. Infectious Diseases "L. Spallanzani", Rome, Italy<br />
+Resource: <i>Pseudomonas aeruginosa</i> Infection Disease Map<br />
+Contact: Francesco Messina, National Institute of Infectious Diseases Lazzaro Spallanzani, Rome, Italy<br />
 </td>
 </tr>
 

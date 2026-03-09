@@ -1,7 +1,7 @@
 --- 
 title: IL2 treatment AOP 
 layout: default 
-permalink: /ucadmap/
+permalink: /IL2/
 --- 
 
 # IL2-induced Hepatotoxicity Map

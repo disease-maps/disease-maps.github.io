@@ -6,7 +6,8 @@ permalink: /il2/
 
 # IL2-induced Hepatotoxicity Map
 
-**Development status:** Active development  
+**Online access and exploration:** https://asthma.uni.lu[https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20)  
+**Development status:** First version is available online  
 **Diseases treated:** Cancer, autoimmune diseases  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  

@@ -14,7 +14,7 @@ permalink: /projects2/
   display: inline-flex;
   align-items: center;
   justify-content: flex-start;
-  width: 160px;
+  width: 170px;
   height: 53px;
   background-color: #2e5287;
   border-radius: 8px;
@@ -29,10 +29,10 @@ permalink: /projects2/
   display: inline-flex;
   align-items: center;
   justify-content: flex-start;
-  width: 160px;
+  width: 170px;
   height: 53px;
   background-color: #ffffff;
-  border: 1px solid #2e5287;
+  border: 2px solid #2e5287;
   border-radius: 8px;
   text-align: left;
   font-size: 13px;
@@ -40,6 +40,9 @@ permalink: /projects2/
   padding: 4px 10px;
   box-sizing: border-box;
   line-height: 1.2;
+}
+table td:first-child {
+  padding-left: 0;
 }
 </style>
 
@@ -77,7 +80,7 @@ This section lists projects focused on specific diseases. The list is organised 
 <table>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../covid-19" target="_blank" id="COVID-19"><span class="map-button">COVID-19<br>★★★★★</span></a> 
 </td>
 <td style="font-size:13px;"> 
@@ -88,7 +91,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../parkinsons" target="_blank" id="Parkinsons"><span class="map-button">Parkinson's disease<br>★★★★★</span></a> 
 </td>
 <td style="font-size:13px;"> 
@@ -99,7 +102,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../cancer" target="_blank" id="Cancer"><span class="map-button">Cancer<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -110,7 +113,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis"><span class="map-button">Rheumatoid arthritis<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -121,7 +124,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../asthma" target="_blank" id="Asthma"><span class="map-button">Asthma<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -132,7 +135,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_bl
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;">  
+<td style="width: 170px; font-size:15px;">  
 <a href="../sarcopenia" target="_blank" id="Sarcopenia"><span class="map-button">Sarcopenia<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -143,7 +146,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../cysticfibrosis" target="_blank" id="Cysticfibrosis"><span class="map-button">Cystic fibrosis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -154,7 +157,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_bl
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../heartfailure" target="_blank" id="Heartfailure"><span class="map-button">Heart failure<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -164,7 +167,7 @@ Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../atherosclerosis" target="_blank" id="Atherosclerosis"><span class="map-button">Atherosclerosis<br>★☆★☆★</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -176,7 +179,7 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../steatosis" target="_blank" id="Steatosis"><span class="map-button">Liver steatosis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -187,7 +190,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/40692843/" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../cholestasis" target="_blank" id="Cholestasis"><span class="map-button">Cholestasis<br>★★★☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -198,7 +201,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/40692843/" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
+<td style="width: 170px; font-size:15px;"> 
 <a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><span class="map-button-white">Osteoarthritis<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
@@ -209,8 +212,8 @@ Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../bpmap" target="_blank" id="Blood pressure"><span class="map-button-white">Blood pressure<br>★★☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../bpmap" target="_blank" id="Blood pressure"><span class="map-button">Blood pressure<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atlas of blood pressure<br />
@@ -220,8 +223,8 @@ Contact: Ahmad Vaez, University of Groningen, Groningen, The Netherlands<br />
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../sjogrens" target="_blank" id="Sjogrens"><span class="map-button-white">Sjogren's syndrome<br>★☆☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../sjogrens" target="_blank" id="Sjogrens"><span class="map-button">Sjogren's syndrome<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Sjogren Map<br />
@@ -231,8 +234,8 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><span class="map-button-white">Diabetic kidney disease<br>★☆☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><span class="map-button">Diabetic kidney disease<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
@@ -242,8 +245,8 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button-white">P. aeruginosa infection<br>★☆☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../paidmap" target="_blank" id="P. aeruginosa infection"><span class="map-button">P. aeruginosa infection<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: PAID map<br />
@@ -260,8 +263,8 @@ This section includes projects that focus on shared mechanisms of two or more di
 <table>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><span class="map-button">Acute inflammation<br>★★★★★</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><span class="map-button">Acute inflammation</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
@@ -271,8 +274,8 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><span class="map-button">Neural tube closure<br>★★★★☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><span class="map-button">Neural tube closure</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1" target="_blank">Neural Tube Closure Physiological Map</a><br />
@@ -282,8 +285,8 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../syscid" target="_blank" id="syscid"><span class="map-button">Chronic inflammation<br>★★★☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../syscid" target="_blank" id="syscid"><span class="map-button">SYSCID</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://syscid.elixir-luxembourg.org/minerva/" target="_blank">SYSCID Map</a><br />
@@ -294,8 +297,8 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/38022524/" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../isd" target="_blank" id="isd"><span class="map-button">Inflammatory skin diseases<br>★★★☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../isd" target="_blank" id="isd"><span class="map-button">Inflammatory skin diseases</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="../isd" target="_blank" id="isd">Inflammatory Skin Diseases Map</a><br />
@@ -305,8 +308,8 @@ Contact: Marcio Acencio, Oxana Lopata and Marek Ostaszewski, University of Luxem
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../ucadmap" target="_blank" id="immuniverse"><span class="map-button">Ulcerative colitis and atopic dermatitis<br>★★★☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../ucadmap" target="_blank" id="immuniverse"><span class="map-button">UC and atopic dermatitis</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://imi-immuniverse.elixir-luxembourg.org" target="_blank">Map of ulcerative colitis and atopic dermatitis</a><br />
@@ -317,8 +320,8 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Kidney crystallography and tubular necrosis<br>★☆☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../nephron" target="_blank" id="nephron"><span class="map-button">Nephron</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -328,8 +331,8 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../braindevelopment" target="_blank" id="braindevelopment"><span class="map-button-white">Cognitive function defects<br>★☆☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><span class="map-button">Brain development</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -338,8 +341,8 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button-white">Immune system development<br>★☆☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button">Immune system development</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Human Immune System Development Map (HIDmap)<br />
@@ -356,8 +359,8 @@ This section includes maps that describe mechanisms of adverse effects of variou
 <table>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../cart" target="_blank" id="cart"><span class="map-button">CAR T cell therapy<br>★★★☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../cart" target="_blank" id="cart"><span class="map-button">CAR T cell therapy</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: CAR T cell AOP Map<br />
@@ -367,8 +370,8 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/39655493/" target="_blank
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../crs" target="_blank" id="crs"><span class="map-button">Cytokine release syndrome<br>★★★☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../crs" target="_blank" id="crs"><span class="map-button">Cytokine release syndrome</span></a>
 </td>
 <td style="font-size:13px;">
 Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=CRSmap123" target="_blank">Cytokine Release Syndrome Map</a><br />
@@ -378,8 +381,8 @@ Publications: <a href="http://dx.doi.org/10.21203/rs.3.rs-5163108/v1" target="_b
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="il2"><span class="map-button-white">IL2-induced hepatotoxicity<br>★★☆☆☆</span></a>
+<td style="width: 170px; font-size:15px;"> 
+<a href="../il2" target="_blank" id="il2"><span class="map-button">IL2 hepatotoxicity</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20" target="_blank">IL2-induced Hepatotoxicity Map</a><br />

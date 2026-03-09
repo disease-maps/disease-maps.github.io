@@ -298,7 +298,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/38022524/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../isd" target="_blank" id="isd"><span class="map-button">Inflammatory skin diseases<br>★★★☆☆</span></a>
+<a href="../isd" target="_blank" id="isd"><span class="map-button">Inflammatory skin diseases<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="../isd" target="_blank" id="isd">Inflammatory Skin Diseases Map</a><br />
@@ -309,7 +309,7 @@ Contact: Marcio Acencio, Oxana Lopata and Marek Ostaszewski, University of Luxem
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../ucadmap" target="_blank" id="immuniverse"><span class="map-button">Ulcerative colitis and atopic dermatitis<br>★★★☆☆</span></a>
+<a href="../ucadmap" target="_blank" id="immuniverse"><span class="map-button">Ulcerative colitis and atopic dermatitis<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://imi-immuniverse.elixir-luxembourg.org" target="_blank">Map of ulcerative colitis and atopic dermatitis</a><br />

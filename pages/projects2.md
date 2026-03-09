@@ -8,15 +8,15 @@ permalink: /projects2/
 .map-button {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   width: 160px;
   height: 53px;
-  background-color: #d0d0d0;
-  border-radius: 10px;
-  text-align: center;
+  background-color: #2e5287;
+  border-radius: 5px;
+  text-align: left;
   font-size: 13px;
-  color: #333;
-  padding: 4px 8px;
+  color: #ffffff;
+  padding: 4px 10px;
   box-sizing: border-box;
   line-height: 1.2;
 }

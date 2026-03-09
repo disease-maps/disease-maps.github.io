@@ -20,6 +20,22 @@ permalink: /projects2/
   box-sizing: border-box;
   line-height: 1.2;
 }
+.map-button-white {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 160px;
+  height: 53px;
+  background-color: #ffffff;
+  border: 2px solid #2e5287;
+  border-radius: 8px;
+  text-align: left;
+  font-size: 13px;
+  color: #2e5287;
+  padding: 4px 10px;
+  box-sizing: border-box;
+  line-height: 1.2;
+}
 </style>
 
 
@@ -178,7 +194,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/40692843/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><span class="map-button">Osteoarthritis<br>★★☆☆☆</span></a>
+<a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><span class="map-button-white">Osteoarthritis<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: KneePainMap<br />

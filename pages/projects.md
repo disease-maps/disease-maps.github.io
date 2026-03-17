@@ -396,7 +396,7 @@ Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
 <a href="../markopolo" target="_blank" id="markopolo"><span class="map-button-white">Fine and ultrafine particle toxicity<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: <a href="https://markopolo.elixir-luxembourg.org/" target="_blank">ExposomeMap-UFP</a><br />
+Resource: <a href="https://markopolo.elixir-luxembourg.org/" target="_blank">ExposomeMap-PM</a><br />
 Contact: Petr Nazarov, Luxembourg Institute of Health, Luxembourg<br />
 </td>
 </tr>

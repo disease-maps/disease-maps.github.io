@@ -121,6 +121,11 @@ and many others.-->
 <td><strong>Amalie Schufri Klinkby, MSc</strong><br />University of Southern Denmark, Denmark<br />PhD Student</td>
 </tr>
 
+<tr>
+<td style="width: 105px;"><img src="../images/people/BharathAnilaBhuvanendranNair.jpg" alt="Bharath Anila Bhuvanendran Nair" /></td>
+<td><strong>Bharath Anila Bhuvanendran Nair, PhD</strong><br />University of Southern Denmark, Denmark<br />Postdoc</td>
+</tr>
+
 </table>
 
 ### Development Team

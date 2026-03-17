@@ -10,7 +10,8 @@ permalink: /markopolo/
 # Fine and ultrafine particle toxicity
 ## ExposomeMap-UFP-->
 
-**Development status:** Active development  
+**Online access and exploration:** [https://markopolo.elixir-luxembourg.org](https://markopolo.elixir-luxembourg.org)  
+**Development status:** Available for exploration online  
 **Diseases:** Multiple related diseases  
 **Sustainable support:** [LIH](https://www.lih.lu/), [MINERVA](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  

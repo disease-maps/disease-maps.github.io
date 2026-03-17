@@ -107,6 +107,11 @@ and many others.-->
 </tr>
 
 <tr>
+<td style="width: 105px;"><img src="../images/people/ThuyThiLai.jpg" alt="Thuy Thi Lai" /></td>
+<td><strong>Thuy Thi Lai, PhD</strong><br />A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Finland<br />Postdoctoral Researcher</td>
+</tr>
+
+<tr>
 <td style="width: 105px;"><img src="../images/people/AdelinaRogowskaWrzesinska.jpg" alt="Adelina Rogowska-Wrzesinska" /></td>
 <td><strong>Adelina Rogowska-Wrzesinska, PhD</strong><br />University of Southern Denmark, Denmark<br />Associate Professor at the Department of Biochemistry and Molecular Biology</td>
 </tr>

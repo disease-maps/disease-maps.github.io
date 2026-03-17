@@ -11,7 +11,7 @@ permalink: /markopolo/
 ## ExposomeMap-UFP-->
 
 **Online access and exploration:** [https://markopolo.elixir-luxembourg.org](https://markopolo.elixir-luxembourg.org)  
-**Development status:** Available for exploration online  
+**Development status:** First version is complete and available for exploration online  
 **Diseases:** Multiple related diseases  
 **Sustainable support:** [LIH](https://www.lih.lu/), [MINERVA](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  

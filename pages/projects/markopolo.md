@@ -116,6 +116,11 @@ and many others.-->
 <td><strong>Adelina Rogowska-Wrzesinska, PhD</strong><br />University of Southern Denmark, Denmark<br />Associate Professor at the Department of Biochemistry and Molecular Biology</td>
 </tr>
 
+<tr>
+<td style="width: 105px;"><img src="../images/people/AmalieSchufriKlinkby.jpg" alt="Amalie Schufri Klinkby" /></td>
+<td><strong>Amalie Schufri Klinkby, MSc</strong><br />University of Southern Denmark, Denmark<br />PhD Student</td>
+</tr>
+
 </table>
 
 ### Development Team

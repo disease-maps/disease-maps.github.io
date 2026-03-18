@@ -19,8 +19,6 @@ permalink: /markopolo/
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Contact:** Petr Nazarov, Luxembourg Institute of Health, petr.nazarov(at)lih.lu  
 
-<br>
-
 <a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
 
 <br>

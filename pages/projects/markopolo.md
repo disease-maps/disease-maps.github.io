@@ -83,7 +83,7 @@ and many others.-->
 
 ### Supporting references
 
-ExposomeMap-PM v1.0 was developed based on a systematic review of the literature on particulate matter exposure and its molecular, cellular and systemic effects. The full list of references used to construct the map is available [here](https://disease-maps.io/markopolo/references/).
+ExposomeMap-PM v1.0 was developed based on a structured review of the literature on particulate matter exposure and its molecular, cellular and systemic effects. The full list of references used to construct the map is available [here](https://disease-maps.io/markopolo/references/).
 
 ### Editorial Panel
 

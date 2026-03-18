@@ -19,6 +19,18 @@ permalink: /markopolo/
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Contact:** Petr Nazarov, Luxembourg Institute of Health, petr.nazarov(at)lih.lu  
 
+<table>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<a href="https://markopolo.elixir-luxembourg.org/" target="_blank"><span class="map-button">Open in MINERVA</span></a> 
+</td>
+<td style="font-size:13px;"> 
+</td>
+</tr>
+
+</table>
+
 ### Description
 
 The ExposomeMap-PM effort is initiated within the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project that aims to "identify disease-relevant biomarkers and causality mechanisms to understand the biological pathways of cerebral, pulmonary and cardiovascular health outcomes" towards improving risk assessment and allowing evaluation of the effectiveness of mitigation strategies.

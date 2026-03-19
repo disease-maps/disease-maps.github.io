@@ -18,6 +18,9 @@ permalink: /asthma/
 **How to cite:** Mazein, et al. J Allergy Clin Immunol. 2020. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742)  
 **Contact:** Alexander Mazein, University of Luxembourg, a.mazein(at)gmail.com  
 
+<a href="https://asthma.uni.lu/minerva/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
+
+<br>
 
 [AsthmaMap (http://asthma-map.github.io)](http://asthma-map.github.io/) is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).
 

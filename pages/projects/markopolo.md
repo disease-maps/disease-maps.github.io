@@ -49,6 +49,8 @@ Major mechanisms of molecular initiating events are:
 
 ![](../images/projects/markopolo-fig1.jpg)
 
+![](/pages/projects/markopolo/images/markopolo-fig1.jpg)
+
 Figure 1. A fragment of the ExposomeMap-UFP showing direct interaction of LPS-containing particles with Toll-like receptors.
 
 Related conditions include 

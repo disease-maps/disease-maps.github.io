@@ -17,7 +17,7 @@ permalink: /markopolo/
   align-items: flex-start;
 }
 .page-header img {
-  width: 150px;
+  width: 160px;
 }
 </style>
 

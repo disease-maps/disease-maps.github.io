@@ -10,6 +10,23 @@ permalink: /markopolo/
 # Fine and ultrafine particle toxicity
 ## ExposomeMap-UFP-->
 
+<style>
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.page-header img {
+  width: 150px;
+}
+</style>
+
+<div class="page-header">
+  <h1>Fine and ultrafine particle toxicity</h1> <br>
+  <h2>ExposomeMap-PM </h2>
+  <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="markopolo-logo">
+</div>
+
 **Online access and exploration:** [https://markopolo.elixir-luxembourg.org](https://markopolo.elixir-luxembourg.org)  
 **Development status:** First version is complete and available for exploration online  
 **Diseases:** Multiple related diseases  

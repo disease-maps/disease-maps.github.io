@@ -18,8 +18,6 @@ permalink: /asthma/
 **How to cite:** Mazein, et al. J Allergy Clin Immunol. 2020. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742)  
 **Contact:** Alexander Mazein, University of Luxembourg, a.mazein(at)gmail.com  
 
-<a href="https://asthma.uni.lu/minerva/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
-
 <a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Open in MINERVA</a>
 <a href="https://asthma-map.github.io" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:2px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Project Homepage</a>
 <a href="https://asthma-map.github.io/tutorials/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:2px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Video Tutorials</a>

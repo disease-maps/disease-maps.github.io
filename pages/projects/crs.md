@@ -17,6 +17,10 @@ permalink: /crs/
 **Publication:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/40861455/)  
 **Contact:** Marek Ostaszewski, University of Luxembourg, marek.ostaszewski(at)uni.lu  
 
+<a href="https://imsavar.elixir-luxembourg.org/minerva/index.html?id=CRSmap123" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
+
+<br>
+
 ### Description
 
 Cytokine release syndrome (CRS) is an acute systemic inflammatory syndrome, an adverse outcome (AO) associated with therapies that use chimeric antigen receptor (CAR) T cells, checkpoint inhibitors, T cell engagers and monoclonal antibodies. The Cytokine Release Syndrome Map (CRS Map) describes mechanisms of how the effects of different types of treatment converge to the same adverse outcome - the cytokine release syndrome (CRS). As the methodology we combine the concept of adverse outcome pathways (AOPs) as a higher-level description of events, and a concept of Disease Maps as a detailed description of relevant mechanisms.

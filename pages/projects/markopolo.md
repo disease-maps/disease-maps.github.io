@@ -115,7 +115,7 @@ ExposomeMap-PM v1.0 was developed based on a structured review of the literature
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/people/JosLelieveld.jpg" alt="Jos Lelieveld" /></td>
-<td><strong>Jos Lelieveld, PhD</strong><br />Max Planck Institute for Chemistry, Mainz, Germany<br />Director of the Atmospheric Chemistry Department</td>
+<td><strong>Jos Lelieveld, PhD</strong><br>Max Planck Institute for Chemistry, Mainz, Germany<br />Director of the Atmospheric Chemistry Department<br>Climate and Atmosphere Research Center, The Cyprus Institute, Nicosia, Cyprus<br>Professor</td>
 </tr>
 
 <tr>

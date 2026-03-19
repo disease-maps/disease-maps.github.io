@@ -22,8 +22,10 @@ permalink: /markopolo/
 </style>
 
 <div class="page-header">
-  <h1>Fine and ultrafine particle toxicity</h1> <br>
-  <h2>ExposomeMap-PM </h2>
+  <div>
+    <h1>Fine and ultrafine particle toxicity</h1>
+    <h2>ExposomeMap-PM</h2>
+  </div>
   <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="markopolo-logo">
 </div>
 

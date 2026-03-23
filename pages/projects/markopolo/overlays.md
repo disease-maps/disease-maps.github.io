@@ -21,13 +21,13 @@ Next, sign in via ORCID and submit.
 
 <img src="/pages/projects/markopolo/images/overlays03.png" width="600" />
 
-### Step 2 Prepare data file
+### Step 2. Prepare data file
 
 The data file should be in txt format and consist of two columns "name" and "value", where "name" column inludes protein/RNA/gene names as in HUGO Gene Nomenclature Committee and "value" column countains values from -1 to 1. 
 
 <img src="/pages/projects/markopolo/images/overlays01.png" width="400" />
 
-### Step 3 Upload data file to overlays
+### Step 3. Upload data file to overlays
 
 Click the blue "Overlays" button on the top-middle of the screen. Click "Add overlay".
 

@@ -17,19 +17,19 @@ For login or sign up, click the icon in the top-left corner.
 
 <img src="/pages/projects/markopolo/images/overlays02.png" width="600" />
 
-Next, sing in via ORCID and submit.
+Next, sign in via ORCID and submit.
 
 <img src="/pages/projects/markopolo/images/overlays03.png" width="600" />
 
 ### Step 2 Prepare data file
 
-The data file should be in txt format and consist of two columns "name" and "value", where "name" column inludes protein or gene names as in HUGO Gene Nomenclature Committee and "value" column countains values from -1 to 1. 
+The data file should be in txt format and consist of two columns "name" and "value", where "name" column inludes protein/RNA/gene names as in HUGO Gene Nomenclature Committee and "value" column countains values from -1 to 1. 
 
 <img src="/pages/projects/markopolo/images/overlays01.png" width="400" />
 
-### Step 3 Upload the data file to overlays
+### Step 3 Upload data file to overlays
 
-Click the blue "Overlays" button on the top-middle of the window. Click "Add overlay".
+Click the blue "Overlays" button on the top-middle of the screen. Click "Add overlay".
 
 <img src="/pages/projects/markopolo/images/overlays04.png" width="600" />
 
@@ -37,13 +37,13 @@ In the next tab, chose your file and create file name.
 
 <img src="/pages/projects/markopolo/images/overlays05.png" width="600" />
 
-Successfuly uploaded file will be visiable as a new (not public) overlay. 
+Successfuly uploaded file will be visible as a new overlay. 
 
 <img src="/pages/projects/markopolo/images/overlays06.png" width="600" />
 
-Now you will be able to see your data on the map by chosing the correponding overlay.
+Now you will be able to see your data on the map by chosing the corresponding overlay.
 
-Optionally, you can go to the admin panel and make your ovelay public.
+Optionally, you can go to the admin panel and make your overlay public.
 
 <img src="/pages/projects/markopolo/images/overlays07.png" width="600" />
 

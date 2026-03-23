@@ -36,12 +36,6 @@ permalink: /markopolo/
 
 <br>
 
-[Overlays on the map: how to upload omics data for visualistion](https://disease-maps.io/markopolo/overlays/)
-
-[Supporting references for the map](https://disease-maps.io/markopolo/references/)
-
-<br>
-
 ### Description
 
 The ExposomeMap-PM effort is initiated within the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project that aims to identify disease-relevant biomarkers and causality mechanisms to understand the biological pathways of cerebral, pulmonary and cardiovascular health outcomes towards improving risk assessment and allowing evaluation of the effectiveness of mitigation strategies. The ExposomeMap-PM is an open, FAIR-compliant model that connects particle exposure to biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.
@@ -92,6 +86,10 @@ rheumatoid arthritis ([DOID:7148](https://disease-ontology.org/?id=DOID:7148)),
 multiple sclerosis ([DOID:2377](https://disease-ontology.org/?id=DOID:2377)), 
 inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID:0050589)), <br>
 and many others.-->
+
+### Omics data visualisation
+
+[A step by step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.
 
 ### Supporting references
 

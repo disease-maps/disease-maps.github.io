@@ -13,7 +13,7 @@ This page is a step-by-step guide about how to upload a custom data overlay to t
 
 To create an account, please contact the MINERVA team at [minerva@uni.lu](mailto:minerva@uni.lu). Optionally, you can use your ORCID ID to create an account. Normally your new account will be activated within 24 hours.
 
-To log in or to sign up, click the icon in the top-left corner.
+To login, click the icon in the top-left corner.
 
 <img src="/pages/projects/markopolo/images/overlays02.png" width="600" />
 

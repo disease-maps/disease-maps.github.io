@@ -89,7 +89,7 @@ and many others.-->
 
 ### Omics data visualisation
 
-[A step by step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.
+A [step-by-step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.
 
 ### Supporting references
 

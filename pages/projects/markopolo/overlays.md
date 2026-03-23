@@ -41,9 +41,9 @@ Successfuly uploaded file will be visiable as a new (not public) overlay.
 
 <img src="/pages/projects/markopolo/images/overlays06.png" width="600" />
 
-From this pont you can see your date on the map by chosing the correponding overlay or several overlays.
+Now you will be able to see your data on the map by chosing the correponding overlay.
 
-Optionally, you can go to "Admin panel" and make your ovelay public.
+Optionally, you can go to the admin panel and make your ovelay public.
 
 <img src="/pages/projects/markopolo/images/overlays07.png" width="600" />
 

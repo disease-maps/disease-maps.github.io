@@ -47,6 +47,6 @@ Optionally, you can go to the admin panel and make your overlay public.
 
 <img src="/pages/projects/markopolo/images/overlays07.png" width="600" />
 
-More information on data upload is availabel at [MINERVA Pages](https://minerva.pages.uni.lu/manuals/v19.0/examples/03-data-overlay-upload).
+More information on data upload is available at [MINERVA Pages](https://minerva.pages.uni.lu/manuals/v19.0/examples/03-data-overlay-upload).
 
 

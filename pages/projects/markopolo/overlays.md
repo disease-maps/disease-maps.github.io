@@ -41,9 +41,9 @@ Successfuly uploaded file will be visible as a new overlay.
 
 <img src="/pages/projects/markopolo/images/overlays06.png" width="600" />
 
-Now you will be able to see your data on the map by chosing the corresponding overlay.
+Now it is possibel to see the dataset on the map by chosing the corresponding overlay.
 
-Optionally, you can go to the admin panel and make your overlay public.
+Optionally, this overlay can be made public.
 
 <img src="/pages/projects/markopolo/images/overlays07.png" width="600" />
 

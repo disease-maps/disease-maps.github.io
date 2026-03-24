@@ -47,6 +47,6 @@ Optionally, this overlay can be made public.
 
 <img src="/pages/projects/markopolo/images/overlays07.png" width="600" />
 
-More information on data upload is available at [MINERVA Pages](https://minerva.pages.uni.lu/manuals/v20.0/user/visualisation/#overlays).
+More information to data upload is available in the [MINERVA User's Manual](https://minerva.pages.uni.lu/manuals/v20.0/user/visualisation/#overlays).
 
 

@@ -40,6 +40,9 @@ document.getElementById('email-pn').textContent = u + '@' + d;
 <a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Open in MINERVA</a>
 <a href="https://disease-maps.io/markopolo/overlays/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guide to overlays</a>
 
+<a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#42639b; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Open in MINERVA</a>
+<a href="https://disease-maps.io/markopolo/overlays/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #42639b; border-radius:8px; font-size:15px; color:#42639b; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guide to overlays</a>
+
 <!--<a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#5f8ac2; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>-->
 
 <br>

@@ -25,10 +25,11 @@ permalink: /isd/
 
 The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific molecular interactions represented as computable diagrams. It is available as a set of interactive diagrams, similar to canonical pathway databases, but focused on AD and PsO mechanisms. The ISD map can be used for data interpretation, hypothesis generation and simulation modelling. 
 
-
+<!--
 | Access the map | Learn how to navigate and explore the map |
 | :---: | :---: |
 |[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/isdguide/)|
+-->
 
 <table>
   <tr>
@@ -37,10 +38,10 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
   </tr>
   <tr>
     <td style="text-align:center;">
-      <a href="https://imi-biomap.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:245px; height:60px; background-color:#709bd3; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
+      <a href="https://imi-biomap.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:242px; height:64px; background-color:#709bd3; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
     </td>
     <td style="text-align:center;">
-      <a href="/isdguide/" style="display:inline-flex; align-items:center; justify-content:center; width:245px; height:60px; background-color:#709bd3; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Quick User Guide</a>
+      <a href="/isdguide/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:242px; height:64px; background-color:#709bd3; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Quick User Guide</a>
     </td>
   </tr>
 </table>

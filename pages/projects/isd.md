@@ -30,7 +30,20 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 | :---: | :---: |
 |[![Access and explore the map](/images/projects/openinminerva1.png)](https://imi-biomap.elixir-luxembourg.org/)| [![Access and explore the map](/images/projects/quick1.jpeg)](/isdguide/)|
 
-
+<table>
+  <tr>
+    <td style="text-align:center;"><b>Access the map</b></td>
+    <td style="text-align:center;"><b>Learn how to navigate and explore the map</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https://imi-biomap.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:245px; height:60px; background-color:#709bd3; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
+    </td>
+    <td style="text-align:center;">
+      <a href="/isdguide/" style="display:inline-flex; align-items:center; justify-content:center; width:245px; height:60px; background-color:#709bd3; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Quick User Guide</a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>

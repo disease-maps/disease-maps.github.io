@@ -5,9 +5,9 @@ permalink: /markopolo/overlays/
 ---
 
 # Overlays
-## A guide for adding overlays to the map for data visualisation
+## Guide for adding data overlays to ExposomeMap-PM
 
-This page is a step-by-step guide about how to upload a custom data overlay to the ExposomeMap-PM resource for omics data visualation. A general guide to the MINERVA Platform is available at [https://minerva.pages.uni.lu](https://minerva.pages.uni.lu/).
+This page offers step-by-step instructions on uploading a custom data overlay to ExposomeMap-PM on the MINERVA platform, covering file preparation and upload process. A general guide to the MINERVA Platform is available at [https://minerva.pages.uni.lu](https://minerva.pages.uni.lu/).
 
 ### Step 1. Create an account
 

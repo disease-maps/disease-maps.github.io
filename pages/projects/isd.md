@@ -34,19 +34,18 @@ The ISD map is a network of atopic dermatitis (AD)- and psoriasis (PsO)-specific
 
 <table>
   <tr>
-    <td style="text-align:center;">Access the map</td>
-    <td style="text-align:center;">Learn how to navigate and explore the map</td>
+    <td style="text-align:center;"><b>Access the map</b></td>
+    <td style="text-align:center;"><b>Learn how to navigate and explore the map</b></td>
   </tr>
   <tr>
     <td style="text-align:center;">
-      <a href="https://imi-biomap.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:255px; height:80px; background-color:#5f8ac2; border-radius:12px; font-size:20px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
+      <a href="https://imi-biomap.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:242px; height:64px; background-color:#5f8ac2; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
     </td>
     <td style="text-align:center;">
-      <a href="/isdguide/" style="display:inline-flex; align-items:center; justify-content:center; width:255px; height:80px; background-color:#5f8ac2; border-radius:12px; font-size:20px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Quick User Guide</a>
+      <a href="/isdguide/" style="display:inline-flex; align-items:center; justify-content:center; width:242px; height:64px; background-color:#5f8ac2; border-radius:12px; font-size:22px; color:#ffffff; padding:6px 15px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Quick User Guide</a>
     </td>
   </tr>
 </table>
-
 
 ## Structure of the ISD map
 

@@ -34,7 +34,7 @@ permalink: /markopolo/
 
 <a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
 
-<a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#5f8ac2; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>
+<!--<a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#5f8ac2; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>-->
 
 <br>
 

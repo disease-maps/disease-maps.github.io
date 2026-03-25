@@ -15,7 +15,7 @@ permalink: /ucadmap/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Funding:** [IMI2 ImmUniverse No 853995](https://www.imi.europa.eu/projects-results/project-factsheets/immuniverse), [ImmUniverse](https://www.immuniverse.eu/)  
-**Contact:** Oxana Lopata, University of Luxembourg, Luxembourg, oxana.lopata(at)uni.lu  
+**Contact:** Oxana Lopata, University of Luxembourg, Luxembourg, oxana.lopata@uni.lu  
 
 ## Description
 

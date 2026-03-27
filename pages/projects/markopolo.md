@@ -45,6 +45,10 @@ document.getElementById('email-pn').textContent = u + '@' + d;
 
 <br>
 
+<a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Open in MINERVA</a>
+<a href="https://disease-maps.io/markopolo/overlays/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guide to overlays</a>
+<a href="https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; text-align:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Colour-coded<br>overview</a>
+
 ### Description
 
 The ExposomeMap-PM effort is initiated within the [MARKOPOLO](https://markersofpollution-markopolo.eu/) project that aims to identify disease-relevant biomarkers and causality mechanisms to understand the biological pathways of cerebral, pulmonary and cardiovascular health outcomes towards improving risk assessment and allowing evaluation of the effectiveness of mitigation strategies. The ExposomeMap-PM is an open, FAIR-compliant model that connects particle exposure to biological mechanisms and health outcomes. The model highlights critical steps such as oxidative stress, inflammation and barrier disruption, which together contribute to various conditions including asthma, chronic obstructive pulmonary disease, cardiovascular and neurodegenerative diseases.

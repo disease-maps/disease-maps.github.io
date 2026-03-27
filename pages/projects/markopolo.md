@@ -84,7 +84,7 @@ A [step-by-step guide](https://disease-maps.io/markopolo/overlays/) is available
 
 ### Colour coded blocks of the map
 
-The map is organised into five blocks [colour-coded here](https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a): receptor activation (purple), receptor-mediated uptake (blue), ion channel perturbation (red), oxidative and catalytic interactions (green) and antioxidant response (beige). They represent groups of the early molecular events triggered by particle deposition on epithelial and immune cells.
+The map is organised into five blocks visible in the [colour-coded overview](https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a): receptor activation (purple), receptor-mediated uptake (blue), ion channel perturbation (red), oxidative and catalytic interactions (green) and antioxidant response (beige). They represent groups of the early molecular events triggered by particle deposition on epithelial and immune cells.
 
 ### Supporting references
 

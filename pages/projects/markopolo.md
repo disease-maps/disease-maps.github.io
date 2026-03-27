@@ -74,28 +74,6 @@ rheumatoid arthritis ([DOID:7148](https://disease-ontology.org/?id=DOID:7148)),
 multiple sclerosis ([DOID:2377](https://disease-ontology.org/?id=DOID:2377)), 
 inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID:0050589)).
 
-<!--Related conditions include: <br>
-**respiratory diseases:** <br>
-asthma ([DOID:2841](https://disease-ontology.org/?id=DOID:2841)), 
-COPD ([DOID:3083](https://disease-ontology.org/?id=DOID:3083)), <br>
-**cardiovascular diseases:** <br>
-stroke ([DOID:6713](https://disease-ontology.org/?id=DOID:6713)), 
-heart attack ([DOID:5844](https://disease-ontology.org/?id=DOID:5844)), 
-hypertension ([DOID:10763](https://disease-ontology.org/?id=DOID:10763)), <br>
-**neurodegenerative diseases:** <br>
-Alzheimer's disease ([DOID:10652](https://disease-ontology.org/?id=DOID:10652)), 
-Parkinson's disease ([DOID:14330](https://disease-ontology.org/?id=DOID:14330)), 
-dementia ([DOID:1307](https://disease-ontology.org/?id=DOID:1307)), <br>
-**skin diseases:** <br>
-atopic dermatitis ([DOID:2723](https://disease-ontology.org/?id=DOID:2723)), <br>
-**degenerative joint diseases:** <br>
-osteoarthritis ([DOID:8398](https://disease-ontology.org/?id=DOID:8398)), <br>
-**autoimmune diseases:** <br>
-rheumatoid arthritis ([DOID:7148](https://disease-ontology.org/?id=DOID:7148)), 
-multiple sclerosis ([DOID:2377](https://disease-ontology.org/?id=DOID:2377)), 
-inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID:0050589)), <br>
-and many others.-->
-
 ### Omics data visualisation
 
 A [step-by-step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.

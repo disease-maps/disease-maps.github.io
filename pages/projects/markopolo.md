@@ -39,7 +39,6 @@ document.getElementById('email-pn').textContent = u + '@' + d;
 
 <a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Open in MINERVA</a>
 <a href="https://disease-maps.io/markopolo/overlays/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guide to overlays</a>
-<a href="https://disease-maps.io/markopolo/overlays/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guide to overlays</a>
 <a href="https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Colour-coded<br>overview</a>
 
 <!--<a href="https://markopolo.elixir-luxembourg.org/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:170px; height:53px; background-color:#5f8ac2; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none;">Open in MINERVA</a>-->
@@ -101,7 +100,7 @@ and many others.-->
 
 A [step-by-step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.
 
-### Blocks of the ExposomeMap-PM
+### Colour coded blocks of the map
 
 The map is organised into five blocks [colour-coded here](https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a): receptor activation (purple), receptor-mediated uptake (blue), ion channel perturbation (red), oxidative and catalytic interactions (green) and antioxidant response (beige). They represent groups of the early molecular events triggered by particle deposition on epithelial and immune cells.
 

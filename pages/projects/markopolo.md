@@ -100,6 +100,10 @@ and many others.-->
 
 A [step-by-step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.
 
+### Blocks of the ExposomeMap-PM
+
+The map is organised into five blocks [colour-coded here](https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a): receptor activation (purple), receptor-mediated uptake (blue), ion channel perturbation (red), oxidative and catalytic interactions (green) and antioxidant response (beige). They represent groups of the early molecular events triggered by particle deposition on epithelial and immune cells.
+
 ### Supporting references
 
 ExposomeMap-PM v1.0 was developed based on a structured review of the literature on particulate matter exposure and its molecular, cellular and systemic effects. The full list of references used to construct the map is available in the [reference collection](https://disease-maps.io/markopolo/references/).

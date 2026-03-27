@@ -76,7 +76,7 @@ inflammatory bowel disease ([DOID:0050589](https://disease-ontology.org/?id=DOID
 
 A [step-by-step guide](https://disease-maps.io/markopolo/overlays/) is available to show how an overlay can be created by uploading omics dataset to the map.
 
-### Colour coded blocks of the map
+### Blocks of the map (colour-coded overview)
 
 The map is organised into five blocks shown in the [colour-coded overview](https://markopolo.elixir-luxembourg.org/minerva/index.html?id=XpoMap-V066a): receptor activation (purple), receptor-mediated uptake (blue), ion channel perturbation (red), oxidative and catalytic interactions (green) and antioxidant response (beige). They represent groups of the early molecular events triggered by particle deposition on epithelial and immune cells.
 

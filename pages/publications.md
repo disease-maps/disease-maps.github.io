@@ -33,6 +33,8 @@ Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps
  
 ### Disease maps
 
+Acencio ML, Lopata O, Hemedan AA, Dand N, Weidinger S, Paternoster L, Brown SJ, Rastrick J, Smith CH, Hübenthal M, Ramessur R, Ndlovu M, Ghosh S, Wang X, Schneider R, Satagopam V, Ostaszewski M. The Inflammatory Skin Disease map: an interactive computational resource focused on molecular mechanisms in psoriasis and atopic dermatitis. Br J Dermatol. 2026 Feb 18;194(3):597-599. [doi: 10.1093/bjd/ljaf491](https://doi.org/10.1093/bjd/ljaf491). [PMID: 41329629](https://www.ncbi.nlm.nih.gov/pubmed/41329629).
+
 Lopata O, Acencio ML, Wang X, Hemedan AA, Chao MJ, Jelinsky SA, Tran F, Rosenstiel P, Li Yim AYF, Schneider R, Satagopam V, Ostaszewski M. Identification of shared and unique mechanisms of atopic dermatitis and ulcerative colitis by construction and computational analysis of disease maps. Comput Struct Biotechnol J. 2025 Sep 7;27:4007-4018. [doi: 10.1016/j.csbj.2025.09.008](https://doi.org/10.1016/j.csbj.2025.09.008). [PMID: 41017825](https://www.ncbi.nlm.nih.gov/pubmed/41017825).
 
 Mazein A, Lopata O, Reiche K, Sewald K, Alb M, Sakellariou C, Gogesch P, Morgan H, Neuhaus V, Pham NN, Sommer C, Perkins E, Fogal B, Shoaib M, Schneider R, Satagopam V, Ostaszewski M. An explorable model of an adverse outcome pathway of cytokine release syndrome related to the administration of immunomodulatory biotherapeutics and cellular therapies. Front Immunol. 2025 Aug 8;16:1601670. [doi: 10.3389/fimmu.2025.1601670](https://doi.org/10.3389/fimmu.2025.1601670). [PMID: 40861455](https://www.ncbi.nlm.nih.gov/pubmed/40861455).

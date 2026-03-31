@@ -18,10 +18,6 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 ### Software
 
-<a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>  
-<a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>
-<a href="https://newteditor.org/" target="_blank">Newt Editor</a>
-
 <a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>, an editor developed by the Systems Biology Institute for building process diagrams and computational models, one of the most widely used tools for this type of diagramming. It has the best compatibility with the MINERVA Platform and is used as the main tool within this course.
 
 <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, freely available software developed by yWorks. A dedicated SBGN palette is available [(Siebenhaller et al, 2020)](https://doi.org/10.1093/bib/bby099). Intuitive for drawing diagrams. Additionally, the experience of drawing in yEd is transferable and can be used for creating any type of diagrams for publications.

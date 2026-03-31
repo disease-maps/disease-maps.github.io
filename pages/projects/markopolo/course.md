@@ -8,7 +8,7 @@ permalink: /markopolo/course/
 
 An intensive two-week workshop on the <a href="https://disease-maps.io/" target="_blank">Disease Maps</a> concept and <a href="https://sbgn.github.io/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, offered at the <a href="https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/" target="_blank">Luxembourg Institute of Health (LIH)</a> within the EU-funded <a href="https://markersofpollution-markopolo.eu/" target="_blank">MARKOPOLO</a> project.
 
-## Course content
+### Course content
 
 **Part 1. SBGN diagrams**  
 Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
@@ -16,27 +16,27 @@ Learning the SBGN Process Description and Activity Flow languages by redrawing e
 **Part 2. Disease maps development**  
 Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-PM, brief textual descriptions with supporting references.
 
-## Software
+### Software
 
 <a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>  
 <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>
 
-## Video tutorial
+### Example 1. Glycolysis regulation via bifunctional enzyme
+
+A brief tutorial on drawing a glycolysis regulation diagram in CellDesigner.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/I0B3QE3Njzs" frameborder="0" allowfullscreen></iframe>
+
 <br>
 
-## Example diagrams
+<img src="/pages/projects/markopolo/images/glycolysis-cd.png" alt="glycolysis-cd" width="600"/>
 
-**Glycolysis (fragment).** <a href="https://metabolismregulation.github.io/" target="_blank">metabolismregulation.github.io</a>
+### Example 2. iNOS pathway
 
-**iNOS pathway (CellDesigner).** <a href="https://sbgn.github.io/learning" target="_blank">sbgn.github.io/learning</a>
+### Process Description vs. Activity Flow
 
-**iNOS pathway (yEd).** <a href="https://metabolismregulation.github.io/inos/" target="_blank">Online view</a> · <a href="https://metabolismregulation.github.io/downloads/F007-inos.graphml" target="_blank">graphml source</a>
 
-**iNOS pathway (MINERVA).** <a href="https://mreg.elixir-luxembourg.org/minerva/index.html?id=F007-10" target="_blank">Online view</a> · <a href="https://mreg.elixir-luxembourg.org/minerva/api/projects/F007-10:downloadSource" target="_blank">CellDesigner source</a>
-
-## Resources
+### Resources
 
 <a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
 

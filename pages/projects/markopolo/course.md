@@ -5,9 +5,8 @@ permalink: /markopolo/course/
 ---
 
 # MARKOPOLO DM & SBGN Course at LIH
-## Disease Maps & Systems Biology Graphical Notation
 
-MARKOPOLO DM & SBGN Course at LIH: an intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) concept and [Systems Biology Graphical Notation (SBGN)](https://sbgn.github.io/), offered at the [Luxembourg Institute of Health (LIH)](https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/) within the EU-funded [MARKOPOLO](https://markersofpollution-markopolo.eu/) project.
+An intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) concept and [Systems Biology Graphical Notation (SBGN)](https://sbgn.github.io/), offered at the [Luxembourg Institute of Health (LIH)](https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/) within the EU-funded [MARKOPOLO](https://markersofpollution-markopolo.eu/) project.
 
 ### Video tutorial
 

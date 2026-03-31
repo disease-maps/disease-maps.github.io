@@ -10,14 +10,14 @@ An intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) c
 
 ## Course content
 
-**Week 1. SBGN diagrams.** Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor.
+**Part 1. SBGN diagrams.** Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
 
-**Week 2. Disease maps development.** Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways to the ExposomeMap-MP, brief textual description.
+**Part 2. Disease maps development.** Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-MP, brief textual descriptions with supporting references.
 
 ## Software
 
-[CellDesigner](https://www.celldesigner.org/)
-[yEd Graph Editor](https://www.yworks.com/products/yed)
+[CellDesigner](https://www.celldesigner.org/)  
+[yEd Graph Editor](https://www.yworks.com/products/yed)  
 
 ## Video tutorial
 
@@ -37,15 +37,21 @@ An intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) c
 
 ## Resources
 
-| Resource | Link |
-|---|---|
-| Disease maps development guide | [disease-maps.io/guidelines](https://disease-maps.io/guidelines/) |
-| Guidelines paper | [PubMed 37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/) |
-| SBGN learning | [sbgn.github.io/learning](https://sbgn.github.io/learning) |
-| SBGN learner's reference cards | [sbgn.github.io/learnerscards](https://sbgn.github.io/learnerscards) |
-| SBGN Bricks (PD) | [sbgnbricks.github.io/pd](https://sbgnbricks.github.io/pd/) |
-| SBGN PD specification | [sbgn.github.io/specifications](https://sbgn.github.io/specifications) |
-| Metabolism Regulation Atlas | [metabolismregulation.github.io/gallery](https://metabolismregulation.github.io/gallery/) |
-| Drawing SBGN PD in CellDesigner | [disease-maps.io/sbgnincd](https://disease-maps.io/sbgnincd/) |
-| Disease map applications (papers) | [disease-maps.io/publications](https://disease-maps.io/publications/#applications-of-disease-maps) |
+## Resources
+
+[Disease maps development guide](https://disease-maps.io/guidelines/)
+
+[Guidelines paper PMID:37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/)
+
+[SBGN learning](https://sbgn.github.io/learning)
+
+[SBGN learner's reference cards](https://sbgn.github.io/learnerscards)
+
+[SBGN Bricks](https://sbgnbricks.github.io/pd/)
+
+[SBGN PD specification](https://sbgn.github.io/specifications)
+
+[Metabolism Regulation Atlas](https://metabolismregulation.github.io/gallery/)
+
+[Drawing SBGN PD in CellDesigner](https://disease-maps.io/sbgnincd/)
 

@@ -13,7 +13,7 @@ An intensive two-week workshop on the <a href="https://disease-maps.io/" target=
 **Part 1. SBGN diagrams**  
 Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
 
-**Part 2. Disease maps development**  
+**Part 2. Disease map development**  
 Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-PM, brief textual descriptions with supporting references.
 
 ## Software

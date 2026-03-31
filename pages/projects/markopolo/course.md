@@ -10,20 +10,20 @@ An intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) c
 
 ## Course content
 
-**Part 1. SBGN diagrams (Week 1).** Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor.
+**Week 1. SBGN diagrams.** Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor.
 
-**Part 2. Disease maps development (Week 2).** Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways to the ExposomeMap-MP, brief textual description.
+**Week 2. Disease maps development.** Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways to the ExposomeMap-MP, brief textual description.
 
 ## Software
 
-| Tool | Link |
-|---|---|
-| CellDesigner | [celldesigner.org](https://www.celldesigner.org/) |
-| yEd Graph Editor | [yworks.com/products/yed](https://www.yworks.com/products/yed) |
+[CellDesigner](https://www.celldesigner.org/)
+[yEd Graph Editor](https://www.yworks.com/products/yed)
 
 ## Video tutorial
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/I0B3QE3Njzs" frameborder="0" allowfullscreen></iframe>
+
+<br>
 
 ## Example diagrams
 

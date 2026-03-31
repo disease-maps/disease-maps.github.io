@@ -8,7 +8,7 @@ permalink: /markopolo/course/
 
 An intensive two-week workshop on the <a href="https://disease-maps.io/" target="_blank">Disease Maps</a> concept and <a href="https://sbgn.github.io/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, organised at the <a href="https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/" target="_blank">Luxembourg Institute of Health (LIH)</a> within the EU-funded <a href="https://markersofpollution-markopolo.eu/" target="_blank">MARKOPOLO</a> project.
 
-### Course content
+## Course content
 
 **Part 1. SBGN diagrams**  
 Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
@@ -16,7 +16,7 @@ Learning the SBGN Process Description and Activity Flow languages by redrawing e
 **Part 2. Disease maps development**  
 Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-PM, brief textual descriptions with supporting references.
 
-### Software
+## Software
 
 <a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>, an editor developed by the Systems Biology Institute for building process diagrams and computational models, one of the most widely used tools for this type of diagramming. It has the best compatibility with the MINERVA Platform and is used as the main tool within this course.
 
@@ -24,7 +24,7 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 <a href="https://newteditor.org/" target="_blank">Newt Editor</a>, a web-based tool developed for SBGN diagrams <a href="https://doi.org/10.1093/bioinformatics/btaa850" target="_blank">(Balci et al, 2021)</a>. It has automatic layout algorithms, advanced complexity management, conversion to and from CellDesigner and many other features. No installation required.
 
-### Example 1. Glycolysis regulation via bifunctional enzyme
+## Example 1. Glycolysis regulation via bifunctional enzyme
 
 A brief tutorial on drawing the glycolysis regulation diagram in CellDesigner.
 
@@ -47,7 +47,7 @@ This 5-min video demonstrate how to draw the glycolysis regulation example diagr
 <br>
 
 
-### Example 2. iNOS pathway
+## Example 2. iNOS pathway
 
 <img src="/pages/projects/markopolo/images/inos-yed.png" alt="inos-yed"/>
 
@@ -61,13 +61,13 @@ This 5-min video demonstrate how to draw the glycolysis regulation example diagr
 
 <br>
 
-### Process Description vs. Activity Flow
+## Process Description vs. Activity Flow
 
 <img src="/pages/projects/markopolo/images/guide-fig2.jpg" alt="guide-fig2"/>
 
 **Figure 5.** An example that compares two representations in CellDesigner that correspond to Activity Flow (Reduced Notation palette in CellDesigner) and Process Description (default palette in CellDesigner). The two diagrams represent the same biological events but in two conceptually different languages. **(A).** The Process Description representation of the RAF-MEK-ERK signalling: the process of MEK1/2 phosphorylation is catalysed by RAF1 and the process of ERK1/2 phosphorylation is catalysed by the phosphorylated MEK1/2. **(B).** The Activity Flow representation of the RAF-MEK-ERK signalling: the activity of RAF1 stimulates the activity of MEK1/2 (MAP2K1 and MAP2K2 in official HGNC names), and the activity of MEK1/2 stimulates the activity of ERK1/2 (MAPK3 and MAPK1 in official HGNC names) <a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank">(Mazein et al, 2023)</a>.
 
-### Resources
+## Resources
 
 <a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
 

@@ -40,7 +40,7 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 <a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
 
-<a href="https://public-pages-files-2025.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1197310/pdf">Guidelines paper PDF</a>
+<a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank">Guidelines paper</a>
 
 <a href="https://sbgn.github.io/learning" target="_blank">SBGN learning</a>
 

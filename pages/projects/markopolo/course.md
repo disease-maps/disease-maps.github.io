@@ -31,16 +31,32 @@ A brief tutorial on drawing a glycolysis regulation diagram in CellDesigner.
 
 This 5-min video demonstrate how to draw the glycolysis regulation example diagram in CellDesingner step by step. The original diagram is available at the <a href="https://metabolismregulation.github.io/gallery/" target="_blank">Metabolism Regulation Atlas</a>. 
 
-<img src="/pages/projects/markopolo/images/glycolysis-yed.png" alt="glycolysis-cd" width="400"/>
+<img src="/pages/projects/markopolo/images/glycolysis-yed.png" alt="glycolysis-cd" width="500"/>
+
 **Figure 1.** The glycolysis regulation diagram drawn in yEd Graph Editor.
 
 <br>
 
-<img src="/pages/projects/markopolo/images/glycolysis-cd.png" alt="glycolysis-cd" width="400"/>
+<img src="/pages/projects/markopolo/images/glycolysis-cd.png" alt="glycolysis-cd" width="500"/>
+
 **Figure 2.** The glycolysis regulation diagram drawn in CellDesigner.
+
+<br>
 
 
 ### Example 2. iNOS pathway
+
+<img src="/pages/projects/markopolo/images/inos-yed.png" alt="inos-yed" width="600"/>
+
+**Figure 2.** The iNOS pathway drawn in yEd Graph Editor.
+
+<br>
+
+<img src="/pages/projects/markopolo/images/inos-cd.png" alt="inos-cd" width="600"/>
+
+**Figure 2.** The iNOS pathway drawn in CellDesigner.
+
+<br>
 
 ### Process Description vs. Activity Flow
 

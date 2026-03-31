@@ -29,7 +29,7 @@ A brief tutorial on drawing a glycolysis regulation diagram in CellDesigner.
 
 <br>
 
-This 5-min video demonstrate how to draw the glycolysis regulation example diagram in CellDesingner step by step. The original diagram is available at the <a href="https://metabolismregulation.github.io/gallery/" target="_blank">Metabolism Regulation Atlas</a>. 
+This 5-min video demonstrate how to draw the glycolysis regulation example diagram in CellDesingner step by step. The original diagram is available at the <a href="https://metabolismregulation.github.io/" target="_blank">Metabolism Regulation Atlas</a>. 
 
 <img src="/pages/projects/markopolo/images/glycolysis-yed.png" alt="glycolysis-cd" width="600"/>
 

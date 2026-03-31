@@ -6,7 +6,7 @@ permalink: /markopolo/course/
 
 # MARKOPOLO Disease Maps Course at LIH
 
-An intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) concept and [Systems Biology Graphical Notation (SBGN)](https://sbgn.github.io/), offered at the [Luxembourg Institute of Health (LIH)](https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/) within the EU-funded [MARKOPOLO](https://markersofpollution-markopolo.eu/) project.
+An intensive two-week workshop on the <a href="https://disease-maps.io/" target="_blank">Disease Maps</a> concept and <a href="https://sbgn.github.io/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, offered at the <a href="https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/" target="_blank">Luxembourg Institute of Health (LIH)</a> within the EU-funded <a href="https://markersofpollution-markopolo.eu/" target="_blank">MARKOPOLO</a> project.
 
 ## Course content
 
@@ -14,46 +14,42 @@ An intensive two-week workshop on the [Disease Maps](https://disease-maps.io/) c
 Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
 
 **Part 2. Disease maps development.**  
-Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-MP, brief textual descriptions with supporting references.
+Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-PM, brief textual descriptions with supporting references.
 
 ## Software
 
-[CellDesigner](https://www.celldesigner.org/)  
-[yEd Graph Editor](https://www.yworks.com/products/yed)  
+<a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>  
+<a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>
 
 ## Video tutorial
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/I0B3QE3Njzs" frameborder="0" allowfullscreen></iframe>
-
 <br>
 
 ## Example diagrams
 
-**Glycolysis (fragment).** [metabolismregulation.github.io](https://metabolismregulation.github.io/)
+**Glycolysis (fragment).** <a href="https://metabolismregulation.github.io/" target="_blank">metabolismregulation.github.io</a>
 
-**iNOS pathway (CellDesigner).** [sbgn.github.io/learning](https://sbgn.github.io/learning)
+**iNOS pathway (CellDesigner).** <a href="https://sbgn.github.io/learning" target="_blank">sbgn.github.io/learning</a>
 
-**iNOS pathway (yEd).** [Online view](https://metabolismregulation.github.io/inos/) · [graphml source](https://metabolismregulation.github.io/downloads/F007-inos.graphml)
+**iNOS pathway (yEd).** <a href="https://metabolismregulation.github.io/inos/" target="_blank">Online view</a> · <a href="https://metabolismregulation.github.io/downloads/F007-inos.graphml" target="_blank">graphml source</a>
 
-**iNOS pathway (MINERVA).** [Online view](https://mreg.elixir-luxembourg.org/minerva/index.html?id=F007-10) · [CellDesigner source](https://mreg.elixir-luxembourg.org/minerva/api/projects/F007-10:downloadSource)
-
-## Resources
+**iNOS pathway (MINERVA).** <a href="https://mreg.elixir-luxembourg.org/minerva/index.html?id=F007-10" target="_blank">Online view</a> · <a href="https://mreg.elixir-luxembourg.org/minerva/api/projects/F007-10:downloadSource" target="_blank">CellDesigner source</a>
 
 ## Resources
 
-[Disease maps development guide](https://disease-maps.io/guidelines/)
+<a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
 
-[Guidelines paper PMID:37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/)
+<a href="https://pubmed.ncbi.nlm.nih.gov/37426048/" target="_blank">Guidelines paper PMID:37426048</a>
 
-[SBGN learning](https://sbgn.github.io/learning)
+<a href="https://sbgn.github.io/learning" target="_blank">SBGN learning</a>
 
-[SBGN learner's reference cards](https://sbgn.github.io/learnerscards)
+<a href="https://sbgn.github.io/learnerscards" target="_blank">SBGN learner's reference cards</a>
 
-[SBGN Bricks](https://sbgnbricks.github.io/pd/)
+<a href="https://sbgnbricks.github.io/pd/" target="_blank">SBGN Bricks</a>
 
-[SBGN PD specification](https://sbgn.github.io/specifications)
+<a href="https://sbgn.github.io/specifications" target="_blank">SBGN PD specification</a>
 
-[Metabolism Regulation Atlas](https://metabolismregulation.github.io/gallery/)
+<a href="https://metabolismregulation.github.io/gallery/" target="_blank">Metabolism Regulation Atlas</a>
 
-[Drawing SBGN PD in CellDesigner](https://disease-maps.io/sbgnincd/)
-
+<a href="https://disease-maps.io/sbgnincd/" target="_blank">Drawing SBGN PD in CellDesigner</a>

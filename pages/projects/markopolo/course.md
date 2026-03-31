@@ -38,11 +38,9 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 ## Resources
 
-<a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
-
-<a href="https://pubmed.ncbi.nlm.nih.gov/37426048/" target="_blank">Guidelines paper PMID:37426048</a>
-
 <a href="https://sbgn.github.io/learning" target="_blank">SBGN learning</a>
+
+<a href="https://metabolismregulation.github.io/gallery/" target="_blank">Metabolism Regulation Atlas</a>
 
 <a href="https://sbgn.github.io/learnerscards" target="_blank">SBGN learner's reference cards</a>
 
@@ -50,6 +48,9 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 <a href="https://sbgn.github.io/specifications" target="_blank">SBGN PD specification</a>
 
-<a href="https://metabolismregulation.github.io/gallery/" target="_blank">Metabolism Regulation Atlas</a>
-
 <a href="https://disease-maps.io/sbgnincd/" target="_blank">Drawing SBGN PD in CellDesigner</a>
+
+<a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/37426048/" target="_blank">Guidelines paper PMID:37426048</a>
+

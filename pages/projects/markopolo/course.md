@@ -48,13 +48,13 @@ This 5-min video demonstrate how to draw the glycolysis regulation example diagr
 
 <img src="/pages/projects/markopolo/images/inos-yed.png" alt="inos-yed"/>
 
-**Figure 2.** The iNOS pathway drawn in yEd Graph Editor.
+**Figure 3.** The iNOS pathway drawn in yEd Graph Editor.
 
 <br>
 
 <img src="/pages/projects/markopolo/images/inos-cd.png" alt="inos-cd"/>
 
-**Figure 2.** The iNOS pathway drawn in CellDesigner.
+**Figure 4.** The iNOS pathway drawn in CellDesigner.
 
 <br>
 

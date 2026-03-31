@@ -20,9 +20,9 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 <a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>, an editor developed by the Systems Biology Institute for building process diagrams and computational models, one of the most widely used tools for this type of diagramming. It has the best compatibility with the MINERVA Platform and is used as the main tool within this course.
 
-<a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, freely available software developed by yWorks. A dedicated SBGN palette is available [(Siebenhaller et al, 2020)](https://doi.org/10.1093/bib/bby099). Intuitive for drawing diagrams. Additionally, the experience of drawing in yEd is transferable and can be used for creating any type of diagrams for publications.
+<a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, freely available software developed by yWorks. A dedicated SBGN palette is available <a href="https://doi.org/10.1093/bib/bby099" target="_blank">(Siebenhaller et al, 2020)</a>. Intuitive for drawing diagrams. Additionally, the experience of drawing in yEd is transferable and can be used for creating any type of diagrams for publications.
 
-<a href="https://newteditor.org/" target="_blank">Newt Editor</a>, a web-based tool developed for SBGN diagrams [(Balci et al, 2021)](https://doi.org/10.1093/bioinformatics/btaa850). It has automatic layout algorithms, advanced complexity management, conversion to and from CellDesigner and many other features. No installation required.
+<a href="https://newteditor.org/" target="_blank">Newt Editor</a>, a web-based tool developed for SBGN diagrams <a href="https://doi.org/10.1093/bioinformatics/btaa850" target="_blank">(Balci et al, 2021)</a>. It has automatic layout algorithms, advanced complexity management, conversion to and from CellDesigner and many other features. No installation required.
 
 ### Example 1. Glycolysis regulation via bifunctional enzyme
 
@@ -65,7 +65,7 @@ This 5-min video demonstrate how to draw the glycolysis regulation example diagr
 
 <img src="/pages/projects/markopolo/images/guide-fig2.jpg" alt="guide-fig2"/>
 
-**Figure 5.** An example that compares two representations in CellDesigner that correspond to Activity Flow (Reduced Notation palette in CellDesigner) and Process Description (default palette in CellDesigner). The two diagrams represent the same biological events but in two conceptually different languages. **(A).** The Process Description representation of the RAF-MEK-ERK signalling: the process of MEK1/2 phosphorylation is catalysed by RAF1 and the process of ERK1/2 phosphorylation is catalysed by the phosphorylated MEK1/2. **(B).** The Activity Flow representation of the RAF-MEK-ERK signalling: the activity of RAF1 stimulates the activity of MEK1/2 (MAP2K1 and MAP2K2 in official HGNC names), and the activity of MEK1/2 stimulates the activity of ERK1/2 (MAPK3 and MAPK1 in official HGNC names).
+**Figure 5.** An example that compares two representations in CellDesigner that correspond to Activity Flow (Reduced Notation palette in CellDesigner) and Process Description (default palette in CellDesigner). The two diagrams represent the same biological events but in two conceptually different languages. **(A).** The Process Description representation of the RAF-MEK-ERK signalling: the process of MEK1/2 phosphorylation is catalysed by RAF1 and the process of ERK1/2 phosphorylation is catalysed by the phosphorylated MEK1/2. **(B).** The Activity Flow representation of the RAF-MEK-ERK signalling: the activity of RAF1 stimulates the activity of MEK1/2 (MAP2K1 and MAP2K2 in official HGNC names), and the activity of MEK1/2 stimulates the activity of ERK1/2 (MAPK3 and MAPK1 in official HGNC names) <a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank">(Mazein et al, 2023)</a>.
 
 ### Resources
 

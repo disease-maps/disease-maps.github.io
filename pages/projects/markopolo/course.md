@@ -61,7 +61,7 @@ This 5-min video demonstrate how to draw the glycolysis regulation example diagr
 
 <br>
 
-## Process Description vs. Activity Flow
+## Activity Flow vs. Process Description
 
 <img src="/pages/projects/markopolo/images/guide-fig2.jpg" alt="guide-fig2"/>
 

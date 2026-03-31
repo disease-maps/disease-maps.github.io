@@ -23,7 +23,7 @@ Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for
 
 ### Example 1. Glycolysis regulation via bifunctional enzyme
 
-A brief tutorial on drawing a glycolysis regulation diagram in CellDesigner.
+A brief tutorial on drawing the glycolysis regulation diagram in CellDesigner.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/I0B3QE3Njzs" frameborder="0" allowfullscreen></iframe>
 

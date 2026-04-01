@@ -12,8 +12,16 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin:1.5em 0 0.75em;
   text-align:left;
+}
+
+section > :first-child {
+  margin-top:0;
+}
+
+h1 + h2, h1 + h3, h2 + h3, h2 + h4, h3 + h4, h3 + h5 {
+  margin-top:0;
 }
 
 p, ul, ol, table, pre, dl {

@@ -4,12 +4,12 @@ layout: default
 permalink: /projects/
 ---
 
+# Projects
+
 <!-- Button images are no longer needed. Buttons are now styled via CSS classes: 
      .map-button (blue background, white text) and .map-button-white (white background, blue border and text).
      To add a new button, use: <span class="map-button">Button text</span> 
      or <span class="map-button-white">Button text</span> inside the <a> tag. -->
-
-# Projects
 
 <style>
 .map-button {

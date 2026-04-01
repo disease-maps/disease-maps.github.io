@@ -9,6 +9,8 @@ permalink: /projects/
      To add a new button, use: <span class="map-button">Button text</span> 
      or <span class="map-button-white">Button text</span> inside the <a> tag. -->
 
+# Projects
+
 <style>
 .map-button {
   display: inline-flex;
@@ -45,8 +47,6 @@ table td:first-child {
   padding-left: 0;
 }
 </style>
-
-# Projects
 
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  

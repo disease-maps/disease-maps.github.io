@@ -46,7 +46,6 @@ table td:first-child {
 }
 </style>
 
-
 # Projects
 
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  

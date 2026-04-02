@@ -13,8 +13,13 @@ An intensive two-week workshop on the <a href="https://disease-maps.io/" target=
 **Part 1. SBGN diagrams**  
 Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
 
-**Part 2. Disease map development**  
-Study-a-thon dedicated to the ExposomeMap-PM project. Deliverables: pathways for extending the ExposomeMap-PM, brief textual descriptions with supporting references.
+**Part 2. Disease map architecture**  
+Principles of disease map design: modularity, interoperability, composability, and representation at multiple levels of granularity.
+
+**Part 3. ExposomeMap-PM**  
+Developing specific pathways for extending the ExposomeMap-PM resource. Deliverables: pathway diagrams, brief textual descriptions with supporting references.
+
+The course follows three stages. First, we cover the basics of standard graphical languages used in systems biology to represent biological networks and conceptual disease models. Second, we discuss principles of disease map architecture, including modularity, interoperability, composability and representation at multiple levels of granularity. Third, we focus on specific pathways for extending the ExposomeMap-PM resource, applying and reinforcing newly learned skills.
 
 ## Software
 

@@ -11,13 +11,13 @@ An intensive two-week workshop on the <a href="https://disease-maps.io/" target=
 ## Course content
 
 **Part 1. SBGN diagrams**  
-Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats, and a table with ChEBI and HGNC standard names and IDs for idneitfying diagram entities. Task 1. Glycolysis regulation diagram drawn in different editors. Task 2. iNOS diagram in Process Description language. Task 3. Convert the iNOS diagram into Activity Flow language.
+Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml/graphml/newt formats, and a table with <a href="https://www.ebi.ac.uk/chebi/" target="_blank">ChEBI</a> and <a href="https://www.genenames.org/" target="_blank">HGNC</a> standard names and IDs for idneitfying diagram entities. Task 1. Glycolysis regulation diagram drawn in CellDesigner/yEd/Newt. Task 2. iNOS diagram in Process Description. Task 3. iNOS diagram in Activity Flow.
 
 **Part 2. Disease map architecture**  
 Principles of disease map design: modularity, interoperability, composability, and representation at multiple levels of granularity.
 
 **Part 3. ExposomeMap-PM**  
-Developing specific pathways for extending the ExposomeMap-PM resource. Deliverables: pathway diagrams, brief textual descriptions with supporting references.
+Developing specific pathways for extending the ExposomeMap-PM resource. Deliverables: pathway diagrams in CellDesigner and MINERVA, tables with map entities and identifiiers (automatically exported from MINERVA), brief textual descriptions with supporting references.
 
 The course follows three stages. First, we cover the basics of standard graphical languages used in systems biology to represent biological networks and conceptual disease models. Second, we discuss principles of disease map architecture, including modularity, interoperability, composability and representation at multiple levels of granularity. Third, we focus on specific pathways for extending the ExposomeMap-PM resource, applying and reinforcing newly learned skills.
 

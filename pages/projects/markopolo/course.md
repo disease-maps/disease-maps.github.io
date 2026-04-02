@@ -11,7 +11,7 @@ An intensive two-week workshop on the <a href="https://disease-maps.io/" target=
 ## Course content
 
 **Part 1. SBGN diagrams**  
-Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats.
+Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml and graphml formats, and a table with ChEBI and HGNC standard names and IDs for idneitfying diagram entities. Task 1. Glycolysis regulation diagram drawn in different editors. Task 2. iNOS diagram in Process Description language. Task 3. Convert the iNOS diagram into Activity Flow language.
 
 **Part 2. Disease map architecture**  
 Principles of disease map design: modularity, interoperability, composability, and representation at multiple levels of granularity.

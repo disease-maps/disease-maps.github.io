@@ -22,7 +22,7 @@ The course follows three stages. First, we cover the basics of standard graphica
 
 <a href="https://www.celldesigner.org/" target="_blank">CellDesigner</a>, an editor developed by the Systems Biology Institute for building process diagrams and computational models, one of the most widely used tools for this type of diagramming. It has the best compatibility with the MINERVA Platform and is used as the main tool within this course.
 
-<a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, freely available software developed by yWorks. A dedicated SBGN palette is available <a href="https://doi.org/10.1093/bib/bby099" target="_blank">(Siebenhaller et al, 2020)</a>. Intuitive for drawing diagrams. Additionally, the experience of drawing in yEd is transferable and can be used for creating any type of diagrams for publications.
+<a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, freely available general-purpose graph editor developed by yWorks. A dedicated SBGN palette is available <a href="https://doi.org/10.1093/bib/bby099" target="_blank">(Siebenhaller et al, 2020)</a>. Intuitive for drawing diagrams. Additionally, the experience of drawing in yEd is transferable and can be used for creating any type of diagrams for publications.
 
 <a href="https://newteditor.org/" target="_blank">Newt Editor</a>, a web-based tool developed for SBGN diagrams <a href="https://doi.org/10.1093/bioinformatics/btaa850" target="_blank">(Balci et al, 2021)</a>. It has automatic layout algorithms, advanced complexity management, conversion to and from CellDesigner and many other features. No installation required.
 

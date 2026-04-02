@@ -17,7 +17,7 @@ Learning the SBGN Process Description and Activity Flow languages by redrawing e
 Principles of disease map design: modularity, interoperability, composability, and representation at multiple levels of granularity.
 
 **Part 3. ExposomeMap-PM**  
-Developing specific pathways for extending the ExposomeMap-PM resource. Deliverables: pathway diagrams in CellDesigner and MINERVA, tables with map entities and identifiiers (automatically exported from MINERVA), brief textual descriptions with supporting references.
+Developing specific pathways for extending the ExposomeMap-PM resource. Deliverables: pathway diagrams in CellDesigner and MINERVA, tables with map entities and identifiiers automatically exported from MINERVA, brief textual descriptions with supporting references.
 
 The course follows three stages. First, we cover the basics of standard graphical languages used in systems biology to represent biological networks and conceptual disease models. Second, we discuss principles of disease map architecture, including modularity, interoperability, composability and representation at multiple levels of granularity. Third, we focus on specific pathways for extending the ExposomeMap-PM resource, applying and reinforcing newly learned skills.
 

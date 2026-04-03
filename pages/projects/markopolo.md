@@ -13,6 +13,9 @@ permalink: /markopolo/
 .page-header img {
   width: 170px;
 }
+.page-header h1 {
+  margin-top: 0;
+}
 </style>
 
 <div class="page-header">

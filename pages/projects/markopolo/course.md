@@ -71,23 +71,6 @@ This 5-min video demonstrates how to build the glycolysis regulation example dia
 
 ## Resources
 
-<a href="https://disease-maps.io/guidelines/" target="_blank">Disease maps development guide</a>
-
-<a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank">Guidelines paper</a>
-
-<a href="https://sbgn.github.io/learning" target="_blank">SBGN learning</a>
-
-<a href="https://sbgn.github.io/learnerscards" target="_blank">SBGN learner's reference cards</a>
-
-<a href="https://sbgnbricks.github.io/pd/" target="_blank">SBGN Bricks</a>
-
-<a href="https://sbgn.github.io/specifications" target="_blank">SBGN PD specification</a>
-
-<a href="https://metabolismregulation.github.io/gallery/" target="_blank">Metabolism Regulation Atlas</a>
-
-<a href="https://disease-maps.io/sbgnincd/" target="_blank">Drawing SBGN PD in CellDesigner</a>
-
-
 <a href="https://disease-maps.io/guidelines/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; text-align:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guidelines</a>
 <a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; text-align:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Guidelines paper</a>
 <a href="https://disease-maps.io/sbgnincd/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; text-align:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Drawing SBGN PD<br>in CellDesigner</a>

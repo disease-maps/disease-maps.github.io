@@ -71,35 +71,17 @@ This 5-min video demonstrates how to build the glycolysis regulation example dia
 
 ## Resources
 
-#### Disease map construction
-
-<a href="https://disease-maps.io/guidelines/" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines</a><br>
-<a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines paper (2023)</a>
-
-#### Systems Biology Graphical Notation
-
-<a href="https://sbgn.github.io/learning" target="_blank" style="font-size:15px; color:#2e5287;">SBGN learning</a><br>
-<a href="https://sbgn.github.io/learnerscards" target="_blank" style="font-size:15px; color:#2e5287;">Learner's reference cards</a><br>
-<a href="https://disease-maps.io/sbgnincd/" target="_blank" style="font-size:15px; color:#2e5287;">Drawing SBGN PD in CellDesigner</a><br>
-<a href="https://sbgn.github.io/specifications" target="_blank" style="font-size:15px; color:#2e5287;">SBGN PD specification</a>
-
-#### Reusable patterns and examples
-
-<a href="https://sbgnbricks.github.io/pd/" target="_blank" style="font-size:15px; color:#2e5287;">SBGN Bricks</a><br>
-<a href="https://doi.org/10.1093/bib/bbab049" target="_blank" style="font-size:15px; color:#2e5287;">SBGN Bricks paper (2021)</a><br>
-<a href="https://metabolismregulation.github.io/gallery/" target="_blank" style="font-size:15px; color:#2e5287;">Metabolism Regulation Atlas</a>
-
-## Resources
-
-<p style="font-size:15px; font-weight:bold;">Disease map construction</p>
-<a href="https://disease-maps.io/guidelines/" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines</a><br>
-<a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines paper (2023)</a><br>
 <p style="font-size:15px; font-weight:bold;">Systems Biology Graphical Notation</p>
 <a href="https://sbgn.github.io/learning" target="_blank" style="font-size:15px; color:#2e5287;">SBGN learning</a><br>
 <a href="https://sbgn.github.io/learnerscards" target="_blank" style="font-size:15px; color:#2e5287;">Learner's reference cards</a><br>
 <a href="https://disease-maps.io/sbgnincd/" target="_blank" style="font-size:15px; color:#2e5287;">Drawing SBGN PD in CellDesigner</a><br>
 <a href="https://sbgn.github.io/specifications" target="_blank" style="font-size:15px; color:#2e5287;">SBGN PD specification</a>
+
 <p style="font-size:15px; font-weight:bold;">Reusable patterns and examples</p>
 <a href="https://sbgnbricks.github.io/pd/" target="_blank" style="font-size:15px; color:#2e5287;">SBGN Bricks</a><br>
 <a href="https://doi.org/10.1093/bib/bbab049" target="_blank" style="font-size:15px; color:#2e5287;">SBGN Bricks paper (2021)</a><br>
 <a href="https://metabolismregulation.github.io/gallery/" target="_blank" style="font-size:15px; color:#2e5287;">Metabolism Regulation Atlas</a>
+
+<p style="font-size:15px; font-weight:bold;">Disease map construction</p>
+<a href="https://disease-maps.io/guidelines/" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines</a><br>
+<a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines paper (2023)</a><br>

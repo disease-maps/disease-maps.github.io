@@ -12,7 +12,7 @@ permalink: /events2/
 }
 .events-table td {
   padding: 0;
-  padding-right: 10px;
+  padding-right: 20px;
 }
 .events-table img {
   border-radius: 12px;

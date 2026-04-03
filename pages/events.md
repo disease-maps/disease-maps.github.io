@@ -31,7 +31,7 @@ permalink: /events/
 
 # Events
 
-<br />
+<br>
 
 <table class="events-table">
 <tr>

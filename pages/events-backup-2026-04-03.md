@@ -10,7 +10,7 @@ permalink: /events-backup/
 
 <table>
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2026"><img src="../images/places/Rostock.png" alt="Rostock"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2026"><img src="../images/places/rostock_icon.png" alt="Rostock"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2026">10th Disease Maps Community Meeting</a></strong><br />
 05-07 October 2026, Rostock, Germany<br />

@@ -31,8 +31,6 @@ permalink: /events/
 
 # Events
 
-<br>
-
 <table class="events-table">
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2026"><img src="../images/places/rostock_icon.png" alt="Rostock"/></a></td>

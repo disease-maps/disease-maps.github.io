@@ -83,3 +83,23 @@ This 5-min video demonstrates how to build the glycolysis regulation example dia
 <a href="https://doi.org/10.1093/bib/bbab049" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; text-align:center; width:170px; height:53px; background-color:#2e5287; border-radius:8px; font-size:15px; color:#ffffff; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">SBGN Bricks paper</a>
 <br><br>
 <a href="https://metabolismregulation.github.io/gallery/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; text-align:center; width:170px; height:53px; background-color:#ffffff; border:1.5px solid #2e5287; border-radius:8px; font-size:15px; color:#2e5287; padding:4px 10px; box-sizing:border-box; line-height:1.2; text-decoration:none; margin-right:10px;">Metabolism<br>Regulation Atlas</a>
+
+## Resources
+
+<p>Disease map construction</p>
+
+<a href="https://disease-maps.io/guidelines/" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines</a><br>
+<a href="https://doi.org/10.3389/fbinf.2023.1197310" target="_blank" style="font-size:15px; color:#2e5287;">Guidelines paper (2023)</a><br>
+<a href="https://disease-maps.io/sbgnincd/" target="_blank" style="font-size:15px; color:#2e5287;">Drawing SBGN PD in CellDesigner</a>
+
+<p>SBGN notation</p>
+
+<a href="https://sbgn.github.io/learning" target="_blank" style="font-size:15px; color:#2e5287;">SBGN learning</a><br>
+<a href="https://sbgn.github.io/learnerscards" target="_blank" style="font-size:15px; color:#2e5287;">Learner's reference cards</a><br>
+<a href="https://sbgn.github.io/specifications" target="_blank" style="font-size:15px; color:#2e5287;">SBGN PD specification</a>
+
+<p>Reusable patterns and examples</p>
+
+<a href="https://sbgnbricks.github.io/pd/" target="_blank" style="font-size:15px; color:#2e5287;">SBGN Bricks</a><br>
+<a href="https://doi.org/10.1093/bib/bbab049" target="_blank" style="font-size:15px; color:#2e5287;">SBGN Bricks paper (2021)</a><br>
+<a href="https://metabolismregulation.github.io/gallery/" target="_blank" style="font-size:15px; color:#2e5287;">Metabolism Regulation Atlas</a>

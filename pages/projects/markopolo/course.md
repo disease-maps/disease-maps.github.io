@@ -10,8 +10,8 @@ An intensive two-week workshop on the <a href="https://disease-maps.io/" target=
 
 <p style="margin: 30px 0;">
   <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="MARKOPOLO" style="height: 50px; margin-right: 20px; vertical-align: middle;">
-  <img src="/pages/projects/markopolo/images/dm-logo.png" alt="Disease Maps" style="height: 40px; margin-right: 20px; vertical-align: middle;">
   <img src="/pages/projects/markopolo/images/sbgn-logo.png" alt="SBGN" style="height: 45px; vertical-align: middle;">
+  <img src="/pages/projects/markopolo/images/dm-logo.png" alt="Disease Maps" style="height: 40px; margin-right: 20px; vertical-align: middle;">
 </p>
 
 ## Course content

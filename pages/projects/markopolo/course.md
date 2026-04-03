@@ -14,7 +14,7 @@ An intensive two-week workshop on the <a href="https://disease-maps.io/" target=
   <img src="/pages/projects/markopolo/images/sbgn-logo.png" alt="SBGN" style="height: 42px; margin-right: 24px; vertical-align: middle;">
 </p>
 
-<div style="height: 5px;"></div>
+<div style="height: 0px;"></div>
 
 ## Course content
 

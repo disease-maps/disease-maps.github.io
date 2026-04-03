@@ -5,10 +5,19 @@ permalink: /events2/
 ---
 
 <style>
+.events-table {
+  border-collapse: collapse;
+  margin-left: 0;
+  padding: 0;
+}
+.events-table td {
+  padding: 0;
+  padding-right: 10px;
+}
 .events-table img {
   border-radius: 12px;
-  width: 100px;
-  height: 100px;
+  width: 105px;
+  height: 105px;
   object-fit: cover;
   display: block;
 }

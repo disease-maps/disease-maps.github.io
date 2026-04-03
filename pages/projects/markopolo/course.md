@@ -8,6 +8,12 @@ permalink: /markopolo/course/
 
 An intensive two-week workshop on the <a href="https://disease-maps.io/" target="_blank">Disease Maps</a> concept and <a href="https://sbgn.github.io/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, organised at the <a href="https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/" target="_blank">Luxembourg Institute of Health (LIH)</a> within the EU-funded <a href="https://markersofpollution-markopolo.eu/" target="_blank">MARKOPOLO</a> project.
 
+<p style="text-align: center; margin: 30px 0;">
+  <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="MARKOPOLO" style="height: 70px; margin: 0 20px; vertical-align: middle;">
+  <img src="/pages/projects/markopolo/images/dm-logo.png" alt="Disease Maps" style="height: 70px; margin: 0 20px; vertical-align: middle;">
+  <img src="/pages/projects/markopolo/images/sbgn-logo.png" alt="SBGN" style="height: 70px; margin: 0 20px; vertical-align: middle;">
+</p>
+
 ## Course content
 
 **Part 1. SBGN diagrams.** Learning the SBGN Process Description and Activity Flow languages by redrawing example diagrams in CellDesigner and yEd Graph Editor. Deliverables: diagram files in xml/graphml/newt/sbgnml formats and a table with <a href="https://www.ebi.ac.uk/chebi/" target="_blank">ChEBI</a> and <a href="https://www.genenames.org/" target="_blank">HGNC</a> standard names and IDs for idneitfying diagram entities. Task 1. Glycolysis regulation diagram drawn in CellDesigner/yEd/Newt. Task 2. iNOS diagram in Process Description. Task 3. iNOS diagram in Activity Flow.

@@ -4,6 +4,9 @@ layout: default
 permalink: /events2/
 ---
 
+<!-- Event images: upload square images, rounded corners are applied automatically via CSS.
+     To keep an image with sharp corners, add class="square" to the img tag. -->
+
 <style>
 .events-table {
   border-collapse: collapse;

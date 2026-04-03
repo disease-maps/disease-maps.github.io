@@ -1,14 +1,27 @@
 ---
 title: Events
 layout: default
-permalink: /events2/
+permalink: /events/
 ---
+
+<style>
+.events-table img {
+  border-radius: 12px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+}
+.events-table img.square {
+  border-radius: 0;
+}
+</style>
 
 # Events
 
 <br />
 
-<table>
+<table class="events-table">
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2026"><img src="../images/places/rostock_icon.png" alt="Rostock"/></a></td>
 <td valign="top">
@@ -19,7 +32,7 @@ The 10th Disease Maps Community Meeting is organised by the Department of System
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2025"><img src="../images/places/Leuven1.png" alt="Leuven"/></a></td>
 <td valign="top">
@@ -30,9 +43,9 @@ The 9th Disease Maps Community Meeting is organised by the Biomechanics Research
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2024"><img src="../images/places/Belval2.png" alt="Lyon"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2024"><img src="../images/places/Belval2.png" alt="Belval"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2024">8th Disease Maps Community Meeting</a></strong><br />
 25-27 March 2024, Belval, Luxembourg<br />
@@ -41,9 +54,9 @@ The 8th community meeting is hosted by the Luxembourg Centre for Systems Biomedi
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
-<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2023"><img src="../images/places/Maastricht1.png"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2023"><img src="../images/places/Maastricht1.png" alt="Maastricht"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2023">7th Disease Maps Community Meeting</a></strong><br />
 3-5 April 2023, Maastricht, Netherlands<br />
@@ -52,9 +65,9 @@ The 2023 community meeting is organsied as a face-to-face event at Maastricht Un
 </tr>
 </table>
 
-<table>
+<table class="events-table">
 <tr>
-<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2021"><img src="../images/places/Berlin.png"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2021"><img src="../images/places/Berlin.png" alt="Berlin"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2021">6th Disease Maps Community Meeting</a></strong><br />
 29-30 November 2021<br />
@@ -63,9 +76,9 @@ The 2021 community meeting is organsied as a web conference by the <a href="http
 </tr>
 </table>
 
-<table>
+<table class="events-table">
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2020"><img src="../images/places/covid-19-dm-logo.png"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2020"><img class="square" src="../images/places/covid-19-dm-logo.png" alt="COVID-19 Disease Map"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2020">5th Disease Maps Community Meeting</a></strong><br />
 12-14 November 2020<br />
@@ -74,7 +87,7 @@ The 2020 community meeting is dedicated to the <a href="https://covid.pages.uni.
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2019"><img src="../images/places/Sevilla.png" alt="Sevilla"/></a></td>
 <td valign="top">
@@ -85,7 +98,7 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2018"><img src="../images/places/Paris.png" alt="Paris"/></a></td>
 <td valign="top">
@@ -96,9 +109,9 @@ The 2018 community meeting is hosted by the <a href="https://sysbio.curie.fr/">C
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval2.png" alt="Lyon"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval2.png" alt="Belval"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2017_2nd">2nd Disease Maps Community Meeting</a></strong><br />
 2-3 October 2017, Belval, Luxembourg<br />
@@ -107,7 +120,7 @@ The second community meeting is a satellite event before the <a href="https://bi
 </tr>
 </table> 
 
-<table>
+<table class="events-table">
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2017_1st"><img src="../images/places/Lyon4.png" alt="Lyon"/></a></td>
 <td valign="top">

@@ -9,7 +9,7 @@ permalink: /markopolo/course/
 An intensive two-week workshop on the <a href="https://disease-maps.io/" target="_blank">Disease Maps</a> concept and <a href="https://sbgn.github.io/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, organised at the <a href="https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/" target="_blank">Luxembourg Institute of Health (LIH)</a> within the EU-funded <a href="https://markersofpollution-markopolo.eu/" target="_blank">MARKOPOLO</a> project.
 
 <p style="margin: 30px 0;">
-  <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="MARKOPOLO" style="height: 45px; margin-right: 20px; vertical-align: middle;">
+  <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="MARKOPOLO" style="height: 50px; margin-right: 20px; vertical-align: middle;">
   <img src="/pages/projects/markopolo/images/dm-logo.png" alt="Disease Maps" style="height: 40px; margin-right: 20px; vertical-align: middle;">
   <img src="/pages/projects/markopolo/images/sbgn-logo.png" alt="SBGN" style="height: 45px; vertical-align: middle;">
 </p>

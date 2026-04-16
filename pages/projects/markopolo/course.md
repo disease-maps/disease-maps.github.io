@@ -64,7 +64,15 @@ Component > Model Information
 
 Sometimes it is possible to introduce errors that make the file unreadable for CellDesigner. It is advisable to close and reopen files to check they are not broken, especially when learning or testing new styles or features. Saving versions of the map regularly helps to avoid situations when the work is lost. Suggested naming system:  
 
-mapname_date_time.xml
+mapname_version_optionalcomment.xml  
+
+For example:  
+
+glycolysis_v001.xml  
+
+or  
+
+glycolysis_v001_added_ChEBI_annotation.xml  
 
 ### Compartments
 

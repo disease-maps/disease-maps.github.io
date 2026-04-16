@@ -69,6 +69,22 @@ This 5-min video demonstrates how to build the glycolysis regulation example dia
 
 <br>
 
+## Tips on drawing in CellDesigner
+
+### Change canvas size
+
+Component > Model Information
+
+### Saving progress
+
+Sometimes it is possible to introduce errors that make the file unreadable for CellDesigner. It is advisable to close and reopen files to check they are not broken, especially when learning or testing new styles or features. Saving versions of the map regularly helps to avoid situations when the work is lost. Suggested naming system:  
+
+mapname_date_time.xml
+
+### Compartments
+
+Square/Oval elements in CellDesigner’s palette (compartment element in SBGN): better to leave it to the final stages of drawing. Otherwise it is harder to move/copy-paste map elements.
+
 ## Activity Flow vs. Process Description
 
 <img src="/pages/projects/markopolo/images/guide-fig2.jpg" alt="guide-fig2"/>

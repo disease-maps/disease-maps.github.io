@@ -56,7 +56,7 @@ This 5-min video demonstrates how to build the glycolysis regulation example dia
 
 ## Tips on drawing in CellDesigner
 
-### Change canvas size
+### Changing canvas size
 
 Component > Model Information
 
@@ -74,9 +74,9 @@ or
 
 glycolysis_v001_added_ChEBI_annotation.xml  
 
-### Compartments
+### Introducing containers
 
-Square/Oval elements in CellDesigner’s palette (compartment element in SBGN): better to leave it to the final stages of drawing. Otherwise it is harder to move/copy-paste map elements.
+Square/Oval elements in CellDesigner’s palette (or compartment element in SBGN): better to leave adding them to the final stages of drawing. Otherwise it is harder to move/copy-paste map elements.
 
 Also see <a href="https://disease-maps.io/sbgnincd/" target="_blank" style="font-size:15px; color:#2e5287;">Drawing SBGN PD in CellDesigner</a>.
 

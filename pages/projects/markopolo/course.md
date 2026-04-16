@@ -54,21 +54,6 @@ This 5-min video demonstrates how to build the glycolysis regulation example dia
 
 <br>
 
-
-## Example 2. iNOS pathway
-
-<img src="/pages/projects/markopolo/images/inos-yed.png" alt="inos-yed"/>
-
-**Figure 3.** The iNOS pathway drawn in yEd Graph Editor.
-
-<br>
-
-<img src="/pages/projects/markopolo/images/inos-cd.png" alt="inos-cd"/>
-
-**Figure 4.** The iNOS pathway drawn in CellDesigner.
-
-<br>
-
 ## Tips on drawing in CellDesigner
 
 ### Change canvas size
@@ -86,6 +71,21 @@ mapname_date_time.xml
 Square/Oval elements in CellDesigner’s palette (compartment element in SBGN): better to leave it to the final stages of drawing. Otherwise it is harder to move/copy-paste map elements.
 
 Also see <a href="https://disease-maps.io/sbgnincd/" target="_blank" style="font-size:15px; color:#2e5287;">Drawing SBGN PD in CellDesigner</a>.
+
+
+## Example 2. iNOS pathway
+
+<img src="/pages/projects/markopolo/images/inos-yed.png" alt="inos-yed"/>
+
+**Figure 3.** The iNOS pathway drawn in yEd Graph Editor.
+
+<br>
+
+<img src="/pages/projects/markopolo/images/inos-cd.png" alt="inos-cd"/>
+
+**Figure 4.** The iNOS pathway drawn in CellDesigner.
+
+<br>
 
 ## Activity Flow vs. Process Description
 

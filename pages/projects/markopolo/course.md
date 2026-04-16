@@ -85,6 +85,8 @@ mapname_date_time.xml
 
 Square/Oval elements in CellDesigner’s palette (compartment element in SBGN): better to leave it to the final stages of drawing. Otherwise it is harder to move/copy-paste map elements.
 
+Also see <a href="https://disease-maps.io/sbgnincd/" target="_blank" style="font-size:15px; color:#2e5287;">Drawing SBGN PD in CellDesigner</a>.
+
 ## Activity Flow vs. Process Description
 
 <img src="/pages/projects/markopolo/images/guide-fig2.jpg" alt="guide-fig2"/>

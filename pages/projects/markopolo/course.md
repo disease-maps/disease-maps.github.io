@@ -6,7 +6,10 @@ permalink: /markopolo/course/
 
 # MARKOPOLO Disease Maps Course
 
+14 April - 26 May, 10:00 AM every Tuesday and Thursday.
+
 An intensive two-week workshop on the <a href="https://disease-maps.io/" target="_blank">Disease Maps</a> concept and <a href="https://sbgn.github.io/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, organised at the <a href="https://www.lih.lu/en/research-scope/research-department/department-of-cancer-research/multiomics-data-science/" target="_blank">Luxembourg Institute of Health (LIH)</a> within the EU-funded <a href="https://markersofpollution-markopolo.eu/" target="_blank">MARKOPOLO</a> project.
+
 
 <div style="margin-top: 30px; padding-bottom: 20px;">
   <img src="/pages/projects/markopolo/images/markopolo-logo.webp" alt="MARKOPOLO" style="height: 55px; margin-right: 24px; vertical-align: middle;">

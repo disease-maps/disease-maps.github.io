@@ -10,60 +10,76 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 
 ## Get involved
 
-We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.
+We are actively expanding the list of areas covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of physiology and diseases: computational biologists, clinicians or experimental biologistss. If you are working on one of the projects which are already listed on this website, we would be happy to collaborate and integrate your work in the overall effort.
         
 ## Project Leaders
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. New members are invited by the current members. They can be leaders of specific map projects and active contributors to the community development.  
+Project leaders develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines.
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MarekOstaszewski1.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AnnaNiarakis.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AlexanderMazein.jpg" width="120"/></p></td>
-</tr>
-<tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD, HDR</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
-</tr>
-<tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/InnaKuperstein.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MattiHoch2.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AnnaNiarakis.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LaurenceCalzone.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LuizLadeira.jpg" width="120"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch, MSc</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Germany</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Postdoctoral Researcher at the GIGA In Silico Medicine, University of Liège, Liège, Belgium</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Institute of Health, Luxembourg</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Laurence Calzone</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Institut Curie, Paris, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Liège, Liège, Belgium</p></td>
+</tr>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MarekOstaszewski1.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MarcGillespie.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MartinaKutmon.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MattiHoch2.jpg" width="120"/></p></td>
+
+</tr>
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Luxembourg, Belvaux, Luxembourg</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, St. John's University, New York, US</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Kutmon</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, Maastricht University, Maastricht, Netherlands</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Rostock, Rostock, Germany</p></td>
 </tr>
 </table>    
 
 ## Principal Investigators
 
+Principal investigators support and advise the Community.
+
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/ReinhardSchneider.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/CharlesAuffray.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/EmmanuelBarillot.jpg" width="120"/></p></td>
-</tr>
-<tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
-</tr>
-<tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/OlafWolkenhauer.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LiesbetGeris.jpg" width="120"/></p></td>
-<td style="width: 200px;"> </td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/OlafWolkenhauer.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/ReinhardSchneider.jpg" width="120"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unit, University of Liège, Liège, Belgium and KU Leuven, Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute (VPHi)</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
 </tr>
 </table>
 
+## Founding members
+We would like to thank our founding mebers for their longstanding and enthusiastic support to the concept of disease maps.
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AndreiZinovyev.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/CharlesAuffray.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/InnaKuperstein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/RudiBalling.jpg" width="120"/></p></td>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Andrei Zinovyev</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Institut Curie, Paris, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">European Institute for Systems Biology and Medicine, Lyon, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Institut Curie, Paris, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Rudi Balling</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+</tr>
+</table>
         
 <!--### Scientific Advisory Board
 <p>The Scientific Advisory Board is composed of scientists with expertise in large-scale systems biology and translational medicine projects. The board provides guidance regarding the goals and the roadmap for the Disease Maps Project.</p>
@@ -71,8 +87,6 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 
 ## Acknowledgements
-
-<p>We would like to thank Rudi Balling, the Director of the <a href="http://lcsb.uni.lu" target="_blank">Luxembourg Centre for Systems Biomedicine</a> for his longstanding and enthusiastic support to the concept of disease maps. He is one of the key people that helped to catalyse the Disease Maps Project.</p>
 
 <p>Many published disease maps were developed in collaboration with the <a href="http://www.sbi.jp/" target="_blank">Systems Biology Institute</a>, Tokyo, Japan (Mizuno et al., 2012, <a href="https://www.ncbi.nlm.nih.gov/pubmed/22647208" target="_blank">PMID 22647208</a>; Matsuoka et al., 2013, <a href="https://www.ncbi.nlm.nih.gov/pubmed/24088197" target="_blank">PMID 24088197</a>; Fujita et al., 2014, <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PMID 23832570</a>; Kuperstein et al., 2015, <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_blank">PMID 26192618</a>). We would like to underline the role of Prof. Hiroaki Kitano in pioneering the process description representation of signalling networks and initiating first comprehensive disease-relevant extensive reconstructions of signalling pathways (Oda et al., 2005, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16729045" target="_blank">PMID 16729045</a>; Oda and Kitano, 2006, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16738560" target="_blank">PMID 16738560</a>; Caron et al., 2010, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21179025" target="_blank">PMID 21179025</a>).</p>
 

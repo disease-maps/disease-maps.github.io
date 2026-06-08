@@ -20,7 +20,7 @@ permalink: /chronim/
 ### Description
 
 The  map [is accessible here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37). It reflects what is currently known of inflammatory mechanisms in the central and peripheral nervous system, focusing on pathologies of Alzheimer’s disease (AD), Parkinson’s disease (PD), Multiple Sclerosis (MS), and similar conditions.
-The map provides standardised, detailed, diagrammatic pathway-level description of molecular mechanisms involved in chronic neuroinflammation in neurodegenerative diseases.
+The map provides standardised, detailed, diagrammatic pathway-level description of persistent activation of the brain’s immune system, leading to long-term inflammatory signaling.
 
 ![](/pages/projects/chronim/images/ChronicNeuroinflammation2.png/)
 

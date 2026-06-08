@@ -6,12 +6,11 @@ permalink: /chronim/
 
 # Chronic Neuroinflammation Map
 
-**Online access and exploration:** [https://imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20)  
+**Online access and exploration:** [https://pathwaylab.elixir-luxembourg.org](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37)  
 **Development status:** Available for exploration online  
-**Diseases treated:** Cancer, autoimmune diseases  
+**Diseases:** Alzheimer, Parkinson, Multiple sclerosis  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
-**Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Publication:** Manuscript in preparation   
 **Contact:** Oxana Lopata, University of Luxembourg, oxana.lopata(at)uni.lu  
@@ -20,22 +19,29 @@ permalink: /chronim/
 
 ### Description
 
-The  map [is accessible here](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20). It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
+The  map [is accessible here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37). The map reflects what is currently known of inflammatory mechanisms in the central and peripheral nervous system, focusing on pathologies of Alzheimer’s disease (AD), Parkinson’s disease (PD), Multiple Sclerosis (MS), and similar conditions.
+It provides standardised, detailed, diagrammatic pathway-level description of molecular mechanisms involved in chronic neuroinflammation in neurodegenerative diseases.
+The map defines hallmark molecular mechanisms and their relationships to describe persistent activation of the brain’s immune system, leading to long-term inflammatory signaling.
 
 ![](/pages/projects/il2/images//IL2hepatotoxicity1a.png)
 
-The map is structured into two layers. First is the main map which depicts tissue compartments, cell types, and molecular entities, including cytokines, chemokines, small molecules, and their corresponding receptors, with the interactions between them. This layer focuses on intercellular communication and the connectivity of molecular activities across the liver microenvironment. The second layer includes submaps for key cell types, such as hepatocytes and CD8+ T cells. They show intracellular mechanisms and provide detailed views of cell specific mechanisms relevant to IL2 induced hepatotoxicity.
+The resource is hierarchically structured as a multilayer network of submaps, representing a collection of biological processes and pathway modules across neurodegenerative diseases, describing disease mechanisms at different layers of granularity, with a focus on common components of chronic inflammation..
 
 ![](/pages/projects/il2/images//IL2hepatotoxicity2a.png)
 
-### Omics visualisation
+### Acknowledgements
 
+<table>
 
+<tr>
+<td style="width: 110px;"> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
+</td>
+<td> 
+This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>
+ELIXIR-LU hosts and maintains the MINERVA Platform for this project <br/> and supports its development.
+</td>
+</tr>
 
-### Modelling
-
-Text
-
-Image4
-
+</table>
 

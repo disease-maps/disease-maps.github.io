@@ -33,7 +33,7 @@ The resource is hierarchically structured as a multilayer network of submaps, re
 
 <tr>
 <td style="width: 110px;"> 
-<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="/pages/projects/chronim/images/elixir-luxembourg-logo.png" alt="ELIXIR-LU"/></a> 
+<a href="https://elixir-luxembourg.org" target="_blank" id="ELIXIR-LU"><img src="../images/projects/elixir-luxembourg-logo.jpg" alt="ELIXIR-LU"/></a> 
 </td>
 <td> 
 This project is supported by <a href="https://elixir-luxembourg.org/" target="_blank" id="ELIXIR-LU">ELIXIR Luxembourg</a> (ELIXIR-LU) Node. <br/>

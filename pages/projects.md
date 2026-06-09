@@ -318,6 +318,19 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 </td>
 </tr>
 
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<a href="../chronim" target="_blank" id="chronim"><span class="map-button-white">Chronic neuroinflammation<br>★★☆☆☆</span></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: Chronic Neuroinflammation Map<br />
+Diseases: Alzheimer's disease, Parkinson's disease, multiple sclerosis<br />
+Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg
+</td>
+</tr>
+
+
 <tr>
 <td style="width: 160px; font-size:15px;"> 
 <a href="../nephron" target="_blank" id="nephron"><span class="map-button-white">Kidney crystallography and tubular necrosis<br>★☆☆☆☆</span></a>

@@ -26,6 +26,10 @@ The map provides standardised, detailed, diagrammatic pathway-level description 
 
 ![](/pages/projects/chronim/images//ChronicNeuroinflammation4.png)
 
+![](/pages/projects/chronim/images/ChronicNeuroinflammation4.png)
+
+![](..pages/projects/chronim/images/ChronicNeuroinflammation4.png)
+
 ![](../pages/projects/chronim/images/ChronicNeuroinflammation4.png/)
 
 The resource is hierarchically structured as a multilayer network of submaps, representing a collection of biological processes and pathway modules across neurodegenerative diseases, describing disease mechanisms at different layers of granularity, with a focus on common components of chronic inflammation.

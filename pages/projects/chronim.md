@@ -9,7 +9,7 @@ permalink: /chronim/
 
 **Online access and exploration:** [https://pathwaylab.elixir-luxembourg.org](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37)  
 **Development status:** Available for exploration online  
-**Diseases:** Alzheimer, Parkinson, Multiple sclerosis  
+**Diseases:** Alzheimer's disease, Parkinson's disease, multiple sclerosis  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  

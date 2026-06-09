@@ -4,7 +4,8 @@ layout: default
 permalink: /chronim/
 --- 
 
-# Chronic Neuroinflammation Map
+# Chronic neuroinflammation
+## Chronic Neuroinflammation Map
 
 **Online access and exploration:** [https://pathwaylab.elixir-luxembourg.org](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37)  
 **Development status:** Available for exploration online  

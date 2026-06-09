@@ -24,7 +24,7 @@ The map provides standardised, detailed, diagrammatic pathway-level description 
 
 ![](/pages/projects/chronim/images/ChronicNeuroinflammation4.png/)
 
-![](/pages/projects/chronim/images//ChronicNeuroinflammation4.png/)
+![](/pages/projects/chronim/images//ChronicNeuroinflammation4.png)
 
 ![](../pages/projects/chronim/images/ChronicNeuroinflammation4.png/)
 

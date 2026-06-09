@@ -14,7 +14,7 @@ permalink: /chronim/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Publication:** Manuscript in preparation   
-**Contact:** Oxana Lopata, University of Luxembourg, oxana.lopata(at)uni.lu  
+**Contact:** Oxana Lopata, University of Luxembourg, oxana.lopata@uni.lu  
 
 
 

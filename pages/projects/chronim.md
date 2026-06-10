@@ -50,7 +50,7 @@ By clicking on a map interaction (black lines that connect map elements) you can
 
 ### Search
 
-You can search for elements using the search panel and see them in the map highlighted with anchors on the main map. Also on the left panel in Content you will see in what submaps you can find detailed mechanisms. To clear the search, please use the Clear button.
+You can search for elements using the search panel and see them in the map highlighted with anchors on the main map. Also, in the left panel, under the Contents section, you will see which submaps contain detailed mechanisms. To clear the search, please use the Clear button.
 
 ![](/pages/projects/chronim/images/UG5.png)
 

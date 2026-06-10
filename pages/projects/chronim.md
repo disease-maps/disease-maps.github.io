@@ -26,6 +26,50 @@ The map provides standardised, detailed, diagrammatic pathway-level description 
 
 The resource is hierarchically structured as a multilayer network of submaps, representing a collection of biological processes and pathway modules across neurodegenerative diseases, describing disease mechanisms at different layers of granularity, with a focus on common components of chronic inflammation.
 
+### User guide
+
+The main entry point to the map is available [here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37). This is a top-level overview diagram representing main general aspects of chronic neuroinflammation.
+
+![](/pages/projects/chronim/images/UG1b.png)
+
+### Pan and zoom
+
+Zooming and navigating for browsing the map content are similar to working with Google Maps. It is also possible to use the buttons on the lower right corner to zoom in, zoom out and center the map content.
+
+![](/pages/projects/chronim/images/UG2.png)
+
+### Interactive exploration
+
+To access information about map elements - cell types, phenotypes, proteins, genes, interactions - please click on the element and check the appearing panel with the description on the left.
+
+![](/pages/projects/chronim/images/UG3.png)
+
+By clicking on a map interaction (black lines that connect map elements) you can access references to publications supporting this reaction.
+
+![](/pages/projects/chronim/images/UG4.png)
+
+### Search
+
+You can search for elements using the search panel and see them in the map highlighted with anchors on the main map. Also on the left panel in Content you will see in what submaps you can find detailed mechanisms. To clear the search, please use the Clear button.
+
+![](/pages/projects/chronim/images/UG5.png)
+
+### Submaps
+
+To access the pathway specific maps, please click the Submaps button above. You will see the list of the submaps on the left panel. By clicking on the Open button near the submap name you will be accessing the corresponding submap.
+
+![](/pages/projects/chronim/images/UG6.png)
+
+![](/pages/projects/chronim/images/UG7.png)
+
+Here  you can also search for elements, check description and references etc.
+
+![](/pages/projects/chronim/images/UG7a.png)
+
+### Overlays
+
+To visualise experimental dataset on the map, please use the Overlays button above.
+
 
 ### Acknowledgements
 

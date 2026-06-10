@@ -42,25 +42,25 @@ Zooming and navigating for browsing the map content are similar to working with 
 
 To access information about map elements - cell types, phenotypes, proteins, genes, interactions - please click on the element and check the appearing panel with the description on the left.
 
-![](/pages/projects/chronim/images/UG3.png)
+![](/pages/projects/chronim/images/UG3a.png)
 
 By clicking on a map interaction (black lines that connect map elements) you can access references to publications supporting this reaction.
 
-![](/pages/projects/chronim/images/UG4.png)
+![](/pages/projects/chronim/images/UG4a.png)
 
 ### Search
 
-You can search for elements using the search panel and see them in the map highlighted with anchors on the main map. Also, in the left panel, under the Contents section, you will see which submaps contain detailed mechanisms. To clear the search, please use the Clear button.
+You can search for elements using the search panel and see them highlighted with anchors on the main map. In the left panel, under the Contents section, you will see which submaps contain detailed mechanisms. To clear the search, please use the Clear button.
 
 ![](/pages/projects/chronim/images/UG5.png)
 
 ### Submaps
 
-To access the pathway specific maps, please click the Submaps button above. You will see the list of the submaps on the left panel. By clicking on the Open button near the submap name you will be accessing the corresponding submap.
+To access the pathway specific maps, please click the Submaps button above. You will see the list of the submaps in the left panel. By clicking on the Open button near the submap name you will be accessing the corresponding submap.
 
 ![](/pages/projects/chronim/images/UG6.png)
 
-![](/pages/projects/chronim/images/UG7.png)
+![](/pages/projects/chronim/images/UG7b.png)
 
 Here  you can also search for elements, check description and references etc.
 

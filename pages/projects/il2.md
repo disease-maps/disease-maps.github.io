@@ -6,7 +6,7 @@ permalink: /il2/
 
 # IL2-induced hepatotoxicity map
 
-**Online access and exploration:** [https://imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20)  
+**Online access and exploration:** [https://imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2_hepatotoxicity)  
 **Development status:** Available for exploration online  
 **Diseases treated:** Cancer, autoimmune diseases  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
@@ -22,7 +22,7 @@ permalink: /il2/
 
 ### Description
 
-The IL2-induced hepatotoxicity map [is accessible here](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20). It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
+The IL2-induced hepatotoxicity map [is accessible here](https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2_hepatotoxicity). It is developed to identify and represent  IL2 related cytotoxic mechanisms in the liver, and to analyse data on two variants of the IL2 immunotherapy - Aldesleukin and MHS554. The content of the map is discussed and validated in consultations with ImSAVAR experts. The map is organised into three biological response levels - molecular, cellular, and organ, and comprises four key events: IL2 binding to cells, activation of cytokine or receptor expression, recruitment and adhesion to liver sinusoids, and hepatocyte damage.
 
 ![](/pages/projects/il2/images//IL2hepatotoxicity1a.png)
 

@@ -6,11 +6,13 @@ permalink: /aboutdraft2/
        
 # About
         
-The Disease Maps Project as a large-scale community effort was initiated by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>, the <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a> and the <a href="http://www.institut-curie.org/" target="_blank">Institut Curie</a>.
+The Disease Maps Project as a large-scale community effort to apply systems biomedicine paradigms in building knowledge repositories, mapping omics data on molecular mechanisms, and simulation of their perturbations for effect prediction.
+
+Our international and interdisciplinary community grows since 2015, fueled by exchanges during annual meetings, regular virtual meetings, and over a dedicated Slack channel. We collaborate closely with the communities of the systems biology neighbourhood, including [SBML](https://sbml.org/community/), [SBGN](https://sbgn.github.io/), and [ELIXIR Systems Biology](https://elixir-europe.org/communities/systems-biology), and [Reactome](https://reactome.org/) and [WikiPathways](https://www.wikipathways.org/) databases.
 
 ## Get involved
 
-We are actively expanding the list of areas covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of physiology and diseases: computational biologists, clinicians or experimental biologistss. If you are working on one of the projects which are already listed on this website, we would be happy to collaborate and integrate your work in the overall effort.
+**[Contact us!](../contact)** We are actively expanding the list of areas covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of physiology and diseases: computational biologists, clinicians or experimental biologists. If you are working on one of the projects which are already listed on this website, we would be happy to collaborate.
         
 ## Project Leaders
 

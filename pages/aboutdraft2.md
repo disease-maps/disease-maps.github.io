@@ -41,7 +41,7 @@ Project leaders develop and refine the concept of disease maps, coordinate the a
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Luxembourg, Belvaux, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, St. John's University, New York, US</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Kutmon</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, Maastricht University, Maastricht, Netherlands</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Kutmon</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Associate professor, Maastricht University, Maastricht, Netherlands</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Rostock, Rostock, Germany</p></td>
 </tr>
 </table>    

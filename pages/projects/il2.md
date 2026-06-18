@@ -28,7 +28,7 @@ The IL2-induced hepatotoxicity map [is accessible here](https://imsavar.elixir-l
 
 The map is structured into two layers. First is the main map which depicts tissue compartments, cell types, and molecular entities, including cytokines, chemokines, small molecules, and their corresponding receptors, with the interactions between them. This layer focuses on intercellular communication and the connectivity of molecular activities across the liver microenvironment. The second layer includes submaps for key cell types, such as hepatocytes and CD8+ T cells. They show intracellular mechanisms and provide detailed views of cell specific mechanisms relevant to IL2 induced hepatotoxicity.
 
-![](/pages/projects/il2/images//IL2hepatotoxicity2a.png)
+![](/pages/projects/il2/images//IL2hepatotoxicityPaper5.png)
 
 ### Omics visualisation
 

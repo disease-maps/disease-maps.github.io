@@ -32,15 +32,9 @@ The map is structured into two layers. First is the main map which depicts tissu
 
 ### Omics visualisation
 
-Data overlays derived from differentially expressed genes (DEGs) in the ImSAVAR dataset were generated and integrated into the IL2 hepatotoxicity map. They visualise affected molecules and interactions in the map to inform about most relevant pathways and cell types concerning lL2 induced hepatotoxicity mechanisms. Their comparative analysis indicates that Aldesleukin activates multiple cytotoxic mediators and their corresponding hepatocyte receptors, leading to apoptosis-related pathways activation. However MHS554 did not trigger comparable activation of these key cytotoxic mechanisms. This analysis supports a reduced hepatotoxic liability for MHS554 and highlights mechanistic differences between the two IL2 based therapies.
+Data overlays derived from differentially expressed genes (DEGs) in the ImSAVAR dataset were generated and integrated into the IL2 hepatotoxicity map. They visualise affected molecules and interactions in the map to inform about most relevant pathways and cell types concerning lL2 induced hepatotoxicity mechanisms. Shown here are DEGs in hepatocytes treated with Aldesleukin (yellow) and MHS554 (teal).
 
-![](/pages/projects/il2/images//IL2hepatotoxicity3a.png)
-
-### Modelling
-
-Text
-
-Image4
+![](/pages/projects/il2/images//phh_submap3.png)
 
 ### Funding
 

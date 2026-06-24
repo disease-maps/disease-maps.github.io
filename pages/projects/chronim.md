@@ -6,7 +6,7 @@ permalink: /chronim/
 
 # Chronic Neuroinflammation Map
 
-**Online access and exploration:** [https://pathwaylab.elixir-luxembourg.org](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37)  
+**Online access and exploration:** [https://pathwaylab.elixir-luxembourg.org](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation38)  
 **Development status:** Available for exploration online  
 **Diseases:** Alzheimer's disease, Parkinson's disease, multiple sclerosis  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
@@ -19,7 +19,7 @@ permalink: /chronim/
 
 ### Description
 
-The  map [is accessible here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37). It reflects what is currently known of inflammatory mechanisms in the central and peripheral nervous system, focusing on pathologies of Alzheimer’s disease (AD), Parkinson’s disease (PD), Multiple Sclerosis (MS), and similar conditions.
+The  map [is accessible here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation38). It reflects what is currently known of inflammatory mechanisms in the central and peripheral nervous system, focusing on pathologies of Alzheimer’s disease (AD), Parkinson’s disease (PD), Multiple Sclerosis (MS), and similar conditions.
 The map provides standardised, detailed, diagrammatic pathway-level description of persistent activation of the brain’s immune system, leading to long-term inflammatory signaling.
 
 ![](/pages/projects/chronim/images/ChronicNeuroinflammation4.png)
@@ -28,7 +28,7 @@ The resource is hierarchically structured as a multilayer network of submaps, re
 
 ### User guide
 
-The main entry point to the map is available [here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation37). This is a top-level overview diagram representing main general aspects of chronic neuroinflammation.
+The main entry point to the map is available [here](https://pathwaylab.elixir-luxembourg.org/minerva/index.html?id=ChrNeuroinflammation38). This is a top-level overview diagram representing main general aspects of chronic neuroinflammation.
 
 ![](/pages/projects/chronim/images/UG1b.png)
 

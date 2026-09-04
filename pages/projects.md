@@ -320,7 +320,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../hid_immune" target="_blank" id="immunedev"><span class="map-button-white">Immune system development<br>★★★★★</span></a>
+<a href="../immunedev" target="_blank" id="hid_immune"><span class="map-button">Immune system development<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://immunedev.elixir-luxembourg.org/minerva/index.html?" target="_blank">Human Immune System Development Map (HIDmap)</a><br />

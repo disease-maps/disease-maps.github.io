@@ -338,7 +338,7 @@ Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
 Diseases: kidney crystallopathy, tubular necrosis<br />
-Contact: Alessio Gamba, University of Liège, Liège, Belgium
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 </td>
 </tr>
 
@@ -357,7 +357,8 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 <a href="../immunedev" target="_blank" id="immunedev"><span class="map-button-white">Immune system development<br>★☆☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: Human Immune System Development Map (HIDmap)<br />
+Resource: <a href="https://immunedev.elixir-luxembourg.org/minerva/index.html?" target="_blank">Human Immune System Development Map (HIDmap)</a><br />
+     <br />
 Contact: Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany
 </td>
 </tr>

@@ -358,7 +358,8 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 </td>
 <td style="font-size:13px;"> 
 Resource: Human Immune System Development Map (HIDmap)<br />
-Contact: Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany
+Contact: Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany<br />
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/42495614/" target="_blank">PubMed</a>
 </td>
 </tr>
 

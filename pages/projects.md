@@ -318,6 +318,16 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/41017825/" target="_blank
 </td>
 </tr>
 
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<a href="../hid_immune" target="_blank" id="immunedev"><span class="map-button-white">Immune system development<br>★★★★★</span></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: <a href="https://immunedev.elixir-luxembourg.org/minerva/index.html?" target="_blank">Human Immune System Development Map (HIDmap)</a><br />
+Contact: Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany<br />
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/42495614/" target="_blank">PubMed</a>
+</td>
+</tr>
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
@@ -352,16 +362,6 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 </td>
 </tr>
 
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../immunedev" target="_blank" id="immunedev"><span class="map-button-white">Immune system development<br>★☆☆☆☆</span></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: Human Immune System Development Map (HIDmap)<br />
-Contact: Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany<br />
-Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/42495614/" target="_blank">PubMed</a>
-</td>
-</tr>
 
 </table>
 

@@ -14,6 +14,7 @@ permalink: /immunedev/
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)\
 **Funding:** [Clariant Produkte (Deutschland) GmbH](https://www.clariant.com/de/Corporate) and [IUF - Leibniz Research Institute for Environmental Medicine](https://iuf-duesseldorf.de/en/)\
+**How to cite:** Spruck, et al. Front Immunol. 2026. [doi: 10.3389/fimmu.2026.1741650](https://doi.org/10.3389/fimmu.2026.1741650). [PMID: 42495614](https://www.ncbi.nlm.nih.gov/pubmed/42495614)\
 **Contact:** Christiane Spruck, IUF – Leibniz Research Institute for Environmental Medicine, christiane.spruck(at)iuf-duesseldorf.de
 
 ## Description

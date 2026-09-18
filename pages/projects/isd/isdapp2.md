@@ -78,5 +78,13 @@ We collected differentially expressed proteins (DEPs) from the study by [He et a
 We sought to check the KCs intracellular activity for finding which and how these Dup-DEIPs are distributed in KCs intracellular pathways. Of the 34 inflammatory proteins in KCs, nine (IL1RL1, IL17RA, IKBKB, CASP3, CASP8, CXCL8, CCL17, TNF and MMP9) are Dup-DEIPs, all being downregulated by dupilumab. We first checked which of these Dup-DEIPs are regulated by IL4/IL13 signalling. Of these nine proteins, only CXCL8 is a IL4/IL13 target and, as expected, it is downregulated. While CXCL8 is downregulated by dupilumab, the expression of TSLP, another IL4/IL13-induced inflammatory protein, seems not to be affected; TSLP is also regulated by IFNG signalling according to the map, so the TSLP expression could be rescued by IFNG in the absence of an active IL4R. IL17RA is downregulated by dupilumab and, therefore, we would also expect a downregulation of IL17RA signalling inflammatory target proteins. However, the DEP data provide no evidence that either of its inflammatory targets in KCs, namely CCL20, CSF3 and IL33, are affected by dupilumab. Among these proteins, it is possible to see that IL33, as TSLP, is also regulated by IFNG. So, IL33 expression could also be rescued by IFNG. 
 
 
+## IL4/IL13 network Boolean simulation (AD map example)
+[Step-by-step guide to reproduce the analysis here](/isdvig6/)
+
+Dupilumab, a monoclonal antibody that inhibits IL-4 and IL-13 signaling, is a key therapeutic agent for AD. However, the efficacy of dupilumab can be modulated by the presence of other cytokines, particularly IFNG. We analyse the impact of IFNG on the effectiveness of dupilumab, focusing on sensory perception of itch and the activity of key molecules (TSLP, KLK5, KLK7).
+
+We used Probabilistic Boolean Modelling to simulate the effects of IFNG on sensory perception of itching post-treatment with dupilumab, i.e., inhibition of IL4R.
+
+The analysis reveals that the presence of IFNG affects the efficacy of dupilumab in reducing sensory perception of itch in atopic dermatitis. The presence of IFNG is associated with less effective control of sensory perception of itch. This is due to sustained TSLP levels and persistent inflammation, which counteract the benefits of dupilumab. Conversely, the absence of IFNG allows for a significant reduction in TSLP, leading to better control of itch and improved patient outcomes. These findings may give insights on the importance of targeting multiple cytokine pathways to optimise therapeutic strategies for atopic dermatitis.
 
 

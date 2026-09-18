@@ -79,6 +79,9 @@ We sought to check the KCs intracellular activity for finding which and how thes
 
 
 ## IL4/IL13 network Boolean simulation (AD map example)
+
+<h2 id="boolean"></h2>
+
 [Step-by-step guide to reproduce the analysis here](/isdvig6/)
 
 Dupilumab, a monoclonal antibody that inhibits IL-4 and IL-13 signaling, is a key therapeutic agent for AD. However, the efficacy of dupilumab can be modulated by the presence of other cytokines, particularly IFNG. We analyse the impact of IFNG on the effectiveness of dupilumab, focusing on sensory perception of itch and the activity of key molecules (TSLP, KLK5, KLK7).

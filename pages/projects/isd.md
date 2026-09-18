@@ -4,7 +4,7 @@ layout: default
 permalink: /isd/
 --- 
 
-# The Inflammatory Skin Disease Map (ISD) pages  
+# The Inflammatory Skin Disease Map (ISD)   
 
 
 ## Technical information

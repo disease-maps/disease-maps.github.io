@@ -22,28 +22,37 @@ Project leaders develop and refine the concept of disease maps, coordinate the a
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AlexanderMazein.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AnnaNiarakis.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LaurenceCalzone.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LuizLadeira.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LaurenceCalzone2.png" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Institute of Health, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Laurence Calzone</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Institut Curie, Paris, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Liège, Liège, Belgium</p></td>
 </tr>
 <tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LuizLadeira.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MarekOstaszewski1.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MarcGillespie.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MartinaKutmon.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MattiHoch2.jpg" width="120"/></p></td>
 
 </tr>
 <tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Liège, Liège, Belgium</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Luxembourg, Belvaux, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, St. John's University, New York, US</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Kutmon</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, Maastricht University, Maastricht, Netherlands</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Rostock, Rostock, Germany</p></td>
 </tr>
+
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MartinaKutmon.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/MattiHoch2.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/ShailendraGupta.jpg" width="120"/></p></td>
+</tr>
+
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Kutmon</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Associate professor, Maastricht University, Maastricht, Netherlands</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Rostock, Rostock, Germany</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Shailendra Gupta</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, University of Rostock, Rostock, Germany</p></td>
+</tr>
+
 </table>    
 
 ## Principal Investigators
@@ -52,17 +61,29 @@ Principal investigators support and advise the Community.
 
 <table>
 <tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/EmmaSchymanski.png" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/EmmanuelBarillot.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/LiesbetGeris.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/OlafWolkenhauer.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/ReinhardSchneider.jpg" width="120"/></p></td>
 </tr>
+
 <tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emma Schymanski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Environmental Cheminformatics group, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unit, University of Liège, Liège, Belgium and KU Leuven, Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute (VPHi)</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unit, University of Liège and KU Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute</p></td>
 </tr>
+
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/OlafWolkenhauer.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/VenkataSatagopam.jpg" width="120"/></p></td>
+<td></td>
+</tr>
+
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Venkata Satagopam, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Clinical and Translational Informatics group, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td></td>
+</tr>
+
 </table>
 
 ## Founding members
@@ -73,14 +94,23 @@ We would like to thank our founding mebers for their longstanding and enthusiast
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/AndreiZinovyev.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/CharlesAuffray.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/InnaKuperstein.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/RudiBalling.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Andrei Zinovyev</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Institut Curie, Paris, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">European Institute for Systems Biology and Medicine, Lyon, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Institut Curie, Paris, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Rudi Balling</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
 </tr>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/ReinhardSchneider.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/people/RudiBalling.jpg" width="120"/></p></td>
+<td/>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Rudi Balling</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td/>
+</tr>
+
 </table>
         
 <!--### Scientific Advisory Board

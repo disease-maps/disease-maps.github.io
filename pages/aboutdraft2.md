@@ -69,7 +69,7 @@ Principal investigators support and advise the Community.
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emma Schymanski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Environmental Cheminformatics group, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unit, University of Liège and KU Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unit, University of Liège and KU Leuven, Belgium. Executive Director of the Virtual Physiological Human Society</p></td>
 </tr>
 
 <tr>

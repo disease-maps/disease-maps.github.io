@@ -7,15 +7,15 @@ permalink: /cancer/
 # Cancer
 ## Atlas of Cancer Signalling Network
 
-**Homepage:** [https://acsn.curie.fr](https://acsn.curie.fr)  
-**Online access and exploration:** [https://acsn.curie.fr/ACSN2/ACSN2.html](https://acsn.curie.fr/ACSN2/ACSN2.html)  
+**Homepage:** [https://navicell.curie.fr/](https://navicell.curie.fr/)
+**Online access and exploration:** [https://acsn-curie.lcsb.uni.lu/](https://acsn-curie.lcsb.uni.lu/) and [https://navicell.curie.fr/](https://navicell.curie.fr/)
 **Development status:** ACSN 2.0 is complete and published, applications demonstrated  
 **Disease IDs:** [DOID:162](https://disease-ontology.org/?id=DOID:162), [MESH:D009369](https://meshb.nlm.nih.gov/record/ui?ui=D009369), [MONDO:0005416](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005416), [ICD10CM:C80.1](https://www.icd10data.com/ICD10CM/Codes/C00-D49/C76-C80/C80-/C80.1)  
 **Sustainable support:** [Institut Curie](https://sysbio.curie.fr/), [NaviCell Web Platform](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-100)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Highlights:** ACSN 2.0 is now connected to the [RECON metabolic network](https://www.vmh.life/)  
 **How to cite:** Kuperstein, et al. Oncogenesis. 2015. [doi: 10.1038/oncsis.2015.19](https://doi.org/10.1038/oncsis.2015.19). [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618)  
-**Contact:** Inna Kuperstein, Institut Curie, Paris, France, inna.kuperstein(at)curie.fr   
+**Contact:** Laurence Calzone, Institut Curie, Paris, France, laurence.calzone(at)curie.fr   
 
 <h3 id="ACSN purpose">ACSN purpose</h3>
 

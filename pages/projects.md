@@ -105,8 +105,8 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 <a href="../cancer" target="_blank" id="Cancer"><span class="map-button">Cancer<br>★★★★★</span></a>
 </td>
 <td style="font-size:13px;"> 
-Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
+Resource: <a href="https://acsn-curie.lcsb.uni.lu/" target="_blank">Atlas of Cancer Signalling Network</a><br />
+Contact: Laurence Calzone, Institut Curie, Paris, France<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
 </td>
 </tr>

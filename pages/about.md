@@ -8,7 +8,7 @@ permalink: /about/
         
 The Disease Maps Project as a large-scale community effort to apply systems biomedicine paradigms in building knowledge repositories, mapping omics data on molecular mechanisms, and simulation of their perturbations for effect prediction.
 
-Our international and interdisciplinary community grows since 2015, fueled by exchanges during annual meetings, regular virtual meetings, and over a dedicated Slack channel. We collaborate closely with the communities of the systems biology neighbourhood, including [SBML](https://sbml.org/community/), [SBGN](https://sbgn.github.io/), and [ELIXIR Systems Biology](https://elixir-europe.org/communities/systems-biology), [Reactome](https://reactome.org/) and [WikiPathways](https://www.wikipathways.org/) databases.
+Our international and interdisciplinary community grows since 2015, fueled by exchanges during annual meetings, regular virtual meetings, and over a dedicated Slack channel. We collaborate closely with the communities of the systems biology neighbourhood, including [SBML](https://sbml.org/community/), [SBGN](https://sbgn.github.io/), and [ELIXIR Systems Biology](https://elixir-europe.org/communities/systems-biology) Communities, and [Reactome](https://reactome.org/) and [WikiPathways](https://www.wikipathways.org/) databases.
 
 ## Get involved
 

@@ -39,6 +39,9 @@ Francesco Messina, Claudia Rotondo, Luiz Ladeira, Michele Properzi, Valentina Di
 * **Sara Cosetti**  
   Fellow at National Institute for Infectious Diseases "L. Spallanzani" - IRCCS, Thesis student at University of Rome Tor Vergata
 
+* **Palloma Porto Almeida**  
+  Institute of Biomedical Sciences (ICB), Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil
+
 * **Bernard Staumont, PhD**  
   Researcher, University of Liège, Belgium
 

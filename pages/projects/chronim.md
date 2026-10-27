@@ -68,7 +68,19 @@ Here  you can also search for elements, check description and references etc.
 
 ### Overlays
 
-To visualise experimental dataset on the map, please use the Overlays button above.
+To visualise experimental dataset on the map, please use the Overlays button above. 
+
+![](/pages/projects/chronim/images/Userguide10.png)
+
+The left panel will display the list of integrated datasets. Click View to visualise an overlay of interest. 
+
+![](/pages/projects/chronim/images/Userguide12.png)
+
+The elements present in selected overlays containing datasets with differential expressed genes or proteins along with their normalized LFC values are highlighted in a gradient color according to their normalized LFC values as shown in the horizontal bar at the bottom of the panel Overalys. Several datasets can be shown at the same time.
+
+![](/pages/projects/chronim/images/Userguide11.png)
+
+To remove the highlights, please click Hide.
 
 
 ### Acknowledgements

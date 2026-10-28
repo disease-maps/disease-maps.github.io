@@ -89,6 +89,10 @@ The map is organised into five blocks shown in the [colour-coded overview](https
 
 ExposomeMap-PM v1.0 was developed based on a structured review of the literature on particulate matter exposure and its molecular, cellular and systemic effects. The full list of references used to construct the map is available in the [reference collection](https://disease-maps.io/markopolo/references/).
 
+### Publications
+
+Mazein A, Ameli C, Akerblom S, Gutierrez-Ortiz C, Chepeleva M, Kunath BJ, Zhang L, Nair BAB, Klinkby AS, Lai TT, Hemedan AA, Ostaszewski M, Kuntic M, Münzel T, Lelieveld J, Frauenknecht KBM, Rogowska-Wrzesinska A, Kanninen KM, Despotovic V, Toth R, Daiber A, Nazarov PV. ExposomeMap-PM: fine and ultrafine particle-induced toxicity - from adverse outcome pathways to systems biomedicine disease models. Front Toxicol. 2026;8:1951777. [doi: 10.3389/ftox.2026.1951777](https://doi.org/10.3389/ftox.2026.1951777).
+
 ### Editorial Panel
 
 <table>

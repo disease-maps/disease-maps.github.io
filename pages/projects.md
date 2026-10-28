@@ -395,22 +395,23 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/40861455/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
+<a href="../markopolo" target="_blank" id="markopolo"><span class="map-button">Fine and ultrafine particle toxicity<br>★★★☆☆</span></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: <a href="https://markopolo.elixir-luxembourg.org/" target="_blank">ExposomeMap-PM</a><br />
+Contact: Petr Nazarov, Luxembourg Institute of Health, Luxembourg<br />
+Publications: <a href="https://doi.org/10.3389/ftox.2026.1951777" target="_blank">DOI</a>
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
 <a href="../il2" target="_blank" id="il2"><span class="map-button-white">IL2-induced hepatotoxicity<br>★★☆☆☆</span></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://imsavar.elixir-luxembourg.org/minerva/index.html?id=IL2hepatotoxicity_20" target="_blank">IL2-induced Hepatotoxicity Map</a><br />
 Diseases: cancer, autoimmune diseases<br />
 Contact: Oxana Lopata, University of Luxembourg, Belvaux, Luxembourg<br />
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../markopolo" target="_blank" id="markopolo"><span class="map-button-white">Fine and ultrafine particle toxicity<br>★★☆☆☆</span></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: <a href="https://markopolo.elixir-luxembourg.org/" target="_blank">ExposomeMap-PM</a><br />
-Contact: Petr Nazarov, Luxembourg Institute of Health, Luxembourg<br />
 </td>
 </tr>
 
